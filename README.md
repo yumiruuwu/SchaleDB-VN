@@ -1,7 +1,7 @@
 <div align="center">
    <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="./images/schaledb_light.png">
-  		<source media="(prefers-color-scheme: light)" srcset="./images/schaledb_dark.png">
+  		<source media="(prefers-color-scheme: dark)" srcset="./images/schaledb_dark.png">
+  		<source media="(prefers-color-scheme: light)" srcset="./images/schaledb_light.png">
   		<img alt="Schale Database" src="./images/schaledb_dark.png">
 	</picture>
 </div>
