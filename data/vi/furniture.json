@@ -1121,8 +1121,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 103,
-        "Name": "Folding Beach Chair",
-        "Desc": "A folding beach chair for a cool summer. Can be used almost anywhere."
+        "Name": "Ghế gấp bãi biển",
+        "Desc": "Một chiếc ghế có thể gấp xếp cho chuyến đi biển mùa hè mát mẻ. Có thể được sử dụng hầu hết mọi nơi."
     },
     {
         "Id": 4103,
@@ -1136,8 +1136,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Summer Picnic Set Supplies",
-        "Desc": "A set of goods for a summer picnic. Head to the beach with the set!"
+        "Name": "Dụng cụ dành cho dã ngoại mùa hè",
+        "Desc": "Bộ đồ đi dã ngoại mùa hè. Đi đến bãi biển với các dụng cụ tiện ích này!"
     },
     {
         "Id": 4104,
@@ -1151,8 +1151,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Blue Solid Wood Partition",
-        "Desc": "A partition made with blue solid wood. You can split the areas in the way you&#x27;d like."
+        "Name": "Vách ngăn bằng gỗ rắn màu xanh lam",
+        "Desc": "Một vách ngăn được làm bằng gỗ nguyên khối màu xanh lam. Bạn có thể phân chia các khu vực theo cách bạn muốn."
     },
     {
         "Id": 4105,
@@ -1166,8 +1166,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Simple Rectangle Planter",
-        "Desc": "A simple white square planter. Can liven up a plain space."
+        "Name": "Chậu trồng cây hình chữ nhật đơn giản",
+        "Desc": "Một chậu trồng cây hình vuông màu trắng đơn giản. Có thể làm sống động một không gian đồng bằng."
     },
     {
         "Id": 4106,
@@ -1181,8 +1181,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Monstera White Planter",
-        "Desc": "A white planter with monstera. Large monstera leaves create a relaxing atmosphere."
+        "Name": "Chậu cây Monstera màu trắng",
+        "Desc": "Một cái chậu trồng cây màu trắng với Monstera. Các lá gió lớn tạo ra một bầu không khí thư giãn."
     },
     {
         "Id": 4107,
@@ -1196,8 +1196,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Resort Tropical Planter",
-        "Desc": "A planter with a tropical plant. Makes you feel like you&#x27;re on vacation."
+        "Name": "Chậu trồng cây khu nghỉ dưỡng nhiệt đới",
+        "Desc": "Một cái chậu trồng cây nhiệt đới. Làm cho bạn cảm thấy như đang đi nghỉ."
     },
     {
         "Id": 4108,
@@ -1211,8 +1211,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 103,
-        "Name": "Folding Resort Table",
-        "Desc": "A folding table to serve refreshing lemonade on. It&#x27;s good for having a fun chat with your friends."
+        "Name": "Bàn gấp khu nghỉ dưỡng",
+        "Desc": "Bàn gấp để phục vụ nước chanh giải khát. Thật tốt để có một cuộc trò chuyện vui vẻ với bạn bè của bạn."
     },
     {
         "Id": 4109,
@@ -1226,8 +1226,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 103,
-        "Name": "Tropical Plant Art Set Frame",
-        "Desc": "An art frame with a painting of tropical plants. Makes you feel like you&#x27;re vacation."
+        "Name": "Bộ khung nghệ thuật thực vật nhiệt đới",
+        "Desc": "Một khung nghệ thuật với một bức tranh của các loài thực vật nhiệt đới. Làm cho bạn cảm thấy như đang đi nghỉ."
     },
     {
         "Id": 4110,
@@ -1241,8 +1241,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 103,
-        "Name": "Plaid Pattern Vertical Window",
-        "Desc": "A vertical window with a plaid pattern. The white plaid pattern adds a luxurious mood to the area."
+        "Name": "Cửa sổ dọc có hoa văn kẻ sọc",
+        "Desc": "Một cửa sổ dọc với một mô hình kẻ sọc. Mô hình kẻ sọc trắng tạo thêm một tâm trạng sang trọng cho khu vực này."
     },
     {
         "Id": 4200,
@@ -1256,8 +1256,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 103,
-        "Name": "Summer Picnic Set Parasol",
-        "Desc": "A parasol to enjoy a cool summer. Sit under the shade and relax for a while."
+        "Name": "Bộ dù che dã ngoại mùa hè",
+        "Desc": "Một chiếc dù che nắng để tận hưởng một mùa hè mát mẻ. Ngồi dưới bóng râm và thư giãn một lúc."
     },
     {
         "Id": 4201,
@@ -1271,8 +1271,8 @@
         "Category": "Furnitures",
         "SubCategory": "HomeAppliance",
         "SetGroupId": 103,
-        "Name": "Retro Music Amp",
-        "Desc": "A music amplifier with a retro feeling. The 3 speakers are perfect for a party."
+        "Name": "Bộ khuếch đại âm nhạc retro",
+        "Desc": "Một bộ khuếch đại âm nhạc với một cảm giác retro. 3 loa rất phù hợp cho một bữa tiệc."
     },
     {
         "Id": 4202,
@@ -1286,8 +1286,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 103,
-        "Name": "Tropical Plant Art Wall Decoration",
-        "Desc": "A wall decoration with a painting of tropical plants. The bright lighting decoration adds a refined look to the area."
+        "Name": "Trang trí tường nghệ thuật thực vật nhiệt đới",
+        "Desc": "Một bức tranh trang trí tường với một bức tranh về các loài thực vật nhiệt đới. Hệ thống đèn trang trí sáng sủa làm tăng thêm vẻ tinh tế cho khu vực này."
     },
     {
         "Id": 4203,
@@ -1301,8 +1301,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 103,
-        "Name": "Neon Summer Display",
-        "Desc": "A display to decorate your refined summer party. Decorate an awesome party with your friends!"
+        "Name": "Đèn Neon mùa hè",
+        "Desc": "Một loại đèn để trang trí bữa tiệc mùa hè tinh tế của bạn. Trang trí một bữa tiệc tuyệt vời với bạn bè của bạn!"
     },
     {
         "Id": 4204,
@@ -1316,8 +1316,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 103,
-        "Name": "Summer Resort All-Glass Window",
-        "Desc": "An all-glass window that you can see the resort view through. Enjoy the clear summer view in a cool place!"
+        "Name": "Cửa sổ bằng kính toàn phần của khu nghỉ dưỡng mùa hè",
+        "Desc": "Một cửa sổ bằng kính hoàn toàn mà bạn có thể nhìn thấy toàn cảnh khu nghỉ mát. Tận hưởng khung cảnh mùa hè rõ ràng ở một nơi mát mẻ!"
     },
     {
         "Id": 4205,
@@ -1331,8 +1331,8 @@
         "Category": "Interiors",
         "SubCategory": "Floor",
         "SetGroupId": 103,
-        "Name": "Blue Point Porcelain Floor",
-        "Desc": "Porcelain floor with a diamond shaped print. A blue point has been added to this luxurious non-glare surface."
+        "Name": "Sàn sứ chấm xanh",
+        "Desc": "Sàn sứ có in hình kim cương. Một điểm màu xanh lam đã được thêm vào bề mặt không chói sang trọng này."
     },
     {
         "Id": 4300,
@@ -1346,8 +1346,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 103,
-        "Name": "Summer Dessert Table",
-        "Desc": "A table with various desserts. Enjoy summer vacation with sweet treats!"
+        "Name": "Bàn tráng miệng mùa hè",
+        "Desc": "Một bàn với nhiều món tráng miệng khác nhau. Tận hưởng kỳ nghỉ hè với những món ăn ngọt ngào!"
     },
     {
         "Id": 4301,
@@ -1361,8 +1361,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Small Tube Set Pool",
-        "Desc": "A small pool with the Momo Friends Tube set. Let&#x27;s have fun with the Momo Friends!"
+        "Name": "Bể bơi ống nhỏ",
+        "Desc": "Một hồ bơi nhỏ với bộ Momo Friends Tube. Hãy vui vẻ với Momo Friends!"
     },
     {
         "Id": 4302,
@@ -1376,8 +1376,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 103,
-        "Name": "Colorful Large Pool",
-        "Desc": "A large pool with the Momo Friends playful swim set. Let&#x27;s have a ton of fun this summer!"
+        "Name": "Hồ bơi lớn đầy màu sắc",
+        "Desc": "Một hồ bơi lớn với bộ đồ bơi vui tươi Momo Friends. Hãy có rất nhiều niềm vui trong mùa hè này!"
     },
     {
         "Id": 4303,
@@ -1391,8 +1391,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 103,
-        "Name": "Resort Canopy Sofa",
-        "Desc": "A comfortable sofa decorated with white canopy. You can relax in it with the white canopy waving through the wind."
+        "Name": "Ghế sofa nghỉ dưỡng có mái hiên",
+        "Desc": "Ghế sofa thoải mái được trang trí với rèm màu trắng. Bạn có thể thư thái trong đó với những tán cây trắng muốt rung rinh trước gió."
     },
     {
         "Id": 4304,
@@ -1406,8 +1406,8 @@
         "Category": "Interiors",
         "SubCategory": "Background",
         "SetGroupId": 103,
-        "Name": "Blue Summer Dot Background",
-        "Desc": "A blue dot patterned background. The cool blue will make you forget about the summer heat."
+        "Name": "Nền màu xanh mùa hè",
+        "Desc": "Một nền hoa văn chấm màu xanh. Màu xanh dịu mát sẽ khiến bạn quên đi cái nóng mùa hè."
     },
     {
         "Id": 4305,
@@ -1421,8 +1421,8 @@
         "Category": "Interiors",
         "SubCategory": "Wallpaper",
         "SetGroupId": 103,
-        "Name": "Summer Wave Decoration Wall",
-        "Desc": "Wave decoration wall that fits the summer theme. It makes you feel like you are at a cool beach."
+        "Name": "Tường trang trí sóng mùa hè",
+        "Desc": "Bức tường trang trí sóng phù hợp với chủ đề mùa hè. Nó cho bạn cảm giác như đang ở một bãi biển mát mẻ."
     },
     {
         "Id": 5101,
@@ -1436,8 +1436,8 @@
         "Category": "Furnitures",
         "SubCategory": "Closet",
         "SetGroupId": 104,
-        "Name": "Jack-O-Lantern Storage Bar",
-        "Desc": "A Halloween-themed storage bar topped with candy. You can pack a lot of sweet candy!"
+        "Name": "Kệ đựng Jack-O-Lantern",
+        "Desc": "Một kệ đựng theo chủ đề Halloween với kẹo. Bạn có thể gói rất nhiều kẹo ngọt!"
     },
     {
         "Id": 5102,
@@ -1451,8 +1451,8 @@
         "Category": "Decorations",
         "SubCategory": "FloorDecoration",
         "SetGroupId": 104,
-        "Name": "Halloween Spiderweb Carpet",
-        "Desc": "A carpet accented with spiderwebs. Its unique design is the highlight of the space."
+        "Name": "Thảm mạng nhện Halloween",
+        "Desc": "Một tấm thảm được tạo điểm nhấn bằng mạng nhện. Thiết kế độc đáo của nó là điểm nhấn của không gian."
     },
     {
         "Id": 5103,
@@ -1466,8 +1466,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 104,
-        "Name": "Single Ghost Chair",
-        "Desc": "A single chair shaped like a ghost. Its neat silhouette and cuteness stand out."
+        "Name": "Ghế ma đơn",
+        "Desc": "Một chiếc ghế đơn có hình dáng như một con ma. Hình bóng gọn gàng và sự dễ thương của nó nổi bật."
     },
     {
         "Id": 5104,
@@ -1481,8 +1481,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 104,
-        "Name": "Pumpkin Soup Stool",
-        "Desc": "A stool that looks like pumpkin soup was spilled all over it. With its simple and neat design, it looks good wherever it&#x27;s placed."
+        "Name": "Ghế đẩu đầu bí ngô",
+        "Desc": "Một chiếc đẩu trông giống như súp bí ngô đã bị đổ ra khắp nơi. Với thiết kế đơn giản và gọn gàng của nó, nó trông đẹp ở bất cứ nơi nào đặt nó."
     },
     {
         "Id": 5105,
@@ -1496,8 +1496,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Halloween Ghost Sign",
-        "Desc": "A sign that guides you to the Halloween Pumpkin Cafe. Welcome to a place full of sweet desserts!"
+        "Name": "Bảng hiệu ma Halloween",
+        "Desc": "Một bảng chỉ dẫn bạn đến tiệm cà phê bí ngô Halloween. Chào mừng bạn đến với một nơi đầy những món tráng miệng ngọt ngào!"
     },
     {
         "Id": 5106,
@@ -1511,8 +1511,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Colorful Halloween Partition",
-        "Desc": "A colorful partition created to look like it is dripping with syrup. Great for creating privacy in any space."
+        "Name": "Vách ngăn Halloween đầy màu sắc",
+        "Desc": "Một vách ngăn đầy màu sắc được tạo ra để trông giống như nó đang nhỏ giọt xi-rô. Tuyệt vời để tạo sự riêng tư trong bất kỳ không gian nào."
     },
     {
         "Id": 5107,
@@ -1526,8 +1526,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Two-Tier Jack-O-Lantern Shelf",
-        "Desc": "A two-tier shelf set decorated with various Halloween trinkets. It&#x27;s scary and cute at the same time."
+        "Name": "Kệ Jack-O-Lantern hai tầng",
+        "Desc": "Một bộ kệ hai tầng được trang trí với nhiều đồ trang sức Halloween khác nhau. Nó đáng sợ và dễ thương cùng một lúc."
     },
     {
         "Id": 5108,
@@ -1541,8 +1541,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 104,
-        "Name": "Jack-O-Lantern Double Sofa",
-        "Desc": "A double sofa with a pumpkin plush. The plushes placed on the white sofa add to the eeriness."
+        "Name": "Ghế sofa đôi Jack-O-Lantern",
+        "Desc": "Một chiếc ghế sofa đôi với một quả bí ngô sang trọng. Những thú bông được đặt trên chiếc ghế sofa màu trắng càng làm tăng thêm vẻ đẹp đẽ."
     },
     {
         "Id": 5109,
@@ -1556,8 +1556,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 104,
-        "Name": "Colorful Halloween Table",
-        "Desc": "A colorful table made to look like it is dripping with syrup. The wave-like shape of dripping syrup creates a unique space."
+        "Name": "Bàn Halloween đầy màu sắc",
+        "Desc": "Một chiếc bàn đầy màu sắc được làm để trông giống như nó đang nhỏ giọt sirô. Hình dạng sóng sánh của siro nhỏ giọt tạo nên một không gian độc đáo."
     },
     {
         "Id": 5110,
@@ -1571,8 +1571,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Neon Halloween Display",
-        "Desc": "A Halloween display with a spiderweb as its main decoration. It&#x27;s perfect for creating a spooky atmosphere."
+        "Name": "Đèn Neon Halloween",
+        "Desc": "Đèn Neon Halloween với mạng nhện làm vật trang trí chính. Nó hoàn hảo để tạo ra một bầu không khí ma quái."
     },
     {
         "Id": 5111,
@@ -1586,8 +1586,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Candle Light Decoration",
-        "Desc": "A candle light that subtly lights up your space. It can be installed on the wall to create a classical ambiance."
+        "Name": "Đèn nến trang trí",
+        "Desc": "Đèn nến thắp sáng tinh tế cho không gian của bạn. Nó có thể được lắp đặt trên tường để tạo ra một bầu không khí cổ điển."
     },
     {
         "Id": 5112,
@@ -1601,8 +1601,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Horror Halloween Set Frame",
-        "Desc": "A Halloween picture frame with a mysterious aura. It&#x27;s as if the cat is making eye contact with you."
+        "Name": "Bộ khung Halloween kinh dị",
+        "Desc": "Khung ảnh Halloween với một vầng hào quang bí ẩn. Giống như thể con mèo đang giao tiếp bằng mắt với bạn."
     },
     {
         "Id": 5113,
@@ -1616,8 +1616,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Three-Tier Jack-O-Lantern Decoration",
-        "Desc": "A cute three-tier decoration made of pumpkins. It has pumpkins with various expressions."
+        "Name": "Đèn lồng trang trí ba tầng Jack-O-Lantern",
+        "Desc": "Một cái đèn lồng ba tầng trang trí dễ thương làm bằng bí ngô. Nó có những quả bí ngô với nhiều biểu cảm khác nhau."
     },
     {
         "Id": 5201,
@@ -1631,8 +1631,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Jack-O-Lantern Fireplace",
-        "Desc": "A fireplace decorated with Halloween props. Can you see something in the blazing flame?"
+        "Name": "Lò sưởi Jack-O-Lantern",
+        "Desc": "Một lò sưởi được trang trí bằng các đạo cụ Halloween. Bạn có thể nhìn thấy thứ gì đó trong ngọn lửa rực cháy?"
     },
     {
         "Id": 5202,
@@ -1646,8 +1646,8 @@
         "Category": "Interiors",
         "SubCategory": "Floor",
         "SetGroupId": 104,
-        "Name": "Halloween Diamond Pattern Floor",
-        "Desc": "Flooring with diamond patterns. It&#x27;s perfect for creating a spooky Halloween atmosphere."
+        "Name": "Sàn nhà với hoạ tiết kim cương Halloween",
+        "Desc": "Ván sàn với hoa văn kim cương. Nó hoàn hảo để tạo không khí Halloween ma quái."
     },
     {
         "Id": 5203,
@@ -1661,8 +1661,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 104,
-        "Name": "Halloween Pumpkin Dessert Table",
-        "Desc": "A table full of desserts made with pumpkin. It looks scary, but it&#x27;s very sweet!"
+        "Name": "Bàn tráng miệng bí ngô Halloween",
+        "Desc": "Một bàn đầy những món tráng miệng làm từ bí ngô. Nó trông đáng sợ, nhưng nó rất ngọt ngào!"
     },
     {
         "Id": 5204,
