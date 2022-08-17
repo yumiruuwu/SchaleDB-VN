@@ -17,7 +17,7 @@ This repo was created for the purpose of adding the Vietnamese language, which i
 I'm just a translator, so all the work in this repo belongs to [lonqie](https://github.com/lonqie), the owner of this [Schale DB](https://github.com/lonqie/SchaleDB) project.
 
 <details><summary>Oh, if you are the owner of this project then click this</summary>
-`If you have any copyright complaints about this project then contact me via Discord: Flandre.#9666`
+If you have any copyright complaints about this project then contact me via Discord: Flandre.#9666
 </details>
 
 ### About this repo
