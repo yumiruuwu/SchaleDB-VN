@@ -1676,8 +1676,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Spiderweb Arched Window",
-        "Desc": "An arched window accented with spiderweb patterns. Perhaps a frightening guest will visit at night?"
+        "Name": "Cửa sổ hình vòm mạng nhện",
+        "Desc": "Một cửa sổ hình vòm được tạo điểm nhấn với các họa tiết mạng nhện. Có lẽ một vị khách đáng sợ sẽ đến thăm vào ban đêm?"
     },
     {
         "Id": 5205,
@@ -1691,8 +1691,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 104,
-        "Name": "Jack-O-Lantern Bar Counter",
-        "Desc": "A bar counter with Halloween desserts on display. The desserts made with pumpkin look deliciously sweet."
+        "Name": "Quầy tiếp khách Jack-O-Lantern",
+        "Desc": "Một quầy bar với các món tráng miệng Halloween được trưng bày. Các món tráng miệng làm từ bí đỏ trông rất ngon và ngọt ngào."
     },
     {
         "Id": 5301,
@@ -1706,8 +1706,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Jack-O-Lantern Photo Zone",
-        "Desc": "A photo zone where you can create an amazing Halloween ambiance. Put on your makeup and costume and take spooky photos!"
+        "Name": "Khu ảnh Jack-O-Lantern",
+        "Desc": "Một khu vực chụp ảnh nơi bạn có thể tạo ra một bầu không khí Halloween tuyệt vời. Trang điểm và mặc trang phục của bạn để chụp những bức ảnh ma quái!"
     },
     {
         "Id": 5302,
@@ -1721,8 +1721,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 104,
-        "Name": "Trick or Treat Ghost Doll",
-        "Desc": "A doll of the ghostly mascot of the Halloween Pumpkin Cafe. It&#x27;s a kind mascot that gives out balloons and candy!"
+        "Name": "Búp bê ma quái ToT",
+        "Desc": "Một con búp bê linh vật ma quái của Halloween Pumpkin Cafe. Đó là một linh vật tốt bụng tặng bóng bay và kẹo!"
     },
     {
         "Id": 5303,
@@ -1736,8 +1736,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 104,
-        "Name": "Happy Halloween Decoration",
-        "Desc": "A large wall decoration with Halloween characters and lights. Let&#x27;s plan a fun Halloween party!"
+        "Name": "Trang trí Halloween vui vẻ",
+        "Desc": "Một bức tường trang trí lớn với các nhân vật Halloween và đèn. Hãy lên kế hoạch cho một bữa tiệc Halloween vui vẻ!"
     },
     {
         "Id": 5304,
@@ -1751,8 +1751,8 @@
         "Category": "Interiors",
         "SubCategory": "Wallpaper",
         "SetGroupId": 104,
-        "Name": "Halloween Syrup Wave Wall",
-        "Desc": "A wall with waves of dripping syrup all over. It adds more spookiness to the Halloween night."
+        "Name": "Tường sóng siro Halloween",
+        "Desc": "Một bức tường với những làn sóng nhỏ giọt xi-rô khắp nơi. Nó làm tăng thêm sự ma quái cho đêm Halloween."
     },
     {
         "Id": 5305,
@@ -1766,8 +1766,8 @@
         "Category": "Interiors",
         "SubCategory": "Background",
         "SetGroupId": 104,
-        "Name": "Halloween Background",
-        "Desc": "A background that creates a mysterious Halloween atmosphere. Enjoy Halloween night!"
+        "Name": "Nền Halloween",
+        "Desc": "Hình nền tạo nên không khí Halloween huyền bí. Tận hưởng đêm Halloween!"
     },
     {
         "Id": 6100,
@@ -1781,8 +1781,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 105,
-        "Name": "Wave Pattern Floor Chair",
-        "Desc": "A soft, comfy floor chair with wave patterns. Stay comfortable no matter how long you sit."
+        "Name": "Ghế sàn hoa văn sóng",
+        "Desc": "Một chiếc ghế sàn êm ái, thoải mái với các họa tiết sóng. Giữ thoải mái cho dù bạn ngồi bao lâu."
     },
     {
         "Id": 6101,
@@ -1796,8 +1796,8 @@
         "Category": "Furnitures",
         "SubCategory": "Closet",
         "SetGroupId": 105,
-        "Name": "Hot Springs Capybara Storage Cabinet",
-        "Desc": "Hot springs-themed storage cabinet decorated with hot springs capybara dolls. Enjoy the adorable hot springs capybara!"
+        "Name": "Tủ lưu trữ Capybara suối nước nóng",
+        "Desc": "Tủ lưu trữ theo chủ đề suối nước nóng được trang trí bằng búp bê capybara suối nước nóng. Tận hưởng suối nước nóng đáng yêu capybara!"
     },
     {
         "Id": 6102,
@@ -1811,8 +1811,8 @@
         "Category": "Furnitures",
         "SubCategory": "HomeAppliance",
         "SetGroupId": 105,
-        "Name": "Hot Springs Capybara Capsule Vending Machine",
-        "Desc": "A capsule machine with various hot springs capybara products. Once you start, you can&#x27;t stop!"
+        "Name": "Máy bán hàng viên nang Capybara Hot Springs",
+        "Desc": "Một máy tạo viên nang với các sản phẩm capybara suối nước nóng khác nhau. Một khi bạn bắt đầu, bạn không thể dừng lại!"
     },
     {
         "Id": 6103,
@@ -1826,8 +1826,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Hot Springs Wooden Mood Light",
-        "Desc": "A wooden mood light with the hot springs symbol drawn on it. It can change any plain space into one that feels more traditional."
+        "Name": "Suối nước nóng bằng gỗ ánh sáng tâm trạng",
+        "Desc": "Một đèn chiếu sáng bằng gỗ với biểu tượng suối nước nóng được vẽ trên đó. Nó có thể thay đổi bất kỳ không gian đơn giản nào thành một không gian có cảm giác truyền thống hơn."
     },
     {
         "Id": 6104,
@@ -1841,8 +1841,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Fan Pattern Mood Light",
-        "Desc": "A square mood light with fan-shaped tree decorations. Brightens up any dark space."
+        "Name": "Quạt tâm trạng ánh sáng",
+        "Desc": "Đèn chiếu sáng hình vuông với đồ trang trí cây hình quạt. Làm sáng mọi không gian tối."
     },
     {
         "Id": 6105,
@@ -1856,8 +1856,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Steel Magazine Stand",
-        "Desc": "A steel magazine stand with magazines of various genres. Check it out when you have time or if you&#x27;re bored."
+        "Name": "Kệ đựng tạp chí",
+        "Desc": "Một quầy tạp chí bằng thép với các tạp chí thuộc nhiều thể loại. Kiểm tra nó khi bạn có thời gian hoặc nếu bạn cảm thấy buồn chán."
     },
     {
         "Id": 6106,
@@ -1871,8 +1871,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Traditional Wooden Partition",
-        "Desc": "A partition made of wood. It can be used to separate large spaces."
+        "Name": "Vách ngăn bằng gỗ truyền thống",
+        "Desc": "Một vách ngăn làm bằng gỗ. Nó có thể được sử dụng để ngăn cách các không gian lớn."
     },
     {
         "Id": 6107,
@@ -1886,8 +1886,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Wooden Entrance Partition",
-        "Desc": "An entrance partition made of wood. You can move easily between the separated spaces."
+        "Name": "Vách ngăn lối vào bằng gỗ",
+        "Desc": "Một vách ngăn lối vào làm bằng gỗ. Bạn có thể di chuyển dễ dàng giữa các không gian ngăn cách."
     },
     {
         "Id": 6108,
@@ -1901,8 +1901,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Square Bamboo Planter",
-        "Desc": "A square planter with potted bamboo. The height of the bamboo adds a bit of fun to the space."
+        "Name": "Chậu trồng tre vuông",
+        "Desc": "Một chậu cây tre vuông. Tre tạo thêm một chút vui vẻ cho không gian."
     },
     {
         "Id": 6109,
@@ -1916,8 +1916,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 105,
-        "Name": "Hot Springs Capybara Tapestry",
-        "Desc": "A tapestry with a hot spring capybara graphic printed on it. The heart-eyed capybara is very cute."
+        "Name": "Suối nước nóng Capybara Tapestry",
+        "Desc": "Một tấm thảm với hình ảnh suối nước nóng được in trên đó. Capybara mắt trái tim rất dễ thương."
     },
     {
         "Id": 6110,
@@ -1931,8 +1931,8 @@
         "Category": "Furnitures",
         "SubCategory": "Closet",
         "SetGroupId": 105,
-        "Name": "Hot Springs Storage Cabinet",
-        "Desc": "A storage cabinet with hot springs supplies. Be sure to bring it with you before entering the hot springs!"
+        "Name": "Tủ đựng của suối nước nóng",
+        "Desc": "Một tủ chứa với nguồn cung cấp của suối nước nóng. Hãy chắc chắn mang theo nó trước khi vào suối nước nóng!"
     },
     {
         "Id": 6111,
@@ -1946,8 +1946,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 105,
-        "Name": "Cherry Blossom Vase Table",
-        "Desc": "A mini table with a cherry blossom vase. It adds a splash of pink to a dull space."
+        "Name": "Bàn bình hoa anh đào",
+        "Desc": "Một chiếc bàn nhỏ với một bình hoa anh đào. Nó thêm một chút màu hồng cho một không gian buồn tẻ."
     },
     {
         "Id": 6112,
@@ -1961,8 +1961,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 105,
-        "Name": "Wooden Lattice Window",
-        "Desc": "A lattice window made in a traditional way. It&#x27;s perfect for creating a space that feels traditional."
+        "Name": "Cửa sổ lưới bằng gỗ",
+        "Desc": "Một cửa sổ lưới được làm theo cách truyền thống. Hoàn hảo để tạo ra một không gian mang cảm giác truyền thống."
     },
     {
         "Id": 6200,
@@ -1976,8 +1976,8 @@
         "Category": "Furnitures",
         "SubCategory": "HomeAppliance",
         "SetGroupId": 105,
-        "Name": "Healing Massage Chair",
-        "Desc": "A luxurious massage chair that relieves fatigue. Legend has it that once you sit down, you can&#x27;t get up."
+        "Name": "Ghế massage êm dịu",
+        "Desc": "Một chiếc ghế massage sang trọng giúp giảm mệt mỏi. Tương truyền, một khi bạn ngồi xuống, bạn không thể đứng dậy."
     },
     {
         "Id": 6201,
@@ -1991,8 +1991,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 105,
-        "Name": "Matcha Set Low Table",
-        "Desc": "A low table on which you can enjoy matcha and sweets. It&#x27;s great to clear the mind while looking at your tranquil cup of tea."
+        "Name": "Bộ bàn thấp Matcha",
+        "Desc": "Một chiếc bàn thấp để bạn có thể thưởng thức matcha và đồ ngọt. Thật tuyệt khi giải tỏa tâm trí khi nhìn vào tách trà yên tĩnh của bạn."
     },
     {
         "Id": 6202,
@@ -2006,8 +2006,8 @@
         "Category": "Interiors",
         "SubCategory": "Floor",
         "SetGroupId": 105,
-        "Name": "Traditional Tatami Floor",
-        "Desc": "Traditional tatami flooring. It turns muggy air cool and refreshing instead."
+        "Name": "Sàn trải chiếu Tatami truyền thống",
+        "Desc": "Sàn trải chiếu tatami truyền thống. Thay vào đó, nó biến không khí ẩm ướt trở nên mát mẻ và sảng khoái."
     },
     {
         "Id": 6203,
@@ -2021,8 +2021,8 @@
         "Category": "Furnitures",
         "SubCategory": "HomeAppliance",
         "SetGroupId": 105,
-        "Name": "Electric Beverage Heating Cabinet",
-        "Desc": "An electric heating cabinet to keep beverages warm. As long as there is a heating cabinet, there&#x27;s no need to fear the cold winter!"
+        "Name": "Tủ sưởi đồ uống bằng điện",
+        "Desc": "Tủ sưởi điện để giữ ấm đồ uống. Chỉ cần có tủ sưởi là không cần sợ mùa đông lạnh giá!"
     },
     {
         "Id": 6300,
@@ -2036,8 +2036,8 @@
         "Category": "Interiors",
         "SubCategory": "Wallpaper",
         "SetGroupId": 105,
-        "Name": "Traditional Tile Lattice Wall",
-        "Desc": "Wall decorated with wooden lattice and tiles. Creates a quiet and still space."
+        "Name": "Tường lưới Ngói truyền thống",
+        "Desc": "Tường trang trí bằng lưới và gạch ốp gỗ. Tạo không gian yên tĩnh và tĩnh lặng."
     },
     {
         "Id": 6301,
@@ -2051,8 +2051,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 105,
-        "Name": "Cypress Healing Set Bathtub",
-        "Desc": "A bathtub made of cypress wood. Soak yourself in the warm cypress-wood-scented hot springs water!"
+        "Name": "Bộ bồn tắm Cypress êm dịu",
+        "Desc": "Một bồn tắm làm bằng gỗ bách. Đắm mình trong làn nước suối nóng có hương thơm từ gỗ bách!"
     },
     {
         "Id": 6302,
@@ -2066,8 +2066,8 @@
         "Category": "Interiors",
         "SubCategory": "Background",
         "SetGroupId": 105,
-        "Name": "Snow Flower Gradient Background",
-        "Desc": "A snowflake patterned gradient background that represents winter. It feels both cold and warm at the same time."
+        "Name": "Nền hoa văn tuyết",
+        "Desc": "Nền có hoa văn bông tuyết đại diện cho mùa đông. Cảm giác vừa lạnh vừa ấm cùng một lúc."
     },
     {
         "Id": 7100,
@@ -2081,8 +2081,8 @@
         "Category": "Furnitures",
         "SubCategory": "Chair",
         "SetGroupId": 106,
-        "Name": "Traditional Pattern Silk Cushion",
-        "Desc": "A silk cushion made with a traditional pattern. The high-quality fabric adds an air of elegance."
+        "Name": "Đệm lụa hoa văn truyền thống",
+        "Desc": "Đệm tựa bằng lụa có hoa văn truyền thống. Chất liệu vải cao cấp tạo thêm không khí sang trọng."
     },
     {
         "Id": 7101,
@@ -2096,8 +2096,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 106,
-        "Name": "Traditional Pattern Umbrella Decoration",
-        "Desc": "An umbrella decoration with traditional patterns. The vivid colors liven up any dull area."
+        "Name": "Trang trí ô hoa văn truyền thống",
+        "Desc": "Một chiếc ô trang trí với hoa văn truyền thống. Màu sắc sống động làm sống động bất kỳ khu vực buồn tẻ nào."
     },
     {
         "Id": 7102,
@@ -2111,8 +2111,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 106,
-        "Name": "New Year Mood Light",
-        "Desc": "A round mood light crafted to look traditional. Its light reminds one of soft moonlight on a dark night."
+        "Name": "Ánh sáng tâm trạng năm mới",
+        "Desc": "Một đèn chiếu sáng tâm trạng tròn được chế tạo để trông truyền thống. Ánh sáng của nó khiến người ta liên tưởng đến ánh trăng dịu nhẹ trong đêm tối."
     },
     {
         "Id": 7103,
@@ -2126,8 +2126,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 106,
-        "Name": "New Year Kimono Sash Hanger",
-        "Desc": "A kimono sash hanger that stands out with its beautiful color combination. It adds an elegant and colorful mood to the space."
+        "Name": "Móc treo Kimono Sash năm mới",
+        "Desc": "Móc treo áo kimono nổi bật với sự kết hợp màu sắc đẹp mắt. Nó thêm một tâm trạng thanh lịch và đầy màu sắc cho không gian."
     },
     {
         "Id": 7104,
@@ -2141,8 +2141,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 106,
-        "Name": "New Year Color Partition",
-        "Desc": "A partition with the various colors of New Year&#x27;s. Create the space you want with the partition!"
+        "Name": "Vách ngăn chủ đề năm mới",
+        "Desc": "Một vách ngăn với nhiều màu sắc của ngày Tết. Tạo không gian bạn muốn với vách ngăn!"
     },
     {
         "Id": 7105,
@@ -2156,8 +2156,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 106,
-        "Name": "Lattice Hinged Window",
-        "Desc": "A traditional hinged window. You can create a space that feels traditional with this lattice window!"
+        "Name": "Cửa sổ bản lề lưới",
+        "Desc": "Một cửa sổ có bản lề truyền thống. Bạn có thể tạo ra một không gian mang cảm giác truyền thống với cửa sổ dạng lưới này!"
     },
     {
         "Id": 7106,
@@ -2171,8 +2171,8 @@
         "Category": "Furnitures",
         "SubCategory": "HomeAppliance",
         "SetGroupId": 106,
-        "Name": "Kerosene Stove and Rice Cakes",
-        "Desc": "A kerosene stove and rice cakes to warm up the space. Enjoy the warm rice cakes together!"
+        "Name": "Bếp dầu và bánh gạo",
+        "Desc": "Bếp lửa và những chiếc bánh đa để hâm nóng không gian. Cùng nhau thưởng thức những chiếc bánh chưng ấm áp!"
     },
     {
         "Id": 7107,
@@ -2186,8 +2186,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 106,
-        "Name": "New Year Kendama Set Table",
-        "Desc": "A table with a kendama set. Play kendama during New Year&#x27;s!"
+        "Name": "Bộ bàn ăn Kendama năm mới",
+        "Desc": "Một chiếc bàn với một bộ kendama. Chơi kendama trong năm mới!"
     },
     {
         "Id": 7200,
@@ -2201,8 +2201,8 @@
         "Category": "Furnitures",
         "SubCategory": "Prop",
         "SetGroupId": 106,
-        "Name": "Floral Pattern Kimono Hanger",
-        "Desc": "A kimono hanger made with the highest quality wood. A kimono made of floral-patterned silk is hung on it."
+        "Name": "Móc áo kimono họa tiết hoa",
+        "Desc": "Một chiếc móc áo kimono được làm bằng gỗ chất lượng cao nhất. Trên đó treo một bộ kimono làm bằng lụa có hoa văn."
     },
     {
         "Id": 7201,
@@ -2216,8 +2216,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 106,
-        "Name": "New Year Cuisine Set Table",
-        "Desc": "A table full of New Year&#x27;s cuisine. Welcome the new year with delicious food!"
+        "Name": "Món ăn ngày Tết đặt bàn",
+        "Desc": "Một bàn đầy đủ các món ăn ngày Tết. Chào đón năm mới với những món ăn ngon!"
     },
     {
         "Id": 7202,
@@ -2231,8 +2231,8 @@
         "Category": "Interiors",
         "SubCategory": "Floor",
         "SetGroupId": 106,
-        "Name": "Brick-Style Tatami Flooring",
-        "Desc": "Tatami flooring with a brick-style layout. The tatami mats are arranged in a way that adds fun to the space."
+        "Name": "Sàn Tatami kiểu gạch",
+        "Desc": "Sàn trải chiếu tatami với bố cục kiểu gạch. Những tấm chiếu tatami được sắp xếp theo cách tạo thêm sự thú vị cho không gian."
     },
     {
         "Id": 7203,
@@ -2246,8 +2246,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 106,
-        "Name": "Resolution Writing Set Table",
-        "Desc": "A table with a writing set ready for your New Year&#x27;s resolutions. Write down your resolutions for this year!"
+        "Name": "Bộ bàn viết nghị quyết",
+        "Desc": "Một chiếc bàn với một tập viết đã sẵn sàng cho những quyết tâm trong năm mới của bạn. Viết ra sự quyết tâm của bạn cho năm nay!"
     },
     {
         "Id": 7300,
@@ -2261,8 +2261,8 @@
         "Category": "Interiors",
         "SubCategory": "Wallpaper",
         "SetGroupId": 106,
-        "Name": "New Year Wall with Gold Ornaments",
-        "Desc": "A traditional wall with gold ornament decorations. The fancy gold ornament decorations and the understated color scheme create an elegant space."
+        "Name": "Bức tường năm mới với đồ trang trí bằng vàng",
+        "Desc": "Một bức tường truyền thống với đồ trang trí bằng vàng. Những món đồ trang trí bằng vàng lạ mắt và cách phối màu tinh tế tạo nên một không gian trang nhã."
     },
     {
         "Id": 7301,
@@ -2276,8 +2276,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 106,
-        "Name": "New Year Relaxing Kotatsu",
-        "Desc": "A warm kotatsu for relaxation. If you&#x27;re not careful, you&#x27;ll fall asleep!"
+        "Name": "Kotatsu thư giãn năm mới",
+        "Desc": "Một kotatsu ấm áp để thư giãn. Nếu không cẩn thận, bạn sẽ ngủ quên mất!"
     },
     {
         "Id": 7302,
@@ -2291,8 +2291,8 @@
         "Category": "Interiors",
         "SubCategory": "Background",
         "SetGroupId": 106,
-        "Name": "New Year Pattern Background",
-        "Desc": "A traditional pattern background with colors suitable for New Year&#x27;s. The waves drawn in various colors give the background an elegant feeling."
+        "Name": "Nền mô hình năm mới",
+        "Desc": "Nền hoa văn truyền thống với màu sắc phù hợp với ngày Tết. Các hoạ tiết sóng được vẽ với nhiều màu sắc khác nhau tạo cho nền một cảm giác thanh lịch."
     },
     {
         "Id": 8100,
@@ -2936,8 +2936,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Bronze Trophy - Field Warfare",
-        "Desc": "A bronze trophy from Binah for Field Warfare."
+        "Name": "Cúp đồng Binah - CT Dã chiến",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Binah trong CT dã chiến."
     },
     {
         "Id": 100001,
@@ -2951,8 +2951,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Silver Trophy - Field Warfare",
-        "Desc": "A silver trophy from Binah for Field Warfare."
+        "Name": "Cúp bạc Binah - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Binah trong CT dã chiến."
     },
     {
         "Id": 100002,
@@ -2966,8 +2966,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Gold Trophy - Field Warfare",
-        "Desc": "A gold trophy from Binah for Field Warfare."
+        "Name": "Cúp vàng Binah - CT Dã chiến",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Binah trong CT dã chiến."
     },
     {
         "Id": 100003,
@@ -2981,8 +2981,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Platinum Trophy - Field Warfare",
-        "Desc": "A platinum trophy from Binah for Field Warfare."
+        "Name": "Cúp bạch kim Binah - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Binah trong CT dã chiến."
     },
     {
         "Id": 100020,
@@ -2996,8 +2996,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Bronze Trophy - Urban Warfare",
-        "Desc": "A bronze trophy from Binah for Urban Warfare."
+        "Name": "Cúp đồng Binah - CT ở Đô thị",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Binah trong CT ở đô thị."
     },
     {
         "Id": 100021,
@@ -3011,8 +3011,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Silver Trophy - Urban Warfare",
-        "Desc": "A silver trophy from Binah for Urban Warfare."
+        "Name": "Cúp bạc Binah - CT ở Đô thị",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Binah trong CT ở đô thị."
     },
     {
         "Id": 100022,
@@ -3026,8 +3026,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Gold Trophy - Urban Warfare",
-        "Desc": "A gold trophy from Binah for Urban Warfare."
+        "Name": "Cúp vàng Binah - CT ở Đô thị",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Binah trong CT ở đô thị."
     },
     {
         "Id": 100023,
@@ -3041,8 +3041,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Binah Platinum Trophy - Urban Warfare",
-        "Desc": "A platinum trophy from Binah for Urban Warfare."
+        "Name": "Cúp bạch kim Binah - CT ở Đô thị",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Binah trong CT ở đô thị."
     },
     {
         "Id": 100100,
@@ -3056,8 +3056,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Bronze Trophy - Field Warfare",
-        "Desc": "A bronze trophy from Chesed for Field Warfare."
+        "Name": "Cúp đồng Chesed - CT Dã chiến",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Chesed trong CT dã chiến."
     },
     {
         "Id": 100101,
@@ -3071,8 +3071,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Silver Trophy - Field Warfare",
-        "Desc": "A silver trophy from Chesed for Field Warfare."
+        "Name": "Cúp bạc Chesed - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Chesed trong CT dã chiến."
     },
     {
         "Id": 100102,
@@ -3086,8 +3086,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Gold Trophy - Field Warfare",
-        "Desc": "A gold trophy from Chesed for Field Warfare."
+        "Name": "Cúp vàng Chesed - CT Dã chiến",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Chesed trong CT dã chiến."
     },
     {
         "Id": 100103,
@@ -3101,8 +3101,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Platinum Trophy - Field Warfare",
-        "Desc": "A platinum trophy from Chesed for Field Warfare."
+        "Name": "Cúp bạch kim Chesed - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Chesed trong CT dã chiến."
     },
     {
         "Id": 100110,
@@ -3116,8 +3116,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Bronze Trophy - Indoor Warfare",
-        "Desc": "A bronze trophy from Chesed for Indoor Warfare."
+        "Name": "Cúp đồng Chesed - CT trong công trình",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Chesed trong CT trong công trình."
     },
     {
         "Id": 100111,
@@ -3131,8 +3131,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Silver Trophy - Indoor Warfare",
-        "Desc": "A silver trophy from Chesed for Indoor Warfare."
+        "Name": "Cúp bạc Chesed - CT trong công trình",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Chesed trong CT trong công trình."
     },
     {
         "Id": 100112,
@@ -3146,8 +3146,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Gold Trophy - Indoor Warfare",
-        "Desc": "A gold trophy from Chesed for Indoor Warfare."
+        "Name": "Cúp vàng Chesed - CT trong công trình",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Chesed trong CT trong công trình."
     },
     {
         "Id": 100113,
@@ -3161,8 +3161,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Chesed Platinum Trophy - Indoor Warfare",
-        "Desc": "A platinum trophy from Chesed for Indoor Warfare."
+        "Name": "Cúp bạch kim Chesed - CT trong công trình",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Chesed trong CT trong công trình."
     },
     {
         "Id": 100210,
@@ -3176,8 +3176,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Bronze Trophy - Indoor Warfare",
-        "Desc": "A bronze trophy from Shiro &amp; Kuro for Indoor Warfare."
+        "Name": "Cúp đồng Shiro & Kuro - CT trong công trình",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Shiro & Kuro trong CT trong công trình."
     },
     {
         "Id": 100211,
@@ -3191,8 +3191,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Silver Trophy - Indoor Warfare",
-        "Desc": "A silver trophy from Shiro &amp; Kuro for Indoor Warfare."
+        "Name": "Cúp bạc Shiro & Kuro - CT trong công trình",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Shiro & Kuro trong CT trong công trình."
     },
     {
         "Id": 100212,
@@ -3206,8 +3206,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Gold Trophy - Indoor Warfare",
-        "Desc": "A gold trophy from Shiro &amp; Kuro for Indoor Warfare."
+        "Name": "Cúp vàng Shiro & Kuro - CT trong công trình",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Shiro & Kuro trong CT trong công trình."
     },
     {
         "Id": 100213,
@@ -3221,8 +3221,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Platinum Trophy - Indoor Warfare",
-        "Desc": "A platinum trophy from Shiro &amp; Kuro for Indoor Warfare."
+        "Name": "Cúp bạch kim Shiro & Kuro - CT trong công trình",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Shiro & Kuro trong CT trong công trình."
     },
     {
         "Id": 100220,
@@ -3236,8 +3236,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Bronze Trophy - Urban Warfare",
-        "Desc": "A bronze trophy from Shiro &amp; Kuro for Urban Warfare."
+        "Name": "Cúp đồng Shiro & Kuro - CT ở đô thị",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Shiro & Kuro trong CT ở đô thị."
     },
     {
         "Id": 100221,
@@ -3251,8 +3251,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Silver Trophy - Urban Warfare",
-        "Desc": "A silver trophy from Shiro &amp; Kuro for Urban Warfare."
+        "Name": "Cúp bạc Shiro & Kuro - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Shiro & Kuro trong CT ở đô thị."
     },
     {
         "Id": 100222,
@@ -3266,8 +3266,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Gold Trophy - Urban Warfare",
-        "Desc": "A gold trophy from Shiro &amp; Kuro for Urban Warfare."
+        "Name": "Cúp vàng Shiro & Kuro - CT ở đô thị",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Shiro & Kuro trong CT ở đô thị."
     },
     {
         "Id": 100223,
@@ -3281,8 +3281,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Shiro &amp; Kuro Platinum Trophy - Urban Warfare",
-        "Desc": "A platinum trophy from Shiro &amp; Kuro for Urban Warfare."
+        "Name": "Cúp bạch kim Shiro & Kuro - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Shiro & Kuro trong CT ở đô thị."
     },
     {
         "Id": 100310,
@@ -3296,8 +3296,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Bronze Trophy - Indoor Warfare",
-        "Desc": "A bronze trophy from Hieronymus for Indoor Warfare."
+        "Name": "Cúp đồng Hieronymus - CT trong công trình",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Hieronymus trong CT trong công trình."
     },
     {
         "Id": 100311,
@@ -3311,8 +3311,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Silver Trophy - Indoor Warfare",
-        "Desc": "A silver trophy from Hieronymus for Indoor Warfare."
+        "Name": "Cúp bạc Hieronymus - CT trong công trình",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Hieronymus trong CT trong công trình."
     },
     {
         "Id": 100312,
