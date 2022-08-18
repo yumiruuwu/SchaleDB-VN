@@ -276,8 +276,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ShiftingCraftItem_0",
-        "Name": "Lesser Tailor Stone",
-        "Desc": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        "Name": "Đá thợ may thấp",
+        "Desc": "Một viên đá cần thiết để vận hành chức năng thiết kế riêng của Phòng chế tạo."
     },
     {
         "Id": 81,
@@ -290,8 +290,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ShiftingCraftItem_1",
-        "Name": "Normal Tailor Stone",
-        "Desc": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        "Name": "Đá thợ may thường",
+        "Desc": "Một viên đá cần thiết để vận hành chức năng thiết kế riêng của Phòng chế tạo."
     },
     {
         "Id": 82,
@@ -304,8 +304,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ShiftingCraftItem_2",
-        "Name": "Advanced Tailor Stone",
-        "Desc": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        "Name": "Đá thợ may nâng cao",
+        "Desc": "Một viên đá cần thiết để vận hành chức năng thiết kế riêng của Phòng chế tạo."
     },
     {
         "Id": 83,
@@ -318,8 +318,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ShiftingCraftItem_3",
-        "Name": "Superior Tailor Stone",
-        "Desc": "A stone required for operating the tailor-made function of the Crafting Chamber."
+        "Name": "Đá thợ may cao cấp",
+        "Desc": "Một viên đá cần thiết để vận hành chức năng thiết kế riêng của Phòng chế tạo."
     },
     {
         "Id": 100,
@@ -336,8 +336,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Nebra_0",
-        "Name": "Nebra Sky Disk Piece",
-        "Desc": "A broken-off Nebra Sky Disk piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh đĩa Nebra Sky",
+        "Desc": "Một mảnh đĩa Nebra Sky bị hỏng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 101,
@@ -354,8 +354,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Nebra_1",
-        "Name": "Broken Nebra Sky Disk",
-        "Desc": "A Nebra Sky Disk broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Đĩa Nebra Sky bị hỏng",
+        "Desc": "Đĩa Nebra Sky bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 102,
@@ -372,8 +372,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Nebra_2",
-        "Name": "Damaged Nebra Sky Disk",
-        "Desc": "An old Nebra Sky Disk damaged in various places. Used in various crafted items and enhancements."
+        "Name": "Đĩa Nebra Sky bị hư hại",
+        "Desc": "Đĩa Nebra Sky cũ bị hư hại ở nhiều chỗ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 103,
@@ -390,8 +390,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Nebra_3",
-        "Name": "Intact Nebra Sky Disk",
-        "Desc": "An intact Nebra Sky Disk. Used in various crafted items and enhancements."
+        "Name": "Đĩa Nebra Sky nguyên vẹn",
+        "Desc": "Một cái đĩa Nebra Sky còn nguyên vẹn. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 110,
@@ -408,8 +408,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Phaistos_0",
-        "Name": "Phaistos Disc Piece",
-        "Desc": "A broken-off Phaistos Disc piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh đĩa Phaistos",
+        "Desc": "Một mảnh đĩa Phaistos bị hỏng. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 111,
@@ -426,8 +426,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Phaistos_1",
-        "Name": "Broken Phaistos Disc",
-        "Desc": "A Phaistos Disc broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Đĩa Phaistos bị hỏng",
+        "Desc": "Đĩa Phaistos bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 112,
@@ -444,8 +444,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Phaistos_2",
-        "Name": "Damaged Phaistos Disc",
-        "Desc": "An old Phaistos Disc damaged in various places. Used in various crafted items and enhancements."
+        "Name": "Đĩa Phaistos bị hư hại",
+        "Desc": "Một đĩa Phaistos cũ bị hư hại ở nhiều nơi. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 113,
@@ -462,8 +462,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Phaistos_3",
-        "Name": "Intact Phaistos Disc",
-        "Desc": "An intact Phaistos Disc. Used in various crafted items and enhancements."
+        "Name": "Đĩa Phaistos nguyên vẹn",
+        "Desc": "Một đĩa Phaistos còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 120,
@@ -480,8 +480,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Wolfsegg_0",
-        "Name": "Wolfsegg Iron Ore",
-        "Desc": "Unsmelted Wolfsegg iron ore. Used in various crafted items and enhancements."
+        "Name": "Quặng sắt Wolfsegg",
+        "Desc": "Quặng sắt Wolfsegg chưa được nung chảy. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 121,
@@ -498,8 +498,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Wolfsegg_1",
-        "Name": "Wolfsegg Steel",
-        "Desc": "A piece of residual Wolfsegg iron from the smelting process. Used in various crafted items and enhancements."
+        "Name": "Thép Wolfsegg",
+        "Desc": "Một mẩu sắt Wolfsegg còn sót lại từ quá trình nấu chảy. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 122,
@@ -516,8 +516,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Wolfsegg_2",
-        "Name": "Low-Purity Wolfsegg Steel",
-        "Desc": "Highly adulterated low-purity Wolfsegg steel. Used in various crafted items and enhancements."
+        "Name": "Thép Wolfsegg có độ tinh khiết thấp",
+        "Desc": "Thép Wolfsegg có độ tinh khiết thấp bị pha tạp nhiều. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 123,
@@ -534,8 +534,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Wolfsegg_3",
-        "Name": "High-Purity Wolfsegg Steel",
-        "Desc": "Unadulterated high-purity Wolfsegg steel, smelted to perfection. Used in various crafted items and enhancements."
+        "Name": "Thép Wolfsegg độ tinh khiết cao",
+        "Desc": "Thép Wolfsegg có độ tinh khiết cao không pha chế, được nấu chảy để hoàn thiện. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 130,
@@ -552,8 +552,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Nimrud_0",
-        "Name": "Nimrud Lens Piece",
-        "Desc": "A fractured Nimrud Lens piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh thấu kính Nimrud",
+        "Desc": "Một mảnh ống kính Nimrud bị gãy. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 131,
@@ -570,8 +570,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Nimrud_1",
-        "Name": "Broken Nimrud Lens",
-        "Desc": "A Nimrud Lens chipped and cracked in various places. Used in various crafted items and enhancements."
+        "Name": "Ống kính Nimrud bị hỏng",
+        "Desc": "Ống kính Nimrud bị mẻ và nứt ở nhiều chỗ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 132,
@@ -588,8 +588,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Nimrud_2",
-        "Name": "Damaged Nimrud Lens",
-        "Desc": "A Nimrud Lens restored by combining various fragments together. Used in various crafted items and enhancements."
+        "Name": "Ống kính Nimrud bị hư hại",
+        "Desc": "Một ống kính Nimrud được khôi phục bằng cách kết hợp các mảnh vỡ khác nhau lại với nhau. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 133,
@@ -606,8 +606,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Nimrud_3",
-        "Name": "Intact Nimrud Lens",
-        "Desc": "An intact Nimrud Lens. Used in various crafted items and enhancements."
+        "Name": "Ống kính Nimrud nguyên vẹn",
+        "Desc": "Một ống kính Nimrud còn nguyên vẹn. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 140,
@@ -624,8 +624,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Mandragora_0",
-        "Name": "Mandrake Seed",
-        "Desc": "A fully-matured mandrake seed. Used in various crafted items and enhancements."
+        "Name": "Hạt giống Mandrake",
+        "Desc": "Một hạt giống mandrake đã trưởng thành hoàn toàn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 141,
@@ -642,8 +642,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Mandragora_1",
-        "Name": "Mandrake Sprout",
-        "Desc": "A newly-germinated mandrake sprout. Used in various crafted items and enhancements."
+        "Name": "Mandrake nảy mầm",
+        "Desc": "Một mầm mandrake mới nảy mầm. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 142,
@@ -660,8 +660,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Mandragora_2",
-        "Name": "Mandrake Juice",
-        "Desc": "Juice extracted from a well-ripened mandrake. Used in various crafted items and enhancements."
+        "Name": "Nước ép Mandrake",
+        "Desc": "Nước ép chiết xuất từ một trái mandrake chín kỹ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 143,
@@ -678,8 +678,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Mandragora_3",
-        "Name": "Mandrake Extract",
-        "Desc": "A concentrated extract of mandrake juice. Used in various crafted items and enhancements."
+        "Name": "Chiết xuất Mandrake",
+        "Desc": "Một chiết xuất cô đặc của nước ép mandrake. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 150,
@@ -696,8 +696,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Rohonc_0",
-        "Name": "Rohonc Codex Page",
-        "Desc": "A Rohonc Codex page torn out of its binding. Used in various crafted items and enhancements."
+        "Name": "Trang Codex Rohonc",
+        "Desc": "Một trang Rohonc Codex bị xé ra khỏi sách. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 151,
@@ -714,8 +714,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Rohonc_1",
-        "Name": "Damaged Rohonc Codex",
-        "Desc": "A Rohonc Codex torn and damaged in several places. Used in various crafted items and enhancements."
+        "Name": "Rohonc Codex bị hư hại",
+        "Desc": "Trang Rohonc Codex bị rách và hư hại ở một số chỗ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 152,
@@ -732,8 +732,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Rohonc_2",
-        "Name": "Annotated Rohonc Codex",
-        "Desc": "A Rohonc Codex with annotated footnotes in damaged areas. Used in various crafted items and enhancements."
+        "Name": "Trang Rohonc Codex được chú thích",
+        "Desc": "Trang Rohonc Codex với chú thích cuối trang ở các khu vực bị hư hỏng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 153,
@@ -750,8 +750,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Rohonc_3",
-        "Name": "Intact Rohonc Codex",
-        "Desc": "An intact Rohonc Codex. Used in various crafted items and enhancements."
+        "Name": "Quyển Rohonc Codex nguyên vẹn",
+        "Desc": "Một trang Rohonc Codex nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 160,
@@ -768,8 +768,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Ether_0",
-        "Name": "Aether Dust",
-        "Desc": "The most basic form of Aether Dust extracted from the air. Used in various crafted items and enhancements."
+        "Name": "Bụi tinh tuý",
+        "Desc": "Dạng cơ bản nhất của bụi tinh tuý chiết xuất từ không khí. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 161,
@@ -786,8 +786,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Ether_1",
-        "Name": "Aether Piece",
-        "Desc": "A solid piece of compressed Aether Dust. Used in various crafted items and enhancements."
+        "Name": "Mảnh tinh tuý",
+        "Desc": "Một phần rắn của bụi tinh tuý được nén. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 162,
@@ -804,8 +804,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Ether_2",
-        "Name": "Aether Shard",
-        "Desc": "A shard crystallized from pure Aether. Used in various crafted items and enhancements."
+        "Name": "Mảnh vỡ tinh tuý",
+        "Desc": "Một mảnh kết tinh từ tinh tuý tinh khiết. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 163,
@@ -822,8 +822,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Ether_3",
-        "Name": "Aether Essence",
-        "Desc": "An essence created out of Aether of the highest potency and purity. Used in various crafted items and enhancements."
+        "Name": "Nguyên thể tinh tuý",
+        "Desc": "Sự nguyên thể được tạo ra từ tinh tuý có hiệu lực và độ tinh khiết cao nhất. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 170,
@@ -840,8 +840,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Antikythera_0",
-        "Name": "Antikythera Mechanism Piece",
-        "Desc": "A Antikythera Mechanism part. Used in various crafted items and enhancements."
+        "Name": "Mảnh cơ chế Antikythera",
+        "Desc": "Một phần Cơ chế Antikythera. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 171,
@@ -858,8 +858,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Antikythera_1",
-        "Name": "Broken Antikythera Mechanism",
-        "Desc": "An Antikythera Mechanism broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Cơ chế Antikythera bị hỏng",
+        "Desc": "Cơ chế Antikythera bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 172,
@@ -876,8 +876,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Antikythera_2",
-        "Name": "Damaged Antikythera Mechanism",
-        "Desc": "A completely non-functional Antikythera Mechanism. Used in various crafted items and enhancements."
+        "Name": "Cơ chế Antikythera bị hư hại",
+        "Desc": "Một Cơ chế Antikythera hoàn toàn phi chức năng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 173,
@@ -894,8 +894,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Antikythera_3",
-        "Name": "Intact Antikythera Mechanism",
-        "Desc": "An intact Antikythera Mechanism. Used in various crafted items and enhancements."
+        "Name": "Cơ chế Antikythera nguyên vẹn",
+        "Desc": "Cơ chế Antikythera còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 180,
@@ -912,8 +912,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Voynich_0",
-        "Name": "Voynich Manuscript Page",
-        "Desc": "A Voynich Manuscript page torn out of its binding. Used in various crafted items and enhancements."
+        "Name": "Trang bản thảo Voynich",
+        "Desc": "Một trang Bản thảo Voynich bị xé ra khỏi bìa của nó. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 181,
@@ -930,8 +930,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Voynich_1",
-        "Name": "Damaged Voynich Manuscript",
-        "Desc": "A Voynich Manuscript torn and damaged in various places. Used in various crafted items and enhancements."
+        "Name": "Bản thảo Voynich bị hư hại",
+        "Desc": "Bản thảo Voynich bị rách và hư hại ở nhiều nơi. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 182,
@@ -948,8 +948,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Voynich_2",
-        "Name": "Annotated Voynich Manuscript",
-        "Desc": "A Voynich Manuscript with annotated footnotes. Used in various crafted items and enhancements."
+        "Name": "Bản thảo Voynich có chú thích",
+        "Desc": "Bản thảo Voynich với chú thích cuối trang. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 183,
@@ -966,8 +966,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Voynich_3",
-        "Name": "Intact Voynich Manuscript",
-        "Desc": "An intact Voynich Manuscript. Used in various crafted items and enhancements."
+        "Name": "Bản thảo Voynich còn nguyên vẹn",
+        "Desc": "Một bản thảo Voynich còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 190,
@@ -984,8 +984,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_0",
-        "Name": "Crystal Haniwa Fragment",
-        "Desc": "A Crystal Haniwa fragment. Used in various crafted items and enhancements."
+        "Name": "Mảnh vỡ pha lê Haniwa",
+        "Desc": "Một mảnh vỡ Crystal Haniwa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 191,
@@ -1002,8 +1002,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_1",
-        "Name": "Broken Crystal Haniwa",
-        "Desc": "A Crystal Haniwa broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Pha lê vỡ Haniwa",
+        "Desc": "Một pha lê Haniwa bị vỡ không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 192,
@@ -1020,8 +1020,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_2",
-        "Name": "Repaired Crystal Haniwa",
-        "Desc": "A Crystal Haniwa repaired by putting various pieces together. Used in various crafted items and enhancements."
+        "Name": "Pha lê Haniwa đã sửa chữa",
+        "Desc": "Một pha lê Haniwa được sửa chữa bằng cách ghép nhiều mảnh lại với nhau. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 193,
@@ -1038,8 +1038,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_3",
-        "Name": "Intact Crystal Haniwa",
-        "Desc": "An intact Crystal Haniwa. Used in various crafted items and enhancements."
+        "Name": "Pha lê Haniwa còn nguyên vẹn",
+        "Desc": "Một pha lê Haniwa còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 200,
@@ -1056,8 +1056,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_TotemPole_0",
-        "Name": "Totem Pole Piece",
-        "Desc": "A broken-off totem pole piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh cột tổ vật",
+        "Desc": "Một mảnh cột cổ vật bị hỏng. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 201,
@@ -1074,8 +1074,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_TotemPole_1",
-        "Name": "Broken Totem Pole",
-        "Desc": "A totem pole broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Cột tổ vật bị hỏng",
+        "Desc": "Một cột tổ vật bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 202,
@@ -1092,8 +1092,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_TotemPole_2",
-        "Name": "Repaired Totem Pole",
-        "Desc": "A totem pole repaired by putting several pieces together. Used in various crafted items and enhancements."
+        "Name": "Cột tổ vật đã được sửa chữa",
+        "Desc": "Một cột vật tổ được sửa chữa bằng cách ghép nhiều mảnh lại với nhau. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 203,
@@ -1110,8 +1110,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_TotemPole_3",
-        "Name": "Intact Totem Pole",
-        "Desc": "An intact totem pole. Used in various crafted items and enhancements."
+        "Name": "Cột tổ vật còn nguyên vẹn",
+        "Desc": "Một cột vật tổ còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 210,
@@ -1128,8 +1128,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_Baghdad_0",
-        "Name": "Ancient Battery Piece",
-        "Desc": "A broken-off Ancient Battery piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh pin cổ đại",
+        "Desc": "Một mảnh pin cổ đại bị hỏng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 211,
@@ -1146,8 +1146,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_Baghdad_1",
-        "Name": "Broken Ancient Battery",
-        "Desc": "An Ancient Battery broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Pin cổ đại bị hỏng",
+        "Desc": "Một cục pin cổ đại bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 212,
@@ -1164,8 +1164,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_Baghdad_2",
-        "Name": "Damaged Ancient Battery",
-        "Desc": "A completely non-functional Ancient Battery. Used in various crafted items and enhancements."
+        "Name": "Pin cổ đại bị hư hại",
+        "Desc": "Cục pin cổ đại hoàn toàn không có chức năng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 213,
@@ -1182,8 +1182,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_Baghdad_3",
-        "Name": "Intact Ancient Battery",
-        "Desc": "An intact Ancient Battery. Used in various crafted items and enhancements."
+        "Name": "Pin cổ đại còn nguyên vẹn",
+        "Desc": "Một cục pin cổ còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 240,
@@ -1200,8 +1200,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_DiscoColgante_0",
-        "Name": "Disc Pendant Piece",
-        "Desc": "A broken-off Disc Pendant piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh mặt dây chuyền đĩa",
+        "Desc": "Một mảnh mặt dây chuyền đĩa bị vỡ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 241,
@@ -1218,8 +1218,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_DiscoColgante_1",
-        "Name": "Broken Disc Pendant",
-        "Desc": "A Disc Pendant broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Mặt dây chuyền đĩa vỡ",
+        "Desc": "Một mặt dây chuyền đĩa bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 242,
@@ -1236,8 +1236,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_DiscoColgante_2",
-        "Name": "Restored Disc Pendant",
-        "Desc": "A Disc Pendant in the process of being restored by putting various pieces together. Used in various crafted items and enhancements."
+        "Name": "Mặt dây chuyền đĩa đã khôi phục",
+        "Desc": "Một mặt dây chuyền đĩa đang trong quá trình được phục hồi bằng cách ghép các mảnh khác nhau lại với nhau. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 243,
@@ -1254,8 +1254,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_DiscoColgante_3",
-        "Name": "Intact Disc Pendant",
-        "Desc": "An intact Disc Pendant. Used in various crafted items and enhancements."
+        "Name": "Mặt dây chuyền đĩa nguyên vẹn",
+        "Desc": "Một mặt dây chuyền đĩa còn nguyên vẹn. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
     },
     {
         "Id": 290,
@@ -1272,8 +1272,8 @@
             "MaterialItemN"
         ],
         "Icon": "Item_Icon_Material_WinniStone_0",
-        "Name": "Mystery Stone Piece",
-        "Desc": "A broken-off Mystery Stone piece. Used in various crafted items and enhancements."
+        "Name": "Mảnh đá bí ẩn",
+        "Desc": "Một mảnh đá bí ẩn bị vỡ. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 291,
@@ -1290,8 +1290,8 @@
             "MaterialItemR"
         ],
         "Icon": "Item_Icon_Material_WinniStone_1",
-        "Name": "Broken Mystery Stone",
-        "Desc": "A Mystery Stone broken beyond repair. Used in various crafted items and enhancements."
+        "Name": "Đá bí ẩn bị vỡ",
+        "Desc": "Một viên đá bí ẩn bị hỏng không thể sửa chữa. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 292,
@@ -1308,8 +1308,8 @@
             "MaterialItemSR"
         ],
         "Icon": "Item_Icon_Material_WinniStone_2",
-        "Name": "Incomplete Mystery Stone",
-        "Desc": "A Mystery Stone that has been restored, but is still not quite the right shape. Used in various crafted items and enhancements."
+        "Name": "Viên đá bí ẩn chưa hoàn chỉnh",
+        "Desc": "Một viên đá bí ẩn đã được phục hồi, nhưng vẫn không đúng hình dạng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 293,
@@ -1326,8 +1326,8 @@
             "MaterialItemSSR"
         ],
         "Icon": "Item_Icon_Material_WinniStone_3",
-        "Name": "Intact Mystery Stone",
-        "Desc": "An intact Mystery Stone. Used in various crafted items and enhancements."
+        "Name": "Viên đá bí ẩn còn nguyên vẹn",
+        "Desc": "Một viên đá bí ẩn còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
     },
     {
         "Id": 3000,
@@ -1344,8 +1344,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Hyakkiyako_0",
-        "Name": "Beginner Tactical Training Blu-ray (Hyakkiyako)",
-        "Desc": "A training blu-ray containing video documentation of the Hyakkiyako students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Hyakkiyako)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Hyakkiyako."
     },
     {
         "Id": 3001,
@@ -1362,8 +1362,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Hyakkiyako_1",
-        "Name": "Normal Tactical Training Blu-ray (Hyakkiyako)",
-        "Desc": "A training blu-ray containing video documentation of the Hyakkiyako students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Hyakkiyako)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Hyakkiyako."
     },
     {
         "Id": 3002,
@@ -1380,8 +1380,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Hyakkiyako_2",
-        "Name": "Advanced Tactical Training Blu-ray (Hyakkiyako)",
-        "Desc": "A training blu-ray containing video documentation of the Hyakkiyako students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Hyakkiyako)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Hyakkiyako."
     },
     {
         "Id": 3003,
@@ -1398,8 +1398,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Hyakkiyako_3",
-        "Name": "Superior Tactical Training Blu-ray (Hyakkiyako)",
-        "Desc": "A training blu-ray containing video documentation of the Hyakkiyako students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Hyakkiyako)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Hyakkiyako."
     },
     {
         "Id": 3010,
@@ -1416,8 +1416,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_0",
-        "Name": "Beginner Tactical Training Blu-ray (Red Winter)",
-        "Desc": "A training blu-ray containing video documentation of the Red Winter students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Red Winter)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Red Winter."
     },
     {
         "Id": 3011,
@@ -1434,8 +1434,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_1",
-        "Name": "Normal Tactical Training Blu-ray (Red Winter)",
-        "Desc": "A training blu-ray containing video documentation of the Red Winter students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Red Winter)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Red Winter."
     },
     {
         "Id": 3012,
@@ -1452,8 +1452,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_2",
-        "Name": "Advanced Tactical Training Blu-ray (Red Winter)",
-        "Desc": "A training blu-ray containing video documentation of the Red Winter students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Red Winter)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Red Winter."
     },
     {
         "Id": 3013,
@@ -1470,8 +1470,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_3",
-        "Name": "Superior Tactical Training Blu-ray (Red Winter)",
-        "Desc": "A training blu-ray containing video documentation of the Red Winter students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Red Winter)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Red Winter."
     },
     {
         "Id": 3020,
@@ -1488,8 +1488,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Trinity_0",
-        "Name": "Beginner Tactical Training Blu-ray (Trinity)",
-        "Desc": "A training blu-ray containing video documentation of the Trinity students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Trinity)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Trinity."
     },
     {
         "Id": 3021,
@@ -1506,8 +1506,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Trinity_1",
-        "Name": "Normal Tactical Training Blu-ray (Trinity)",
-        "Desc": "A training blu-ray containing video documentation of the Trinity students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Trinity)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Trinity."
     },
     {
         "Id": 3022,
@@ -1524,8 +1524,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Trinity_2",
-        "Name": "Advanced Tactical Training Blu-ray (Trinity)",
-        "Desc": "A training blu-ray containing video documentation of the Trinity students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Trinity)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Trinity."
     },
     {
         "Id": 3023,
@@ -1542,8 +1542,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Trinity_3",
-        "Name": "Superior Tactical Training Blu-ray (Trinity)",
-        "Desc": "A training blu-ray containing video documentation of the Trinity students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Trinity)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Trinity."
     },
     {
         "Id": 3030,
@@ -1560,8 +1560,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Gehenna_0",
-        "Name": "Beginner Tactical Training Blu-ray (Gehenna)",
-        "Desc": "A training blu-ray containing video documentation of the Gehenna students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Gehenna)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
         "Id": 3031,
@@ -1578,8 +1578,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Gehenna_1",
-        "Name": "Normal Tactical Training Blu-ray (Gehenna)",
-        "Desc": "A training blu-ray containing video documentation of the Gehenna students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Gehenna)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
         "Id": 3032,
@@ -1596,8 +1596,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Gehenna_2",
-        "Name": "Advanced Tactical Training Blu-ray (Gehenna)",
-        "Desc": "A training blu-ray containing video documentation of the Gehenna students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Gehenna)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
         "Id": 3033,
@@ -1614,8 +1614,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Gehenna_3",
-        "Name": "Superior Tactical Training Blu-ray (Gehenna)",
-        "Desc": "A training blu-ray containing video documentation of the Gehenna students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Gehenna)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
         "Id": 3040,
@@ -1632,8 +1632,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Abydos_0",
-        "Name": "Beginner Tactical Training Blu-ray (Abydos)",
-        "Desc": "A training blu-ray containing video documentation of the Abydos students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Abydos)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
     },
     {
         "Id": 3041,
@@ -1650,8 +1650,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Abydos_1",
-        "Name": "Normal Tactical Training Blu-ray (Abydos)",
-        "Desc": "A training blu-ray containing video documentation of the Abydos students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Abydos)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
     },
     {
         "Id": 3042,
@@ -1668,8 +1668,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Abydos_2",
-        "Name": "Advanced Tactical Training Blu-ray (Abydos)",
-        "Desc": "A training blu-ray containing video documentation of the Abydos students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Abydos)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
     },
     {
         "Id": 3043,
@@ -1686,8 +1686,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Abydos_3",
-        "Name": "Superior Tactical Training Blu-ray (Abydos)",
-        "Desc": "A training blu-ray containing video documentation of the Abydos students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Abydos)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
     },
     {
         "Id": 3050,
@@ -1704,8 +1704,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Millennium_0",
-        "Name": "Beginner Tactical Training Blu-ray (Millennium)",
-        "Desc": "A training blu-ray containing video documentation of the Millennium students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Millennium)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Millennium."
     },
     {
         "Id": 3051,
@@ -1722,8 +1722,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Millennium_1",
-        "Name": "Normal Tactical Training Blu-ray (Millennium)",
-        "Desc": "A training blu-ray containing video documentation of the Millennium students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Millennium)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Millennium."
     },
     {
         "Id": 3052,
@@ -1740,8 +1740,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Millennium_2",
-        "Name": "Advanced Tactical Training Blu-ray (Millennium)",
-        "Desc": "A training blu-ray containing video documentation of the Millennium students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Millennium)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Millennium."
     },
     {
         "Id": 3053,
@@ -1758,8 +1758,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Millennium_3",
-        "Name": "Superior Tactical Training Blu-ray (Millennium)",
-        "Desc": "A training blu-ray containing video documentation of the Millennium students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Millennium)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Millennium."
     },
     {
         "Id": 3060,
@@ -1776,8 +1776,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Arius_0",
-        "Name": "Beginner Tactical Training Blu-ray (Arius)",
-        "Desc": "A training blu-ray containing video documentation of the Arius students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Arius)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Arius."
     },
     {
         "Id": 3061,
@@ -1794,8 +1794,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Arius_1",
-        "Name": "Normal Tactical Training Blu-ray (Arius)",
-        "Desc": "A training blu-ray containing video documentation of the Arius students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Arius)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Arius."
     },
     {
         "Id": 3062,
@@ -1813,7 +1813,7 @@
         ],
         "Icon": "Item_Icon_Material_ExSkill_Arius_2",
         "Name": "Advance Tactical Training Blu-ray (Arius)",
-        "Desc": "A training blu-ray containing video documentation of the Arius students&#x27; tactical activities."
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Arius."
     },
     {
         "Id": 3063,
@@ -1830,8 +1830,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Arius_3",
-        "Name": "Superior Tactical Training Blu-ray (Arius)",
-        "Desc": "A training blu-ray containing video documentation of the Arius students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Arius)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Arius."
     },
     {
         "Id": 3070,
@@ -1848,8 +1848,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_0",
-        "Name": "Beginner Tactical Training Blu-ray (Shanhaijing)",
-        "Desc": "A training blu-ray containing video documentation of the Shanhaijing students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Shanhaijing)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Shanhaijing."
     },
     {
         "Id": 3071,
@@ -1866,8 +1866,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_1",
-        "Name": "Normal Tactical Training Blu-ray (Shanhaijing)",
-        "Desc": "A training blu-ray containing video documentation of the Shanhaijing students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Shanhaijing)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Shanhaijing."
     },
     {
         "Id": 3072,
@@ -1884,8 +1884,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_2",
-        "Name": "Advanced Tactical Training Blu-ray (Shanhaijing)",
-        "Desc": "A training blu-ray containing video documentation of the Shanhaijing students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Shanhaijing)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Shanhaijing."
     },
     {
         "Id": 3073,
@@ -1902,8 +1902,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_3",
-        "Name": "Superior Tactical Training Blu-ray (Shanhaijing)",
-        "Desc": "A training blu-ray containing video documentation of the Shanhaijing students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Shanhaijing)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Shanhaijing."
     },
     {
         "Id": 3080,
@@ -1920,8 +1920,8 @@
             "CDItemN"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Valkyrie_0",
-        "Name": "Beginner Tactical Training Blu-ray (Valkyrie)",
-        "Desc": "A training blu-ray containing video documentation of the Valkyrie students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Valkyrie)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Valkyrie."
     },
     {
         "Id": 3081,
@@ -1938,8 +1938,8 @@
             "CDItemR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Valkyrie_1",
-        "Name": "Normal Tactical Training Blu-ray (Valkyrie)",
-        "Desc": "A training blu-ray containing video documentation of the Valkyrie students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Valkyrie)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Valkyrie."
     },
     {
         "Id": 3082,
@@ -1956,8 +1956,8 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Valkyrie_2",
-        "Name": "Advanced Tactical Training Blu-ray (Valkyrie)",
-        "Desc": "A training blu-ray containing video documentation of the Valkyrie students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Valkyrie)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Valkyrie."
     },
     {
         "Id": 3083,
@@ -1974,8 +1974,8 @@
             "CDItemSSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Valkyrie_3",
-        "Name": "Superior Tactical Training Blu-ray (Valkyrie)",
-        "Desc": "A training blu-ray containing video documentation of the Valkyrie students&#x27; tactical activities."
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Valkyrie)",
+        "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Valkyrie."
     },
     {
         "Id": 4000,
@@ -1992,8 +1992,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Hyakkiyako_0",
-        "Name": "Beginner Tech Notes (Hyakkiyako)",
-        "Desc": "Notes summarizing the core tactical secrets of the Hyakkiyako Academy."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Hyakkiyako)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Hyakkiyako."
     },
     {
         "Id": 4001,
@@ -2010,8 +2010,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Hyakkiyako_1",
-        "Name": "Normal Tech Notes (Hyakkiyako)",
-        "Desc": "Notes summarizing the core tactical secrets of the Hyakkiyako Academy."
+        "Name": "Ghi chú kỹ thuật thông thường (Hyakkiyako)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Hyakkiyako."
     },
     {
         "Id": 4002,
@@ -2028,8 +2028,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Hyakkiyako_2",
-        "Name": "Advanced Tech Notes (Hyakkiyako)",
-        "Desc": "Notes summarizing the core tactical secrets of the Hyakkiyako Academy."
+        "Name": "Ghi chú kỹ thuật nâng cao (Hyakkiyako)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Hyakkiyako."
     },
     {
         "Id": 4003,
@@ -2047,7 +2047,7 @@
         ],
         "Icon": "Item_Icon_SkillBook_Hyakkiyako_3",
         "Name": "Superior Tech Notes (Hyakkiyako)",
-        "Desc": "Notes summarizing the core tactical secrets of the Hyakkiyako Academy."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Hyakkiyako."
     },
     {
         "Id": 4010,
@@ -2064,8 +2064,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
-        "Name": "Beginner Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Red Winter)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 4011,
@@ -2082,8 +2082,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_1",
-        "Name": "Normal Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Name": "Ghi chú kỹ thuật thông thường (Red Winter)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 4012,
@@ -2100,8 +2100,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_2",
-        "Name": "Advanced Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Name": "Ghi chú kỹ thuật nâng cao (Red Winter)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 4013,
@@ -2118,8 +2118,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_3",
-        "Name": "Superior Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Name": "Ghi chú kỹ thuật cao cấp (Red Winter)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 4020,
@@ -2136,8 +2136,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Trinity_0",
-        "Name": "Beginner Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Trinity)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 4021,
@@ -2154,8 +2154,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Trinity_1",
-        "Name": "Normal Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Name": "Ghi chú kỹ thuật thông thường (Trinity)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 4022,
@@ -2172,8 +2172,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Trinity_2",
-        "Name": "Advanced Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Trinity)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 4023,
@@ -2190,8 +2190,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Trinity_3",
-        "Name": "Superior Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Trinity)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 4030,
@@ -2208,8 +2208,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Gehenna_0",
-        "Name": "Beginner Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 4031,
@@ -2226,8 +2226,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Gehenna_1",
-        "Name": "Normal Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Name": "Ghi chú kỹ thuật thông thường (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 4032,
@@ -2244,8 +2244,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Gehenna_2",
-        "Name": "Advanced Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Name": "Ghi chú kỹ thuật nâng cao (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 4033,
@@ -2262,8 +2262,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Gehenna_3",
-        "Name": "Superior Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Name": "Ghi chú kỹ thuật cao cấp (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 4040,
@@ -2280,8 +2280,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Abydos_0",
-        "Name": "Beginner Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 4041,
@@ -2298,8 +2298,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Abydos_1",
-        "Name": "Normal Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Name": "Ghi chú kỹ thuật thông thường (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 4042,
@@ -2316,8 +2316,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Abydos_2",
-        "Name": "Advanced Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 4043,
@@ -2334,8 +2334,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Abydos_3",
-        "Name": "Superior Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 4050,
@@ -2352,8 +2352,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Millennium_0",
-        "Name": "Beginner Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Millennium)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 4051,
@@ -2370,8 +2370,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Millennium_1",
-        "Name": "Normal Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Name": "Ghi chú kỹ thuật thông thường (Millennium)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 4052,
@@ -2388,8 +2388,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Millennium_2",
-        "Name": "Advanced Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Millennium)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 4053,
@@ -2406,8 +2406,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Millennium_3",
-        "Name": "Superior Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Millennium)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 4060,
@@ -2424,8 +2424,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Arius_0",
-        "Name": "Beginner Tech Notes (Arius)",
-        "Desc": "Notes summarizing the core tactical secrets of the Arius Satellite School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Arius)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường học vệ tinh Arius."
     },
     {
         "Id": 4061,
@@ -2442,8 +2442,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Arius_1",
-        "Name": "Normal Tech Notes (Arius)",
-        "Desc": "Notes summarizing the core tactical secrets of the Arius Satellite School."
+        "Name": "Ghi chú kỹ thuật thông thường (Arius)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường học vệ tinh Arius."
     },
     {
         "Id": 4062,
@@ -2460,8 +2460,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Arius_2",
-        "Name": "Advanced Tech Notes (Arius)",
-        "Desc": "Notes summarizing the core tactical secrets of the Arius Satellite School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Arius)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường học vệ tinh Arius."
     },
     {
         "Id": 4063,
@@ -2478,8 +2478,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Arius_3",
-        "Name": "Superior Tech Notes (Arius)",
-        "Desc": "Notes summarizing the core tactical secrets of the Arius Satellite School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Arius)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường học vệ tinh Arius."
     },
     {
         "Id": 4070,
@@ -2496,8 +2496,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_0",
-        "Name": "Beginner Tech Notes (Shanhaijing)",
-        "Desc": "Notes summarizing the core tactical secrets of the Shanhaijing Senior Secondary School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Shanhaijing)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Trung học Cao cấp Shanhaijing."
     },
     {
         "Id": 4071,
@@ -2514,8 +2514,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_1",
-        "Name": "Normal Tech Notes (Shanhaijing)",
-        "Desc": "Notes summarizing the core tactical secrets of the Shanhaijing Senior Secondary School."
+        "Name": "Ghi chú kỹ thuật thông thường (Shanhaijing)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Trung học Cao cấp Shanhaijing."
     },
     {
         "Id": 4072,
@@ -2532,8 +2532,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_2",
-        "Name": "Advanced Tech Notes (Shanhaijing)",
-        "Desc": "Notes summarizing the core tactical secrets of the Shanhaijing Senior Secondary School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Shanhaijing)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Trung học Cao cấp Shanhaijing."
     },
     {
         "Id": 4073,
@@ -2550,8 +2550,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_3",
-        "Name": "Superior Tech Notes (Shanhaijing)",
-        "Desc": "Notes summarizing the core tactical secrets of the Shanhaijing Senior Secondary School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Shanhaijing)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Trung học Cao cấp Shanhaijing."
     },
     {
         "Id": 4080,
@@ -2568,8 +2568,8 @@
             "BookItemN"
         ],
         "Icon": "Item_Icon_SkillBook_Valkyrie_0",
-        "Name": "Beginner Tech Notes (Valkyrie)",
-        "Desc": "Notes summarizing the core tactical secrets of the Valkyrie Police School."
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Valkyrie)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Cảnh sát Valkyrie."
     },
     {
         "Id": 4081,
@@ -2586,8 +2586,8 @@
             "BookItemR"
         ],
         "Icon": "Item_Icon_SkillBook_Valkyrie_1",
-        "Name": "Normal Tech Notes (Valkyrie)",
-        "Desc": "Notes summarizing the core tactical secrets of the Valkyrie Police School."
+        "Name": "Ghi chú kỹ thuật thông thường (Valkyrie)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Cảnh sát Valkyrie."
     },
     {
         "Id": 4082,
@@ -2604,8 +2604,8 @@
             "BookItemSR"
         ],
         "Icon": "Item_Icon_SkillBook_Valkyrie_2",
-        "Name": "Advanced Tech Notes (Valkyrie)",
-        "Desc": "Notes summarizing the core tactical secrets of the Valkyrie Police School."
+        "Name": "Ghi chú kỹ thuật nâng cao (Valkyrie)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Cảnh sát Valkyrie."
     },
     {
         "Id": 4083,
@@ -2622,8 +2622,8 @@
             "BookItemSSR"
         ],
         "Icon": "Item_Icon_SkillBook_Valkyrie_3",
-        "Name": "Superior Tech Notes (Valkyrie)",
-        "Desc": "Notes summarizing the core tactical secrets of the Valkyrie Police School."
+        "Name": "Ghi chú kỹ thuật cao cấp (Valkyrie)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Cảnh sát Valkyrie."
     },
     {
         "Id": 5000,
@@ -2643,8 +2643,8 @@
             "F_Sena"
         ],
         "Icon": "Item_Icon_Favor_0",
-        "Name": "Wavecat Pillow",
-        "Desc": "The seventh product of the smash hit Momo Friends collaboration line-up! This Wavecat-shaped pillow is this year&#x27;s third most popular bedding item."
+        "Name": "Gối Wavecat",
+        "Desc": "Sản phẩm thứ bảy của dòng sản phẩm hợp tác Momo Friends đình đám! Chiếc gối hình Wavecat này là mặt hàng chăn ga gối đệm phổ biến thứ ba trong năm nay."
     },
     {
         "Id": 5001,
@@ -2665,8 +2665,8 @@
             "F_Hihumi_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_1",
-        "Name": "Peroro Wheel",
-        "Desc": "The ninth product of the smash hit Momo Friends collaboration line-up. This Peroro-shaped exercise equipment is this year&#x27;s most popular fitness accessory!"
+        "Name": "Bánh xe Peroro",
+        "Desc": "Sản phẩm thứ 9 của dòng sản phẩm hợp tác Momo Friends đình đám. Thiết bị tập thể dục hình Peroro này là phụ kiện thể dục phổ biến nhất trong năm nay!"
     },
     {
         "Id": 5002,
@@ -5867,7 +5867,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Gehenna_0",
         "Name": "Beginner Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 60009,
@@ -5881,7 +5881,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Gehenna_0",
         "Name": "Beginner Tech Notes (Gehenna)",
-        "Desc": "Notes summarizing the core tactical secrets of the Gehenna Academy."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
         "Id": 60010,
@@ -5895,7 +5895,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Abydos_0",
         "Name": "Beginner Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 60011,
@@ -5909,7 +5909,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Abydos_0",
         "Name": "Beginner Tech Notes (Abydos)",
-        "Desc": "Notes summarizing the core tactical secrets of Abydos High School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
         "Id": 60012,
@@ -5923,7 +5923,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Millennium_0",
         "Name": "Beginner Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 60013,
@@ -5937,7 +5937,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Millennium_0",
         "Name": "Beginner Tech Notes (Millennium)",
-        "Desc": "Notes summarizing the core tactical secrets of the Millennium School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
         "Id": 60014,
@@ -5951,7 +5951,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Trinity_0",
         "Name": "Beginner Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 60015,
@@ -5965,7 +5965,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Trinity_0",
         "Name": "Beginner Tech Notes (Trinity)",
-        "Desc": "Notes summarizing the core tactical secrets of Trinity General School."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
         "Id": 60016,
@@ -5979,7 +5979,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
         "Name": "Beginner Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 60017,
@@ -5993,7 +5993,7 @@
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
         "Name": "Beginner Tech Notes (Red Winter)",
-        "Desc": "Notes summarizing the core tactical secrets of the Red Winter Academy."
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
         "Id": 80000,
