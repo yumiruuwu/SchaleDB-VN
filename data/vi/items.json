@@ -2685,8 +2685,8 @@
             "F_Hibiki"
         ],
         "Icon": "Item_Icon_Favor_2",
-        "Name": "A-Pods Pro",
-        "Desc": "Wireless earphones that are all the rage among Kivotos students. A bit expensive to buy on a tight budget, since they retail for about three months of part-time pay."
+        "Name": "A-Pods Pro (AirPods Pro)",
+        "Desc": "Tai nghe không dây đang là cơn thịnh nộ của tất cả các học sinh/sinh viên Kivotos. Hơi đắt khi mua với ngân sách eo hẹp, vì họ bán lẻ khoảng ba tháng trả lương bán thời gian."
     },
     {
         "Id": 5003,
@@ -2707,8 +2707,8 @@
             "F_Tsurugi_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_3",
-        "Name": "The Love Which Couldn&#x27;t Be- Beauty Found in What&#x27;s Not Allowed -",
-        "Desc": "The latest work from the popular romance novelist who wrote &quot;Koi About Love&quot;!\nDelve into a dizzying tale of forbidden love!"
+        "Name": "Tình yêu không thể có- Vẻ đẹp được tìm thấy trong những gì không được phép -",
+        "Desc": "Tác phẩm mới nhất của tiểu thuyết gia lãng mạn nổi tiếng đã viết \"Koi About Love\"!\nĐi sâu vào một câu chuyện chóng mặt về tình yêu bị ngăn cấm!\n\nÁ à, Koharu thích quyển này hả em :))"
     },
     {
         "Id": 5004,
@@ -2728,8 +2728,8 @@
             "F_Aris"
         ],
         "Icon": "Item_Icon_Favor_4",
-        "Name": "Hitgirls Gaming Magazine",
-        "Desc": "Stay up to date on the latest releases, strategies for classic games, new gaming merch and everything in between—this magazine covers it all!"
+        "Name": "Tạp chí trò chơi Hitgirls",
+        "Desc": "Luôn cập nhật các bản phát hành mới nhất, chiến lược cho các trò chơi cổ điển, hàng hóa trò chơi mới và mọi thứ liên quan — tạp chí này bao gồm tất cả!"
     },
     {
         "Id": 5005,
@@ -2748,8 +2748,8 @@
             "F_Asuna"
         ],
         "Icon": "Item_Icon_Favor_5",
-        "Name": "Cherry-Rose Lip Gloss",
-        "Desc": "A lip gloss with a subtle yet striking hue.\nIt&#x27;s one of the hottest selling items among young ladies interested in beauty and grooming."
+        "Name": "Son bóng Cherry-Rose",
+        "Desc": "Son bóng với màu sắc nhẹ nhàng nhưng nổi bật.\nĐây là một trong những mặt hàng bán chạy nhất đối với những phụ nữ trẻ thích làm đẹp và chải chuốt."
     },
     {
         "Id": 5006,
@@ -2769,8 +2769,8 @@
             "F_Saori"
         ],
         "Icon": "Item_Icon_Favor_6",
-        "Name": "Glassy Glow BB Cream",
-        "Desc": "A hit product from the luxury cosmetics brand &quot;Samuela.&quot;\nThis BB cream brightens and evens out skin tone and provides a natural finish for a healthy glow."
+        "Name": "Kem nền Glassy Glow BB",
+        "Desc": "Một sản phẩm ăn khách của thương hiệu mỹ phẩm cao cấp \"Samuela\".\nKem BB này làm sáng và làm đều màu da, đồng thời mang lại một lớp nền tự nhiên cho làn da sáng khỏe."
     },
     {
         "Id": 5007,
@@ -2790,8 +2790,8 @@
             "F_Saki"
         ],
         "Icon": "Item_Icon_Favor_7",
-        "Name": "Military Camo Foundation Trio",
-        "Desc": "A hit product from luxury cosmetics brand &quot;Samuela.&quot;\nIt provides lightweight camouflage capabilities that melt into your skin! Be camo-ready any time, any place!"
+        "Name": "Bộ trang điểm quân sự",
+        "Desc": "Một sản phẩm ăn khách của thương hiệu mỹ phẩm cao cấp \"Samuela\".\nNó cung cấp khả năng ngụy trang nhẹ và tan chảy vào da của bạn! Hãy chuẩn bị sẵn sàng mọi lúc, mọi nơi!"
     },
     {
         "Id": 5008,
@@ -2812,8 +2812,8 @@
             "F_Shun_Kid"
         ],
         "Icon": "Item_Icon_Favor_8",
-        "Name": "Fine Cookie Set",
-        "Desc": "A luxury cookie set from Schrodinger&#x27;s, famed for its rich, buttery sweetness. There&#x27;s often a fifty percent chance that it contains something other than cookies."
+        "Name": "Bộ bánh quy hảo hạng",
+        "Desc": "Một bộ bánh quy sang trọng của Schrodinger, nổi tiếng với vị ngọt béo đậm đà. Thường có năm mươi phần trăm khả năng là nó chứa thứ gì đó khác ngoài cookie."
     },
     {
         "Id": 5009,
@@ -2835,7 +2835,7 @@
         ],
         "Icon": "Item_Icon_Favor_9",
         "Name": "Guns, Charm, and Zeal",
-        "Desc": "Guns, charm, and zeal!\nThe bestselling book of the year investigates and analyzes the origins and roots of Kivotos pop culture."
+        "Desc": "Guns, charm, and zeal!\nCuốn sách bán chạy nhất của năm nghiên cứu và phân tích nguồn gốc và cội nguồn của văn hóa đại chúng Kivotos."
     },
     {
         "Id": 5010,
@@ -2855,8 +2855,8 @@
             "F_Nodoka"
         ],
         "Icon": "Item_Icon_Favor_10",
-        "Name": "Astronomical Telescope",
-        "Desc": "This astronomical telescope is deemed the standard for hobbyists by the Kivotos Astronomy Observatory."
+        "Name": "Kính viễn vọng Thiên văn",
+        "Desc": "Kính viễn vọng thiên văn này được Đài quan sát thiên văn Kivotos coi là tiêu chuẩn cho những người có sở thích."
     },
     {
         "Id": 5011,
@@ -2876,8 +2876,8 @@
             "F_Neru_BunnyGirl"
         ],
         "Icon": "Item_Icon_Favor_11",
-        "Name": "Gamegirl Color Replica",
-        "Desc": "&quot;Life is your arcade!&quot;\nGo wild with retromania with this vintage reproduction of the classic Gamegirl Color."
+        "Name": "Bản sao Gamegirl Color",
+        "Desc": "\"Cuộc sống là trò chơi của bạn!\"\nĐi dạo với retromania với bản tái tạo cổ điển này của Gamegirl Color cổ điển."
     },
     {
         "Id": 5012,
@@ -2896,8 +2896,8 @@
             "F_Mashiro_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_12",
-        "Name": "MX-Ration C-Type Dessert Flavor",
-        "Desc": "Calories equal Combat Power!"
+        "Name": "Hương vị tráng miệng loại C MX-Ration",
+        "Desc": "Lượng calo bằng Sức mạnh chiến đấu!"
     },
     {
         "Id": 5013,
@@ -2915,8 +2915,8 @@
             "Freakish"
         ],
         "Icon": "Item_Icon_Favor_13",
-        "Name": "Matcha Ramune",
-        "Desc": "A matcha-flavored carbonated soft drink.\nGreen and refreshing!"
+        "Name": "Trà Matcha Ramune",
+        "Desc": "Một loại nước ngọt có ga vị matcha.\nXanh và sảng khoái!"
     },
     {
         "Id": 5014,
@@ -2936,8 +2936,8 @@
             "F_Midori"
         ],
         "Icon": "Item_Icon_Favor_14",
-        "Name": "Jellies Cushion",
-        "Desc": "The star of &quot;Fruitjellies&quot; is back! In cushion form! They&#x27;ve managed to recreate the concept of a jelly eating another jelly of the same color in great detail!"
+        "Name": "Đệm Jellies",
+        "Desc": "Ngôi sao của \"Fruitjellies\" đã trở lại! Ở dạng đệm! Họ đã cố gắng tạo lại khái niệm về một viên thạch ăn một viên thạch khác cùng màu một cách rất chi tiết!"
     },
     {
         "Id": 5015,
@@ -2957,8 +2957,8 @@
             "F_Koharu"
         ],
         "Icon": "Item_Icon_Favor_15",
-        "Name": "Extraordinary Cottontail Detective- Case of the Misty Hot Spring Slide -",
-        "Desc": "Whenever there&#x27;s a case, these snow-white bunny ears are sure to crack it! Volume 3 of the Extraordinary Cottontail Detective series! The stage is set at the hot springs!"
+        "Name": "Thám tử Cottontail phi thường- Vụ án Đường trượt Suối nước nóng Sương mù -",
+        "Desc": "Bất cứ khi nào có trường hợp, đôi tai của chú thỏ trắng như tuyết này chắc chắn sẽ nứt ra! Tập 3 của loạt phim Thám tử Cottontail phi thường! Sân khấu được dựng ở suối nước nóng!\n\n:)?"
     },
     {
         "Id": 5016,
@@ -2978,7 +2978,7 @@
         ],
         "Icon": "Item_Icon_Favor_16",
         "Name": "Ring Bit",
-        "Desc": "&quot;Make fitness fun with games!&quot; This exercise equipment uses an O-ring to make working out at home easy and fun whether for strength training or slimming down!"
+        "Desc": "\"Làm cho việc tập thể dục trở nên thú vị với các trò chơi!\"\nThiết bị tập thể dục này sử dụng vòng chữ O để làm cho việc tập luyện tại nhà trở nên dễ dàng và thú vị cho dù để rèn luyện sức mạnh hay giảm béo!"
     },
     {
         "Id": 5017,
@@ -3001,8 +3001,8 @@
             "F_Hoshino_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_17",
-        "Name": "Buried Treasure Map",
-        "Desc": "There&#x27;s treasure out there somewhere!\nA map of the sites where the three great gold treasures of Kivotos are supposed to be buried."
+        "Name": "Bản đồ kho báu bị chôn vùi",
+        "Desc": "Có kho báu ở đâu đó!\nBản đồ các địa điểm được cho là nơi chôn cất ba kho báu lớn bằng vàng của Kivotos."
     },
     {
         "Id": 5018,
@@ -3023,8 +3023,8 @@
             "F_Saya_Casual"
         ],
         "Icon": "Item_Icon_Favor_18",
-        "Name": "Cosplayer Coke-Bottle Glasses",
-        "Desc": "Wear these to instantly look like a genius! Einstein&#x27;s got nothing on you (in appearance, anyway)! ※ Note: Wearing these will not raise your IQ."
+        "Name": "Cosplayer Coke-Chai thủy tinh",
+        "Desc": "Mặc những thứ này để ngay lập tức trông giống như một thiên tài! Einstein không có tuổi với bạn đâu (dù sao thì về ngoại hình)! ※ Lưu ý: Đeo thứ này sẽ không làm tăng chỉ số IQ của bạn đâu."
     },
     {
         "Id": 5019,
@@ -3045,8 +3045,8 @@
             "F_Hina_swimsuit"
         ],
         "Icon": "Item_Icon_Favor_19",
-        "Name": "World&#x27;s Most Useless Gadget",
-        "Desc": "Absolutely useless, but cute! Still, it&#x27;s completely pointless. And yet, its cuteness totally makes up for it! This trinket is among the top five best toys to give to a special friend."
+        "Name": "Tiện ích Vô dụng Nhất Thế giới",
+        "Desc": "Hoàn toàn vô dụng, nhưng dễ thương! Tuy nhiên, nó hoàn toàn vô nghĩa. Tuy nhiên x2, sự dễ thương của nó hoàn toàn tạo nên điều đó! Món đồ trang sức này là một trong năm món đồ chơi tốt nhất để tặng cho một người bạn đặc biệt."
     },
     {
         "Id": 5020,
@@ -3072,8 +3072,8 @@
             "F_Wakamo_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_20",
-        "Name": "Teddy Bear with Bow",
-        "Desc": "An ordinary but absolutely darling teddy bear.\nA popular product among students who love all things cute and adorable."
+        "Name": "Gấu bông với nơ",
+        "Desc": "Một chú gấu bông bình thường nhưng vô cùng đáng yêu.\nMột sản phẩm phổ biến trong giới học sinh yêu thích tất cả những gì dễ thương và đáng yêu."
     },
     {
         "Id": 5021,
@@ -3092,8 +3092,8 @@
             "F_Pina"
         ],
         "Icon": "Item_Icon_Favor_21",
-        "Name": "Movie Ticket",
-        "Desc": "&quot;Snuggle up with your special someone and watch a movie!&quot; This movie ticket is accepted at any theater, and admits two people!"
+        "Name": "Vé xem phim",
+        "Desc": "\"Rủ người đặc biệt của bạn vào xem phim!\"\nVé xem phim này ở rạp nào cũng nhận, và tối đa là hai người!"
     },
     {
         "Id": 5022,
@@ -3112,8 +3112,8 @@
             "F_Juri"
         ],
         "Icon": "Item_Icon_Favor_22",
-        "Name": "30-Color Paint Set",
-        "Desc": "A professional paint set with tubes in a variety of thirty colors.\nTime to go and paint the whole wide world!"
+        "Name": "Bộ sơn 30 màu",
+        "Desc": "Một bộ sơn chuyên nghiệp với các ống với ba mươi màu sắc khác nhau.\nĐã đến lúc đi và vẽ toàn bộ thế giới rộng lớn!"
     },
     {
         "Id": 5023,
@@ -3132,8 +3132,8 @@
             "F_Tomoe"
         ],
         "Icon": "Item_Icon_Favor_23",
-        "Name": "Classical Poetry Anthology",
-        "Desc": "An anthology of classical poetry. Very classy.\nProvides all the sophistication of classical literature right at your fingertips."
+        "Name": "Tuyển tập thơ cổ điển",
+        "Desc": "Một tuyển tập thơ cổ điển. Rất đẳng cấp.\nCung cấp tất cả sự tinh tế của văn học cổ điển ngay trong tầm tay bạn."
     },
     {
         "Id": 5024,
@@ -3153,8 +3153,8 @@
             "F_Hiyori"
         ],
         "Icon": "Item_Icon_Favor_24",
-        "Name": "Cute Dishware Set",
-        "Desc": "A dishware set painted with adorable animal characters.\nThis product has made the top ten list of best selling dishware in Kivotos year after year."
+        "Name": "Bộ bát đĩa dễ thương",
+        "Desc": "Một bộ bát đĩa được vẽ với các nhân vật động vật đáng yêu.\nSản phẩm này đã lọt vào danh sách mười bộ bát đĩa bán chạy nhất tại Kivotos từ năm này qua năm khác."
     },
     {
         "Id": 5025,
@@ -3174,8 +3174,8 @@
             "F_Karin"
         ],
         "Icon": "Item_Icon_Favor_25",
-        "Name": "Brain Teaser Puzzle Cube",
-        "Desc": "&quot;If you can solve this, then you deserve your place at Millennium!&quot; A puzzle cube for advanced users certified by the Millennium Science School."
+        "Name": "Đồ chơi trí tuệ",
+        "Desc": "\"Nếu bạn có thể giải được món đồ chơi này thì bạn xứng đáng có được vị trí của mình tại Millennium!\"\nMột khối xếp hình dành cho người chơi nâng cao được chứng nhận bởi Trường Khoa học Millennium."
     },
     {
         "Id": 5026,
@@ -3195,8 +3195,8 @@
             "F_Asuna_BunnyGirl"
         ],
         "Icon": "Item_Icon_Favor_26",
-        "Name": "Large Whole Cake",
-        "Desc": "The mere sight of this massive cake is enough to satisfy the senses.\nIts caloric info is detailed underneath."
+        "Name": "Bánh kem lớn",
+        "Desc": "Chỉ cần nhìn chiếc bánh khổng lồ này thôi cũng đủ thỏa mãn các giác quan.\nThông tin về calo của nó được trình bày chi tiết bên dưới."
     },
     {
         "Id": 5027,
@@ -3216,8 +3216,8 @@
             "F_Nodoka_Onsen"
         ],
         "Icon": "Item_Icon_Favor_27",
-        "Name": "Luxury Buffet Ticket",
-        "Desc": "This ticket grants access to a luxury buffet operated by the best chef in all of Kivotos.\nAs you might expect, it&#x27;s very expensive."
+        "Name": "Vé Buffet Sang trọng",
+        "Desc": "Vé này cho phép bạn vào một bữa tiệc tự chọn sang trọng do đầu bếp giỏi nhất trong tất cả các Kivotos điều hành.\nNhư bạn biết đấy, tấm vé này rất đắt."
     },
     {
         "Id": 5028,
@@ -3236,8 +3236,8 @@
             "F_Hinata"
         ],
         "Icon": "Item_Icon_Favor_28",
-        "Name": "Potted Bug-Eating Plant",
-        "Desc": "A potted plant that&#x27;s popular among those with eccentric taste. Apparently, the way it devours insects is cuter than you&#x27;d think."
+        "Name": "Chậu cây bắt bọ",
+        "Desc": "Một chậu cây phổ biến trong số những người có sở thích lập dị. Rõ ràng, cách nó nuốt chửng côn trùng dễ thương hơn bạn nghĩ 🐧"
     },
     {
         "Id": 5029,
@@ -3257,8 +3257,8 @@
             "F_Serika_Newyear"
         ],
         "Icon": "Item_Icon_Favor_29",
-        "Name": "Extravagant Gilded Jar of Greed",
-        "Desc": "An obviously exorbitant-looking jar gilt with gold leaf.\nWatch out for counterfeits!"
+        "Name": "Hũ tham lam mạ vàng lộng lẫy",
+        "Desc": "Rõ ràng là một chiếc lọ được mạ vàng lá trông có vẻ đắt đỏ.\nCản thận hàng giả!\n\n\"Serika! Cẩn thận đừng mua phải mấy thứ này nhé :))\""
     },
     {
         "Id": 5030,
@@ -3277,8 +3277,8 @@
             "F_Chinatsu_Onsen"
         ],
         "Icon": "Item_Icon_Favor_30",
-        "Name": "Wind-Up Music Box",
-        "Desc": "An fancy solid-wood music box with vintage charm.\nVery popular among collectors."
+        "Name": "Hộp nhạc Wind-Up",
+        "Desc": "Hộp nhạc bằng gỗ nguyên khối lạ mắt với nét cổ điển quyến rũ.\nRất phổ biến trong giới sưu tập."
     },
     {
         "Id": 5031,
@@ -3302,8 +3302,8 @@
             "F_Izuna_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_31",
-        "Name": "Embroidered Handkerchief",
-        "Desc": "An exquisitely embroidered handkerchief."
+        "Name": "Khăn tay thêu",
+        "Desc": "Một chiếc khăn tay được thêu tinh xảo."
     },
     {
         "Id": 5032,
@@ -3322,8 +3322,8 @@
             "F_Atsuko"
         ],
         "Icon": "Item_Icon_Favor_32",
-        "Name": "Encyclopedia",
-        "Desc": "From &quot;that tie thing&quot; for tying bread bags to &quot;the grass thing&quot; that goes in bento boxes, everything you ever wanted to read about can be found right here."
+        "Name": "Bách khoa toàn thư",
+        "Desc": "Từ \"thứ buộc dây\" để buộc túi bánh mì đến \"thứ cỏ\" đựng trong hộp bento, mọi thứ bạn từng muốn đọc đều có thể tìm thấy ngay tại đây."
     },
     {
         "Id": 5033,
@@ -3344,8 +3344,8 @@
             "F_Shizuko_Swimsuit"
         ],
         "Icon": "Item_Icon_Favor_33",
-        "Name": "Health Food Supplement",
-        "Desc": "Feel rejuvenated with just one bite!\nThis supplement is the perfect gift for your special someone."
+        "Name": "Thực phẩm bổ sung sức khỏe",
+        "Desc": "Cảm thấy trẻ hóa chỉ với một miếng cắn!\nHộp bổ sung này là món quà hoàn hảo cho người đặc biệt của bạn."
     },
     {
         "Id": 5034,
@@ -3363,8 +3363,8 @@
             "WaterPlay"
         ],
         "Icon": "Item_Icon_Favor_34",
-        "Name": "Summer Tube",
-        "Desc": "It&#x27;s summer! To the beach!\nA safety device for swimmers of all experience levels. Ready for anything with its cute and fancy design!"
+        "Name": "Phao bơi mùa hè",
+        "Desc": "Mùa hè đến rồi! Tới bãi biển thôi nào!\nMột dụng cụ an toàn cho những người bơi lội ở mọi cấp độ kinh nghiệm. Sẵn sàng cho mọi thứ với thiết kế dễ thương và lạ mắt!"
     },
     {
         "Id": 5100,
@@ -3725,8 +3725,8 @@
             "Gift2"
         ],
         "Icon": "Item_Icon_Favor_SSR_2",
-        "Name": "Hatsune Miku Photo Card",
-        "Desc": "A special photo card distributed at Miku&#x27;s Kivotos Live Concert. They have become rare pieces of merch that any Miku fan wants to own."
+        "Name": "Thẻ ảnh Hatsune Miku",
+        "Desc": "Một thẻ ảnh đặc biệt được phát tại buổi diễn của Miku. Chúng đã trở thành những món hàng hiếm mà bất kỳ fan Miku nào cũng muốn sở hữu."
     },
     {
         "Id": 5999,
@@ -3742,8 +3742,8 @@
             "Gift2"
         ],
         "Icon": "Item_Icon_Favor_SSR_1",
-        "Name": "Shiny Bouquet",
-        "Desc": "A crystal bouquet perfect for giving to a special someone.\nIt sparkles like a kaleidoscope in the light."
+        "Name": "Bó hoa sáng bóng",
+        "Desc": "Một bó hoa pha lê hoàn hảo để tặng cho một người đặc biệt.\nNó lấp lánh như kính vạn hoa dưới ánh sáng."
     },
     {
         "Id": 7001,
@@ -3756,8 +3756,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_Special_0",
-        "Name": "Mission Data 1: D Type",
-        "Desc": "Data used to analyze Decagrammaton."
+        "Name": "Dữ liệu Nhiệm vụ 1: Loại D",
+        "Desc": "Dữ liệu được sử dụng để phân tích Decagrammaton."
     },
     {
         "Id": 9998,
@@ -3772,8 +3772,8 @@
             "SkillBookUltimatePieace"
         ],
         "Icon": "Item_Icon_SkillBook_Ultimate_Piece",
-        "Name": "Secret Tech Sheet Fragment",
-        "Desc": "A fragment of Tech Notes containing tactical secrets. Can be restored using the tailor-made function of the Crafting Chamber."
+        "Name": "Mảnh vỡ bảng kỹ thuật bí mật",
+        "Desc": "Một mảnh ghi chú công nghệ có chứa bí mật chiến thuật. Có thể được khôi phục bằng cách sử dụng chức năng được thiết kế riêng của Phòng chế tạo."
     },
     {
         "Id": 9999,
@@ -3788,8 +3788,8 @@
             "ShiftingCraftCategory_BookItem"
         ],
         "Icon": "Item_Icon_SkillBook_Ultimate",
-        "Name": "Secret Tech Sheet",
-        "Desc": "Tech Notes containing tactical secrets."
+        "Name": "Bảng kỹ thuật bí mật",
+        "Desc": "Ghi chú kỹ thuật có chứa bí mật chiến thuật."
     },
     {
         "Id": 10000,
@@ -3804,8 +3804,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Aru",
-        "Name": "Aru&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Aru."
+        "Name": "Eleph của Aru",
+        "Desc": "Eleph huyền bí của Aru."
     },
     {
         "Id": 10001,
@@ -3820,8 +3820,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Eimi",
-        "Name": "Eimi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Eimi."
+        "Name": "Eleph của Eimi",
+        "Desc": "Eleph huyền bí của Eimi."
     },
     {
         "Id": 10002,
@@ -3836,8 +3836,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Haruna",
-        "Name": "Haruna&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Haruna."
+        "Name": "Eleph của Haruna",
+        "Desc": "Eleph huyền bí của Haruna."
     },
     {
         "Id": 10003,
@@ -3852,8 +3852,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hihumi",
-        "Name": "Hifumi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hifumi."
+        "Name": "Eleph của Hifumi",
+        "Desc": "Eleph huyền bí của Hifumi."
     },
     {
         "Id": 10004,
@@ -3868,8 +3868,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hina",
-        "Name": "Hina&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hina."
+        "Name": "Eleph của Hina",
+        "Desc": "Eleph huyền bí của Hina."
     },
     {
         "Id": 10005,
@@ -3884,8 +3884,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hoshino",
-        "Name": "Hoshino&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hoshino."
+        "Name": "Eleph của Hoshino",
+        "Desc": "Eleph huyền bí của Hoshino."
     },
     {
         "Id": 10006,
@@ -3900,8 +3900,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Iori",
-        "Name": "Iori&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Iori."
+        "Name": "Eleph của Iori",
+        "Desc": "Eleph huyền bí của Iori."
     },
     {
         "Id": 10007,
@@ -3916,8 +3916,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Maki",
-        "Name": "Maki&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Maki."
+        "Name": "Eleph của Maki",
+        "Desc": "Eleph huyền bí của Maki."
     },
     {
         "Id": 10008,
@@ -3932,8 +3932,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Neru",
-        "Name": "Neru&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Neru."
+        "Name": "Eleph của Neru",
+        "Desc": "Eleph huyền bí của Neru."
     },
     {
         "Id": 10009,
@@ -3948,8 +3948,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Izumi",
-        "Name": "Izumi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Izumi."
+        "Name": "Eleph của Izumi",
+        "Desc": "Eleph huyền bí của Izumi."
     },
     {
         "Id": 10010,
@@ -3964,8 +3964,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Shiroko",
-        "Name": "Shiroko&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shiroko."
+        "Name": "Eleph của Shiroko",
+        "Desc": "Eleph huyền bí của Shiroko."
     },
     {
         "Id": 10011,
@@ -3980,8 +3980,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Shun",
-        "Name": "Shun&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shun."
+        "Name": "Eleph của Shun",
+        "Desc": "Eleph huyền bí của Shun."
     },
     {
         "Id": 10012,
@@ -3996,8 +3996,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Sumire",
-        "Name": "Sumire&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Sumire."
+        "Name": "Eleph của Sumire",
+        "Desc": "Eleph huyền bí của Sumire."
     },
     {
         "Id": 10013,
@@ -4012,8 +4012,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Tsurugi",
-        "Name": "Tsurugi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Tsurugi."
+        "Name": "Eleph của Tsurugi",
+        "Desc": "Eleph huyền bí của Tsurugi."
     },
     {
         "Id": 10014,
@@ -4028,8 +4028,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Izuna",
-        "Name": "Izuna&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Izuna."
+        "Name": "Eleph của Izuna",
+        "Desc": "Eleph huyền bí của Izuna."
     },
     {
         "Id": 10015,
@@ -4044,8 +4044,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Aris",
-        "Name": "Aris&#x27; Eleph",
-        "Desc": "The mystical Eleph of Aris."
+        "Name": "Eleph của Aris",
+        "Desc": "Eleph huyền bí của Aris."
     },
     {
         "Id": 10016,
@@ -4060,8 +4060,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Midori",
-        "Name": "Midori&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Midori."
+        "Name": "Eleph của Midori",
+        "Desc": "Eleph huyền bí của Midori."
     },
     {
         "Id": 10017,
@@ -4076,8 +4076,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Cherino",
-        "Name": "Cherino&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Cherino."
+        "Name": "Eleph của Cherino",
+        "Desc": "Eleph huyền bí của Cherino."
     },
     {
         "Id": 10018,
@@ -4092,8 +4092,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Yuzu",
-        "Name": "Yuzu&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Yuzu."
+        "Name": "Eleph của Yuzu",
+        "Desc": "Eleph huyền bí của Yuzu."
     },
     {
         "Id": 10019,
@@ -4108,8 +4108,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Azusa",
-        "Name": "Azusa&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Azusa."
+        "Name": "Eleph của Azusa",
+        "Desc": "Eleph huyền bí của Azusa."
     },
     {
         "Id": 10020,
@@ -4124,8 +4124,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Koharu",
-        "Name": "Koharu&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Koharu."
+        "Name": "Eleph của Koharu",
+        "Desc": "Eleph huyền bí của Koharu."
     },
     {
         "Id": 10021,
@@ -4140,8 +4140,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Azusa_Swimsuit",
-        "Name": "Azusa (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Azusa (Swimsuit)."
+        "Name": "Eleph của Azusa (Swimsuit)",
+        "Desc": "Eleph huyền bí của Azusa (Swimsuit)."
     },
     {
         "Id": 10022,
@@ -4156,8 +4156,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0063",
-        "Name": "Hina (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hina (Swimsuit)."
+        "Name": "Eleph của Hina (Swimsuit)",
+        "Desc": "Eleph huyền bí của Hina (Swimsuit)."
     },
     {
         "Id": 10023,
@@ -4172,8 +4172,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0064",
-        "Name": "Iori (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Iori (Swimsuit)."
+        "Name": "Eleph của Iori (Swimsuit)",
+        "Desc": "Eleph huyền bí của Iori (Swimsuit)."
     },
     {
         "Id": 10024,
@@ -4188,8 +4188,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Shiroko_RidingSuit",
-        "Name": "Shiroko (Cycling)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shiroko (Cycling)."
+        "Name": "Eleph của Shiroko (Cycling)",
+        "Desc": "Eleph huyền bí của Shiroko (Cycling)."
     },
     {
         "Id": 10025,
@@ -4204,8 +4204,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0066",
-        "Name": "Shun (Small)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shun (Small)."
+        "Name": "Eleph của Shun (Small)",
+        "Desc": "Eleph huyền bí của Shun (Small)."
     },
     {
         "Id": 10026,
@@ -4220,8 +4220,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0101",
-        "Name": "Neru&#x27;s (Bunny) Eleph",
-        "Desc": "The mystical Eleph of Neru (Bunny)."
+        "Name": "Eleph của Neru (Bunny)",
+        "Desc": "Eleph huyền bí của Neru (Bunny)."
     },
     {
         "Id": 10027,
@@ -4236,8 +4236,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0100",
-        "Name": "Karin&#x27;s (Bunny) Eleph",
-        "Desc": "The mystical Eleph of Karin (Bunny)."
+        "Name": "Eleph của Karin (Bunny)",
+        "Desc": "Eleph huyền bí của Karin (Bunny)."
     },
     {
         "Id": 10028,
@@ -4252,8 +4252,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0098",
-        "Name": "Asuna&#x27;s (Bunny) Eleph",
-        "Desc": "The mystical Eleph of Asuna (Bunny)."
+        "Name": "Eleph của Asuna (Bunny)",
+        "Desc": "Eleph huyền bí của Asuna (Bunny)."
     },
     {
         "Id": 10029,
@@ -4268,8 +4268,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0155",
-        "Name": "Natsu&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Natsu."
+        "Name": "Eleph của Natsu",
+        "Desc": "Eleph huyền bí của Natsu."
     },
     {
         "Id": 10030,
@@ -4284,8 +4284,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0163",
-        "Name": "Chinatsu&#x27;s (Hot Spring) Eleph",
-        "Desc": "The mystical Eleph of Chinatsu (Hot Spring)."
+        "Name": "Eleph của Chinatsu (Hot Spring)",
+        "Desc": "Eleph huyền bí của Chinatsu (Hot Spring)."
     },
     {
         "Id": 10031,
@@ -4300,8 +4300,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Aru_Newyear",
-        "Name": "Aru (New Year)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Aru (New Year)."
+        "Name": "Eleph của Aru (New Year)",
+        "Desc": "Eleph huyền bí của Aru (New Year)."
     },
     {
         "Id": 10032,
@@ -4316,8 +4316,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mutsuki_Newyear",
-        "Name": "Mutsuki (New Year)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Mutsuki (New Year)."
+        "Name": "Eleph của Mutsuki (New Year)",
+        "Desc": "Eleph huyền bí của Mutsuki (New Year)."
     },
     {
         "Id": 10033,
@@ -4332,8 +4332,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Wakamo",
-        "Name": "Wakamo's Eleph",
-        "Desc": "The mystical Eleph of Wakamo."
+        "Name": "Eleph của Wakamo",
+        "Desc": "Eleph huyền bí của Wakamo."
     },
     {
         "Id": 10034,
@@ -4348,8 +4348,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mimori",
-        "Name": "Mimori's Eleph",
-        "Desc": "The mystical Eleph of Mimori."
+        "Name": "Eleph của Mimori",
+        "Desc": "Eleph huyền bí của Mimori."
     },
     {
         "Id": 10035,
@@ -4364,8 +4364,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0169",
-        "Name": "Ui's Eleph",
-        "Desc": "The mystical Eleph of Ui."
+        "Name": "Eleph của Ui",
+        "Desc": "Eleph huyền bí của Ui."
     },
     {
         "Id": 10036,
@@ -4380,8 +4380,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hinata",
-        "Name": "Hinata's Eleph",
-        "Desc": "The mystical Eleph of Hinata."
+        "Name": "Eleph của Hinata",
+        "Desc": "Eleph huyền bí của Hinata."
     },
     {
         "Id": 10037,
@@ -4396,8 +4396,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Marina",
-        "Name": "Marina's Eleph",
-        "Desc": "The mystical Eleph of Marina."
+        "Name": "Eleph của Marina",
+        "Desc": "Eleph huyền bí của Marina."
     },
     {
         "Id": 10038,
@@ -4412,8 +4412,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Miyako",
-        "Name": "Miyako's Eleph",
-        "Desc": "The mystical Eleph of Miyako."
+        "Name": "Eleph của Miyako",
+        "Desc": "Eleph huyền bí của Miyako."
     },
     {
         "Id": 10039,
@@ -4428,8 +4428,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0145",
-        "Name": "Miyu's Eleph",
-        "Desc": "The mystical Eleph of Miyu."
+        "Name": "Eleph của Miyu",
+        "Desc": "Eleph huyền bí của Miyu."
     },
     {
         "Id": 10040,
@@ -4444,8 +4444,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0114",
-        "Name": "Tsukuyo's Eleph",
-        "Desc": "The mystical Eleph of Tsukuyo."
+        "Name": "Eleph của Tsukuyo",
+        "Desc": "Eleph huyền bí của Tsukuyo."
     },
     {
         "Id": 10041,
@@ -4460,8 +4460,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Misaki",
-        "Name": "Misaki's Eleph",
-        "Desc": "The mystical Eleph of Misaki."
+        "Name": "Eleph của Misaki",
+        "Desc": "Eleph huyền bí của Misaki."
     },
     {
         "Id": 10042,
@@ -4476,8 +4476,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Atsuko",
-        "Name": "Atsuko's Eleph",
-        "Desc": "The mystical Eleph of Atsuko."
+        "Name": "Eleph của Atsuko",
+        "Desc": "Eleph huyền bí của Atsuko."
     },
     {
         "Id": 10043,
@@ -4492,8 +4492,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0175",
-        "Name": "Wakamo (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Wakamo (Swimsuit)."
+        "Name": "Eleph của Wakamo (Swimsuit)",
+        "Desc": "Eleph huyền bí của Wakamo (Swimsuit)."
     },
     {
         "Id": 10044,
@@ -4508,8 +4508,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0092",
-        "Name": "Nonomi (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Nonomi (Swimsuit)."
+        "Name": "Eleph của Nonomi (Swimsuit)",
+        "Desc": "Eleph huyền bí của Nonomi (Swimsuit)."
     },
     {
         "Id": 10045,
@@ -4524,8 +4524,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hoshino_Swimsuit",
-        "Name": "Hoshino (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Hoshino (Swimsuit)."
+        "Name": "Eleph của Hoshino (Swimsuit)",
+        "Desc": "Eleph huyền bí của Hoshino (Swimsuit)."
     },
     {
         "Id": 10046,
@@ -4540,8 +4540,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0179",
-        "Name": "Izuna (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Izuna (Swimsuit)."
+        "Name": "Eleph của Izuna (Swimsuit)",
+        "Desc": "Eleph huyền bí của Izuna (Swimsuit)."
     },
     {
         "Id": 10047,
@@ -4556,8 +4556,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0178",
-        "Name": "Chise (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Chise (Swimsuit)."
+        "Name": "Eleph của Chise (Swimsuit)",
+        "Desc": "Eleph huyền bí của Chise (Swimsuit)."
     },
     {
         "Id": 10048,
@@ -4572,8 +4572,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Saori",
-        "Name": "Saori's Eleph",
-        "Desc": "The mystical Eleph of Saori."
+        "Name": "Eleph của Saori",
+        "Desc": "Eleph huyền bí của Saori."
     },
     {
         "Id": 13000,
@@ -4588,8 +4588,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Akane",
-        "Name": "Akane&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Akane."
+        "Name": "Eleph của Akane",
+        "Desc": "Eleph huyền bí của Akane."
     },
     {
         "Id": 13001,
@@ -4604,8 +4604,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Chise",
-        "Name": "Chise&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Chise."
+        "Name": "Eleph của Chise",
+        "Desc": "Eleph huyền bí của Chise."
     },
     {
         "Id": 13002,
@@ -4620,8 +4620,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Akari",
-        "Name": "Akari&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Akari."
+        "Name": "Eleph của Akari",
+        "Desc": "Eleph huyền bí của Akari."
     },
     {
         "Id": 13003,
@@ -4636,8 +4636,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hasumi",
-        "Name": "Hasumi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hasumi."
+        "Name": "Eleph của Hasumi",
+        "Desc": "Eleph huyền bí của Hasumi."
     },
     {
         "Id": 13004,
@@ -4652,8 +4652,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Nonomi",
-        "Name": "Nonomi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Nonomi."
+        "Name": "Eleph của Nonomi",
+        "Desc": "Eleph huyền bí của Nonomi."
     },
     {
         "Id": 13005,
@@ -4668,8 +4668,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Kayoko",
-        "Name": "Kayoko&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Kayoko."
+        "Name": "Eleph của Kayoko",
+        "Desc": "Eleph huyền bí của Kayoko."
     },
     {
         "Id": 13006,
@@ -4684,8 +4684,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mutsuki",
-        "Name": "Mutsuki&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Mutsuki."
+        "Name": "Eleph của Mutsuki",
+        "Desc": "Eleph huyền bí của Mutsuki."
     },
     {
         "Id": 13007,
@@ -4700,8 +4700,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Zunko",
-        "Name": "Junko&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Junko."
+        "Name": "Eleph của Junko",
+        "Desc": "Eleph huyền bí của Junko."
     },
     {
         "Id": 13008,
@@ -4716,8 +4716,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Serika",
-        "Name": "Serika&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Serika."
+        "Name": "Eleph của Serika",
+        "Desc": "Eleph huyền bí của Serika."
     },
     {
         "Id": 13009,
@@ -4732,8 +4732,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Tsubaki",
-        "Name": "Tsubaki&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Tsubaki."
+        "Name": "Eleph của Tsubaki",
+        "Desc": "Eleph huyền bí của Tsubaki."
     },
     {
         "Id": 13010,
@@ -4748,8 +4748,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Yuuka",
-        "Name": "Yuuka&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Yuuka."
+        "Name": "Eleph của Yuuka",
+        "Desc": "Eleph huyền bí của Yuuka."
     },
     {
         "Id": 13011,
@@ -4764,8 +4764,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Momoi",
-        "Name": "Momoi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Momoi."
+        "Name": "Eleph của Momoi",
+        "Desc": "Eleph huyền bí của Momoi."
     },
     {
         "Id": 13012,
@@ -4780,8 +4780,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Kirino",
-        "Name": "Kirino&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Kirino."
+        "Name": "Eleph của Kirino",
+        "Desc": "Eleph huyền bí của Kirino."
     },
     {
         "Id": 16000,
@@ -4796,8 +4796,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Haruka",
-        "Name": "Haruka&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Haruka."
+        "Name": "Eleph của Haruka",
+        "Desc": "Eleph huyền bí của Haruka."
     },
     {
         "Id": 16001,
@@ -4812,8 +4812,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Asuna",
-        "Name": "Asuna&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Asuna."
+        "Name": "Eleph của Asuna",
+        "Desc": "Eleph huyền bí của Asuna."
     },
     {
         "Id": 16002,
@@ -4828,8 +4828,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Kotori",
-        "Name": "Kotori&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Kotori."
+        "Name": "Eleph của Kotori",
+        "Desc": "Eleph huyền bí của Kotori."
     },
     {
         "Id": 16003,
@@ -4844,8 +4844,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Suzumi",
-        "Name": "Suzumi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Suzumi."
+        "Name": "Eleph của Suzumi",
+        "Desc": "Eleph huyền bí của Suzumi."
     },
     {
         "Id": 16004,
@@ -4860,8 +4860,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Pina",
-        "Name": "Pina&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Pina."
+        "Name": "Eleph của Pina",
+        "Desc": "Eleph huyền bí của Pina."
     },
     {
         "Id": 16005,
@@ -4876,8 +4876,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0060",
-        "Name": "Tsurugi (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Tsurugi (Swimsuit)."
+        "Name": "Eleph của Tsurugi (Swimsuit)",
+        "Desc": "Eleph huyền bí của Tsurugi (Swimsuit)."
     },
     {
         "Id": 16006,
@@ -4892,8 +4892,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Izumi_swimsuit",
-        "Name": "Izumi (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Izumi (Swimsuit)."
+        "Name": "Eleph của Izumi (Swimsuit)",
+        "Desc": "Eleph huyền bí của Izumi (Swimsuit)."
     },
     {
         "Id": 16007,
@@ -4908,8 +4908,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Tomoe",
-        "Name": "Tomoe&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Tomoe."
+        "Name": "Eleph của Tomoe",
+        "Desc": "Eleph huyền bí của Tomoe."
     },
     {
         "Id": 16008,
@@ -4924,8 +4924,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0141",
-        "Name": "Fubuki's Eleph",
-        "Desc": "The mystical Eleph of Fubuki."
+        "Name": "Eleph của Fubuki",
+        "Desc": "Eleph huyền bí của Fubuki."
     },
     {
         "Id": 16009,
@@ -4940,8 +4940,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0113",
-        "Name": "Michiru's Eleph",
-        "Desc": "The mystical Eleph of Michiru."
+        "Name": "Eleph của Michiru",
+        "Desc": "Eleph huyền bí của Michiru."
     },
     {
         "Id": 20000,
@@ -4956,8 +4956,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hibiki",
-        "Name": "Hibiki&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hibiki."
+        "Name": "Eleph của Hibiki",
+        "Desc": "Eleph huyền bí của Hibiki."
     },
     {
         "Id": 20001,
@@ -4972,8 +4972,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Karin",
-        "Name": "Karin&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Karin."
+        "Name": "Eleph của Karin",
+        "Desc": "Eleph huyền bí của Karin."
     },
     {
         "Id": 20002,
@@ -4988,8 +4988,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Saya",
-        "Name": "Saya&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Saya."
+        "Name": "Eleph của Saya",
+        "Desc": "Eleph huyền bí của Saya."
     },
     {
         "Id": 20003,
@@ -5004,8 +5004,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mashiro",
-        "Name": "Mashiro&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Mashiro."
+        "Name": "Eleph của Mashiro",
+        "Desc": "Eleph huyền bí của Mashiro."
     },
     {
         "Id": 20004,
@@ -5020,8 +5020,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mashiro_Swimsuit",
-        "Name": "Mashiro (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Mashiro (Swimsuit)."
+        "Name": "Eleph của Mashiro (Swimsuit)",
+        "Desc": "Eleph huyền bí của Mashiro (Swimsuit)."
     },
     {
         "Id": 20005,
@@ -5036,8 +5036,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0058",
-        "Name": "Hifumi (Swimsuit)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hifumi (Swimsuit)."
+        "Name": "Eleph của Hifumi (Swimsuit)",
+        "Desc": "Eleph huyền bí của Hifumi (Swimsuit)."
     },
     {
         "Id": 20006,
@@ -5052,8 +5052,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Saya_Casual",
-        "Name": "Saya (Casual)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Saya (Casual)."
+        "Name": "Eleph của Saya (Casual)",
+        "Desc": "Eleph huyền bí của Saya (Casual)."
     },
     {
         "Id": 20007,
@@ -5068,8 +5068,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH9999",
-        "Name": "Hatsune Miku&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hatsune Miku."
+        "Name": "Eleph của Hatsune Miku",
+        "Desc": "Eleph huyền bí của Hatsune Miku."
     },
     {
         "Id": 20008,
@@ -5084,8 +5084,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Ako",
-        "Name": "Ako&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Ako."
+        "Name": "Eleph của Ako",
+        "Desc": "Eleph huyền bí của Ako."
     },
     {
         "Id": 20009,
@@ -5100,8 +5100,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0164",
-        "Name": "Cherino&#x27;s (Hot Spring) Eleph",
-        "Desc": "The mystical Eleph of Cherino (Hot Spring)."
+        "Name": "Eleph của Cherino (Hot Spring)",
+        "Desc": "Eleph huyền bí của Cherino (Hot Spring)."
     },
     {
         "Id": 20010,
@@ -5116,8 +5116,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0165",
-        "Name": "Nodoka&#x27;s (Hot Spring) Eleph",
-        "Desc": "The mystical Eleph of Nodoka (Hot Spring)."
+        "Name": "Eleph của Nodoka (Hot Spring)",
+        "Desc": "Eleph huyền bí của Nodoka (Hot Spring)."
     },
     {
         "Id": 20011,
@@ -5132,8 +5132,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Serika_Newyear",
-        "Name": "Serika (New Year)&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Serika (New Year)."
+        "Name": "Eleph của Serika (New Year)",
+        "Desc": "Eleph huyền bí của Serika (New Year)."
     },
     {
         "Id": 20012,
@@ -5148,8 +5148,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Sena",
-        "Name": "Sena's Eleph",
-        "Desc": "The mystical Eleph of Sena."
+        "Name": "Eleph của Sena",
+        "Desc": "Eleph huyền bí của Sena."
     },
     {
         "Id": 20013,
@@ -5164,8 +5164,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0160",
-        "Name": "Chihiro's Eleph",
-        "Desc": "The mystical Eleph of Chihiro."
+        "Name": "Eleph của Chihiro",
+        "Desc": "Eleph huyền bí của Chihiro."
     },
     {
         "Id": 20014,
@@ -5180,8 +5180,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0144",
-        "Name": "Saki's Eleph",
-        "Desc": "The mystical Eleph of Saki."
+        "Name": "Eleph của Saki",
+        "Desc": "Eleph huyền bí của Saki."
     },
     {
         "Id": 20015,
@@ -5196,8 +5196,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Kaede",
-        "Name": "Kaede's Eleph",
-        "Desc": "The mystical Eleph of Kaede."
+        "Name": "Eleph của Kaede",
+        "Desc": "Eleph huyền bí của Kaede."
     },
     {
         "Id": 20016,
@@ -5212,8 +5212,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0156",
-        "Name": "Iroha's Eleph",
-        "Desc": "The mystical Eleph of Iroha."
+        "Name": "Eleph của Iroha",
+        "Desc": "Eleph huyền bí của Iroha."
     },
     {
         "Id": 20017,
@@ -5228,8 +5228,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hiyori",
-        "Name": "Hiyori's Eleph",
-        "Desc": "The mystical Eleph of Hiyori."
+        "Name": "Eleph của Hiyori",
+        "Desc": "Eleph huyền bí của Hiyori."
     },
     {
         "Id": 23000,
@@ -5244,8 +5244,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Airi",
-        "Name": "Airi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Airi."
+        "Name": "Eleph của Airi",
+        "Desc": "Eleph huyền bí của Airi."
     },
     {
         "Id": 23001,
@@ -5260,8 +5260,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Fuuka",
-        "Name": "Fuuka&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Fuuka."
+        "Name": "Eleph của Fuuka",
+        "Desc": "Eleph huyền bí của Fuuka."
     },
     {
         "Id": 23002,
@@ -5276,8 +5276,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hanae",
-        "Name": "Hanae&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hanae."
+        "Name": "Eleph của Hanae",
+        "Desc": "Eleph huyền bí của Hanae."
     },
     {
         "Id": 23003,
@@ -5292,8 +5292,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hare",
-        "Name": "Hare&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hare."
+        "Name": "Eleph của Hare",
+        "Desc": "Eleph huyền bí của Hare."
     },
     {
         "Id": 23004,
@@ -5308,8 +5308,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Utaha",
-        "Name": "Utaha&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Utaha."
+        "Name": "Eleph của Utaha",
+        "Desc": "Eleph huyền bí của Utaha."
     },
     {
         "Id": 23005,
@@ -5324,8 +5324,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Ayane",
-        "Name": "Ayane&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Ayane."
+        "Name": "Eleph của Ayane",
+        "Desc": "Eleph huyền bí của Ayane."
     },
     {
         "Id": 23006,
@@ -5340,8 +5340,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Shizuko",
-        "Name": "Shizuko&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shizuko."
+        "Name": "Eleph của Shizuko",
+        "Desc": "Eleph huyền bí của Shizuko."
     },
     {
         "Id": 23007,
@@ -5356,8 +5356,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Hanako",
-        "Name": "Hanako&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Hanako."
+        "Name": "Eleph của Hanako",
+        "Desc": "Eleph huyền bí của Hanako."
     },
     {
         "Id": 23008,
@@ -5372,8 +5372,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Mari",
-        "Name": "Mari&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Mari."
+        "Name": "Eleph của Mari",
+        "Desc": "Eleph huyền bí của Mari."
     },
     {
         "Id": 26000,
@@ -5388,8 +5388,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Chinatsu",
-        "Name": "Chinatsu&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Chinatsu."
+        "Name": "Eleph của Chinatsu",
+        "Desc": "Eleph huyền bí của Chinatsu."
     },
     {
         "Id": 26001,
@@ -5404,8 +5404,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Kotama",
-        "Name": "Kotama&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Kotama."
+        "Name": "Eleph của Kotama",
+        "Desc": "Eleph huyền bí của Kotama."
     },
     {
         "Id": 26002,
@@ -5420,8 +5420,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Juri",
-        "Name": "Juri&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Juri."
+        "Name": "Eleph của Juri",
+        "Desc": "Eleph huyền bí của Juri."
     },
     {
         "Id": 26003,
@@ -5436,8 +5436,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Serina",
-        "Name": "Serina&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Serina."
+        "Name": "Eleph của Serina",
+        "Desc": "Eleph huyền bí của Serina."
     },
     {
         "Id": 26004,
@@ -5452,8 +5452,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Shimiko",
-        "Name": "Shimiko&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Shimiko."
+        "Name": "Eleph của Shimiko",
+        "Desc": "Eleph huyền bí của Shimiko."
     },
     {
         "Id": 26005,
@@ -5468,8 +5468,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Yoshimi",
-        "Name": "Yoshimi&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Yoshimi."
+        "Name": "Eleph của Yoshimi",
+        "Desc": "Eleph huyền bí của Yoshimi."
     },
     {
         "Id": 26006,
@@ -5484,8 +5484,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_Nodoka",
-        "Name": "Nodoka&#x27;s Eleph",
-        "Desc": "The mystical Eleph of Nodoka."
+        "Name": "Eleph của Nodoka",
+        "Desc": "Eleph huyền bí của Nodoka."
     },
     {
         "Id": 26007,
@@ -5500,8 +5500,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0176",
-        "Name": "Ayane (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Ayane (Swimsuit)."
+        "Name": "Eleph của Ayane (Swimsuit)",
+        "Desc": "Eleph huyền bí của Ayane (Swimsuit)."
     },
     {
         "Id": 26008,
@@ -5516,8 +5516,8 @@
             "SecretStone"
         ],
         "Icon": "Item_Icon_SecretStone_CH0180",
-        "Name": "Shizuko (Swimsuit)'s Eleph",
-        "Desc": "The mystical Eleph of Shizuko (Swimsuit)."
+        "Name": "Eleph của Shizuko (Swimsuit)",
+        "Desc": "Eleph huyền bí của Shizuko (Swimsuit)."
     },
     {
         "Id": 30000,
