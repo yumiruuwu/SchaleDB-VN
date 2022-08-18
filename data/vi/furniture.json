@@ -3326,8 +3326,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Gold Trophy - Indoor Warfare",
-        "Desc": "A gold trophy from Hieronymus for Indoor Warfare."
+        "Name": "Cúp vàng Hieronymus - CT trong công trình",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Hieronymus trong CT trong công trình."
     },
     {
         "Id": 100313,
@@ -3341,8 +3341,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Platinum Trophy - Indoor Warfare",
-        "Desc": "A platinum trophy from Hieronymus for Indoor Warfare."
+        "Name": "Cúp bạch kim Hieronymus - CT trong công trình",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Hieronymus trong CT trong công trình."
     },
     {
         "Id": 100320,
@@ -3356,8 +3356,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Bronze Trophy - Urban Warfare",
-        "Desc": "A bronze trophy from Hieronymus for Urban Warfare."
+        "Name": "Cúp đồng Hieronymus - CT ở đô thị",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Hieronymus trong CT ở đô thị."
     },
     {
         "Id": 100321,
@@ -3371,8 +3371,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Silver Trophy - Urban Warfare",
-        "Desc": "A silver trophy from Hieronymus for Urban Warfare."
+        "Name": "Cúp bạc Hieronymus - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Hieronymus trong CT ở đô thị."
     },
     {
         "Id": 100322,
@@ -3386,8 +3386,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Gold Trophy - Urban Warfare",
-        "Desc": "A gold trophy from Hieronymus for Urban Warfare."
+        "Name": "Cúp vàng Hieronymus - CT ở đô thị",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Hieronymus trong CT ở đô thị."
     },
     {
         "Id": 100323,
@@ -3401,8 +3401,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Hieronymus Platinum Trophy - Urban Warfare",
-        "Desc": "A platinum trophy from Hieronymus for Urban Warfare."
+        "Name": "Cúp bạch kim Hieronymus - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Hieronymus trong CT ở đô thị."
     },
     {
         "Id": 100400,
@@ -3416,8 +3416,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Bronze Trophy - Field Warfare",
-        "Desc": "A bronze trophy from KAITEN FX Mk.0 for Field Warfare"
+        "Name": "Cúp đồng KAITEN FX Mk.0 - CT Dã chiến",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại KAITEN FX Mk.0 trong CT dã chiến."
     },
     {
         "Id": 100401,
@@ -3431,8 +3431,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Silver Trophy - Field Warfare",
-        "Desc": "A silver trophy from KAITEN FX MK.0 for Field Warfare"
+        "Name": "Cúp bạc KAITEN FX Mk.0 - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại KAITEN FX Mk.0 trong CT dã chiến."
     },
     {
         "Id": 100402,
@@ -3446,8 +3446,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Gold Trophy - Field Warfare",
-        "Desc": "A gold trophy from KAITEN FX MK.0 for Field Warfare"
+        "Name": "Cúp vàng KAITEN FX Mk.0 - CT Dã chiến",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại KAITEN FX Mk.0 trong CT dã chiến."
     },
     {
         "Id": 100403,
@@ -3461,8 +3461,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Platinum Trophy - Field Warfare",
-        "Desc": "A platinum trophy from KAITEN FX MK.0 for Field Warfare"
+        "Name": "Cúp bạch kim KAITEN FX Mk.0 - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại KAITEN FX Mk.0 trong CT dã chiến."
     },
     {
         "Id": 100420,
@@ -3476,8 +3476,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Bronze Trophy - Urban Warfare",
-        "Desc": "A bronze trophy from KAITEN FX Mk.0 for Urban Warfare"
+        "Name": "Cúp đồng KAITEN FX Mk.0 - CT ở đô thị",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại KAITEN FX Mk.0 trong CT ở đô thị."
     },
     {
         "Id": 100421,
@@ -3491,8 +3491,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Silver Trophy - Urban Warfare",
-        "Desc": "A silver trophy from KAITEN FX Mk.0 for Urban Warfare"
+        "Name": "Cúp bạc KAITEN FX Mk.0 - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại KAITEN FX Mk.0 trong CT ở đô thị."
     },
     {
         "Id": 100422,
@@ -3506,8 +3506,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Gold Trophy - Urban Warfare",
-        "Desc": "A gold trophy from KAITEN FX Mk.0 for Urban Warfare"
+        "Name": "Cúp vàng KAITEN FX Mk.0 - CT ở đô thị",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại KAITEN FX Mk.0 trong CT ở đô thị."
     },
     {
         "Id": 100423,
@@ -3521,8 +3521,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "KAITEN FX Mk.0 Platinum Trophy - Urban Warfare",
-        "Desc": "A platinum trophy from KAITEN FX Mk.0 for Urban Warfare"
+        "Name": "Cúp bạch kim KAITEN FX Mk.0 - CT ở đô thị",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại KAITEN FX Mk.0 trong CT ở đô thị."
     },
     {
         "Id": 100510,
@@ -3536,8 +3536,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Bronze Trophy - Indoor Warfare",
-        "Desc": "A bronze trophy from Perorodzilla for Indoor Warfare."
+        "Name": "Cúp đồng Perorodzilla - CT trong công trình",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Perorodzilla trong CT trong công trình."
     },
     {
         "Id": 100511,
@@ -3551,8 +3551,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Silver Trophy - Indoor Warfare",
-        "Desc": "A silver trophy from Perorodzilla for Indoor Warfare."
+        "Name": "Cúp bạc Perorodzilla - CT trong công trình",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Perorodzilla trong CT trong công trình."
     },
     {
         "Id": 100512,
@@ -3566,8 +3566,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Gold Trophy - Indoor Warfare",
-        "Desc": "A gold trophy from Perorodzilla for Indoor Warfare."
+        "Name": "Cúp vàng Perorodzilla - CT trong công trình",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Perorodzilla trong CT trong công trình."
     },
     {
         "Id": 100513,
@@ -3581,8 +3581,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Platinum Trophy - Indoor Warfare",
-        "Desc": "A platinum trophy from Perorodzilla for Indoor Warfare."
+        "Name": "Cúp bạch kim Perorodzilla - CT trong công trình",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Perorodzilla trong CT trong công trình."
     },
     {
         "Id": 100500,
@@ -3596,8 +3596,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Bronze Trophy - Field Warfare",
-        "Desc": "A bronze trophy from Perorodzilla for Field Warfare."
+        "Name": "Cúp đồng Perorodzilla - CT Dã chiến",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Perorodzilla trong CT dã chiến."
     },
     {
         "Id": 100501,
@@ -3611,8 +3611,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Silver Trophy - Field Warfare",
-        "Desc": "A silver trophy from Perorodzilla for Field Warfare."
+        "Name": "Cúp bạc Perorodzilla - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Perorodzilla trong CT dã chiến."
     },
     {
         "Id": 100502,
@@ -3626,8 +3626,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Gold Trophy - Field Warfare",
-        "Desc": "A gold trophy from Perorodzilla for Field Warfare."
+        "Name": "Cúp vàng Perorodzilla - CT Dã chiến",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Perorodzilla trong CT dã chiến."
     },
     {
         "Id": 100503,
@@ -3641,8 +3641,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "Perorodzilla Platinum Trophy - Field Warfare",
-        "Desc": "A platinum trophy from Perorodzilla for Field Warfare."
+        "Name": "Cúp bạch kim Perorodzilla - CT Dã chiến",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Perorodzilla trong CT dã chiến."
     },
     {
         "Id": 100620,
@@ -3716,8 +3716,8 @@
         "Category": "Decorations",
         "SubCategory": "Prop",
         "SetGroupId": 0,
-        "Name": "Trinity-Style Fountain",
-        "Desc": "A white fountain reminiscent of Trinity. Its sparkling water brings back fond memories."
+        "Name": "Đài phun nước kiểu Trinity",
+        "Desc": "Một đài phun nước màu trắng gợi nhớ đến Trinity. Nước lấp lánh của nó mang lại những kỷ niệm đẹp."
     },
     {
         "Id": 201301,
@@ -3731,8 +3731,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 0,
-        "Name": "Summer Concept Photo Board",
-        "Desc": "A whiteboard with photos of summer days. It contains precious memories."
+        "Name": "Bảng ảnh kỷ niệm mùa hè",
+        "Desc": "Một tấm bảng trắng với những bức ảnh của những ngày hè. Nó chứa đựng những kỷ niệm quý giá."
     },
     {
         "Id": 202301,
@@ -3746,8 +3746,8 @@
         "Category": "Decorations",
         "SubCategory": "Prop",
         "SetGroupId": 0,
-        "Name": "Twinkling Christmas Tree",
-        "Desc": "A Christmas tree that brightens up the cold winter. The twinkling lights warm everyone&#x27;s hearts."
+        "Name": "Cây thông Noel lấp lánh",
+        "Desc": "Một cây thông Noel bừng sáng giữa mùa đông lạnh giá. Ánh đèn lấp lánh sưởi ấm trái tim mọi người."
     },
     {
         "Id": 202302,
@@ -3761,7 +3761,7 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 0,
-        "Name": "Hot Springs Resort No. 227 Guide Board",
+        "Name": "Bảng hướng dẫn khu nghỉ dưỡng suối nóng số 227",
         "Desc": "A board with information about Hot Springs Resort No. 227. It has a map and information about the hot springs."
     },
     {

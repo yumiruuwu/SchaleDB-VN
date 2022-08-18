@@ -12,8 +12,8 @@
             "CraftCommitment"
         ],
         "Icon": "Item_Icon_CraftItem_0",
-        "Name": "Keystone Piece",
-        "Desc": "A Keystone piece required for operating the Crafting Chamber."
+        "Name": "Mảnh đá then hoa",
+        "Desc": "Cần có một mảnh đá then hoa để vận hành Phòng chế tạo."
     },
     {
         "Id": 2,
@@ -26,8 +26,8 @@
         "Quality": 9,
         "Tags": [],
         "Icon": "Item_Icon_CraftSkipItem",
-        "Name": "Booster Ticket",
-        "Desc": "A Booster Ticket that eliminates the Crafting Chamber&#x27;s preparation time."
+        "Name": "Vé tăng tốc",
+        "Desc": "Vé tăng tốc giúp loại bỏ thời gian chuẩn bị của Phòng chế tạo."
     },
     {
         "Id": 3,
@@ -42,8 +42,8 @@
             "CraftCommitment"
         ],
         "Icon": "Item_Icon_CraftItem_1",
-        "Name": "Keystone",
-        "Desc": "A Keystone required for operating the Crafting Chamber."
+        "Name": "Đá then hoa",
+        "Desc": "Cần có đá then hoa để vận hành Phòng chế tạo."
     },
     {
         "Id": 7,
@@ -56,8 +56,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_RaidCoin",
-        "Name": "Total Assault Coin",
-        "Desc": "This coin can be spent at the Total Assault Shop."
+        "Name": "Xu sự kiện Tổng tiến công",
+        "Desc": "Đồng xu này có thể dùng tại cửa hàng Tổng tiến công."
     },
     {
         "Id": 8,
@@ -70,8 +70,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ArenaCoin",
-        "Name": "Tactical Challenge Coin",
-        "Desc": "This coin can be spent at the Tactical Challenge Shop."
+        "Name": "Xu Thử thách chiến thuật",
+        "Desc": "Đồng xu này có thể dùng tại cửa hàng Thử thách chiến thuật."
     },
     {
         "Id": 9,
@@ -84,8 +84,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_RaidCoin_High",
-        "Name": "Total Assault Rare Coin",
-        "Desc": "This rare coin can be spent at the Total Assault Shop."
+        "Name": "Xu sự kiện Tổng tiến công hiếm",
+        "Desc": "Đồng xu hiếm này có thể dùng tại cửa hàng Tổng tiến công."
     },
     {
         "Id": 10,
@@ -100,8 +100,8 @@
             "ExpItem"
         ],
         "Icon": "Item_Icon_ExpItem_0",
-        "Name": "Novice Activity Report",
-        "Desc": "A report documenting student club activities. It details the experiences of countless students."
+        "Name": "Bản báo cáo hoạt động của người mới",
+        "Desc": "Một bản báo cáo ghi lại các hoạt động của câu lạc bộ học sinh. Nó trình bày chi tiết kinh nghiệm của vô số học sinh."
     },
     {
         "Id": 11,
@@ -116,8 +116,8 @@
             "ExpItem"
         ],
         "Icon": "Item_Icon_ExpItem_1",
-        "Name": "Normal Activity Report",
-        "Desc": "A report documenting student club activities. It details the experiences of countless students."
+        "Name": "Bản báo cáo hoạt động bình thường",
+        "Desc": "Một bản báo cáo ghi lại các hoạt động của câu lạc bộ học sinh. Nó trình bày chi tiết kinh nghiệm của vô số học sinh."
     },
     {
         "Id": 12,
@@ -132,8 +132,8 @@
             "ExpItem"
         ],
         "Icon": "Item_Icon_ExpItem_2",
-        "Name": "Advanced Activity Report",
-        "Desc": "A report documenting student club activities. It details the experiences of countless students."
+        "Name": "Bản báo cáo hoạt động nâng cao",
+        "Desc": "Một bản báo cáo ghi lại các hoạt động của câu lạc bộ học sinh. Nó trình bày chi tiết kinh nghiệm của vô số học sinh."
     },
     {
         "Id": 13,
@@ -148,8 +148,8 @@
             "ExpItem"
         ],
         "Icon": "Item_Icon_ExpItem_3",
-        "Name": "Superior Activity Report",
-        "Desc": "A report documenting student club activities. It details the experiences of countless students."
+        "Name": "Bản báo cáo hoạt động cao cấp",
+        "Desc": "Một bản báo cáo ghi lại các hoạt động của câu lạc bộ học sinh. Nó trình bày chi tiết kinh nghiệm của vô số học sinh."
     },
     {
         "Id": 23,
@@ -165,7 +165,7 @@
         ],
         "Icon": "Item_Icon_SecretStone",
         "Name": "Eligma",
-        "Desc": "The mystical essence of Eleph."
+        "Desc": "Bản chất thần bí của Eleph."
     },
     {
         "Id": 30,
@@ -178,8 +178,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_CafeRank_0",
-        "Name": "Cafe Facilities Core Lv. 1",
-        "Desc": "A core material required for upgrading the Cafe Rank."
+        "Name": "Cơ sở cốt lõi vật chất tiệm Cafe Lv. 1",
+        "Desc": "Một nguyên liệu cốt lõi cần thiết để nâng cấp xếp hạng tiệm cà phê."
     },
     {
         "Id": 31,
@@ -192,8 +192,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_CafeRank_1",
-        "Name": "Cafe Facilities Core Lv. 2",
-        "Desc": "A core material required for upgrading the Cafe Rank."
+        "Name": "Cơ sở cốt lõi vật chất tiệm Cafe Lv. 2",
+        "Desc": "Một nguyên liệu cốt lõi cần thiết để nâng cấp xếp hạng tiệm cà phê."
     },
     {
         "Id": 32,
@@ -206,8 +206,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_CafeRank_2",
-        "Name": "Cafe Facilities Core Lv. 3",
-        "Desc": "A core material required for upgrading the Cafe Rank."
+        "Name": "Cơ sở cốt lõi vật chất tiệm Cafe Lv. 3",
+        "Desc": "Một nguyên liệu cốt lõi cần thiết để nâng cấp xếp hạng tiệm cà phê."
     },
     {
         "Id": 33,
@@ -220,8 +220,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_CafeRank_3",
-        "Name": "Cafe Facilities Core Lv. 4",
-        "Desc": "A core material required for upgrading the Cafe Rank."
+        "Name": "Cơ sở cốt lõi vật chất tiệm Cafe Lv. 4",
+        "Desc": "Một nguyên liệu cốt lõi cần thiết để nâng cấp xếp hạng tiệm cà phê."
     },
     {
         "Id": 39,
@@ -234,8 +234,8 @@
         "Quality": 9,
         "Tags": [],
         "Icon": "Item_Icon_CafeRank_9",
-        "Name": "Cafe Facilities Core Lv. 10",
-        "Desc": "A core material required for upgrading the Cafe Rank."
+        "Name": "Cơ sở cốt lõi vật chất tiệm Cafe Lv. 10",
+        "Desc": "Một nguyên liệu cốt lõi cần thiết để nâng cấp xếp hạng tiệm cà phê."
     },
     {
         "Id": 60,
@@ -248,8 +248,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_TimeAttackCoin",
-        "Name": "Joint Firing Drill Coin",
-        "Desc": "This coin can be spent at the Joint Firing Drill Shop."
+        "Name": "Đồng xu khoan lỗ chung \"translation_error\"",
+        "Desc": "Đồng xu này có thể dùng tại Cửa hàng Máy khoan Chung. \"translation_error\""
     },
     {
         "Id": 61,
@@ -262,8 +262,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ChaserCoin",
-        "Name": "Bounty Coin",
-        "Desc": "This coin can be spent at the Bounty Shop."
+        "Name": "Xu thưởng",
+        "Desc": "Đồng xu này có thể dùng tại cửa hàng phần thưởng."
     },
     {
         "Id": 80,
