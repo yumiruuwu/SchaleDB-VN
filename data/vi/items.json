@@ -1812,7 +1812,7 @@
             "CDItemSR"
         ],
         "Icon": "Item_Icon_Material_ExSkill_Arius_2",
-        "Name": "Advance Tactical Training Blu-ray (Arius)",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Arius)",
         "Desc": "Một loại đĩa blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Arius."
     },
     {
@@ -5530,8 +5530,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_0",
-        "Name": "Beginner Tactical Training Blu-ray Chest",
-        "Desc": "A chest containing Tactical Training Blu-rays for improving EX skills."
+        "Name": "Hộp đựng đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu",
+        "Desc": "Một chiếc hộp chứa các đĩa Blu-ray huấn luyện chiến thuật để cải thiện các kỹ năng EX."
     },
     {
         "Id": 30001,
@@ -5544,8 +5544,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_1",
-        "Name": "Normal Tactical Training Blu-ray Chest",
-        "Desc": "A chest containing Tactical Training Blu-rays for improving EX skills."
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật thông thường",
+        "Desc": "Một chiếc hộp chứa các đĩa Blu-ray huấn luyện chiến thuật để cải thiện các kỹ năng EX."
     },
     {
         "Id": 30002,
@@ -5558,8 +5558,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_2",
-        "Name": "Advanced Training Blu-ray Chest",
-        "Desc": "A chest containing Tactical Training Blu-rays for improving EX skills."
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật nâng cao",
+        "Desc": "Một chiếc hộp chứa các đĩa Blu-ray huấn luyện chiến thuật để cải thiện các kỹ năng EX."
     },
     {
         "Id": 30003,
@@ -5572,8 +5572,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_3",
-        "Name": "Superior Tactical Training Blu-ray Chest",
-        "Desc": "A chest containing Tactical Training Blu-rays for improving EX skills."
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật cao cấp",
+        "Desc": "Một chiếc hộp chứa các đĩa Blu-ray huấn luyện chiến thuật để cải thiện các kỹ năng EX."
     },
     {
         "Id": 40000,
@@ -5642,7 +5642,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_0",
-        "Name": "Beginner Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
@@ -5656,7 +5656,7 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_1",
-        "Name": "Normal Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật thông thường",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
@@ -5670,7 +5670,7 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_2",
-        "Name": "Advanced Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật nâng cao",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
@@ -5684,7 +5684,7 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_3",
-        "Name": "Superior Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật cao cấp",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
@@ -5698,7 +5698,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_0",
-        "Name": "Beginner Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
@@ -5712,7 +5712,7 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_1",
-        "Name": "Normal Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật thông thường",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
@@ -5726,7 +5726,7 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_2",
-        "Name": "Advanced Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật nâng cao",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
@@ -5740,7 +5740,7 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Random_3",
-        "Name": "Superior Tactical Training Blu-ray Chest",
+        "Name": "Hộp đựng đĩa Blu-ray huấn luyện chiến thuật cao cấp",
         "Desc": "A chest containing a Tactical Training Blu-ray for improving EX skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {

@@ -6088,7 +6088,7 @@
     {
         "Id": 7001602,
         "DevName": "Kaitenranger_Red_AR_E",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6126,7 +6126,7 @@
     {
         "Id": 7001612,
         "DevName": "Kaitenranger_Black_HG_E",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6163,7 +6163,7 @@
     {
         "Id": 7001622,
         "DevName": "Kaitenranger_Green_MG_E",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6200,7 +6200,7 @@
     {
         "Id": 7001632,
         "DevName": "Kaitenranger_Yellow_SR_E",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6237,7 +6237,7 @@
     {
         "Id": 7001642,
         "DevName": "Kaitenranger_Pink_RL_E",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -10032,7 +10032,7 @@
     {
         "Id": 7010613,
         "DevName": "EnemyTSS_Crusader_PMC_C",
-        "Name": "Crusader",
+        "Name": "Quân thập tự chinh",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -11971,7 +11971,7 @@
     {
         "Id": 7020101,
         "DevName": "Terror_GasMask_Arius_SMG_M",
-        "Name": "Học sinh đe doạ thuộc trường Arius (SMG)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (SMG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -12006,7 +12006,7 @@
     {
         "Id": 7020102,
         "DevName": "Terror_GasMask_Arius_SMG_E",
-        "Name": "Học sinh đe doạ thuộc trường Arius (SMG)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (SMG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -12041,7 +12041,7 @@
     {
         "Id": 7020103,
         "DevName": "Terror_GasMask_Arius_SMG_C",
-        "Name": "Học sinh đe doạ thích giao tranh thuộc trường Arius",
+        "Name": "Học sinh đáng sợ thích giao tranh thuộc trường Arius",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -12077,7 +12077,7 @@
     {
         "Id": 7020111,
         "DevName": "Terror_GasMask_Arius_GL_M",
-        "Name": "Học sinh đe doạ thuộc trường Arius (GL)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (GL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -12112,7 +12112,7 @@
     {
         "Id": 7020112,
         "DevName": "Terror_GasMask_Arius_GL_E",
-        "Name": "Học sinh đe doạ thuộc trường Arius (GL)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (GL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -12147,7 +12147,7 @@
     {
         "Id": 7020113,
         "DevName": "Terror_GasMask_Arius_GL_C",
-        "Name": "Học sinh đe doạ mưu kế thuộc trường Arius",
+        "Name": "Học sinh đáng sợ mưu kế thuộc trường Arius",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -12183,7 +12183,7 @@
     {
         "Id": 7020121,
         "DevName": "Terror_GasMask_Arius_MG_M",
-        "Name": "Học sinh đe doạ thuộc trường Arius (MG)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (MG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -12218,7 +12218,7 @@
     {
         "Id": 7020122,
         "DevName": "Terror_GasMask_Arius_MG_E",
-        "Name": "Học sinh đe doạ thuộc trường Arius (MG)",
+        "Name": "Học sinh đáng sợ thuộc trường Arius (MG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -12253,7 +12253,7 @@
     {
         "Id": 7020123,
         "DevName": "Terror_GasMask_Arius_MG_C",
-        "Name": "Học sinh đe doạ tàn nhẫn thuộc trường Arius",
+        "Name": "Học sinh đáng sợ tàn nhẫn thuộc trường Arius",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -15926,7 +15926,7 @@
     {
         "Id": 7100002,
         "DevName": "Kaitenranger_Red_AR_C_WEEK",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -15964,7 +15964,7 @@
     {
         "Id": 7100012,
         "DevName": "Kaitenranger_Black_HG_C_WEEK",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -16001,7 +16001,7 @@
     {
         "Id": 7100022,
         "DevName": "Kaitenranger_Green_MG_C_WEEK",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -16038,7 +16038,7 @@
     {
         "Id": 7100032,
         "DevName": "Kaitenranger_Yellow_SR_C_WEEK",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -16075,7 +16075,7 @@
     {
         "Id": 7100042,
         "DevName": "Kaitenranger_Pink_RL_C_WEEK",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -16544,7 +16544,7 @@
     {
         "Id": 7100301,
         "DevName": "Soldier_Yoheki_SG_M_WEEK",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -16580,7 +16580,7 @@
     {
         "Id": 7100302,
         "DevName": "Soldier_Yoheki_SG_E_WEEK",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -16616,7 +16616,7 @@
     {
         "Id": 7100311,
         "DevName": "Soldier_Yoheki_AR_M_WEEK",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -16652,7 +16652,7 @@
     {
         "Id": 7100312,
         "DevName": "Soldier_Yoheki_AR_E_WEEK",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -16688,7 +16688,7 @@
     {
         "Id": 7100321,
         "DevName": "Soldier_Yoheki_SR_M_WEEK",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -16724,7 +16724,7 @@
     {
         "Id": 7100322,
         "DevName": "Soldier_Yoheki_SR_E_WEEK",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -16760,7 +16760,7 @@
     {
         "Id": 7100401,
         "DevName": "Soldier_YohekiPink_AR_M_WEEK",
-        "Name": "Labor Captain",
+        "Name": "Đội trưởng lao động",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -16796,7 +16796,7 @@
     {
         "Id": 7100402,
         "DevName": "Soldier_YohekiPink_AR_E_WEEK",
-        "Name": "Labor Captain",
+        "Name": "Đội trưởng lao động",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17276,7 +17276,7 @@
     {
         "Id": 7110001,
         "DevName": "Droid_Yoheki_Shield_M_WEEK",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17315,7 +17315,7 @@
     {
         "Id": 7110002,
         "DevName": "Droid_Yoheki_Shield_E_WEEK",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17354,7 +17354,7 @@
     {
         "Id": 7110011,
         "DevName": "Droid_Yoheki_AR_M_WEEK",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17392,7 +17392,7 @@
     {
         "Id": 7110012,
         "DevName": "Droid_Yoheki_AR_E_WEEK",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17430,7 +17430,7 @@
     {
         "Id": 7110021,
         "DevName": "Droid_Yoheki_RL_M_WEEK",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17468,7 +17468,7 @@
     {
         "Id": 7110022,
         "DevName": "Droid_Yoheki_RL_E_WEEK",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17506,7 +17506,7 @@
     {
         "Id": 7110101,
         "DevName": "Droid_Blackmarket_Shield_M_WEEK",
-        "Name": "Black Market Automaton (Shield)",
+        "Name": "Người máy thuộc Chợ đen (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17544,7 +17544,7 @@
     {
         "Id": 7110102,
         "DevName": "Droid_Blackmarket_Shield_E_WEEK",
-        "Name": "Black Market Automaton (Shield)",
+        "Name": "Người máy thuộc Chợ đen (Shield)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17582,7 +17582,7 @@
     {
         "Id": 7110111,
         "DevName": "Droid_Blackmarket_AR_M_WEEK",
-        "Name": "Black Market Automaton (AR)",
+        "Name": "Người máy thuộc Chợ đen (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17619,7 +17619,7 @@
     {
         "Id": 7110112,
         "DevName": "Droid_Blackmarket_AR_E_WEEK",
-        "Name": "Black Market Automaton (AR)",
+        "Name": "Người máy thuộc Chợ đen (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -17656,7 +17656,7 @@
     {
         "Id": 7110121,
         "DevName": "Droid_Blackmarket_RL_M_WEEK",
-        "Name": "Black Market Automaton (RL)",
+        "Name": "Người máy thuộc Chợ đen (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -17693,7 +17693,7 @@
     {
         "Id": 7110122,
         "DevName": "Droid_Blackmarket_RL_E_WEEK",
-        "Name": "Black Market Automaton (RL)",
+        "Name": "Người máy thuộc Chợ đen (RL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -19059,7 +19059,7 @@
     {
         "Id": 7110801,
         "DevName": "Sweeper_Decagram_Taser_White_M_WEEK",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -19097,7 +19097,7 @@
     {
         "Id": 7110812,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_WEEK",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -19137,7 +19137,7 @@
     {
         "Id": 7110822,
         "DevName": "Sweeper_Decagram_Taser_Black_E_WEEK",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -20061,7 +20061,7 @@
     {
         "Id": 7301107,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Normal",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -20096,7 +20096,7 @@
     {
         "Id": 7301108,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Normal",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -20453,7 +20453,7 @@
     {
         "Id": 7301207,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Hard",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -20488,7 +20488,7 @@
     {
         "Id": 7301208,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Hard",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -20845,7 +20845,7 @@
     {
         "Id": 7301307,
         "DevName": "ChesedGuardTower_Decagram_Grenade_VeryHard",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -20880,7 +20880,7 @@
     {
         "Id": 7301308,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_VeryHard",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -21237,7 +21237,7 @@
     {
         "Id": 7301407,
         "DevName": "ChesedGuardTower_Decagram_Grenade_HardCore",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -21272,7 +21272,7 @@
     {
         "Id": 7301408,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_HardCore",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -21629,7 +21629,7 @@
     {
         "Id": 7301507,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Extreme",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -21664,7 +21664,7 @@
     {
         "Id": 7301508,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Extreme",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -22021,7 +22021,7 @@
     {
         "Id": 7301607,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Insane",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Explosion",
@@ -22056,7 +22056,7 @@
     {
         "Id": 7301608,
         "DevName": "ChesedGuardTower_Decagram_Grenade_Summon_Insane",
-        "Name": "Guard Tower",
+        "Name": "Tháp canh",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Explosion",
@@ -22163,7 +22163,7 @@
     {
         "Id": 7301611,
         "DevName": "ChesedSweeper_Decagram_Taser_Summon_Insane",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Explosion",
@@ -23855,7 +23855,7 @@
     {
         "Id": 7304102,
         "DevName": "Kaitenranger_Red_AR_Normal",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -23893,7 +23893,7 @@
     {
         "Id": 7304103,
         "DevName": "Kaitenranger_Black_HG_Normal",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -23930,7 +23930,7 @@
     {
         "Id": 7304104,
         "DevName": "Kaitenranger_Green_MG_Normal",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -23967,7 +23967,7 @@
     {
         "Id": 7304105,
         "DevName": "Kaitenranger_Yellow_SR_Normal",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24004,7 +24004,7 @@
     {
         "Id": 7304106,
         "DevName": "Kaitenranger_Pink_RL_Normal",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24074,7 +24074,7 @@
     {
         "Id": 7304202,
         "DevName": "Kaitenranger_Red_AR_Hard",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24112,7 +24112,7 @@
     {
         "Id": 7304203,
         "DevName": "Kaitenranger_Black_HG_Hard",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24149,7 +24149,7 @@
     {
         "Id": 7304204,
         "DevName": "Kaitenranger_Green_MG_Hard",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24186,7 +24186,7 @@
     {
         "Id": 7304205,
         "DevName": "Kaitenranger_Yellow_SR_Hard",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24223,7 +24223,7 @@
     {
         "Id": 7304206,
         "DevName": "Kaitenranger_Pink_RL_Hard",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24293,7 +24293,7 @@
     {
         "Id": 7304302,
         "DevName": "Kaitenranger_Red_AR_VeryHard",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24331,7 +24331,7 @@
     {
         "Id": 7304303,
         "DevName": "Kaitenranger_Black_HG_VeryHard",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24368,7 +24368,7 @@
     {
         "Id": 7304304,
         "DevName": "Kaitenranger_Green_MG_VeryHard",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24405,7 +24405,7 @@
     {
         "Id": 7304305,
         "DevName": "Kaitenranger_Yellow_SR_VeryHard",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24442,7 +24442,7 @@
     {
         "Id": 7304306,
         "DevName": "Kaitenranger_Pink_RL_VeryHard",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24512,7 +24512,7 @@
     {
         "Id": 7304402,
         "DevName": "Kaitenranger_Red_AR_HardCore",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24550,7 +24550,7 @@
     {
         "Id": 7304403,
         "DevName": "Kaitenranger_Black_HG_HardCore",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24587,7 +24587,7 @@
     {
         "Id": 7304404,
         "DevName": "Kaitenranger_Green_MG_HardCore",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24624,7 +24624,7 @@
     {
         "Id": 7304405,
         "DevName": "Kaitenranger_Yellow_SR_HardCore",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24661,7 +24661,7 @@
     {
         "Id": 7304406,
         "DevName": "Kaitenranger_Pink_RL_HardCore",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24731,7 +24731,7 @@
     {
         "Id": 7304502,
         "DevName": "Kaitenranger_Red_AR_Extreme",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24769,7 +24769,7 @@
     {
         "Id": 7304503,
         "DevName": "Kaitenranger_Black_HG_Extreme",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24806,7 +24806,7 @@
     {
         "Id": 7304504,
         "DevName": "Kaitenranger_Green_MG_Extreme",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24843,7 +24843,7 @@
     {
         "Id": 7304505,
         "DevName": "Kaitenranger_Yellow_SR_Extreme",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24880,7 +24880,7 @@
     {
         "Id": 7304506,
         "DevName": "Kaitenranger_Pink_RL_Extreme",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -24950,7 +24950,7 @@
     {
         "Id": 7304602,
         "DevName": "Kaitenranger_Red_AR_Insane",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Pierce",
@@ -24988,7 +24988,7 @@
     {
         "Id": 7304603,
         "DevName": "Kaitenranger_Black_HG_Insane",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Pierce",
@@ -25025,7 +25025,7 @@
     {
         "Id": 7304604,
         "DevName": "Kaitenranger_Green_MG_Insane",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Pierce",
@@ -25062,7 +25062,7 @@
     {
         "Id": 7304605,
         "DevName": "Kaitenranger_Yellow_SR_Insane",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Pierce",
@@ -25099,7 +25099,7 @@
     {
         "Id": 7304606,
         "DevName": "Kaitenranger_Pink_RL_Insane",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Pierce",
@@ -31344,7 +31344,7 @@
     {
         "Id": 7404102,
         "DevName": "Kaitenranger_Red_AR_Street_Normal",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31382,7 +31382,7 @@
     {
         "Id": 7404103,
         "DevName": "Kaitenranger_Black_HG_Street_Normal",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31419,7 +31419,7 @@
     {
         "Id": 7404104,
         "DevName": "Kaitenranger_Green_MG_Street_Normal",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31456,7 +31456,7 @@
     {
         "Id": 7404105,
         "DevName": "Kaitenranger_Yellow_SR_Street_Normal",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31493,7 +31493,7 @@
     {
         "Id": 7404106,
         "DevName": "Kaitenranger_Pink_RL_Street_Normal",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31563,7 +31563,7 @@
     {
         "Id": 7404202,
         "DevName": "Kaitenranger_Red_AR_Street_Hard",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31601,7 +31601,7 @@
     {
         "Id": 7404203,
         "DevName": "Kaitenranger_Black_HG_Street_Hard",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31638,7 +31638,7 @@
     {
         "Id": 7404204,
         "DevName": "Kaitenranger_Green_MG_Street_Hard",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31675,7 +31675,7 @@
     {
         "Id": 7404205,
         "DevName": "Kaitenranger_Yellow_SR_Street_Hard",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31712,7 +31712,7 @@
     {
         "Id": 7404206,
         "DevName": "Kaitenranger_Pink_RL_Street_Hard",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31782,7 +31782,7 @@
     {
         "Id": 7404302,
         "DevName": "Kaitenranger_Red_AR_Street_VeryHard",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31820,7 +31820,7 @@
     {
         "Id": 7404303,
         "DevName": "Kaitenranger_Black_HG_Street_VeryHard",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31857,7 +31857,7 @@
     {
         "Id": 7404304,
         "DevName": "Kaitenranger_Green_MG_Street_VeryHard",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31894,7 +31894,7 @@
     {
         "Id": 7404305,
         "DevName": "Kaitenranger_Yellow_SR_Street_VeryHard",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -31931,7 +31931,7 @@
     {
         "Id": 7404306,
         "DevName": "Kaitenranger_Pink_RL_Street_VeryHard",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32001,7 +32001,7 @@
     {
         "Id": 7404402,
         "DevName": "Kaitenranger_Red_AR_Street_HardCore",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32039,7 +32039,7 @@
     {
         "Id": 7404403,
         "DevName": "Kaitenranger_Black_HG_Street_HardCore",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32076,7 +32076,7 @@
     {
         "Id": 7404404,
         "DevName": "Kaitenranger_Green_MG_Street_HardCore",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32113,7 +32113,7 @@
     {
         "Id": 7404405,
         "DevName": "Kaitenranger_Yellow_SR_Street_HardCore",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32150,7 +32150,7 @@
     {
         "Id": 7404406,
         "DevName": "Kaitenranger_Pink_RL_Street_HardCore",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32220,7 +32220,7 @@
     {
         "Id": 7404502,
         "DevName": "Kaitenranger_Red_AR_Street_Extreme",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32258,7 +32258,7 @@
     {
         "Id": 7404503,
         "DevName": "Kaitenranger_Black_HG_Street_Extreme",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32295,7 +32295,7 @@
     {
         "Id": 7404504,
         "DevName": "Kaitenranger_Green_MG_Street_Extreme",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32332,7 +32332,7 @@
     {
         "Id": 7404505,
         "DevName": "Kaitenranger_Yellow_SR_Street_Extreme",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32369,7 +32369,7 @@
     {
         "Id": 7404506,
         "DevName": "Kaitenranger_Pink_RL_Street_Extreme",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -32829,7 +32829,7 @@
     {
         "Id": 7900001,
         "DevName": "SchoolGirl_Sukeban_SMG_M_TUTORIAL",
-        "Name": "Thug (SMG)",
+        "Name": "Du côn (SMG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -32864,7 +32864,7 @@
     {
         "Id": 7900011,
         "DevName": "SchoolGirl_Sukeban_MG_M_TUTORIAL",
-        "Name": "Thug (MG)",
+        "Name": "Du côn (MG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -32899,7 +32899,7 @@
     {
         "Id": 7900022,
         "DevName": "SchoolGirl_Sukeban_SR_E_TUTORIAL",
-        "Name": "Thug (SR)",
+        "Name": "Du côn (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -33079,7 +33079,7 @@
     {
         "Id": 7900401,
         "DevName": "Soldier_YohekiPink_AR_M_TUTORIAL",
-        "Name": "Labor Captain (AR)",
+        "Name": "Đội trưởng lao động (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -33115,7 +33115,7 @@
     {
         "Id": 7900412,
         "DevName": "Soldier_YohekiPink_SMG_E_TUTORIAL",
-        "Name": "Labor Captain (SMG)",
+        "Name": "Đội trưởng lao động (SMG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -33226,7 +33226,7 @@
     {
         "Id": 7910122,
         "DevName": "Droid_Blackmarket_RL_E_TUTORIAL",
-        "Name": "Black Market Automaton (RL)",
+        "Name": "Người máy thuộc Chợ đen (RL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -33263,7 +33263,7 @@
     {
         "Id": 7910123,
         "DevName": "Droid_Blackmarket_RL_C_TUTORIAL",
-        "Name": "Aggressive Black Market Automaton",
+        "Name": "Người máy nóng giận thuộc Chợ đen",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -33301,7 +33301,7 @@
     {
         "Id": 7910543,
         "DevName": "HeavyTank_Kaiserpmc_Cannon_C_TUTORIAL",
-        "Name": "Enhanced Military Tank",
+        "Name": "Xe tăng quân đội được cải tiến",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -33338,7 +33338,7 @@
     {
         "Id": 7910613,
         "DevName": "EnemyTSS_Crusader_PMC_C_TUTORIAL",
-        "Name": "Crusader",
+        "Name": "Quân thập tự chinh",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -33373,7 +33373,7 @@
     {
         "Id": 7919901,
         "DevName": "Sweeper_Decagram_Taser_White_M_STORY",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -33411,7 +33411,7 @@
     {
         "Id": 7919912,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_STORY",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -33451,7 +33451,7 @@
     {
         "Id": 7919922,
         "DevName": "Sweeper_Decagram_Taser_Black_E_STORY",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35346,7 +35346,7 @@
     {
         "Id": 8030020,
         "DevName": "SchoolGirl_SukebanSwim_SMG_M_803Event_Stage05",
-        "Name": "Beach Thug (SMG)",
+        "Name": "Du côn bãi biển (SMG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -35381,7 +35381,7 @@
     {
         "Id": 8030021,
         "DevName": "SchoolGirl_SukebanSwim_SMG_E_803Event_Stage05",
-        "Name": "Beach Thug (SMG)",
+        "Name": "Du côn bãi biển (SMG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35416,7 +35416,7 @@
     {
         "Id": 8030022,
         "DevName": "SchoolGirl_SukebanSwim_MG_M_803Event_Stage05",
-        "Name": "Beach Thug (MG)",
+        "Name": "Du côn bãi biển (MG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -35451,7 +35451,7 @@
     {
         "Id": 8030023,
         "DevName": "SchoolGirl_SukebanSwim_MG_E_803Event_Stage05",
-        "Name": "Beach Thug (MG)",
+        "Name": "Du côn bãi biển (MG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35486,7 +35486,7 @@
     {
         "Id": 8030024,
         "DevName": "SchoolGirl_SukebanSwim_SR_M_803Event_Stage05",
-        "Name": "Beach Thug (SR)",
+        "Name": "Du côn bãi biển (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -35521,7 +35521,7 @@
     {
         "Id": 8030025,
         "DevName": "SchoolGirl_SukebanSwim_SR_E_803Event_Stage05",
-        "Name": "Beach Thug (SR)",
+        "Name": "Du côn bãi biển (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35556,7 +35556,7 @@
     {
         "Id": 8030026,
         "DevName": "SchoolGirlBoss_SukebanSwim_MG_C_803Event_Stage05",
-        "Name": "Thug Commando",
+        "Name": "Kẻ cầm đầu băng du côn",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -35741,7 +35741,7 @@
     {
         "Id": 8040005,
         "DevName": "SchoolGirl_SukebanSwim_SMG_E_804Event_05",
-        "Name": "Beach Thug (SMG)",
+        "Name": "Du côn bãi biển (SMG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35776,7 +35776,7 @@
     {
         "Id": 8040006,
         "DevName": "SchoolGirl_SukebanSwim_MG_E_804Event_06",
-        "Name": "Beach Thug (MG)",
+        "Name": "Du côn bãi biển (MG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35811,7 +35811,7 @@
     {
         "Id": 8040007,
         "DevName": "SchoolGirl_SukebanSwim_SR_E_804Event_07",
-        "Name": "Beach Thug (SR)",
+        "Name": "Du côn bãi biển (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -35846,7 +35846,7 @@
     {
         "Id": 8040008,
         "DevName": "SchoolGirlBoss_SukebanSwim_MG_C_804Event_08",
-        "Name": "Thug Commando",
+        "Name": "Kẻ cầm đầu băng du côn",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -37355,7 +37355,7 @@
     {
         "Id": 8090011,
         "DevName": "Kaitenranger_Red_AR_E_809Event_01",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37393,7 +37393,7 @@
     {
         "Id": 8090012,
         "DevName": "Kaitenranger_Black_HG_E_809Event_01",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37430,7 +37430,7 @@
     {
         "Id": 8090013,
         "DevName": "Kaitenranger_Green_MG_E_809Event_01",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37467,7 +37467,7 @@
     {
         "Id": 8090014,
         "DevName": "Kaitenranger_Yellow_SR_E_809Event_01",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37504,7 +37504,7 @@
     {
         "Id": 8090015,
         "DevName": "Kaitenranger_Pink_RL_E_809Event_01",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37578,7 +37578,7 @@
     {
         "Id": 8090021,
         "DevName": "GuardTurret_Kurokame_Grenede_M_809Event_03",
-        "Name": "Kurokame Gang Guard Tower (GL)",
+        "Name": "Tháp canh thuộc băng đảng Kurokame (GL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -37612,7 +37612,7 @@
     {
         "Id": 8090022,
         "DevName": "GuardTurret_Kurokame_Grenede_E_809Event_03",
-        "Name": "Kurokame Gang Guard Tower (GL)",
+        "Name": "Tháp canh thuộc băng đảng Kurokame (GL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37646,7 +37646,7 @@
     {
         "Id": 8090023,
         "DevName": "GuardTurret_Kurokame_Grenede_C_809Event_03",
-        "Name": "Enhanced Kurokame Gang Guard Tower",
+        "Name": "Tháp canh được cải tiến thuộc băng đảng Kurokame",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -37682,7 +37682,7 @@
     {
         "Id": 8090024,
         "DevName": "Droid_Kurokame_AR_M_809Event_03",
-        "Name": "Kurokame Gang Automaton (AR)",
+        "Name": "Người máy thuộc băng đảng Kurokame (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -37717,7 +37717,7 @@
     {
         "Id": 8090025,
         "DevName": "Droid_Kurokame_AR_E_809Event_03",
-        "Name": "Kurokame Gang Automaton (AR)",
+        "Name": "Người máy thuộc băng đảng Kurokame (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37752,7 +37752,7 @@
     {
         "Id": 8090026,
         "DevName": "Droid_Kurokame_AR_C_809Event_03",
-        "Name": "Swift Kurokame Gang Automaton",
+        "Name": "Người máy nhanh nhẹn thuộc băng đảng Kurokame",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -37790,7 +37790,7 @@
     {
         "Id": 8090027,
         "DevName": "Droid_Kurokame_RL_M_809Event_03",
-        "Name": "Kurokame Gang Automaton (RL)",
+        "Name": "Người máy thuộc băng đảng Kurokame (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -37825,7 +37825,7 @@
     {
         "Id": 8090028,
         "DevName": "Droid_Kurokame_RL_E_809Event_03",
-        "Name": "Kurokame Gang Automaton (RL)",
+        "Name": "Người máy thuộc băng đảng Kurokame (RL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37860,7 +37860,7 @@
     {
         "Id": 8090029,
         "DevName": "Droid_Kurokame_RL_C_809Event_03",
-        "Name": "Aggressive Kurokame Gang Automaton",
+        "Name": "Người máy nóng giận thuộc băng đảng Kurokame",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -37898,7 +37898,7 @@
     {
         "Id": 8090051,
         "DevName": "Kaitenranger_Red_AR_E_809Event_05",
-        "Name": "Kaitenger Red",
+        "Name": "Kaitenger Đỏ",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37936,7 +37936,7 @@
     {
         "Id": 8090052,
         "DevName": "Kaitenranger_Black_HG_E_809Event_05",
-        "Name": "Kaitenger Black",
+        "Name": "Kaitenger Đen",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -37973,7 +37973,7 @@
     {
         "Id": 8090053,
         "DevName": "Kaitenranger_Green_MG_E_809Event_05",
-        "Name": "Kaitenger Green",
+        "Name": "Kaitenger Xanh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38010,7 +38010,7 @@
     {
         "Id": 8090054,
         "DevName": "Kaitenranger_Yellow_SR_E_809Event_05",
-        "Name": "Kaitenger Yellow",
+        "Name": "Kaitenger Vàng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38047,7 +38047,7 @@
     {
         "Id": 8090055,
         "DevName": "Kaitenranger_Pink_RL_E_809Event_05",
-        "Name": "Kaitenger Pink",
+        "Name": "Kaitenger Hồng",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38703,7 +38703,7 @@
     {
         "Id": 8110001,
         "DevName": "EnemyTSS_Crusader_PMC_E_811Event_01",
-        "Name": "Crusader",
+        "Name": "Quân thập tự chinh",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38775,7 +38775,7 @@
     {
         "Id": 8110003,
         "DevName": "SchoolGirlBoss_SukebanSwim_MG_E_811Event_03",
-        "Name": "Thug Commando",
+        "Name": "Kẻ cầm đầu băng du côn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -40758,7 +40758,7 @@
     {
         "Id": 8150034,
         "DevName": "Sweeper_Decagram_Taser_White_M_815Event03",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -40796,7 +40796,7 @@
     {
         "Id": 8150035,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_815Event03",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -40836,7 +40836,7 @@
     {
         "Id": 8150036,
         "DevName": "Sweeper_Decagram_Taser_Black_E_815Event03",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -41277,7 +41277,7 @@
     {
         "Id": 8150062,
         "DevName": "SchoolGirlBoss_SukebanSwim_MG_E_815Event06",
-        "Name": "Thug Commando",
+        "Name": "Kẻ cầm đầu băng du côn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46291,7 +46291,7 @@
     {
         "Id": 7710001,
         "DevName": "Sweeper_Decagram_Taser_White_M_Special",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -46330,7 +46330,7 @@
     {
         "Id": 7710012,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_Special",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46371,7 +46371,7 @@
     {
         "Id": 7710022,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46412,7 +46412,7 @@
     {
         "Id": 7710031,
         "DevName": "Sweeper_Decagram_Taser_White_M_Special_Guard",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -46451,7 +46451,7 @@
     {
         "Id": 7710042,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_Special_Guard",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46492,7 +46492,7 @@
     {
         "Id": 7710052,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special_Guard",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46572,7 +46572,7 @@
     {
         "Id": 7710303,
         "DevName": "Kether_Decagram_Vulcan_Special",
-        "Name": "Kether Type.V",
+        "Name": "Kether Loại V",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -46610,7 +46610,7 @@
     {
         "Id": 7710313,
         "DevName": "Kether_Decagram_Cannon_Special",
-        "Name": "Kether Type.C",
+        "Name": "Kether Loại C",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -46648,7 +46648,7 @@
     {
         "Id": 7710323,
         "DevName": "Kether_Decagram_EMP_Special",
-        "Name": "Kether Type.E",
+        "Name": "Kether Loại E",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -46686,7 +46686,7 @@
     {
         "Id": 7710331,
         "DevName": "Sweeper_Decagram_Taser_White_M_Special_Kether",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -46725,7 +46725,7 @@
     {
         "Id": 7710342,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_Special_Kether",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46766,7 +46766,7 @@
     {
         "Id": 7710352,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special_Kether",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -46807,7 +46807,7 @@
     {
         "Id": 7710363,
         "DevName": "Kether_Decagram_Vulcan_Special_Challenge01",
-        "Name": "Kether Type.V",
+        "Name": "Kether Loại V",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -46845,7 +46845,7 @@
     {
         "Id": 7710373,
         "DevName": "Kether_Decagram_Cannon_Special_Challenge01",
-        "Name": "Kether Type.C",
+        "Name": "Kether Loại C",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -46883,7 +46883,7 @@
     {
         "Id": 7710383,
         "DevName": "Kether_Decagram_EMP_Special_Challenge01",
-        "Name": "Kether Type.E",
+        "Name": "Kether Loại E",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -47381,7 +47381,7 @@
     {
         "Id": 7801001,
         "DevName": "Sweeper_Decagram_Taser_White_M_TimeAttack_01",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -47419,7 +47419,7 @@
     {
         "Id": 7801101,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_TimeAttack_01",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47459,7 +47459,7 @@
     {
         "Id": 7801201,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_01",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47499,7 +47499,7 @@
     {
         "Id": 7801002,
         "DevName": "Sweeper_Decagram_Taser_White_M_TimeAttack_02",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -47537,7 +47537,7 @@
     {
         "Id": 7801102,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_TimeAttack_02",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47577,7 +47577,7 @@
     {
         "Id": 7801202,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_02",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47617,7 +47617,7 @@
     {
         "Id": 7801003,
         "DevName": "Sweeper_Decagram_Taser_White_M_TimeAttack_03",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -47655,7 +47655,7 @@
     {
         "Id": 7801103,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_TimeAttack_03",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47695,7 +47695,7 @@
     {
         "Id": 7801203,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_03",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47735,7 +47735,7 @@
     {
         "Id": 7801004,
         "DevName": "Sweeper_Decagram_Taser_White_M_TimeAttack_04",
-        "Name": "Sweeper",
+        "Name": "Máy quét dọn",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -47773,7 +47773,7 @@
     {
         "Id": 7801104,
         "DevName": "Sweeper_Decagram_Taser_Yellow_E_TimeAttack_04",
-        "Name": "Modded Sweeper",
+        "Name": "Máy quét dọn đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47813,7 +47813,7 @@
     {
         "Id": 7801204,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_04",
-        "Name": "Enhanced Sweeper",
+        "Name": "Máy quét dọn được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49145,7 +49145,7 @@
     {
         "Id": 7820001,
         "DevName": "Soldier_Yoheki_SG_M_TimeAttack_01",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49181,7 +49181,7 @@
     {
         "Id": 7820101,
         "DevName": "Soldier_Yoheki_AR_M_TimeAttack_01",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49217,7 +49217,7 @@
     {
         "Id": 7820201,
         "DevName": "Soldier_Yoheki_SR_M_TimeAttack_01",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49253,7 +49253,7 @@
     {
         "Id": 7820002,
         "DevName": "Soldier_Yoheki_SG_M_TimeAttack_02",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49289,7 +49289,7 @@
     {
         "Id": 7820102,
         "DevName": "Soldier_Yoheki_AR_M_TimeAttack_02",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49325,7 +49325,7 @@
     {
         "Id": 7820202,
         "DevName": "Soldier_Yoheki_SR_M_TimeAttack_02",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49361,7 +49361,7 @@
     {
         "Id": 7820003,
         "DevName": "Soldier_Yoheki_SG_M_TimeAttack_03",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49397,7 +49397,7 @@
     {
         "Id": 7820103,
         "DevName": "Soldier_Yoheki_AR_M_TimeAttack_03",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49433,7 +49433,7 @@
     {
         "Id": 7820203,
         "DevName": "Soldier_Yoheki_SR_M_TimeAttack_03",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49469,7 +49469,7 @@
     {
         "Id": 7820004,
         "DevName": "Soldier_Yoheki_SG_M_TimeAttack_04",
-        "Name": "Part-Timer (SG)",
+        "Name": "Người làm bán thời gian (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49505,7 +49505,7 @@
     {
         "Id": 7820104,
         "DevName": "Soldier_Yoheki_AR_M_TimeAttack_04",
-        "Name": "Part-Timer (AR)",
+        "Name": "Người làm bán thời gian (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49541,7 +49541,7 @@
     {
         "Id": 7820204,
         "DevName": "Soldier_Yoheki_SR_M_TimeAttack_04",
-        "Name": "Part-Timer (SR)",
+        "Name": "Người làm bán thời gian (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49577,7 +49577,7 @@
     {
         "Id": 7820301,
         "DevName": "Soldier_YohekiPink_SMG_M_TimeAttack_01",
-        "Name": "Labor Captain (SMG)",
+        "Name": "Đội trưởng lao động (SMG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49613,7 +49613,7 @@
     {
         "Id": 7820401,
         "DevName": "Soldier_YohekiPink_AR_M_TimeAttack_01",
-        "Name": "Labor Captain (AR)",
+        "Name": "Đội trưởng lao động (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49649,7 +49649,7 @@
     {
         "Id": 7820501,
         "DevName": "Soldier_YohekiPink_MG_M_TimeAttack_01",
-        "Name": "Labor Captain (MG)",
+        "Name": "Đội trưởng lao động (MG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49685,7 +49685,7 @@
     {
         "Id": 7821001,
         "DevName": "Droid_Yoheki_Shield_M_TimeAttack_01",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49724,7 +49724,7 @@
     {
         "Id": 7821101,
         "DevName": "Droid_Yoheki_AR_M_TimeAttack_01",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49762,7 +49762,7 @@
     {
         "Id": 7821201,
         "DevName": "Droid_Yoheki_RL_M_TimeAttack_01",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49800,7 +49800,7 @@
     {
         "Id": 7821002,
         "DevName": "Droid_Yoheki_Shield_M_TimeAttack_02",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49839,7 +49839,7 @@
     {
         "Id": 7821102,
         "DevName": "Droid_Yoheki_AR_M_TimeAttack_02",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49877,7 +49877,7 @@
     {
         "Id": 7821202,
         "DevName": "Droid_Yoheki_RL_M_TimeAttack_02",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49915,7 +49915,7 @@
     {
         "Id": 7821003,
         "DevName": "Droid_Yoheki_Shield_M_TimeAttack_03",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49954,7 +49954,7 @@
     {
         "Id": 7821103,
         "DevName": "Droid_Yoheki_AR_M_TimeAttack_03",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49992,7 +49992,7 @@
     {
         "Id": 7821203,
         "DevName": "Droid_Yoheki_RL_M_TimeAttack_03",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50030,7 +50030,7 @@
     {
         "Id": 7821004,
         "DevName": "Droid_Yoheki_Shield_M_TimeAttack_04",
-        "Name": "Mass-Produced Automaton (Shield)",
+        "Name": "Người máy được sản xuất hàng loạt (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50069,7 +50069,7 @@
     {
         "Id": 7821104,
         "DevName": "Droid_Yoheki_AR_M_TimeAttack_04",
-        "Name": "Mass-Produced Automaton (AR)",
+        "Name": "Người máy được sản xuất hàng loạt (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50107,7 +50107,7 @@
     {
         "Id": 7821204,
         "DevName": "Droid_Yoheki_RL_M_TimeAttack_04",
-        "Name": "Mass-Produced Automaton (RL)",
+        "Name": "Người máy được sản xuất hàng loạt (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50145,7 +50145,7 @@
     {
         "Id": 7822001,
         "DevName": "Terror_Droid_Mimesis_Shield_M_TimeAttack_01",
-        "Name": "Menacing Automaton (Shield)",
+        "Name": "Người máy đáng sợ (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50181,7 +50181,7 @@
     {
         "Id": 7822101,
         "DevName": "Terror_Droid_Mimesis_AR_M_TimeAttack_01",
-        "Name": "Menacing Automaton (AR)",
+        "Name": "Người máy đáng sợ (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50216,7 +50216,7 @@
     {
         "Id": 7822201,
         "DevName": "Terror_Droid_Mimesis_RL_M_TimeAttack_01",
-        "Name": "Menacing Automaton (RL)",
+        "Name": "Người máy đáng sợ (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50251,7 +50251,7 @@
     {
         "Id": 7822002,
         "DevName": "Terror_Droid_Mimesis_Shield_M_TimeAttack_02",
-        "Name": "Menacing Automaton (Shield)",
+        "Name": "Người máy đáng sợ (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50287,7 +50287,7 @@
     {
         "Id": 7822102,
         "DevName": "Terror_Droid_Mimesis_AR_M_TimeAttack_02",
-        "Name": "Menacing Automaton (AR)",
+        "Name": "Người máy đáng sợ (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50322,7 +50322,7 @@
     {
         "Id": 7822202,
         "DevName": "Terror_Droid_Mimesis_RL_M_TimeAttack_02",
-        "Name": "Menacing Automaton (RL)",
+        "Name": "Người máy đáng sợ (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50357,7 +50357,7 @@
     {
         "Id": 7822003,
         "DevName": "Terror_Droid_Mimesis_Shield_M_TimeAttack_03",
-        "Name": "Menacing Automaton (Shield)",
+        "Name": "Người máy đáng sợ (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50393,7 +50393,7 @@
     {
         "Id": 7822103,
         "DevName": "Terror_Droid_Mimesis_AR_M_TimeAttack_03",
-        "Name": "Menacing Automaton (AR)",
+        "Name": "Người máy đáng sợ (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50428,7 +50428,7 @@
     {
         "Id": 7822203,
         "DevName": "Terror_Droid_Mimesis_RL_M_TimeAttack_03",
-        "Name": "Menacing Automaton (RL)",
+        "Name": "Người máy đáng sợ (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50463,7 +50463,7 @@
     {
         "Id": 7822004,
         "DevName": "Terror_Droid_Mimesis_Shield_M_TimeAttack_04",
-        "Name": "Menacing Automaton (Shield)",
+        "Name": "Người máy đáng sợ (Shield)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50499,7 +50499,7 @@
     {
         "Id": 7822104,
         "DevName": "Terror_Droid_Mimesis_AR_M_TimeAttack_04",
-        "Name": "Menacing Automaton (AR)",
+        "Name": "Người máy đáng sợ (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50534,7 +50534,7 @@
     {
         "Id": 7822204,
         "DevName": "Terror_Droid_Mimesis_RL_M_TimeAttack_04",
-        "Name": "Menacing Automaton (RL)",
+        "Name": "Người máy đáng sợ (RL)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -50569,7 +50569,7 @@
     {
         "Id": 7823099,
         "DevName": "Totem03_TimeAttack_M_TimeAttack",
-        "Name": "Scarecrow",
+        "Name": "Bù nhìn",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",
@@ -50601,7 +50601,7 @@
     {
         "Id": 7823199,
         "DevName": "Totem03_TimeAttack_M_01_TimeAttack",
-        "Name": "Scarecrow",
+        "Name": "Bù nhìn",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",
@@ -50633,7 +50633,7 @@
     {
         "Id": 7823299,
         "DevName": "Totem03_TimeAttack_M_02_TimeAttack",
-        "Name": "Scarecrow",
+        "Name": "Bù nhìn",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",
