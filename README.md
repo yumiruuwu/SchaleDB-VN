@@ -28,7 +28,7 @@ This repo is intended to serve players in Vietnam who don't understand English/J
 | ✔️  | English  |	*in-game*	|
 | ✔️  | Japanese  |	*in-game*	|
 | ✔️  | Korean  |	*in-game*	|
-| ✔️  | Chinese  |	*in-game*	|
+| ✔️  | Chinese  |	Blue-Roar	|
 | ✔️  | Thai  |	TKRotund	|
 | ❌  | Vietnamese  |	auto-translate*	|
 
