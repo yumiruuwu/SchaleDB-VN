@@ -5586,8 +5586,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_0",
-        "Name": "Beginner Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills."
+        "Name": "Hộp đựng ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng."
     },
     {
         "Id": 40001,
@@ -5600,8 +5600,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_1",
-        "Name": "Normal Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills."
+        "Name": "Hộp ghi chú kỹ thuật thông thường",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng."
     },
     {
         "Id": 40002,
@@ -5614,8 +5614,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_2",
-        "Name": "Advanced Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills."
+        "Name": "Hộp ghi chú kỹ thuật nâng cao",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng."
     },
     {
         "Id": 40003,
@@ -5628,8 +5628,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_3",
-        "Name": "Superior Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills."
+        "Name": "Hộp ghi chú kỹ thuật cao cấp",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng."
     },
     {
         "Id": 50000,
@@ -5754,8 +5754,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_0",
-        "Name": "Beginner Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
+        "Name": "Hộp đựng ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
         "Id": 60001,
@@ -5768,8 +5768,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_1",
-        "Name": "Normal Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
+        "Name": "Hộp ghi chú kỹ thuật thông thường",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
         "Id": 60002,
@@ -5782,8 +5782,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_2",
-        "Name": "Advanced Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
+        "Name": "Hộp ghi chú kỹ thuật nâng cao",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
         "Id": 60003,
@@ -5796,8 +5796,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_3",
-        "Name": "Superior Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
+        "Name": "Hộp ghi chú kỹ thuật cao cấp",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Gehenna, Shanhaijing, Trinity, or Valkyrie."
     },
     {
         "Id": 60004,
@@ -5810,8 +5810,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_0",
-        "Name": "Beginner Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
+        "Name": "Hộp đựng ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
         "Id": 60005,
@@ -5824,8 +5824,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_1",
-        "Name": "Normal Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
+        "Name": "Hộp ghi chú kỹ thuật thông thường",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
         "Id": 60006,
@@ -5838,8 +5838,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_2",
-        "Name": "Advanced Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
+        "Name": "Hộp ghi chú kỹ thuật nâng cao",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
         "Id": 60007,
@@ -5852,8 +5852,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Random_3",
-        "Name": "Superior Tech Notes Chest",
-        "Desc": "A chest containing Tech Notes for enhancing skills. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
+        "Name": "Hộp ghi chú kỹ thuật cao cấp",
+        "Desc": "Một cái hộp chứa ghi chú kỹ thuật để cải thiện kỹ năng. Contains one from either the Abydos, Millennium, Hyakkiyako, or Red Winter Academy."
     },
     {
         "Id": 60008,
@@ -5866,7 +5866,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Gehenna_0",
-        "Name": "Beginner Tech Notes (Gehenna)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Gehenna)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
@@ -5880,7 +5880,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Gehenna_0",
-        "Name": "Beginner Tech Notes (Gehenna)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Gehenna)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
@@ -5894,7 +5894,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Abydos_0",
-        "Name": "Beginner Tech Notes (Abydos)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Abydos)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
@@ -5908,7 +5908,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Abydos_0",
-        "Name": "Beginner Tech Notes (Abydos)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Abydos)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
     },
     {
@@ -5922,7 +5922,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Millennium_0",
-        "Name": "Beginner Tech Notes (Millennium)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Millennium)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
@@ -5936,7 +5936,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Millennium_0",
-        "Name": "Beginner Tech Notes (Millennium)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Millennium)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường Millennium."
     },
     {
@@ -5950,7 +5950,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Trinity_0",
-        "Name": "Beginner Tech Notes (Trinity)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Trinity)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
@@ -5964,7 +5964,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Trinity_0",
-        "Name": "Beginner Tech Notes (Trinity)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Trinity)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường tổng hợp Trinity."
     },
     {
@@ -5978,7 +5978,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
-        "Name": "Beginner Tech Notes (Red Winter)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Red Winter)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
@@ -5992,7 +5992,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
-        "Name": "Beginner Tech Notes (Red Winter)",
+        "Name": "Ghi chú kỹ thuật dành cho người mới bắt đầu (Red Winter)",
         "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Red Winter."
     },
     {
@@ -6006,8 +6006,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 80001,
@@ -6020,8 +6020,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_0",
-        "Name": "Kitsune Senbei",
-        "Desc": "The iconic street food of Hyakkiyako&#x27;s festivals. Each crispy bite is full of melt-in-your-mouth deliciousness! "
+        "Name": "Bánh gạo Kitsune",
+        "Desc": "Món ăn đường phố mang tính biểu tượng của các lễ hội ở Hyakkiyako. Từng miếng bánh giòn rụm mang lại hương vị thơm ngon tan chảy trong miệng! "
     },
     {
         "Id": 80002,
@@ -6035,7 +6035,7 @@
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_1",
         "Name": "Tanuki Okonomiyaki",
-        "Desc": "It&#x27;s not a Hyakkiyako festival without this beloved treat! The raccoon drawn in mayo is adorable."
+        "Desc": "Sẽ không phải là lễ hội Hyakkiyako nếu không có món ăn được yêu thích này! Chú gấu mèo được vẽ bằng mayo thật đáng yêu."
     },
     {
         "Id": 80003,
@@ -6049,7 +6049,7 @@
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_2",
         "Name": "Sakura Daifuku",
-        "Desc": "The steadiest-selling dessert of Hyakkiyako&#x27;s Momoyodou tea house. Its subtle yet rich sweetness makes it a classic."
+        "Desc": "Món tráng miệng bán chạy nhất của tiệm trà Momoyodou ở Hyakkiyako. Vị ngọt tinh tế nhưng đậm đà của nó làm cho nó trở thành một món ăn cổ điển."
     },
     {
         "Id": 80010,
@@ -6063,7 +6063,7 @@
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_3_S4",
         "Name": "Cherino Matryoshka",
-        "Desc": "A matryoshka made in Cherino&#x27;s majestic likeness. Something rattles inside when you shake it."
+        "Desc": "Một tấm matryoshka được làm theo vẻ đẹp hùng vĩ của Cherino. Có gì đó kêu lục cục bên trong khi bạn lắc nó."
     },
     {
         "Id": 80011,
@@ -6077,7 +6077,7 @@
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_0_S4",
         "Name": "Cherenka Chocolate",
-        "Desc": "An affordable milk chocolate made by the Red Winter School Lunch Club. It&#x27;s sweet and soft, but Red Winter students find it difficult to eat when hardened by the cold."
+        "Desc": "Một loại sô cô la sữa giá cả vừa phải do trường Red Winter Lunch Club làm. Có vị ngọt và mềm, nhưng học sinh Red Winter lại cảm thấy khó ăn khi cứng lại vì lạnh."
     },
     {
         "Id": 80012,
@@ -6090,8 +6090,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_1_S4",
-        "Name": "Mustache Crepe",
-        "Desc": "A sweet and soft crepe sold throughout the Red Winter Academy. Also known as a blini. Cherino&#x27;s approval is required to add the mustache-shaped cream decoration."
+        "Name": "Bánh Crepe ria mép",
+        "Desc": "Bánh crepe ngọt và mềm được bán khắp học viện Red Winter. Còn được gọi là bánh hạnh nhân. Cần phải có sự chấp thuận của Cherino để thêm phần trang trí kem hình ria mép."
     },
     {
         "Id": 80013,
@@ -6104,8 +6104,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_2_S4",
-        "Name": "Red Mustache Medal",
-        "Desc": "A luxurious gold medal with precious stones awarded to students Cherino recognizes as worthy. Most keep it stored in their desks due to its sharp edges."
+        "Name": "Huy chương ria mép đỏ",
+        "Desc": "Huy chương vàng sang trọng gắn đá quý được trao cho các học sinh mà Cherino công nhận là xứng đáng. Hầu hết giữ nó trong bàn làm việc của họ do các cạnh sắc của nó."
     },
     {
         "Id": 80020,
@@ -6118,8 +6118,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 80021,
@@ -6134,8 +6134,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_0_S6",
-        "Name": "Beach Volleyball",
-        "Desc": "A cute beach volleyball."
+        "Name": "Bóng chuyền bãi biển",
+        "Desc": "Một quả bóng chuyền bãi biển dễ thương."
     },
     {
         "Id": 80022,
@@ -6150,8 +6150,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_1_S6",
-        "Name": "Beach Shack Meal Ticket",
-        "Desc": "A shabby meal ticket that can be used at the Beach Shack."
+        "Name": "Vé bữa ăn trên bãi biển",
+        "Desc": "Một vé ăn tồi tàn có thể được sử dụng tại Beach Shack."
     },
     {
         "Id": 80023,
@@ -6166,8 +6166,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_2_S6",
-        "Name": "Weird Fireworks",
-        "Desc": "Has the shape of a cute missile."
+        "Name": "Pháo hoa kỳ lạ",
+        "Desc": "Có hình dạng của một tên lửa dễ thương."
     },
     {
         "Id": 80024,
@@ -6180,8 +6180,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_00_S6",
-        "Name": "Ice Cooler",
-        "Desc": "An ice cooler that can store fruit and drinks at a cool temperature. It&#x27;s also effective at storing temperature-sensitive firearms."
+        "Name": "Hộp giữ lạnh",
+        "Desc": "Một hộp giữ lạnh có thể bảo quản trái cây và đồ uống ở nhiệt độ mát. Nó cũng có hiệu quả trong việc lưu trữ các loại súng nhạy cảm với nhiệt độ."
     },
     {
         "Id": 80025,
@@ -6194,8 +6194,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_01_S6",
-        "Name": "Sand Play Set",
-        "Desc": "A Sand Play Set with tools for building simple sand castles. Cement and rebar not included. "
+        "Name": "Bộ chơi cát",
+        "Desc": "Một bộ chơi cát với các công cụ để xây lâu đài cát đơn giản. Xi măng và thanh thép không bao gồm."
     },
     {
         "Id": 80026,
@@ -6208,8 +6208,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_02_S6",
-        "Name": "Beach Chair",
-        "Desc": "A modern beach chair with soft fabric laid atop wood. It&#x27;s waterproof, allowing you to use it with ease at the beach."
+        "Name": "Ghế bãi biển",
+        "Desc": "Một chiếc ghế bãi biển hiện đại với chất liệu vải mềm mại được đặt trên đỉnh gỗ. Nó không thấm nước, cho phép bạn sử dụng nó một cách thoải mái trên bãi biển."
     },
     {
         "Id": 80027,
@@ -6222,8 +6222,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_03_S6",
-        "Name": "Parasol Table",
-        "Desc": "A solid wood table with a sunshade parasol. A proper lady can&#x27;t miss tea time, even at the beach."
+        "Name": "Bàn dù",
+        "Desc": "Bàn gỗ có dù che nắng. Một quý cô thực sự không thể bỏ lỡ thời gian uống trà, ngay cả khi ở bãi biển."
     },
     {
         "Id": 80028,
@@ -6236,8 +6236,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_04_S6",
-        "Name": "Water Play Equipment",
-        "Desc": "Full-fledged watersports equipment with a snorkel and oxygen tank. Not recommend for depths exceeding 50m."
+        "Name": "Trang bị chơi dưới nước",
+        "Desc": "Trang bị thể thao dưới nước đầy đủ với ống thở và bình dưỡng khí. Không khuyến nghị cho độ sâu vượt quá 50m."
     },
     {
         "Id": 80029,
@@ -6250,8 +6250,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_05_S6",
-        "Name": "Sailing Board",
-        "Desc": "A board with sails attached to the hull to increase acceleration. It&#x27;s easy to balance, making it perfect for beginners."
+        "Name": "Thuyền buồm",
+        "Desc": "Một tấm ván có gắn cánh buồm vào thân tàu để tăng gia tốc. Nó dễ dàng để cân bằng, làm cho nó hoàn hảo cho người mới bắt đầu."
     },
     {
         "Id": 80030,
@@ -6320,8 +6320,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 80041,
@@ -6432,8 +6432,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 80061,
@@ -6858,8 +6858,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points (Rerun)",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện (lặp lại)",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 85001,
@@ -6872,8 +6872,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_0",
-        "Name": "Kitsune Senbei (Rerun)",
-        "Desc": "The iconic street food of Hyakkiyako&#x27;s festivals. Each crispy bite is full of melt-in-your-mouth deliciousness! "
+        "Name": "Bánh gạo Kitsune (lặp lại)",
+        "Desc": "Món ăn đường phố mang tính biểu tượng của các lễ hội ở Hyakkiyako. Từng miếng bánh giòn rụm mang lại hương vị thơm ngon tan chảy trong miệng! "
     },
     {
         "Id": 85002,
@@ -6886,8 +6886,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_1",
-        "Name": "Tanuki Okonomiyaki (Rerun)",
-        "Desc": "It&#x27;s not a Hyakkiyako festival without this beloved treat! The raccoon drawn in mayo is adorable."
+        "Name": "Tanuki Okonomiyaki (lặp lại)",
+        "Desc": "Sẽ không phải là lễ hội Hyakkiyako nếu không có món ăn được yêu thích này! Chú gấu mèo được vẽ bằng mayo thật đáng yêu."
     },
     {
         "Id": 85003,
@@ -6900,8 +6900,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_2",
-        "Name": "Sakura Daifuku (Rerun)",
-        "Desc": "The steadiest-selling dessert of Hyakkiyako&#x27;s Momoyodou tea house. Its subtle yet rich sweetness makes it a classic."
+        "Name": "Sakura Daifuku (lặp lại)",
+        "Desc": "Món tráng miệng bán chạy nhất của tiệm trà Momoyodou ở Hyakkiyako. Vị ngọt tinh tế nhưng đậm đà của nó làm cho nó trở thành một món ăn cổ điển."
     },
     {
         "Id": 85010,
@@ -6914,8 +6914,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_3_S4",
-        "Name": "Cherino Matryoshka (Rerun)",
-        "Desc": "A matryoshka made in Cherino&#x27;s majestic likeness. Something rattles inside when you shake it."
+        "Name": "Cherino Matryoshka (lặp lại)",
+        "Desc": "Một tấm matryoshka được làm theo vẻ đẹp hùng vĩ của Cherino. Có gì đó kêu lục cục bên trong khi bạn lắc nó."
     },
     {
         "Id": 85011,
@@ -6928,8 +6928,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_0_S4",
-        "Name": "Cherenka Chocolate (Rerun)",
-        "Desc": "An affordable milk chocolate made by the Red Winter School Lunch Club. It&#x27;s sweet and soft, but Red Winter students find it difficult to eat when hardened by the cold."
+        "Name": "Cherenka Chocolate (lặp lại)",
+        "Desc": "Một loại sô cô la sữa giá cả vừa phải do trường Red Winter Lunch Club làm. Có vị ngọt và mềm, nhưng học sinh Red Winter lại cảm thấy khó ăn khi cứng lại vì lạnh."
     },
     {
         "Id": 85012,
@@ -6942,8 +6942,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_1_S4",
-        "Name": "Mustache Crepe (Rerun)",
-        "Desc": "A sweet and soft crepe sold throughout the Red Winter Academy. Also known as a blini. Cherino&#x27;s approval is required to add the mustache-shaped cream decoration."
+        "Name": "Bánh Crepe ria mép (lặp lại)",
+        "Desc": "Bánh crepe ngọt và mềm được bán khắp học viện Red Winter. Còn được gọi là bánh hạnh nhân. Cần phải có sự chấp thuận của Cherino để thêm phần trang trí kem hình ria mép."
     },
     {
         "Id": 85013,
@@ -6956,8 +6956,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_2_S4",
-        "Name": "Red Mustache Medal (Rerun)",
-        "Desc": "A luxurious gold medal with precious stones awarded to students Cherino recognizes as worthy. Most keep it stored in their desks due to its sharp edges."
+        "Name": "Huy chương ria mép đỏ (lặp lại)",
+        "Desc": "Huy chương vàng sang trọng gắn đá quý được trao cho các học sinh mà Cherino công nhận là xứng đáng. Hầu hết giữ nó trong bàn làm việc của họ do các cạnh sắc của nó."
     },
     {
         "Id": 85020,
@@ -6970,8 +6970,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Item_0",
-        "Name": "Event Points (Rerun)",
-        "Desc": "These points are earned each time you progress in an event. The more you earn, the greater the variety of rewards you can receive."
+        "Name": "Điểm sự kiện (lặp lại)",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
     },
     {
         "Id": 85021,
@@ -6986,8 +6986,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_0_S6",
-        "Name": "Beach Volleyball (Rerun)",
-        "Desc": "A cute beach volleyball."
+        "Name": "Bóng chuyền bãi biển (lặp lại)",
+        "Desc": "Một quả bóng chuyền bãi biển dễ thương."
     },
     {
         "Id": 85022,
@@ -7002,8 +7002,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_1_S6",
-        "Name": "Beach Shack Meal Ticket (Rerun)",
-        "Desc": "A shabby meal ticket that can be used at the Beach Shack."
+        "Name": "Vé bữa ăn trên bãi biển (lặp lại)",
+        "Desc": "Một vé ăn tồi tàn có thể được sử dụng tại Beach Shack."
     },
     {
         "Id": 85023,
@@ -7018,8 +7018,8 @@
             "Token_S6"
         ],
         "Icon": "Item_Icon_Event_Token_2_S6",
-        "Name": "Weird Fireworks (Rerun)",
-        "Desc": "Has the shape of a cute missile."
+        "Name": "Pháo hoa kỳ lạ (lặp lại)",
+        "Desc": "Có hình dạng của một tên lửa dễ thương."
     },
     {
         "Id": 85024,
@@ -7032,8 +7032,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_00_S6",
-        "Name": "Ice Cooler (Rerun)",
-        "Desc": "An ice cooler that can store fruit and drinks at a cool temperature. It&#x27;s also effective at storing temperature-sensitive firearms."
+        "Name": "Hộp giữ lạnh (lặp lại)",
+        "Desc": "Một hộp giữ lạnh có thể bảo quản trái cây và đồ uống ở nhiệt độ mát. Nó cũng có hiệu quả trong việc lưu trữ các loại súng nhạy cảm với nhiệt độ."
     },
     {
         "Id": 85025,
@@ -7046,8 +7046,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_01_S6",
-        "Name": "Sand Play Set (Rerun)",
-        "Desc": "A Sand Play Set with tools for building simple sand castles. Cement and rebar not included. "
+        "Name": "Bộ chơi cát (lặp lại)",
+        "Desc": "Một bộ chơi cát với các công cụ để xây lâu đài cát đơn giản. Xi măng và thanh thép không bao gồm."
     },
     {
         "Id": 85026,
@@ -7060,8 +7060,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_02_S6",
-        "Name": "Beach Chair (Rerun)",
-        "Desc": "A modern beach chair with soft fabric laid atop wood. It&#x27;s waterproof, allowing you to use it with ease at the beach."
+        "Name": "Ghế bãi biển (lặp lại)",
+        "Desc": "Một chiếc ghế bãi biển hiện đại với chất liệu vải mềm mại được đặt trên đỉnh gỗ. Nó không thấm nước, cho phép bạn sử dụng nó một cách thoải mái trên bãi biển."
     },
     {
         "Id": 85027,
@@ -7074,8 +7074,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_03_S6",
-        "Name": "Parasol Table (Rerun)",
-        "Desc": "A solid wood table with a sunshade parasol. A proper lady can&#x27;t miss tea time, even at the beach."
+        "Name": "Bàn dù (lặp lại)",
+        "Desc": "Bàn gỗ có dù che nắng. Một quý cô thực sự không thể bỏ lỡ thời gian uống trà, ngay cả khi ở bãi biển."
     },
     {
         "Id": 85028,
@@ -7088,8 +7088,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_04_S6",
-        "Name": "Water Play Equipment (Rerun)",
-        "Desc": "Full-fledged watersports equipment with a snorkel and oxygen tank. Not recommend for depths exceeding 50m."
+        "Name": "Trang bị chơi dưới nước (lặp lại)",
+        "Desc": "Trang bị thể thao dưới nước đầy đủ với ống thở và bình dưỡng khí. Không khuyến nghị cho độ sâu vượt quá 50m."
     },
     {
         "Id": 85029,
@@ -7102,8 +7102,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Object_05_S6",
-        "Name": "Sailing Board (Rerun)",
-        "Desc": "A board with sails attached to the hull to increase acceleration. It&#x27;s easy to balance, making it perfect for beginners."
+        "Name": "Thuyền buồm (lặp lại)",
+        "Desc": "Một tấm ván có gắn cánh buồm vào thân tàu để tăng gia tốc. Nó dễ dàng để cân bằng, làm cho nó hoàn hảo cho người mới bắt đầu."
     },
     {
         "Id": 90000,
@@ -7116,8 +7116,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_Strategy_RewardBox",
-        "Name": "Special Area Chest",
-        "Desc": "A special chest that can only be obtained once from the mission area."
+        "Name": "Rương khu Đặc biệt",
+        "Desc": "Rương đặc biệt chỉ có thể nhận được một lần từ khu vực nhiệm vụ."
     },
     {
         "Id": 100000,
@@ -7130,8 +7130,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_Favor_Random",
-        "Name": "Gift Box",
-        "Desc": "A wrapped gift box for a student."
+        "Name": "Hộp quà",
+        "Desc": "Một hộp quà được gói cho một học sinh."
     },
     {
         "Id": 100001,
@@ -7144,8 +7144,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_Furniture_Random",
-        "Name": "Furniture Box (3☆)",
-        "Desc": "A packaged box of 3☆ cafe furniture."
+        "Name": "Hộp đồ đạc (3☆)",
+        "Desc": "Một hộp đồ nội thất cafe 3☆ đóng gói."
     },
     {
         "Id": 100002,
@@ -7158,8 +7158,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100003,
@@ -7172,8 +7172,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100004,
@@ -7186,8 +7186,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100005,
@@ -7200,8 +7200,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100006,
@@ -7214,8 +7214,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100007,
@@ -7228,8 +7228,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 100008,
@@ -7272,8 +7272,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Equipment_Random",
-        "Name": "Equipment Chest",
-        "Desc": "A chest containing various kinds of equipment and blueprints."
+        "Name": "Rương trang bị",
+        "Desc": "Một cái rương chứa nhiều loại thiết bị và bản thiết kế."
     },
     {
         "Id": 150000,
@@ -7288,8 +7288,8 @@
             "ShiftingCraftCategory_BookItem"
         ],
         "Icon": "Item_Icon_SkillBook_Selection_0",
-        "Name": "Beginner Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice."
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn."
     },
     {
         "Id": 150001,
@@ -7304,8 +7304,8 @@
             "ShiftingCraftCategory_BookItem"
         ],
         "Icon": "Item_Icon_SkillBook_Selection_1",
-        "Name": "Normal Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice."
+        "Name": "Vé lựa chọn ghi chú kỹ thuật thông thường",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn."
     },
     {
         "Id": 150002,
@@ -7320,8 +7320,8 @@
             "ShiftingCraftCategory_BookItem"
         ],
         "Icon": "Item_Icon_SkillBook_Selection_2",
-        "Name": "Advanced Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice."
+        "Name": "Vé lựa chọn ghi chú kỹ thuật nâng cao",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn."
     },
     {
         "Id": 150003,
@@ -7336,8 +7336,8 @@
             "ShiftingCraftCategory_BookItem"
         ],
         "Icon": "Item_Icon_SkillBook_Selection_3",
-        "Name": "Superior Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice."
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cao cấp",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn."
     },
     {
         "Id": 150004,
@@ -7352,8 +7352,8 @@
             "ShiftingCraftCategory_CDItem"
         ],
         "Icon": "Item_Icon_ExSkillCD_Selection_0",
-        "Name": "Beginner Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for a Tactical Training Blu-ray of your choice."
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cho người mới bắt đầu",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn."
     },
     {
         "Id": 150005,
@@ -7368,8 +7368,8 @@
             "ShiftingCraftCategory_CDItem"
         ],
         "Icon": "Item_Icon_ExSkillCD_Selection_1",
-        "Name": "Normal Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for a Tactical Training Blu-ray of your choice."
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật thông thường",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn."
     },
     {
         "Id": 150006,
@@ -7384,8 +7384,8 @@
             "ShiftingCraftCategory_CDItem"
         ],
         "Icon": "Item_Icon_ExSkillCD_Selection_2",
-        "Name": "Advanced Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for a Tactical Training Blu-ray of your choice."
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật nâng cao",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn."
     },
     {
         "Id": 150007,
@@ -7400,8 +7400,8 @@
             "ShiftingCraftCategory_CDItem"
         ],
         "Icon": "Item_Icon_ExSkillCD_Selection_3",
-        "Name": "Superior Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for a Tactical Training Blu-ray of your choice."
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cao cấp",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn."
     },
     {
         "Id": 150008,
@@ -7416,8 +7416,8 @@
             "ShiftingCraftCategory_CommonMaterial"
         ],
         "Icon": "Item_Icon_Material_Selection_0",
-        "Name": "Artifact Choice Ticket 1",
-        "Desc": "A ticket that can be exchanged for an Artifact of your choice."
+        "Name": "Vé lựa chọn cổ vật 1",
+        "Desc": "Một vé có thể đổi lấy một cổ vật do bạn chọn."
     },
     {
         "Id": 150009,
@@ -7432,8 +7432,8 @@
             "ShiftingCraftCategory_CommonMaterial"
         ],
         "Icon": "Item_Icon_Material_Selection_1",
-        "Name": "Artifact Choice Ticket 2",
-        "Desc": "A ticket that can be exchanged for an Artifact of your choice."
+        "Name": "Vé lựa chọn cổ vật 2",
+        "Desc": "Một vé có thể đổi lấy một cổ vật do bạn chọn."
     },
     {
         "Id": 150010,
@@ -7448,8 +7448,8 @@
             "ShiftingCraftCategory_CommonMaterial"
         ],
         "Icon": "Item_Icon_Material_Selection_2",
-        "Name": "Artifact Choice Ticket 3",
-        "Desc": "A ticket that can be exchanged for an Artifact of your choice."
+        "Name": "Vé lựa chọn cổ vật 3",
+        "Desc": "Một vé có thể đổi lấy một cổ vật do bạn chọn."
     },
     {
         "Id": 150011,
@@ -7464,8 +7464,8 @@
             "ShiftingCraftCategory_CommonMaterial"
         ],
         "Icon": "Item_Icon_Material_Selection_3",
-        "Name": "Artifact Choice Ticket 4",
-        "Desc": "A ticket that can be exchanged for an Artifact of your choice."
+        "Name": "Vé lựa chọn cổ vật 4",
+        "Desc": "Một vé có thể đổi lấy một cổ vật do bạn chọn."
     },
     {
         "Id": 150012,
@@ -7478,8 +7478,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_0",
-        "Name": "Beginner Tech Notes Choice Ticket",
-        "Desc": "A ticket that grants a Tech Notes of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một vé cấp ghi chú kỹ thuật do bạn lựa chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150013,
@@ -7492,8 +7492,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_1",
-        "Name": "Normal Tech Notes Choice Ticket",
-        "Desc": "A ticket that grants a Tech Notes of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật thông thường",
+        "Desc": "Một vé cấp ghi chú kỹ thuật do bạn lựa chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150014,
@@ -7506,8 +7506,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_2",
-        "Name": "Advanced Tech Notes Choice Ticket",
-        "Desc": "A ticket that grants a Tech Notes of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật nâng cao",
+        "Desc": "Một vé cấp ghi chú kỹ thuật do bạn lựa chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150015,
@@ -7520,8 +7520,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_3",
-        "Name": "Superior Tech Notes Choice Ticket",
-        "Desc": "A ticket that grants a Tech Notes of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cao cấp",
+        "Desc": "Một vé cấp ghi chú kỹ thuật do bạn lựa chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150016,
@@ -7534,8 +7534,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_0",
-        "Name": "Beginner Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cho người mới bắt đầu",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150017,
@@ -7548,8 +7548,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_1",
-        "Name": "Normal Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật thông thường",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150018,
@@ -7562,8 +7562,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_2",
-        "Name": "Advanced Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật nâng cao",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150019,
@@ -7576,8 +7576,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_SkillBook_Selection_3",
-        "Name": "Superior Tech Notes Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tech Notes of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn ghi chú kỹ thuật cao cấp",
+        "Desc": "Một vé có thể được đổi lấy ghi chú kỹ thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150020,
@@ -7590,8 +7590,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_0",
-        "Name": "Beginner Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that grants a Tactical Training Blu-ray of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cho người mới bắt đầu",
+        "Desc": "Một vé cấp đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150021,
@@ -7604,8 +7604,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_1",
-        "Name": "Normal Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that grants a Tactical Training Blu-ray of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật thông thường",
+        "Desc": "Một vé cấp đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150022,
@@ -7618,8 +7618,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_2",
-        "Name": "Advanced Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that grants a Tactical Training Blu-ray of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật nâng cao",
+        "Desc": "Một vé cấp đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150023,
@@ -7632,8 +7632,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_3",
-        "Name": "Superior Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that grants a Tactical Training Blu-ray of your choice. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cao cấp",
+        "Desc": "Một vé cấp đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Gehenna, Shanhaijing, Trinity, Valkyrie)"
     },
     {
         "Id": 150024,
@@ -7646,8 +7646,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_0",
-        "Name": "Beginner Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tactical Training Blu-ray of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cho người mới bắt đầu",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150025,
@@ -7660,8 +7660,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_1",
-        "Name": "Normal Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tactical Training Blu-ray of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật thông thường",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150026,
@@ -7674,8 +7674,8 @@
         "Quality": 3,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_2",
-        "Name": "Advanced Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tactical Training Blu-ray of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật nâng cao",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150027,
@@ -7688,8 +7688,8 @@
         "Quality": 4,
         "Tags": [],
         "Icon": "Item_Icon_ExSkillCD_Selection_3",
-        "Name": "Superior Tactical Training Blu-ray Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Tactical Training Blu-ray of your choice. (Hyakkiyako, Red Winter, Abydos, Millennium)"
+        "Name": "Vé lựa chọn đĩa Blu-ray huấn luyện chiến thuật cao cấp",
+        "Desc": "Một vé có thể đổi lấy đĩa Blu-ray huấn luyện chiến thuật do bạn chọn. (Hyakkiyako, Red Winter, Abydos, Millennium)"
     },
     {
         "Id": 150028,
@@ -7702,8 +7702,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Equipment_Icon_Selection_Tier2_Piece",
-        "Name": "T2 Equipment Blueprint Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Equipment Blueprint of your choice."
+        "Name": "Vé lựa chọn thiết bị T2",
+        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
     },
     {
         "Id": 150029,
@@ -7716,8 +7716,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Equipment_Icon_Selection_Tier3_Piece",
-        "Name": "T3 Equipment Blueprint Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Equipment Blueprint of your choice."
+        "Name": "Vé lựa chọn thiết bị T3",
+        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
     },
     {
         "Id": 150030,
@@ -7730,8 +7730,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Equipment_Icon_Selection_Tier4_Piece",
-        "Name": "T4 Equipment Blueprint Choice Ticket",
-        "Desc": "A ticket that can be exchanged for the Equipment Blueprint of your choice."
+        "Name": "Vé lựa chọn thiết bị T4",
+        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
     },
     {
         "Id": 150031,
@@ -7744,8 +7744,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Equipment_Icon_Selection_Tier5_Piece",
-        "Name": "選択式・T5装備設計図",
-        "Desc": "任意のT5装備の設計図を選択して交換することができる。"
+        "Name": "Vé lựa chọn thiết bị T5",
+        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
     },
     {
         "Id": 150032,
@@ -7758,8 +7758,8 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Equipment_Icon_Selection_Tier6_Piece",
-        "Name": "選択式・T6装備設計図",
-        "Desc": "任意のT6装備の設計図を選択して交換することができる。"
+        "Name": "Vé lựa chọn thiết bị T6",
+        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
     },
     {
         "Id": 151000,
@@ -7932,7 +7932,7 @@
         "Quality": 1,
         "Tags": [],
         "Icon": "Item_Icon_Event_Token_Special_1",
-        "Name": "Mission Data 2: D-X Type",
-        "Desc": "Data used to analyze Decagrammaton."
+        "Name": "Dữ liệu nhiệm vụ 2: Loại D-X",
+        "Desc": "Dữ liệu được sử dụng để phân tích Decagrammaton."
     }
 ]
