@@ -419,7 +419,7 @@ $.when($.ready, loadPromise).then(function() {
     }
 
     //gtag settings
-    gtag('config', 'G-XQEWDXR13H', {
+    gtag('config', 'G-K6ESZV7L7Y', {
         'custom_map': {
             'dimension1': 'user_language' 
         },
