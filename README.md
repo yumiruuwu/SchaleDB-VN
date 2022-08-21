@@ -25,10 +25,10 @@ This repo is intended to serve players in Vietnam who don't understand English/J
 
 |Status| Language |	Translated by |
 |:---:| :---: | :---: |
-| ✔️  | English  |	lonqie	|
-| ✔️  | Japanese  |	*unknown*	|
-| ✔️  | Korean  |	*unknown*	|
-| ✔️  | Chinese  |	Blue-Roar	|
+| ✔️  | English  |	*in-game*	|
+| ✔️  | Japanese  |	*in-game*	|
+| ✔️  | Korean  |	*in-game*	|
+| ✔️  | Chinese  |	*in-game*	|
 | ✔️  | Thai  |	TKRotund	|
 | ❌  | Vietnamese  |	auto-translate*	|
 
