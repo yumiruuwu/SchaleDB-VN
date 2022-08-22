@@ -248,8 +248,8 @@
         "Quality": 2,
         "Tags": [],
         "Icon": "Item_Icon_TimeAttackCoin",
-        "Name": "Đồng xu khoan lỗ chung \"translation_error\"",
-        "Desc": "Đồng xu này có thể dùng tại Cửa hàng Máy khoan Chung. \"translation_error\""
+        "Name": "Đồng xu khoan lỗ chung &quot;translation_error&quot;",
+        "Desc": "Đồng xu này có thể dùng tại Cửa hàng Máy khoan Chung. &quot;translation_error&quot;"
     },
     {
         "Id": 61,
