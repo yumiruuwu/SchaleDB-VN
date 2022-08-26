@@ -201,6 +201,7 @@
         "813": "Trái tim của Shinobi",
         "814": "Lực lượng đặc nhiệm khôi phục khu nghỉ dưỡng Abydos",
         "815": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou",
+        "816": "Bí mật ngọt ngào và cuộc đấu súng",
         "10801": "Lễ hội hoa anh đào náo nhiệt! (Lặp lại)",
         "10802": "Cách mạng Ivan Kupala (Lặp lại)",
         "10803": "Điều mong ước bầu trời mùa hè (Lặp lại)"
@@ -681,6 +682,9 @@
         "maptile_enemy_default_msg": "Nhấp vào một đơn vị kẻ thù trên bản đồ để xem danh sách kẻ thù.",
         "toast_import_success": "Đã nhập thành công bộ sưu tập học sinh",
         "toast_import_failure": "Xảy ra lỗi khi nhập bộ sưu tập học sinh",
-        "toast_import_copy": "Đã sao chép chuỗi nhập vào khay nhớ tạm"
+        "toast_import_copy": "Đã sao chép chuỗi nhập vào bàn phím.",
+        "stat_defense_tooltip": "Giảm DMG: {0}",
+        "stat_crit_tooltip": "Tỉ lệ chí mạng: {0}\n<small><i>Chống lại kẻ thù với 100 kháng chí mạng</i></small>",
+        "stat_stability_tooltip": "DMG tối thiểu: {0}"
     }
 }

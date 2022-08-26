@@ -201,6 +201,7 @@
         "813": "Heart of Shinobi",
         "814": "Abydos Resort Restoration Task Force",
         "815": "Business Trip! Momoyodou Beach House Franchise Plan",
+        "816": "Sweet Secrets and Gun Fights",
         "10801": "Cherry Blossom Festival Commotion! (Rerun)",
         "10802": "A Revolutionary Ivan Kupala (Rerun)",
         "10803": "Summer Sky's Wishlist (Rerun)"
@@ -681,6 +682,9 @@
         "maptile_enemy_default_msg": "Click on an enemy unit on the map to view a list of enemies.",
         "toast_import_success": "Successfully imported student collection",
         "toast_import_failure": "Error importing student collection",
-        "toast_import_copy": "Copied import string to clipboard"
+        "toast_import_copy": "Copied import string to clipboard",
+        "stat_defense_tooltip": "DMG Reduction: {0}",
+        "stat_crit_tooltip": "Crit Chance: {0}\n<small><i>Against an enemy with 100 Crit RES</i></small>",
+        "stat_stability_tooltip": "Minimum DMG: {0}"
     }
 }
