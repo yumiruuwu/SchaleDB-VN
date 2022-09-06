@@ -34,12 +34,12 @@
         "FamilyName": "Rikuhachima",
         "FamilyNameRuby": null,
         "PersonalName": "Aru",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
-        "Birthday": "Ngày 12 tháng 3",
-        "CharacterSSRNew": "Heh, chọn hay đấy Sensei~",
-        "ProfileIntroduction": "Tự xưng là người dẫn đầu đội giải quyết &quot;vấn đề&quot; 68.\n\nAru đã thành lập đội giải quyết &quot;vấn đề&quot; 68 của Học viện Gehenna mà không có phép để tiến hành các hoạt động kinh doanh bất hợp pháp. Cô ấy khao khát được xem như một nhân vật phản diện bảnh bao và phá phách, nhưng những sai lầm thường xuyên của cô ấy luôn cho thấy cô ấy là một người có tư cách.",
-        "Hobby": "Quản lý học tập",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
+        "Birthday": "March 12th",
+        "CharacterSSRNew": "Heh heh. Good choice.",
+        "ProfileIntroduction": "The self-proclaimed boss of Problem Solver 68.\n\nAru expanded the Gehenna Academy&#x27;s Problem Solver 68 club without permission to conduct illegal business activities. She aspires to be seen as a dashing and debonair villain, but her frequent blunders always expose her as a poser.",
+        "Hobby": "Studying management",
         "CharacterVoice": "Reina Kondō",
         "BirthDay": "3/12",
         "ArtistName": "DoReMi",
@@ -65,7 +65,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Phát bắn nóng chảy",
+                "Name": "Hard-Boiled Shot",
                 "Desc": "Fires a shot that deals <?1> damage to one enemy and explodes for an additional <?2> damage to enemies in a circular area around the target.",
                 "Parameters": [
                     [
@@ -273,8 +273,14 @@
         "FavorAlts": [
             10031
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "Roman"
@@ -678,8 +684,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "Music"
@@ -1052,8 +1064,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Simplicity"
         ],
@@ -1242,8 +1260,8 @@
         "FamilyName": "Ajitani",
         "FamilyNameRuby": null,
         "PersonalName": "Hifumi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "November 27th",
         "CharacterSSRNew": "If Sensei&#x27;s going to be with me...I&#x27;m going to give my all!",
         "ProfileIntroduction": "A friendly, outgoing member of the Trinity Make-Up Work Club.\n\nHifumi&#x27;s just a regular girl with average grades, but she&#x27;s nonetheless well liked and popular for her well-rounded personality. She&#x27;s a good listener for anyone who needs to vent about their worries or problems, but this also causes her to get swept up in the moment and unintentionally cause trouble.",
@@ -1449,8 +1467,14 @@
         "FavorAlts": [
             20005
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "MomoFriends"
         ],
@@ -1825,8 +1849,14 @@
         "FavorAlts": [
             10022
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Mystery"
         ],
@@ -2208,8 +2238,14 @@
         "FavorAlts": [
             10045
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Roman"
         ],
@@ -2396,8 +2432,8 @@
         "FamilyName": "Shiromi",
         "FamilyNameRuby": null,
         "PersonalName": "Iori",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "November 8th",
         "CharacterSSRNew": "No mercy for criminals!",
         "ProfileIntroduction": "A cold-blooded specialist of Gehenna Academy&#x27;s Prefect Team.\n\nShe uses her overwhelming force as field captain to ruthlessly discipline offenders. Iori is highly efficient and formidable in combat, but her stubbornness causes her to fall for even the most obvious traps.",
@@ -2584,8 +2620,14 @@
         "FavorAlts": [
             10023
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Army"
@@ -2965,8 +3007,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "Art"
@@ -3348,9 +3396,17 @@
         "FavorAlts": [
             10026
         ],
-        "MemoryLobby": 8,
+        "MemoryLobby": [
+            8,
+            8
+        ],
         "FurnitureInteraction": [
-            2302
+            [
+                2302
+            ],
+            [
+                2302
+            ]
         ],
         "FavorItemTags": [
             "Toy"
@@ -3537,8 +3593,8 @@
         "FamilyName": "Shishidou",
         "FamilyNameRuby": null,
         "PersonalName": "Izumi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "May 11th",
         "CharacterSSRNew": "The world is full of delicious food!",
         "ProfileIntroduction": "A member of the Gehenna Gourmet Research Society with a voracious appetite.\n\nShe loves food so much that she even gobbles up dishes that others would dislike with gusto.",
@@ -3744,8 +3800,14 @@
         "FavorAlts": [
             16006
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Freakish"
@@ -3932,8 +3994,8 @@
         "FamilyName": "Sunaookami",
         "FamilyNameRuby": null,
         "PersonalName": "Shiroko",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "May 16th",
         "CharacterSSRNew": "Do you need my help?",
         "ProfileIntroduction": "The sporty field captain of the Abydos Foreclosure Task Force.\n\nA girl of few words and almost no facial expression, Shiroko gives the impression of being frigid and emotionless. In truth, she is more devoted to the Abydos Academy than anything else. If it&#x27;s for the sake of revitalizing the academy, she&#x27;ll do whatever it takes and sometimes propose some outlandish ideas herself.",
@@ -4120,8 +4182,14 @@
         "FavorAlts": [
             10024
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports"
         ],
@@ -4495,8 +4563,14 @@
         "FavorAlts": [
             10025
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "Beauty"
@@ -4683,8 +4757,8 @@
         "FamilyName": "Otohana",
         "FamilyNameRuby": null,
         "PersonalName": "Sumire",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "August 20th",
         "CharacterSSRNew": "Shall we start today&#x27;s training?",
         "ProfileIntroduction": "Leader of the Millennium Athletic Training Club.\n\nAn athletic girl with a passion for physical training. She is very much a jock and believes all problems can be solved with muscles and exercise.",
@@ -4869,8 +4943,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports"
         ],
@@ -5283,8 +5363,14 @@
         "FavorAlts": [
             16005
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "LoveStory"
         ],
@@ -5502,8 +5588,8 @@
         "FamilyName": "Murokasa",
         "FamilyNameRuby": null,
         "PersonalName": "Akane",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "April 1st",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "An agent of C&amp;C, a secret organization of the Millennium School.\n\nAkane operates under the callsign Zero-Three. She became known as the Master Cleaner for her modus operandi of infiltrating the enemy camp and cleaning it out with explosives, all while wearing that same gentle smile.",
@@ -5695,8 +5781,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Household"
         ],
@@ -5882,8 +5974,8 @@
         "FamilyName": "Waraku",
         "FamilyNameRuby": null,
         "PersonalName": "Chise",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "July 13th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A spacey girl who is a member of the Hyakkiyako Academy&#x27;s Yin-Yang Club.\n\nExtremely fond of traditional activities such as writing haiku, which led her to join the Yin-Yang Club. Her exotic looks and presence have made her the envy of her peers at Hyakkiyako, but she seems completely oblivious to that fact.",
@@ -6070,8 +6162,14 @@
         "FavorAlts": [
             10047
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "PureLiterature"
@@ -6444,8 +6542,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "BigMeal"
         ],
@@ -6818,8 +6922,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "BigMeal"
@@ -7006,8 +7116,8 @@
         "FamilyName": "Izayoi",
         "FamilyNameRuby": null,
         "PersonalName": "Nonomi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "September 1st",
         "CharacterSSRNew": "Finally, it&#x27;s time for me to make my move!",
         "ProfileIntroduction": "A member of the Abydos Foreclosure Task Force.\n\nA friendly, pleasant girl that provides the Foreclosure Task Force with much-needed emotional support to balance out the extreme personalities of its other members. Though she doesn&#x27;t show it, she comes from a wealthy family and pays for nearly all of the Foreclosure Task Force&#x27;s snacks out of her own pocket.",
@@ -7194,8 +7304,14 @@
         "FavorAlts": [
             10044
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "Girlish"
@@ -7575,8 +7691,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic",
             "Music"
@@ -7763,8 +7885,8 @@
         "FamilyName": "Asagi",
         "FamilyNameRuby": null,
         "PersonalName": "Mutsuki",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "July 29th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "Problem Solver 68&#x27;s resident go-getter and chief of staff.\n\nUnlike Aru, who has a semblance of a conscience, Mutsuki is a devilish troublemaker who relishes in committing acts of mayhem. As one of her oldest friends, Aru understands her bravado better than anyone, but she doesn&#x27;t necessarily support it.",
@@ -7951,8 +8073,14 @@
         "FavorAlts": [
             10032
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "CuriousFellow"
@@ -8337,9 +8465,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
+        "MemoryLobby": [
+            8,
+            8
+        ],
         "FurnitureInteraction": [
-            5203
+            [
+                5203
+            ],
+            [
+                5203
+            ]
         ],
         "FavorItemTags": [
             "Dessert",
@@ -8715,8 +8851,14 @@
         "FavorAlts": [
             20011
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios"
         ],
@@ -8902,8 +9044,8 @@
         "FamilyName": "Kasuga",
         "FamilyNameRuby": null,
         "PersonalName": "Tsubaki",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "February 3rd",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "President of Hyakkiyako Academy&#x27;s Inner Discipline Club.\n\nHer motivation for training regularly is to attain &quot;a more comfortable and restful sleep.&quot; Thanks to her diligent training, she is able to sleep while sitting, standing, or even while eating. Her prowess earned her the nickname &quot;Sleeping Beauty.&quot; Though she seems to be constantly on the verge of nodding off, at night she takes to the streets to keep them safe.",
@@ -8934,7 +9076,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Deploy Tactical Shield",
-                "Desc": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> to all nearby enemies for <?2>.",
+                "Desc": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> on enemies in a circular area around Tsubaki for <?2>.",
                 "Parameters": [
                     [
                         "28.1%",
@@ -9095,8 +9237,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Bedding"
         ],
@@ -9283,8 +9431,8 @@
         "FamilyName": "Hayase",
         "FamilyNameRuby": null,
         "PersonalName": "Yuuka",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "March 14th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "The treasurer of Seminar, the student council of the Millennium Science School.\n\nYuuka has a mathematical acumen that is notable even among Millennium&#x27;s high ratio of STEM students. She oversees the entirety of Millennium&#x27;s budget. Her special talent is the abacus, and she has a habit of fiddling with the beads when dealing with emotional or mental conflicts.",
@@ -9508,8 +9656,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 1,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            1,
+            1
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Smart"
         ],
@@ -9913,8 +10067,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Horticulture",
             "CuriousFellow"
@@ -10289,7 +10449,14 @@
         "FavorAlts": [
             10028
         ],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics"
         ],
@@ -10662,8 +10829,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "Specialized"
@@ -10851,8 +11024,8 @@
         "FamilyName": "Morizuki",
         "FamilyNameRuby": null,
         "PersonalName": "Suzumi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "August 31st",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A member of the Vigilante Crew responsible for protecting Trinity&#x27;s students.\n\nTo combat the increasing number of attacks on Trinity&#x27;s students at the hands of the other academies, Suzumi volunteered to patrol the streets to abate attackers. Often misunderstood as cold and unfeeling due to her strong sense of justice, she actually has a friendly side as well.",
@@ -11044,8 +11217,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Doll"
         ],
@@ -11425,9 +11604,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7106
+            [
+                7106
+            ],
+            [
+                7106
+            ]
         ],
         "FavorItemTags": [
             "Movie"
@@ -11801,8 +11988,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic"
         ],
@@ -11988,8 +12181,8 @@
         "FamilyName": "Kakudate",
         "FamilyNameRuby": null,
         "PersonalName": "Karin",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "February 2nd",
         "CharacterSSRNew": "As you wish, Master.",
         "ProfileIntroduction": "An agent of C&amp;C, a secret organization from the Millennium Science School.\n\nShe&#x27;s in charge of providing rear fire support under the callsign Zero-Two. Despite her intimidating appearance, she is the most cautious of C&amp;C&#x27;s agents and often ends up having to reel in Asuna and Akane when they get out of control during missions.",
@@ -12183,8 +12376,14 @@
         "FavorAlts": [
             10027
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Smart"
         ],
@@ -12371,8 +12570,8 @@
         "FamilyName": "Yakushi",
         "FamilyNameRuby": null,
         "PersonalName": "Saya",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "January 3rd",
         "CharacterSSRNew": "Leave the experiments to me!",
         "ProfileIntroduction": "A genius inventor of the Shanhaijing Academy.\n\nA prodigy who earned six degrees while still in primary school. However, she&#x27;s known more for the way she causes trouble for others through her unruly antics than for her genius. She&#x27;s always accompanied by her rat, Nezusuke, whom she&#x27;s known since childhood and regards as family.",
@@ -12559,8 +12758,14 @@
         "FavorAlts": [
             20006
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Functional",
             "Specialized"
@@ -12940,9 +13145,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            5205
+            [
+                5205
+            ],
+            [
+                5205
+            ]
         ],
         "FavorItemTags": [
             "Dessert"
@@ -13129,8 +13342,8 @@
         "FamilyName": "Aikiyo",
         "FamilyNameRuby": null,
         "PersonalName": "Fuuka",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "April 30th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A member of the School Lunch Club that manages the Gehenna Academy&#x27;s dining hall.\n\nA kind and earnest student, making her a bit of a rarity at Gehenna. She prepares and serves hundreds of meals every morning for the students of Gehenna. She&#x27;s a good cook, but her skills are written off due to the dining hall&#x27;s lack of manpower. Still, she refuses to give up and is constantly looking for ways to improve the menu.",
@@ -13315,8 +13528,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Household",
             "Food"
@@ -13689,8 +13908,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics"
         ],
@@ -13876,8 +14101,8 @@
         "FamilyName": "Omagari",
         "FamilyNameRuby": null,
         "PersonalName": "Hare",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "April 19th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "An engineer of Veritas, the hacker group of the Millennium Science School.\n\nAn unprecedented genius even amongst the brilliant minds at Millennium. Most of the school&#x27;s cutting-edge technology was developed by her. Even with all these achievements, she remains humble, friendly, and considerate towards her peers.",
@@ -14089,8 +14314,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -14509,8 +14740,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Observational"
         ],
@@ -14885,8 +15122,14 @@
         "FavorAlts": [
             26007
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books"
         ],
@@ -15267,8 +15510,14 @@
         "FavorAlts": [
             10030
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "Humanities"
@@ -15642,7 +15891,14 @@
             ]
         ],
         "FavorAlts": [],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "Doll"
@@ -16015,7 +16271,14 @@
             ]
         ],
         "FavorAlts": [],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Art"
         ],
@@ -16202,8 +16465,8 @@
         "FamilyName": "Sumi",
         "FamilyNameRuby": null,
         "PersonalName": "Serina",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "January 6th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A kind-hearted girl affiliated with the Trinity Remedial Knights.\n\nA virtuous person who enjoys charity work, her concern for the health of those around her has earned her a reputation as a sort of mother hen. Despite having a somewhat timid personality and avoiding quarrels and conflict, she is always ready to stand up against enemies who threaten the peace.",
@@ -16388,8 +16651,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Jellyz"
         ],
@@ -16783,8 +17052,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books"
         ],
@@ -17163,8 +17438,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert"
         ],
@@ -17552,8 +17833,14 @@
         "FavorAlts": [
             20004
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Army"
         ],
@@ -17928,9 +18215,15 @@
         "FavorAlts": [
             10046
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            203303
+            [
+                203303
+            ],
+            []
         ],
         "FavorItemTags": [
             "Fashion"
@@ -18119,8 +18412,8 @@
         "FamilyName": "Kawawa",
         "FamilyNameRuby": null,
         "PersonalName": "Shizuko",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "July 7th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "President of the Festival Operations Department at Hyakkiyako Academy.\n\nThe mascot of Momoyodou, the Hyakkiyako&#x27;s traditional tea house. Acts clumsy, but only because it sells her image as an idol. In truth, she&#x27;s an expert flirt willing to do anything for the success of the festivals and Momoyodou. Wears her heart on her sleeve, making her an easy read for her friends as well as Sensei.",
@@ -18338,9 +18631,15 @@
         "FavorAlts": [
             26008
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            203302
+            [
+                203302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Functional"
@@ -18713,8 +19012,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -19106,9 +19411,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            2301
+            [
+                2301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Jellyz"
@@ -19501,9 +19812,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            2301
+            [
+                2301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Game"
@@ -19723,7 +20040,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Call in the Guards!",
-                "Desc": "Deals <?1> damage to all nearby enemies.",
+                "Desc": "Deals <?1> damage to enemies in a circular area around Cherino.",
                 "Parameters": [
                     [
                         "515%",
@@ -19891,8 +20208,14 @@
         "FavorAlts": [
             20009
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "CuriousFellow"
@@ -20079,8 +20402,8 @@
         "FamilyName": "Amami",
         "FamilyNameRuby": null,
         "PersonalName": "Nodoka",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "February 20th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A student suspended from Red Winter Academy and on probation in Former Institute 227.\n\nShe was suspended for constantly monitoring Sensei through a telescope. Nodoka wants to observe the world&#x27;s beauty and sees Sensei in the same vein. Being in Spec Ops No. 227 has taught her to be careful with what little money she has to get by.",
@@ -20279,8 +20602,14 @@
         "FavorAlts": [
             20010
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Observational"
@@ -20468,7 +20797,7 @@
         "FamilyNameRuby": null,
         "PersonalName": "Yuzu",
         "SchoolYear": "1st Year",
-        "CharacterAge": "16 tuổi",
+        "CharacterAge": "16 years old",
         "Birthday": "August 12th",
         "CharacterSSRNew": "P-Please don&#x27;t come looking for me...",
         "ProfileIntroduction": "President of Millennium&#x27;s Game Development Department.\n\nYuzu struggles with social anxiety and finds it difficult to deal with people, so she spends most of her time in a cabinet in the Game Development Department. Despite that, her passion for games is second to none. She loves both making and playing games.",
@@ -20653,8 +20982,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic",
             "Game"
@@ -20841,8 +21176,8 @@
         "FamilyName": "Shirasu",
         "FamilyNameRuby": null,
         "PersonalName": "Azusa",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "December 26th",
         "CharacterSSRNew": "All is futile, and life has no meaning.\nThough part of me wants to trust you.",
         "ProfileIntroduction": "The ice queen of Trinity&#x27;s Make-Up Work Club.\n\nAfter dropping out of school, she ended up at Trinity and is studying again. Despite being lonely, Azusa distances herself from others to avoid causing trouble—a source of concern for the other Make-Up Work Club members.",
@@ -21041,8 +21376,14 @@
         "FavorAlts": [
             10021
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Fashion",
             "MomoFriends",
@@ -21230,8 +21571,8 @@
         "FamilyName": "Urawa",
         "FamilyNameRuby": null,
         "PersonalName": "Hanako",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "January 3rd",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A friendly girl from the Make-Up Work Club.\n\nShe may appear like a quiet and elegant young lady at first, but a bevy of inappropriate and lewd comments spew out any time Hanako opens her mouth. Every member of the Make-Up Work Club gets nervous whenever Hanako starts speaking.",
@@ -21416,8 +21757,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "LoveStory",
@@ -21798,8 +22145,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "LoveStory",
@@ -21987,8 +22340,8 @@
         "FamilyName": "Shirasu",
         "FamilyNameRuby": null,
         "PersonalName": "Azusa",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "December 26th",
         "CharacterSSRNew": "The beach... I&#x27;m still not used to it.",
         "ProfileIntroduction": "The Make-Up Work Club&#x27;s ice queen visits the beach for the first time.\n\nShe tries to keep cool and calm as usual to not cause trouble for others, but her friends want to make sure she enjoys her first beach trip. This causes her to worry about what others might think of her; but from their perspective, she&#x27;s just the usual Azusa.",
@@ -22182,9 +22535,15 @@
         "FavorAlts": [
             10019
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            4303
+            [
+                4303
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -22570,9 +22929,15 @@
         "FavorAlts": [
             20003
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            4200
+            [
+                4200
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -22957,9 +23322,15 @@
         "FavorAlts": [
             10013
         ],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            3
+        ],
         "FurnitureInteraction": [
-            4302
+            [
+                4302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -23151,8 +23522,8 @@
         "FamilyName": "Ajitani",
         "FamilyNameRuby": null,
         "PersonalName": "Hifumi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "November 27th",
         "CharacterSSRNew": "Ahaha... It&#x27;s a bit embarrassing having such a plain swimsuit.",
         "ProfileIntroduction": "A friendly Trinity Make-Up Work Club member visiting the beach with her friend.\n\nShe secretly borrowed a Crusader tank for a friend who had never been to the beach. Unfortunately, the Justice Task Force found out and she got in deep trouble. She happily rides the borrowed tank, just as clumsily as ever.",
@@ -23358,8 +23729,14 @@
         "FavorAlts": [
             10003
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -23748,8 +24125,14 @@
         "FavorAlts": [
             10004
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -23938,8 +24321,8 @@
         "FamilyName": "Shiromi",
         "FamilyNameRuby": null,
         "PersonalName": "Iori",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "November 8th",
         "CharacterSSRNew": "There had better not be any fools caught up in breaking the rules.",
         "ProfileIntroduction": "A cold-blooded specialist of Gehenna&#x27;s Prefect Team participating in summer boot camp.\n\nClosely monitored Gehenna&#x27;s troublemakers from getting out of line at the beach alongside other Prefect Team members. She&#x27;s deeply disappointed that summer camp was ruined by the constant appearance of those fools, even if she tries to hide it.",
@@ -24138,8 +24521,14 @@
         "FavorAlts": [
             10006
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -24328,8 +24717,8 @@
         "FamilyName": "Shishidou",
         "FamilyNameRuby": null,
         "PersonalName": "Izumi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "May 11th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A Gehenna Gourmet Research Society member with a gluttonous appetite even during the summer.\n\nShe visits the beach with a watermelon in one hand and an ice cooler in the other in search of renown summer delicacies: Chocolate-flavored grilled unagi, spicy shaved ice, watermelon sprinkled with mint chocolate, and more. Her pursuit of various delicacies in Kivotos are second to none as her peculiar excursions continue even on the hot summer beach.",
@@ -24523,8 +24912,14 @@
         "FavorAlts": [
             10009
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -24713,8 +25108,8 @@
         "FamilyName": "Sunaookami",
         "FamilyNameRuby": null,
         "PersonalName": "Shiroko",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "May 16th",
         "CharacterSSRNew": "Then, I&#x27;ll talk to you later, Sensei.",
         "ProfileIntroduction": "The Foreclosure Task Force captain is earnestly training for summer.\n\nShe changed into her cycling jersey for some summer training, and is as usual, serious about completing her near-impossible trek across Kivotos.",
@@ -24908,8 +25303,14 @@
         "FavorAlts": [
             10010
         ],
-        "MemoryLobby": 3,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            3,
+            3
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports",
             "Roman"
@@ -25323,8 +25724,14 @@
         "FavorAlts": [
             10011
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Doll"
@@ -25747,8 +26154,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Delicious",
             "Simplicity"
@@ -25936,8 +26349,8 @@
         "FamilyName": "Yakushi",
         "FamilyNameRuby": null,
         "PersonalName": "Saya",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "January 3rd",
         "CharacterSSRNew": "Even a genius like me needs some time off. Hahaha...",
         "ProfileIntroduction": "The genius inventor of Shanhaijing on a day off from her busy life.\n\nContrary to her usual days of being confined to the lab and devoting herself solely to researching new elixirs, Saya is active enough to ride a skateboard and roam around the streets during her days off. However, her constant intellectual curiosity for exploring new things remains the same even when she&#x27;s taking it easy.",
@@ -26124,8 +26537,14 @@
         "FavorAlts": [
             20002
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Delicious",
             "CuriousFellow"
@@ -26515,8 +26934,14 @@
         "FavorAlts": [
             10008
         ],
-        "MemoryLobby": 3,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            3,
+            3
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -26703,8 +27128,8 @@
         "FamilyName": "Kakudate",
         "FamilyNameRuby": null,
         "PersonalName": "Karin",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "February 2nd",
         "CharacterSSRNew": "There&#x27;s no mission I can&#x27;t accomplish.",
         "ProfileIntroduction": "A C&amp;C agent on the front lines.\n\nShe is focused only on accomplishing the mission without complaint or concern for her outfit.\nStill, the longer-than-normal stares from others are a bit bothersome.",
@@ -26910,8 +27335,14 @@
         "FavorAlts": [
             20001
         ],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Doll"
         ],
@@ -27325,8 +27756,14 @@
         "FavorAlts": [
             16001
         ],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert"
         ],
@@ -27730,9 +28167,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            3301
+            [
+                3301
+            ],
+            [
+                3301
+            ]
         ],
         "FavorItemTags": [
             "Dessert",
@@ -28106,9 +28551,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            3
+        ],
         "FurnitureInteraction": [
-            1105
+            [
+                1105
+            ],
+            [
+                1105
+            ]
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -28297,7 +28750,7 @@
         "FamilyNameRuby": null,
         "PersonalName": "Miku",
         "SchoolYear": null,
-        "CharacterAge": "16 tuổi",
+        "CharacterAge": "16 years old",
         "Birthday": "August 31st",
         "CharacterSSRNew": "Please listen to my song!",
         "ProfileIntroduction": "A virtual idol with a cheerful personality who loves to sing.\n\nOriginally, she only existed virtually online with no physical body, but she came to exist in the real world just in time for her live performance with the help of Kivotos&#x27; technology. She has quite a few hidden fans in Kivotos due to her ability to sing across time and space.",
@@ -28489,8 +28942,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
             "F_Miku"
@@ -28891,9 +29350,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            1101
+            [
+                1101
+            ],
+            [
+                1101
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -29297,9 +29764,17 @@
         "FavorAlts": [
             10017
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6203
+            [
+                6203
+            ],
+            [
+                6203
+            ]
         ],
         "FavorItemTags": [
             "Roman",
@@ -29676,9 +30151,17 @@
         "FavorAlts": [
             26000
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6200
+            [
+                6200
+            ],
+            [
+                6200
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -29899,7 +30382,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Everyone, Please Listen to Me!",
-                "Desc": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% of all nearby allies for 30s.",
+                "Desc": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% for all allies in a circular area around Tomoe for 30s.",
                 "Parameters": [
                     [
                         "13.9%",
@@ -30053,9 +30536,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            6100
+            [
+                6100
+            ],
+            [
+                6100
+            ]
         ],
         "FavorItemTags": [
             "Simplicity",
@@ -30245,8 +30736,8 @@
         "FamilyName": "Amami",
         "FamilyNameRuby": null,
         "PersonalName": "Nodoka",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "February 20th",
         "CharacterSSRNew": "I will serve my guests with all my heart!",
         "ProfileIntroduction": "The owner of Hot Springs Resort No. 227 who runs the large resort with the Spec Ops students.\n\nShe is still suspended from the Red Winter Office, but finds herself with newfound wealth when a hot spring suddenly erupts at the Former Institute. However, her troubles continue as students with strong personalities from the Red Winter Federal Academy come to disrupt her business for various reasons.",
@@ -30447,9 +30938,17 @@
         "FavorAlts": [
             26006
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6201
+            [
+                6201
+            ],
+            [
+                6201
+            ]
         ],
         "FavorItemTags": [
             "Reservation",
@@ -30638,12 +31137,12 @@
         "FamilyName": "Rikuhachima",
         "FamilyNameRuby": null,
         "PersonalName": "Aru",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
-        "Birthday": "Ngày 12 tháng 3",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
+        "Birthday": "March 12th",
         "CharacterSSRNew": "Heeheehee. This is the first commission of the year, right?\nOkay, I&#x27;ll give it my best.",
         "ProfileIntroduction": "The eternal boss of Problem Solver 68.\n\nAru spends a lot of money on getting her hair done and renting an outfit to wear to the New Year&#x27;s event in the hopes that her fixer agency will prosper in the new year.Perhaps because she feels more confident than usual, she has been putting on the air of a dignified boss, walking and talking in a nonchalant and carefree way.",
-        "Hobby": "Quản lý học tập",
+        "Hobby": "Studying management",
         "CharacterVoice": "Reina Kondō",
         "BirthDay": "3/12",
         "ArtistName": "DoReMi",
@@ -30845,9 +31344,17 @@
         "FavorAlts": [
             10000
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7203
+            [
+                7203
+            ],
+            [
+                7203
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -31035,8 +31542,8 @@
         "FamilyName": "Asagi",
         "FamilyNameRuby": null,
         "PersonalName": "Mutsuki",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "Birthday": "July 29th",
         "CharacterSSRNew": "Heeheehee! Let&#x27;s have a lot of fun this year, Sensei!",
         "ProfileIntroduction": "Problem Solver 68&#x27;s resident go-getter and chief of staff.\n\nShe goes to the New Year event with Aru to celebrate the upcoming new year. Mutsuki puts more effort into dressing up nicely for New Year&#x27;s, but it doesn&#x27;t change how she laughs and thoroughly enjoys watching the troubles that arise from her evil deeds. This troublemaker enjoys the new year with Aru, who always seems to be in trouble for one reason or another.",
@@ -31235,9 +31742,17 @@
         "FavorAlts": [
             13006
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7107
+            [
+                7107
+            ],
+            [
+                7107
+            ]
         ],
         "FavorItemTags": [
             "Toy",
@@ -31620,9 +32135,17 @@
         "FavorAlts": [
             13008
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7301
+            [
+                7301
+            ],
+            [
+                7301
+            ]
         ],
         "FavorItemTags": [
             "Curios"
@@ -32004,9 +32527,15 @@
         "FavorAlts": [
             10043
         ],
-        "MemoryLobby": 2,
+        "MemoryLobby": [
+            2,
+            0
+        ],
         "FurnitureInteraction": [
-            3108
+            [
+                3108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Doll"
@@ -32392,9 +32921,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            1104
+            [
+                1104
+            ],
+            []
         ],
         "FavorItemTags": [
             "Dessert",
@@ -32796,9 +33331,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            10
+            [
+                10
+            ],
+            []
         ],
         "FavorItemTags": [
             "Bedding",
@@ -33180,9 +33721,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            2203
+            [
+                2203
+            ],
+            []
         ],
         "FavorItemTags": [
             "Electronic",
@@ -33369,8 +33916,8 @@
         "CollectionTexture": "Student_Portrait_Mimori_Collection",
         "FamilyName": "Mizuha",
         "PersonalName": "Mimori",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "みずは",
         "Birthday": "3月15日",
         "CharacterSSRNew": "まだまだ未熟者ですが……\n修行の成果、お見せいたします",
@@ -33556,9 +34103,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7101
+            [
+                7101
+            ],
+            []
         ],
         "FavorItemTags": [
             "Household",
@@ -33780,7 +34333,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Antique Book Specialist",
-                "Desc": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skills by 50% (reduction is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or tactical support vehicles.",
+                "Desc": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skill uses by 50% (The amount reduced is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or T.S. vehicles.",
                 "Parameters": [
                     [
                         "10%",
@@ -33802,7 +34355,7 @@
             {
                 "SkillType": "normal",
                 "Name": "Knowledge To Pass On",
-                "Desc": "Every 40s, increases the <b:CriticalChance> of nearby allies by <?1> for 33s.",
+                "Desc": "Every 40s, increases the <b:CriticalChance> of allies in a circular area by <?1> for 33s.",
                 "Parameters": [
                     [
                         "13.6%",
@@ -33934,9 +34487,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            204301
+            [
+                204301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Books",
@@ -34312,9 +34871,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            0
+        ],
         "FurnitureInteraction": [
-            2103
+            [
+                2103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -34502,8 +35067,8 @@
         "CollectionTexture": "Student_Portrait_Marina_Collection",
         "FamilyName": "Ikekura",
         "PersonalName": "Marina",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "いけくら",
         "Birthday": "11月4日",
         "CharacterSSRNew": "私は、逃げも隠れもしない！",
@@ -34696,9 +35261,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            3105
+            [
+                3105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Curios",
@@ -35079,9 +35650,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            8105
+            [
+                8105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -35475,9 +36052,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            8104
+            [
+                8104
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -35852,9 +36435,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            8103
+            [
+                8103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -36229,9 +36818,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            6102
+            [
+                6102
+            ],
+            []
         ],
         "FavorItemTags": [
             "Toy",
@@ -36421,8 +37016,8 @@
         "CollectionTexture": "Student_Portrait_CH0156_Collection",
         "FamilyName": "Natsume",
         "PersonalName": "Iroha",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "なつめ",
         "Birthday": "11月16日",
         "CharacterSSRNew": "……私のことが必要？\n全く、仕方ありませんね",
@@ -36627,9 +37222,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            6105
+            [
+                6105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Books",
@@ -37022,9 +37623,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7102
+            [
+                7102
+            ],
+            []
         ],
         "FavorItemTags": [
             "Curios",
@@ -37244,7 +37851,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Tsukuyo-Style Ninjutsu!",
-                "Desc": "Gains <b:HealByHit_Damaged> for 30s, restoring HP by <?1> of Healing each time Tsukuyo is attacked. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
+                "Desc": "Gains a <b:HealByHit_Damaged> effect for 30s, restoring HP by <?1> of Healing each time Tsukuyo takes damage from an attack. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
                 "Parameters": [
                     [
                         "7%",
@@ -37347,7 +37954,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Natural Talent+",
+                "Name": "Natural Ability+",
                 "Desc": "Increases <b:MAXHP> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -37417,9 +38024,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            4106
+            [
+                4106
+            ],
+            []
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -37606,8 +38219,8 @@
         "CollectionTexture": "Student_Portrait_Misaki_Collection",
         "FamilyName": "Imashino",
         "PersonalName": "Misaki",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "いましの",
         "Birthday": "1月13日",
         "CharacterSSRNew": "この虚しさに、答えなんて無い。\nそれでも……",
@@ -37841,9 +38454,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            1108
+            [
+                1108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Doll"
@@ -38030,8 +38649,8 @@
         "CollectionTexture": "Student_Portrait_Hiyori_Collection",
         "FamilyName": "Tsuchinaga",
         "PersonalName": "Hiyori",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "つちなが",
         "Birthday": "1月8日",
         "CharacterSSRNew": "きょ、今日は運が良かったです。\nえへへ……",
@@ -38243,9 +38862,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            5
+            [
+                5
+            ],
+            []
         ],
         "FavorItemTags": [
             "Household"
@@ -38618,9 +39243,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            205301
+            [
+                205301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Specialized"
@@ -39034,9 +39665,15 @@
         "FavorAlts": [
             10033
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4201
+            [
+                4201
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -39225,8 +39862,8 @@
         "CollectionTexture": "Student_Portrait_CH0092_Collection",
         "FamilyName": "Izayoi",
         "PersonalName": "Nonomi",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "いざよい",
         "Birthday": "9月1日",
         "CharacterSSRNew": "やっぱり夏といえば、みんなで海ですね☆",
@@ -39421,9 +40058,15 @@
         "FavorAlts": [
             13004
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4108
+            [
+                4108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -39856,9 +40499,15 @@
         "FavorAlts": [
             23005
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4103
+            [
+                4103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -40306,9 +40955,15 @@
         "FavorAlts": [
             10005
         ],
-        "MemoryLobby": 2,
+        "MemoryLobby": [
+            2,
+            0
+        ],
         "FurnitureInteraction": [
-            9304
+            [
+                9304
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -40497,8 +41152,8 @@
         "CollectionTexture": "Student_Portrait_CH0180_Collection",
         "FamilyName": "Kawawa",
         "PersonalName": "Shizuko",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "かわわ",
         "Birthday": "7月7日",
         "CharacterSSRNew": "",
@@ -40693,9 +41348,15 @@
         "FavorAlts": [
             23006
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            9302
+            [
+                9302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41091,9 +41752,15 @@
         "FavorAlts": [
             10014
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            9300
+            [
+                9300
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41281,8 +41948,8 @@
         "CollectionTexture": "Student_Portrait_CH0178_Collection",
         "FamilyName": "Waraku",
         "PersonalName": "Chise",
-        "SchoolYear": "Năm 2",
-        "CharacterAge": "16 tuổi",
+        "SchoolYear": "2nd Year",
+        "CharacterAge": "16 years old",
         "FamilyNameRuby": "わらく",
         "Birthday": "7月13日",
         "CharacterSSRNew": "海には不思議なものがいっぱいだね～",
@@ -41525,9 +42192,15 @@
         "FavorAlts": [
             13001
         ],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            0
+        ],
         "FurnitureInteraction": [
-            9201
+            [
+                9201
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41716,7 +42389,7 @@
         "CollectionTexture": "Student_Portrait_Saori_Collection",
         "FamilyName": "Joumae",
         "PersonalName": "Saori",
-        "SchoolYear": "Năm 2",
+        "SchoolYear": "2nd Year",
         "CharacterAge": "17 years old",
         "FamilyNameRuby": "じょうまえ",
         "Birthday": "9月3日",
@@ -41922,9 +42595,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            1108
+            [
+                1108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Cosmetics",
@@ -42329,9 +43008,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            8106
+            [
+                8106
+            ],
+            []
         ],
         "FavorItemTags": [
             "Electronic",
@@ -42712,9 +43397,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            3103
+            [
+                3103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Dessert",

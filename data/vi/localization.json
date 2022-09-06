@@ -126,7 +126,7 @@
         "1": "Độc nhất",
         "2": "Sự kiện"
     },
-    "furniture_set": {
+    "FurnitureSet": {
         "100": "Bộ cà phê Momo Friends",
         "101": "Bộ Jellies cổ điển",
         "102": "Bộ lễ tình nhân",
@@ -163,6 +163,7 @@
         "Consumable": "Tiêu hao",
         "Collectible": "Sưu tầm",
         "Exp": "Đá cải thiện",
+        "WeaponExpGrowth": "Bộ phận vũ khí",
         "WeaponExpGrowthA": "Lò xo",
         "WeaponExpGrowthB": "Búa",
         "WeaponExpGrowthC": "Nòng súng",
@@ -201,10 +202,7 @@
         "813": "Trái tim của Shinobi",
         "814": "Lực lượng đặc nhiệm khôi phục khu nghỉ dưỡng Abydos",
         "815": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou",
-        "816": "Bí mật ngọt ngào và cuộc đấu súng",
-        "10801": "Lễ hội hoa anh đào náo nhiệt! (Lặp lại)",
-        "10802": "Cách mạng Ivan Kupala (Lặp lại)",
-        "10803": "Điều mong ước bầu trời mùa hè (Lặp lại)"
+        "816": "Câu chuyện về CLB Đồ ngọt sau giờ học"
     },
     "StageType": {
         "Campaign": "Nhiệm vụ",
@@ -282,6 +280,7 @@
         "Buff_CriticalChanceResistPoint": "Kháng tỉ lệ chí mạng",
         "Buff_CriticalDamage": "Sát thương chí mạng",
         "Buff_CriticalDamageRateResist": "Kháng sát thương chí mạng",
+        "Buff_DamagedLimit": "Giới hạn sát thương phải chịu",
         "Buff_DamagedRatio": "Sát thương phải chịu",
         "Buff_DEF": "Phòng thủ",
         "Buff_Dodge": "Tí lệ né",
@@ -289,7 +288,7 @@
         "Buff_EnhanceExplosionRate": "Sát thương nổ đi kèm",
         "Buff_EnhancePierceRate": "Sát thương xuyên thủng đi kèm",
         "Buff_EnhanceMysticRate": "Sát thương huyền bí đi kèm",
-        "Buff_HealByHit_Damaged": "Phục hồi vết thương",
+        "Buff_HealByHit_Damaged": "Phục hồi khi bị thương",
         "Buff_HealEffectiveness": "Hiệu quả phục hồi",
         "Buff_HealPower": "Phục hồi",
         "Buff_HIT": "Độ chính xác",
@@ -320,6 +319,7 @@
         "Debuff_EnhanceExplosionRate": "Sát thương nổ đi kèm",
         "Debuff_EnhancePierceRate": "Sát thương xuyên thủng đi kèm",
         "Debuff_EnhanceMysticRate": "Sát thương huyền bí đi kèm",
+        "Debuff_HealedLimit": "Giới hạn phục hồi",
         "Debuff_HealEffectiveness": "Hiệu quả phục hồi",
         "Debuff_HealPower": "Phục hồi",
         "Debuff_Hieronymus": "Nguyền rủa",
@@ -346,7 +346,8 @@
         "Special_Accumulation": "Tích lũy",
         "Special_CostRegenBan": "Dừng phục hồi",
         "Special_ImmuneCC": "Khắc áp đảo",
-        "Special_SuddenDeath": "Vết đánh dấu của Wakamo"
+        "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
+        "Special_Stamp": ""
     },
     "BuffNameLong": {
         "Buff_AmmoCount": "Tăng lượng băng đạn",
@@ -360,6 +361,7 @@
         "Buff_CriticalChanceResistPoint": "Tăng kháng tí lệ chí mạng",
         "Buff_CriticalDamage": "Tăng sát thương chí mạng",
         "Buff_CriticalDamageRateResist": "Tăng kháng sát thương chí mạng",
+        "Buff_DamagedLimit": "Giới hạn sát thương phải chịu",
         "Buff_DamagedRatio": "Sát thương phải chịu giảm",
         "Buff_DEF": "Tăng phòng thủ",
         "Buff_Dodge": "Tăng tỉ lệ né",
@@ -367,7 +369,7 @@
         "Buff_EnhanceExplosionRate": "Tăng sát thương nổ đi kèm",
         "Buff_EnhancePierceRate": "Tăng sát thương xuyên thủng đi kèm",
         "Buff_EnhanceMysticRate": "Tăng sát thương huyền bí đi kèm",
-        "Buff_HealByHit_Damaged": "Phục hồi vết thương",
+        "Buff_HealByHit_Damaged": "Phục hồi khi bị thương",
         "Buff_HealEffectiveness": "Tăng hiệu quả phục hồi",
         "Buff_HealPower": "Tăng phục hồi",
         "Buff_HIT": "Tăng độ chính xác",
@@ -398,6 +400,7 @@
         "Debuff_EnhanceExplosionRate": "Sát thương nổ đi kèm giảm",
         "Debuff_EnhancePierceRate": "Sát thương xuyên thủng đi kèm giảm",
         "Debuff_EnhanceMysticRate": "Sát thương huyền bí đi kèm giảm",
+        "Debuff_HealedLimit": "Giới hạn phục hồi",
         "Debuff_HealEffectiveness": "Hiệu quả phục hồi giảm",
         "Debuff_HealPower": "Phục hồi giảm",
         "Debuff_Hieronymus": "Nguyền rủa",
@@ -424,7 +427,8 @@
         "Special_Accumulation": "Tích luỹ sát thương",
         "Special_CostRegenBan": "Ngưng phục hồi chi phí",
         "Special_ImmuneCC": "Khắc áp đảo",
-        "Special_SuddenDeath": "Vết đánh dấu của Wakamo"
+        "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
+        "Special_Stamp": ""
     },
     "BuffTooltip": {
         "Buff_AmmoCount": "Tăng lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường.",
@@ -438,6 +442,7 @@
         "Buff_CriticalChanceResistPoint": "Giảm tỉ lệ nhận đòn chí mạng khi bị tấn công.",
         "Buff_CriticalDamage": "Tăng sát thương gây ra bởi các đòn chí mạng.",
         "Buff_CriticalDamageRateResist": "Giảm sát thương nhận được từ các đòn chí mạng.",
+        "Buff_DamagedLimit": "Giới hạn lượng sát thương nhận được từ các cuộc tấn công.",
         "Buff_DamagedRatio": "Giảm tất cả sát thương nhận vào theo phần trăm.",
         "Buff_DEF": "Giảm sát thương nhận được từ các cuộc tấn công.",
         "Buff_Dodge": "Tăng tỉ lệ né đòn đánh thành công.",
@@ -477,6 +482,7 @@
         "Debuff_EnhanceExplosionRate": "Giảm bớt sát thương gây ra bởi các đòn tấn công loại nổ lên các mục tiêu giáp nhẹ.",
         "Debuff_EnhancePierceRate": "Giảm bớt sát thương gây ra bởi các đòn tấn công loại xuyên thủng đối với các mục tiêu giáp nặng.",
         "Debuff_EnhanceMysticRate": "Giảm bớt sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt.",
+        "Debuff_HealedLimit": "Giới hạn lượng máu sẽ phục hồi.",
         "Debuff_HealEffectiveness": "Giảm lượng máu phục hồi từ khả năng hồi phục.",
         "Debuff_HealPower": "Giảm lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên.",
         "Debuff_Hieronymus": "Gây sát thương liên tục theo thời gian. Gây một lượng lớn sát thương trong một khu vực hình tròn xung quanh mục tiêu nếu debuff này không được gỡ bỏ trước khi hết hiệu lực. Chỉ có thể loại bỏ debuff này bằng cách hồi phục 100% máu cho nhân vật bị ảnh hưởng.",
@@ -502,7 +508,22 @@
         "Special_Accumulation": "Tất cả sát thương gây ra cho mục tiêu này trong thời gian hiệu ứng sẽ được cộng dồn và gây lại như một đòn đánh bổ sung sau khi hết hiệu lực.",
         "Special_CostRegenBan": "Phục hồi chi phí giảm xuống 0.",
         "Special_ImmuneCC": "Miễn nhiễm với tất cả các hiệu ứng kiểm soát đám đông.",
-        "Special_SuddenDeath": "Một cộng dồn 5 lần sẽ gây sát thương chết người cho nhân vật."
+        "Special_SuddenDeath": "Một cộng dồn 5 lần sẽ gây sát thương chết người cho nhân vật.",
+        "Special_Stamp": ""
+    },
+    "ServerName": {
+        "0": "Japan",
+        "1": "Global"
+    },
+    "ShopCategory": {
+        "General": "Normal",
+        "Raid": "Total Assault",
+        "SecretStone": "Eligma I",
+        "SecretStoneGrowth": "Eligma II",
+        "Arena": "Tactical Challenge",
+        "TimeAttack": "Joint Firing Drill",
+        "MasterCoin": "Expert Permit",
+        "Chaser": "Bounty Shop"
     },
     "ui": {
         "navbar_home": "Trang chủ",
@@ -522,6 +543,7 @@
         "navbar_settings_collection": "Quản lý dữ liệu thu thập",
         "navbar_settings_collection_description": "Nhập hoặc xuất dữ liệu thu thập học sinh của bạn.",
         "search": "Tìm kiếm",
+        "filter_by_name": "Lọc theo tên",
         "collection_export_collection": "Xuất bộ sưu tập",
         "collection_import_collection": "Nhập bộ sưu tập",
         "collection_import_warning": "Điều này sẽ ghi đè bộ sưu tập hiện tại của bạn",
@@ -584,7 +606,7 @@
         "student_search_filters": "Bộ lọc",
         "student_search_filters_clear": "Quét tất cả các bộ lọc",
         "sortby": "Sắp xếp theo",
-        "default": "Ngày ra mắt",
+        "default": "Mặc định",
         "stat": "Thống kê",
         "name": "Tên",
         "type": "Loại",
@@ -595,6 +617,7 @@
         "school": "Học viện",
         "weapon": "Loại vũ khí",
         "position": "Vị trí",
+        "category": "Loại",
         "combat_power": "Điểm mạnh địa hình",
         "memory_lobby": "Sảnh hồi ức",
         "memory_lobby_student": "Sảnh hồi ức của {0}",
@@ -612,6 +635,7 @@
         "stage_enemies": "Kẻ địch",
         "stage_info": "Thông tin",
         "stage_map": "Bản đồ",
+        "event_rerun": " (Lặp lại)",
         "starcondition_clear": "Quét sạch",
         "starcondition_cleartime": "Quét sạch trong <b>{0}</b> giây.",
         "starcondition_earnrewards": "Nhận <b>{0}</b> phần thưởng.",
@@ -621,6 +645,9 @@
         "starcondition_complete": "Hoàn thành nhiệm vụ",
         "starcondition_clearturns": "Hoàn thành màn chơi trong <b>{0}</b> lượt.",
         "starcondition_sranks": "Đạt xếp hạng S <b>{0}</b> lần.",
+        "no_results": "Không có kết quả.",
+        "furniture_set": "Bộ sưu tập",
+        "others": "Khác",
         "options": "Tuỳ chọn",
         "options_short": "Tuỳ chọn",
         "raid_rules": "Luật",
@@ -643,6 +670,9 @@
         "item_tab_currency": "Tiền tệ",
         "item_tab_furniture": "Nội thất",
         "item_tab_equipment": "Trang bị",
+        "list_style_detailed": "Xem chi tiết",
+        "list_style_compact": "Xem ngắn gọn",
+        "equipment_tier": "Bậc thiết bị",
         "furniture_interaction_list": "Các học sinh sau tương tác với nội thất này",
         "item_likedbystudent_list_0": "Được yêu thích {0} bởi các học sinh sau",
         "item_likedbystudent_list_1": "Được thích {0} bởi các học sinh sau",
@@ -651,6 +681,7 @@
         "item_usedby_skill": "Được sử dụng để cải thiện các kỹ năng sau của học sinh",
         "item_usedby_eleph": "Được sử dụng để mở khóa thần bí trong học sinh sau",
         "item_obtainedfrom_stage": "Nhận được từ các màn chơi sau",
+        "item_purchasedfrom": "Có thể mua từ các cửa hàng sau",
         "item_randombox_tier": "Ngẫu nhiên {0} {1}",
         "item_artifact_box": "Chứa một trong các hiện vật sau:",
         "item_equipment_box": "Chứa một trong các phần trang bị sau:",
