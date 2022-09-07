@@ -6274,7 +6274,7 @@
     {
         "Id": 7001701,
         "DevName": "Police_Valkyrie_SG_M",
-        "Name": "Học sinh của trường Valkyrie (SG)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -6308,7 +6308,7 @@
     {
         "Id": 7001702,
         "DevName": "Police_Valkyrie_SG_E",
-        "Name": "Học sinh của trường Valkyrie (SG)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6342,7 +6342,7 @@
     {
         "Id": 7001703,
         "DevName": "Police_Valkyrie_SG_C",
-        "Name": "Học sinh trơ trẽn của trường Valkyrie",
+        "Name": "Sinh viên cảnh sát trơ trẽn trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -6410,7 +6410,7 @@
     {
         "Id": 7001711,
         "DevName": "Police_Valkyrie_AR_M",
-        "Name": "Học sinh của trường Valkyrie (AR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (AR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -6444,7 +6444,7 @@
     {
         "Id": 7001712,
         "DevName": "Police_Valkyrie_AR_E",
-        "Name": "Học sinh của trường Valkyrie (AR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6478,7 +6478,7 @@
     {
         "Id": 7001713,
         "DevName": "Police_Valkyrie_AR_C",
-        "Name": "Học sinh tận tâm của trường Valkyrie",
+        "Name": "Sinh viên cảnh sát tận tâm trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -6546,7 +6546,7 @@
     {
         "Id": 7001721,
         "DevName": "Police_Valkyrie_SR_M",
-        "Name": "Học sinh của trường Valkyrie (SR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SR)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -6580,7 +6580,7 @@
     {
         "Id": 7001722,
         "DevName": "Police_Valkyrie_SR_E",
-        "Name": "Học sinh của trường Valkyrie (SR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -6614,7 +6614,7 @@
     {
         "Id": 7001723,
         "DevName": "Police_Valkyrie_SR_C",
-        "Name": "Học sinh nhẫn tâm của trường Valkyrie",
+        "Name": "Sinh viên cảnh sát nhẫn tâm trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -6812,7 +6812,7 @@
     {
         "Id": 7001811,
         "DevName": "Totem02_Common_M",
-        "Name": "Thiết bị lưu trữ vật liệu sửa chữa",
+        "Name": "Thiết bị lưu trữ vật liệu phục hồi",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -6846,7 +6846,7 @@
     {
         "Id": 7001812,
         "DevName": "Totem02_Common_M_UntargetExceptEx",
-        "Name": "Repair Material Storage Device",
+        "Name": "Thiết bị lưu trữ vật liệu phục hồi",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -11590,7 +11590,7 @@
     {
         "Id": 7011703,
         "DevName": "ArmoredCar_Wakamo_MG_C",
-        "Name": "Xe bọc thép bị đánh cắp của Wakamo",
+        "Name": "Xe bọc thép bị Wakamo cướp",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -15144,7 +15144,7 @@
     {
         "Id": 7050613,
         "DevName": "Wakamo_Swimsuit_E_815Event01",
-        "Name": "Wakamo (Swimsuit)",
+        "Name": "Wakamo (Đồ bơi)",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Pierce",
@@ -19205,7 +19205,7 @@
     {
         "Id": 7110822,
         "DevName": "Sweeper_Decagram_Taser_Black_E_WEEK",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -27555,7 +27555,7 @@
     {
         "Id": 7306101,
         "DevName": "Hod_TemporaryTower_Normal",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -27589,7 +27589,7 @@
     {
         "Id": 7306102,
         "DevName": "Hod_TemporaryTower_Summon_Normal",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -27724,7 +27724,7 @@
     {
         "Id": 7306201,
         "DevName": "Hod_TemporaryTower_Hard",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -27758,7 +27758,7 @@
     {
         "Id": 7306202,
         "DevName": "Hod_TemporaryTower_Summon_Hard",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -27893,7 +27893,7 @@
     {
         "Id": 7306301,
         "DevName": "Hod_TemporaryTower_VeryHard",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -27927,7 +27927,7 @@
     {
         "Id": 7306302,
         "DevName": "Hod_TemporaryTower_Summon_VeryHard",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -28062,7 +28062,7 @@
     {
         "Id": 7306401,
         "DevName": "Hod_TemporaryTower_HardCore",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -28096,7 +28096,7 @@
     {
         "Id": 7306402,
         "DevName": "Hod_TemporaryTower_Summon_HardCore",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -28231,7 +28231,7 @@
     {
         "Id": 7306501,
         "DevName": "Hod_TemporaryTower_Extreme",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -28265,7 +28265,7 @@
     {
         "Id": 7306502,
         "DevName": "Hod_TemporaryTower_Summon_Extreme",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Normal",
@@ -28400,7 +28400,7 @@
     {
         "Id": 7306601,
         "DevName": "Hod_TemporaryTower_Insane",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Mystic",
@@ -28434,7 +28434,7 @@
     {
         "Id": 7306602,
         "DevName": "Hod_TemporaryTower_Summon_Insane",
-        "Name": "Invader Pillar",
+        "Name": "Tháp xói mòn",
         "SquadType": "Main",
         "Rank": "Summoned",
         "BulletType": "Mystic",
@@ -28534,7 +28534,7 @@
     {
         "Id": 7310100,
         "DevName": "Wakamo_HoverCraft_A",
-        "Name": "Wakamo (Hovercraft)",
+        "Name": "Wakamo (Thủy phi cơ)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -28764,7 +28764,7 @@
     {
         "Id": 7310200,
         "DevName": "Wakamo_HoverCraft_B",
-        "Name": "Wakamo (Hovercraft)",
+        "Name": "Wakamo (Thủy phi cơ)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -28994,7 +28994,7 @@
     {
         "Id": 7310300,
         "DevName": "Wakamo_HoverCraft_C",
-        "Name": "Wakamo (Hovercraft)",
+        "Name": "Wakamo (Thủy phi cơ)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -29224,7 +29224,7 @@
     {
         "Id": 7311000,
         "DevName": "Wakamo_SwimSuit_A",
-        "Name": "Wakamo (Swimsuit)",
+        "Name": "Wakamo (Đồ bơi)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -29258,7 +29258,7 @@
     {
         "Id": 7311100,
         "DevName": "Wakamo_SwimSuit_B",
-        "Name": "Wakamo (Swimsuit)",
+        "Name": "Wakamo (Đồ bơi)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -29292,7 +29292,7 @@
     {
         "Id": 7311200,
         "DevName": "Wakamo_SwimSuit_C",
-        "Name": "Wakamo (Swimsuit)",
+        "Name": "Wakamo (Đồ bơi)",
         "SquadType": "Main",
         "Rank": "Boss",
         "BulletType": "Normal",
@@ -33519,7 +33519,7 @@
     {
         "Id": 7919922,
         "DevName": "Sweeper_Decagram_Taser_Black_E_STORY",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38657,7 +38657,7 @@
     {
         "Id": 8100001,
         "DevName": "Police_Valkyrie_SG_M_810Event_01",
-        "Name": "Valkyrie Student (SG)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -38691,7 +38691,7 @@
     {
         "Id": 8100002,
         "DevName": "Police_Valkyrie_AR_E_810Event_01",
-        "Name": "Valkyrie Student (AR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38725,7 +38725,7 @@
     {
         "Id": 8100003,
         "DevName": "Police_Valkyrie_SR_E_810Event_01",
-        "Name": "Valkyrie Student (SR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38759,7 +38759,7 @@
     {
         "Id": 8100004,
         "DevName": "Police_Valkyrie_SR_C_810Event_01",
-        "Name": "Heartless Valkyrie Student",
+        "Name": "Sinh viên cảnh sát nhẫn tâm trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -38794,7 +38794,7 @@
     {
         "Id": 8100005,
         "DevName": "Totem01_Common_M_810Event_01",
-        "Name": "Plasma Field Generator",
+        "Name": "Máy phát điện trường Plasma",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -38828,7 +38828,7 @@
     {
         "Id": 8100010,
         "DevName": "Police_Valkyrie_SG_M_810Event_03",
-        "Name": "Valkyrie Student (SG)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -38862,7 +38862,7 @@
     {
         "Id": 8100011,
         "DevName": "Police_Valkyrie_AR_E_810Event_03",
-        "Name": "Valkyrie Student (AR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38896,7 +38896,7 @@
     {
         "Id": 8100012,
         "DevName": "Police_Valkyrie_SR_E_810Event_03",
-        "Name": "Valkyrie Student (SR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -38930,7 +38930,7 @@
     {
         "Id": 8100013,
         "DevName": "Police_Valkyrie_SR_C_810Event_03",
-        "Name": "Heartless Valkyrie Student",
+        "Name": "Sinh viên cảnh sát nhẫn tâm trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -38965,7 +38965,7 @@
     {
         "Id": 8100014,
         "DevName": "Totem02_Common_M_810Event_03",
-        "Name": "Repair Material Storage Device",
+        "Name": "Thiết bị lưu trữ vật liệu phục hồi",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -38999,7 +38999,7 @@
     {
         "Id": 8100020,
         "DevName": "ArmoredCar_Wakamo_MG_C_810Event_04",
-        "Name": "Wakamo&#x27;s Stolen Armored Car",
+        "Name": "Xe bọc thép bị Wakamo cướp",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -39034,7 +39034,7 @@
     {
         "Id": 8100030,
         "DevName": "Police_Valkyrie_SG_M_810Event_05",
-        "Name": "Valkyrie Student (SG)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SG)",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -39068,7 +39068,7 @@
     {
         "Id": 8100031,
         "DevName": "Police_Valkyrie_AR_E_810Event_05",
-        "Name": "Valkyrie Student (AR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (AR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -39102,7 +39102,7 @@
     {
         "Id": 8100032,
         "DevName": "Police_Valkyrie_SR_E_810Event_05",
-        "Name": "Valkyrie Student (SR)",
+        "Name": "Sinh viên cảnh sát trường Valkyrie (SR)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -39136,7 +39136,7 @@
     {
         "Id": 8100033,
         "DevName": "Police_Valkyrie_SR_C_810Event_05",
-        "Name": "Heartless Valkyrie Student",
+        "Name": "Sinh viên cảnh sát nhẫn tâm trường Valkyrie",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -39171,7 +39171,7 @@
     {
         "Id": 8100034,
         "DevName": "Totem01_Common_M_810Event_05",
-        "Name": "Plasma Field Generator",
+        "Name": "Máy phát điện trường Plasma",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -39205,7 +39205,7 @@
     {
         "Id": 8100035,
         "DevName": "Totem02_Common_M_810Event_05",
-        "Name": "Repair Material Storage Device",
+        "Name": "Thiết bị lưu trữ vật liệu phục hồi",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -39490,7 +39490,7 @@
     {
         "Id": 8110008,
         "DevName": "ArmoredCar_Wakamo_MG_C_811Event_08",
-        "Name": "Wakamo&#x27;s Stolen Armored Car",
+        "Name": "Xe bọc thép bị Wakamo cướp",
         "SquadType": "Main",
         "Rank": "Champion",
         "BulletType": "Normal",
@@ -41372,7 +41372,7 @@
     {
         "Id": 8150036,
         "DevName": "Sweeper_Decagram_Taser_Black_E_815Event03",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -41412,7 +41412,7 @@
     {
         "Id": 8150037,
         "DevName": "Sweeper_Unarmed_Taser_White_M_815Event03",
-        "Name": "Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -41449,7 +41449,7 @@
     {
         "Id": 8150038,
         "DevName": "Sweeper_Unarmed_Taser_Blue_E_815Event03",
-        "Name": "Modded Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -41486,7 +41486,7 @@
     {
         "Id": 8150039,
         "DevName": "Sweeper_Unarmed_Taser_DarkBlue_E_815Event03",
-        "Name": "Enhanced Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47596,7 +47596,7 @@
     {
         "Id": 7710022,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47717,7 +47717,7 @@
     {
         "Id": 7710052,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special_Guard",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -47991,7 +47991,7 @@
     {
         "Id": 7710352,
         "DevName": "Sweeper_Decagram_Taser_Black_E_Special_Kether",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -48684,7 +48684,7 @@
     {
         "Id": 7801201,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_01",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -48802,7 +48802,7 @@
     {
         "Id": 7801202,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_02",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -48920,7 +48920,7 @@
     {
         "Id": 7801203,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_03",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49038,7 +49038,7 @@
     {
         "Id": 7801204,
         "DevName": "Sweeper_Decagram_Taser_Black_E_TimeAttack_04",
-        "Name": "Máy quét dọn được cải tiến",
+        "Name": "Máy quét dọn cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49078,7 +49078,7 @@
     {
         "Id": 7802001,
         "DevName": "Sweeper_Unarmed_Taser_White_M_TimeAttack_01",
-        "Name": "Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49115,7 +49115,7 @@
     {
         "Id": 7802101,
         "DevName": "Sweeper_Unarmed_Taser_Blue_E_TimeAttack_01",
-        "Name": "Modded Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49152,7 +49152,7 @@
     {
         "Id": 7802201,
         "DevName": "Sweeper_Unarmed_Taser_DarkBlue_E_TimeAttack_01",
-        "Name": "Enhanced Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49191,7 +49191,7 @@
     {
         "Id": 7802002,
         "DevName": "Sweeper_Unarmed_Taser_White_M_TimeAttack_02",
-        "Name": "Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49228,7 +49228,7 @@
     {
         "Id": 7802102,
         "DevName": "Sweeper_Unarmed_Taser_Blue_E_TimeAttack_02",
-        "Name": "Modded Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49265,7 +49265,7 @@
     {
         "Id": 7802202,
         "DevName": "Sweeper_Unarmed_Taser_DarkBlue_E_TimeAttack_02",
-        "Name": "Enhanced Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49304,7 +49304,7 @@
     {
         "Id": 7802003,
         "DevName": "Sweeper_Unarmed_Taser_White_M_TimeAttack_03",
-        "Name": "Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49341,7 +49341,7 @@
     {
         "Id": 7802103,
         "DevName": "Sweeper_Unarmed_Taser_Blue_E_TimeAttack_03",
-        "Name": "Modded Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49378,7 +49378,7 @@
     {
         "Id": 7802203,
         "DevName": "Sweeper_Unarmed_Taser_DarkBlue_E_TimeAttack_03",
-        "Name": "Enhanced Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49417,7 +49417,7 @@
     {
         "Id": 7802004,
         "DevName": "Sweeper_Unarmed_Taser_White_M_TimeAttack_04",
-        "Name": "Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí",
         "SquadType": "Main",
         "Rank": "Minion",
         "BulletType": "Normal",
@@ -49454,7 +49454,7 @@
     {
         "Id": 7802104,
         "DevName": "Sweeper_Unarmed_Taser_Blue_E_TimeAttack_04",
-        "Name": "Modded Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí đã sửa đổi",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -49491,7 +49491,7 @@
     {
         "Id": 7802204,
         "DevName": "Sweeper_Unarmed_Taser_DarkBlue_E_TimeAttack_04",
-        "Name": "Enhanced Mutant Sweeper",
+        "Name": "Máy quét dọn huyền bí được cải tiến",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",

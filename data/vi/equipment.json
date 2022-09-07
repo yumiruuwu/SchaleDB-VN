@@ -449,7 +449,7 @@
                 "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
-                    false
+                    true
                 ],
                 "Amount": 1,
                 "CostType": "Item",
@@ -484,7 +484,7 @@
                 "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
-                    false
+                    true
                 ],
                 "Amount": 1,
                 "CostType": "Item",
@@ -2257,7 +2257,7 @@
         "Icon": "Equipment_Icon_Charm_Tier6",
         "Shops": [],
         "Name": "Búp bê Voodoo",
-        "Desc": "Một con búp bê bị nguyền rủa dường như chứa đầy những cảm xúc mạnh mẽ như mối hận thù. Nó có vẻ dễ sử dụng như một cây kim, và được các học sinh của câu lạc bộ thủ công rất ưa chuộng.",
+        "Desc": "Một con búp bê bị nguyền rủa được tạo ra với sự phẫn nộ dành cho mục tiêu. Khả năng phục hồi của nó đối với những mũi kim sắc nhọn khiến nó trở nên phổ biến với những người thợ thủ công.",
         "IsReleased": [
             true,
             false
@@ -2474,8 +2474,8 @@
         "Tier": 6,
         "Icon": "Equipment_Icon_Watch_Tier6",
         "Shops": [],
-        "Name": "Đồng hồ đeo tay Gothic",
-        "Desc": "Một chiếc đồng hồ đeo tay được thiết kế theo phong cách gothic. Mặc dù có vẻ đẹp với trang phục cổ điển, nhưng rất khó để đọc thời gian nếu bạn không quen với nó.",
+        "Name": "Đồng hồ đeo tay Gothic bằng da",
+        "Desc": "Một chiếc đồng hồ đeo tay với những họa tiết phức tạp được khâu trên đó. Phù hợp với trang phục cổ điển, nhưng có một nhược điểm là khó đọc thời gian.",
         "IsReleased": [
             true,
             false
@@ -3790,7 +3790,7 @@
         "Tier": 6,
         "Icon": "Equipment_Icon_Watch_Tier6_Piece",
         "Shops": [],
-        "Name": "Bản thiết kế đồng hồ đeo tay Gothic",
+        "Name": "Bản thiết kế đồng hồ đeo tay Gothic bằng da",
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,

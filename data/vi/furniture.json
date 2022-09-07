@@ -186,7 +186,7 @@
         "Desc": "Một chiếc bàn với kiểu dáng cổ điển. Mang lại vẻ đẹp lâu dài nhờ kết cấu bằng gỗ chắc chắn.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -338,7 +338,7 @@
         "Desc": "Một chiếc ghế có thể hỗ trợ tối đa hai người. Nó rất thoải mái, ngay cả khi bạn ngồi trên nó trong một thời gian dài.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -851,7 +851,7 @@
         "Desc": "Một TV đa màn hình phong cách cổ điển. Bạn có thể sử dụng nó để xem TV và chơi game cùng một lúc!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -1098,7 +1098,7 @@
         "Desc": "Một chiếc ghế sofa dành cho lễ tình nhân với đệm hình bánh quy. Thiết kế độc đáo làm tăng thêm tính thẩm mỹ cho món tráng miệng.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -4620,7 +4620,7 @@
         "Id": 100620,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "N",
         "Icon": "My_Trophy_Hod_City_Bronze",
@@ -4628,8 +4628,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "ホド（市街地戦）のブロンズトロフィー",
-        "Desc": "ホド（市街地戦）の栄誉を讃えるブロンズトロフィー",
+        "Name": "Cúp đồng Hod - CT ở Đô thị",
+        "Desc": "Một chiếc cúp đồng dành được từ việc đánh bại Hod trong CT ở Đô thị.",
         "Interaction": [
             false,
             false
@@ -4639,7 +4639,7 @@
         "Id": 100621,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "R",
         "Icon": "My_Trophy_Hod_City_Silver",
@@ -4647,8 +4647,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "ホド（市街地戦）のシルバートロフィー",
-        "Desc": "ホド（市街地戦）の栄誉を讃えるシルバートロフィー",
+        "Name": "Cúp bạc Hod - CT ở Đô thị",
+        "Desc": "Một chiếc cúp bạc dành được từ việc đánh bại Hod trong CT ở Đô thị.",
         "Interaction": [
             false,
             false
@@ -4658,7 +4658,7 @@
         "Id": 100622,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SR",
         "Icon": "My_Trophy_Hod_City_Gold",
@@ -4666,8 +4666,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "ホド（市街地戦）のゴールドトロフィー",
-        "Desc": "ホド（市街地戦）の栄誉を讃えるゴールドトロフィー",
+        "Name": "Cúp vàng Hod - CT ở Đô thị",
+        "Desc": "Một chiếc cúp vàng dành được từ việc đánh bại Hod trong CT ở Đô thị.",
         "Interaction": [
             false,
             false
@@ -4685,8 +4685,8 @@
         "Category": "Furnitures",
         "SubCategory": "FurnitureEtc",
         "SetGroupId": 0,
-        "Name": "ホド（市街地戦）のプラチナトロフィー",
-        "Desc": "ホド（市街地戦）の栄誉を讃えるプラチナトロフィー",
+        "Name": "Cúp bạch kim Hod - CT ở Đô thị",
+        "Desc": "Một chiếc cúp bạch kim dành được từ việc đánh bại Hod trong CT ở Đô thị.",
         "Interaction": [
             false,
             false
@@ -4791,7 +4791,7 @@
         "Id": 203302,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Event06_Pocha",
@@ -4799,8 +4799,8 @@
         "Category": "Decorations",
         "SubCategory": "Prop",
         "SetGroupId": 0,
-        "Name": "百夜堂の出張屋台",
-        "Desc": "桜の花で飾られた百夜堂の移動式店舗。百夜堂の人気メニューをどこでもお楽しみいただけます！",
+        "Name": "Gian hàng thực phẩm Momoyodou",
+        "Desc": "Gian hàng thức ăn của Momoyodou được trang trí bằng hoa anh đào. Thưởng thức menu phổ biến của Momoyodou ở bất cứ đâu!",
         "Interaction": [
             true,
             false
@@ -4810,7 +4810,7 @@
         "Id": 203303,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Event06_Hotspringswindow",
@@ -4818,8 +4818,8 @@
         "Category": "Decorations",
         "SubCategory": "WallDecoration",
         "SetGroupId": 0,
-        "Name": "伝統的な格子の掃き出し窓",
-        "Desc": "伝統的な方法で作られた格子の掃き出し窓。箒での掃除をぐっと楽にしてくれる。",
+        "Name": "Cửa sổ gỗ truyền thống có thể mở rộng",
+        "Desc": "Một cửa sổ lưới có thể mở rộng được làm theo cách truyền thống. Tạo không gian bạn muốn với một cửa sổ rộng!",
         "Interaction": [
             true,
             false
@@ -4829,7 +4829,7 @@
         "Id": 204301,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Event07_Bookclubdesk",
@@ -4837,8 +4837,8 @@
         "Category": "Furnitures",
         "SubCategory": "Table",
         "SetGroupId": 0,
-        "Name": "アンティークな収納付きウッドデスク",
-        "Desc": "収納スペースがたくさんある、アンティークな木製デスク。古書の解読作業などにぴったり！",
+        "Name": "Bàn gỗ cổ",
+        "Desc": "Một chiếc bàn gỗ cũ với hàng tấn đồ lưu trữ. Bạn có thể nghiên cứu rất nhiều văn bản cổ tại bàn này!",
         "Interaction": [
             true,
             false
