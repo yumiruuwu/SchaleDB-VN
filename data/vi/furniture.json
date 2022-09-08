@@ -1724,7 +1724,7 @@
         "Name": "Bể bơi ống nhỏ",
         "Desc": "Một hồ bơi nhỏ với bộ Momo Friends Tube. Hãy vui vẻ với Momo Friends!",
         "Interaction": [
-            false,
+            true,
             false
         ]
     },
