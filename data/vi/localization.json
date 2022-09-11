@@ -115,7 +115,7 @@
         "Range": "Khoảng cách",
         "AmmoCount": "Số lượng băng đạn",
         "MoveSpeed": "Tốc độ di chuyển",
-        "DamagedRatio": "Sát thương phải chịu",
+        "DamagedRatio": "Khả năng kháng sát thương phải chịu",
         "AttackSpeed": "Tốc độ tấn công",
         "BlockRate": "Tỉ lệ chặn",
         "DefensePenetration": "Xuyên giáp",
@@ -453,7 +453,7 @@
         "Buff_EnhancePierceRate": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại xuyên thủng đối với các mục tiêu giáp nặng.",
         "Buff_EnhanceMysticRate": "Tăng thêm sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt.",
         "Buff_HealByHit_Damaged": "Phục hồi máu mỗi khi nhận sát thương từ đòn tấn công.",
-        "Buff_HealEffectiveness": "Tăng lượng máu phục hồi từ khả năng hồi phục.",
+        "Buff_HealEffectiveness": "Tăng lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này.",
         "Buff_HealPower": "Tăng lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên.",
         "Buff_HIT": "Giảm tỉ lệ bắn hụt khi tấn công.",
         "Buff_MAXHP": "Tăng máu tối đa.",
@@ -485,7 +485,7 @@
         "Debuff_EnhancePierceRate": "Giảm bớt sát thương gây ra bởi các đòn tấn công loại xuyên thủng đối với các mục tiêu giáp nặng.",
         "Debuff_EnhanceMysticRate": "Giảm bớt sát thương gây ra bởi các đòn tấn công loại huyền bí đối với các mục tiêu đặc biệt.",
         "Debuff_HealedLimit": "Giới hạn lượng máu sẽ phục hồi.",
-        "Debuff_HealEffectiveness": "Giảm lượng máu phục hồi từ khả năng hồi phục.",
+        "Debuff_HealEffectiveness": "Giảm lượng HP phục hồi từ các kỹ năng phục hồi áp dụng lên nhân vật này.",
         "Debuff_HealPower": "Giảm lượng máu phục hồi bởi khả năng phục hồi và sát thương hấp thụ bởi khả năng khiên.",
         "Debuff_Hieronymus": "Gây sát thương liên tục theo thời gian. Gây một lượng lớn sát thương trong một khu vực hình tròn xung quanh mục tiêu nếu debuff này không được gỡ bỏ trước khi hết hiệu lực. Chỉ có thể loại bỏ debuff này bằng cách hồi phục 100% máu cho nhân vật bị ảnh hưởng.",
         "Debuff_HIT": "Tăng tỉ lệ bắn hụt khi tấn công.",
@@ -718,7 +718,8 @@
         "toast_import_failure": "Xảy ra lỗi khi nhập bộ sưu tập học sinh",
         "toast_import_copy": "Đã sao chép chuỗi nhập vào bàn phím.",
         "stat_defense_tooltip": "Giảm DMG: {0}",
-        "stat_crit_tooltip": "Tỉ lệ chí mạng: {0}\n<small><i>Chống lại kẻ thù với 100 kháng chí mạng</i></small>",
+        "stat_crit_tooltip": "Tỉ lệ chí mạng:",
+        "stat_crit_amount_tooltip": "{0}&nbsp;<small><i>({1} Kháng chí mạng)</i></small>",
         "stat_stability_tooltip": "DMG tối thiểu: {0}"
     }
 }
