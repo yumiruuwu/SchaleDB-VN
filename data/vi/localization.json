@@ -697,6 +697,7 @@
         "tooltip_compare_remove": "Gỡ bỏ so sánh",
         "tooltip_collection_add": "Thêm vào bộ sưu tập",
         "tooltip_collection_remove": "Gỡ khỏi bộ sưu tập",
+        "tooltip_sprite_toggle": "Thay đổi sprite",
         "collection": "Bộ sưu tập",
         "collection_owned": "Đã sở hữu",
         "collection_notowned": "Chưa sở hữu",
