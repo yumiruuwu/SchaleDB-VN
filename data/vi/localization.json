@@ -202,7 +202,7 @@
         "813": "Trái tim của Shinobi",
         "814": "Lực lượng đặc nhiệm khôi phục khu nghỉ dưỡng Abydos",
         "815": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou",
-        "816": "Câu chuyện về CLB Đồ ngọt sau giờ học"
+        "816": "Câu chuyện về CLB Đồ ngọt sau giờ học: Bí mật ngọt ngào và cuộc đấu súng"
     },
     "StageType": {
         "Campaign": "Nhiệm vụ",
@@ -721,6 +721,10 @@
         "stat_defense_tooltip": "Giảm DMG: {0}",
         "stat_crit_tooltip": "Tỉ lệ chí mạng:",
         "stat_crit_amount_tooltip": "{0}&nbsp;<small><i>({1} Kháng chí mạng)</i></small>",
-        "stat_stability_tooltip": "DMG tối thiểu: {0}"
+        "stat_stability_tooltip": "DMG tối thiểu: {0}",
+        "stat_ammocount_tooltip": "Đánh thường tiêu tốn {0} đạn và gây ra {1} (các) đòn đánh",
+        "stat_ammocount_tooltip_area": "Đánh thường tiêu hao {0} đạn và gây ra {1} đòn đánh cho kẻ thù trong một khu vực hình tròn",
+        "stat_ammocount_tooltip_line": "Đánh thường tiêu hao {0} đạn và gây {1} đòn đánh lên kẻ thù trên đường thẳng",
+        "skill_hits_tooltip": "Gây ra tổng cộng {0} đòn đánh"
     }
 }

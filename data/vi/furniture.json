@@ -2656,7 +2656,7 @@
         "Desc": "Một chiếc ô trang trí với hoa văn truyền thống. Màu sắc sống động làm sống động bất kỳ khu vực buồn tẻ nào.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -4803,7 +4803,7 @@
         "Desc": "Gian hàng thức ăn của Momoyodou được trang trí bằng hoa anh đào. Thưởng thức menu phổ biến của Momoyodou ở bất cứ đâu!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {

@@ -2260,7 +2260,7 @@
         "Desc": "Một con búp bê bị nguyền rủa được tạo ra với sự phẫn nộ dành cho mục tiêu. Khả năng phục hồi của nó đối với những mũi kim sắc nhọn khiến nó trở nên phổ biến với những người thợ thủ công.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "CriticalChanceResistPoint_Base",
@@ -2478,7 +2478,7 @@
         "Desc": "Một chiếc đồng hồ đeo tay với những họa tiết phức tạp được khâu trên đó. Phù hợp với trang phục cổ điển, nhưng có một nhược điểm là khó đọc thời gian.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "CriticalPoint_Base",
@@ -2711,7 +2711,7 @@
         "Desc": "Một chiếc vòng cổ kiểu giang hồ với gai nhọn. Đeo nó quanh cổ khiến bạn khó gật đầu hơn một chút.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "HealPower_Coefficient",
@@ -3679,7 +3679,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3794,7 +3794,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3909,7 +3909,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"

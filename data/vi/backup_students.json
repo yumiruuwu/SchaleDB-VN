@@ -73,14 +73,24 @@
                         "315%",
                         "397%",
                         "438%",
-                        "521%"
+                        "521%",
+                        "562%",
+                        "644%",
+                        "685%",
+                        "768%",
+                        "809%"
                     ],
                     [
                         "292%",
                         "335%",
                         "423%",
                         "467%",
-                        "554%"
+                        "554%",
+                        "598%",
+                        "686%",
+                        "730%",
+                        "817%",
+                        "861%"
                     ]
                 ],
                 "Cost": [
@@ -273,8 +283,14 @@
         "FavorAlts": [
             10031
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "Roman"
@@ -531,7 +547,12 @@
                         "9.9%",
                         "12.5%",
                         "13.8%",
-                        "16.4%"
+                        "16.4%",
+                        "17.7%",
+                        "20.3%",
+                        "21.6%",
+                        "24.2%",
+                        "25.4%"
                     ]
                 ],
                 "Cost": [
@@ -678,8 +699,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "Music"
@@ -905,7 +932,12 @@
                         "582%",
                         "735%",
                         "811%",
-                        "887%"
+                        "887%",
+                        "963%",
+                        "1115%",
+                        "1191%",
+                        "1343%",
+                        "1419%"
                     ]
                 ],
                 "Cost": [
@@ -963,7 +995,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Prudent Connoisseur",
-                "Desc": "Increases <b:ATK> by <?1> when Haruna is standing still.",
+                "Desc": "Increases <b:ATK> by <?1> while Haruna is standing still.",
                 "Parameters": [
                     [
                         "10%",
@@ -1052,8 +1084,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Simplicity"
         ],
@@ -1242,8 +1280,8 @@
         "FamilyName": "Ajitani",
         "FamilyNameRuby": null,
         "PersonalName": "Hifumi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "November 27th",
         "CharacterSSRNew": "If Sensei&#x27;s going to be with me...I&#x27;m going to give my all!",
         "ProfileIntroduction": "A friendly, outgoing member of the Trinity Make-Up Work Club.\n\nHifumi&#x27;s just a regular girl with average grades, but she&#x27;s nonetheless well liked and popular for her well-rounded personality. She&#x27;s a good listener for anyone who needs to vent about their worries or problems, but this also causes her to get swept up in the moment and unintentionally cause trouble.",
@@ -1274,20 +1312,30 @@
             {
                 "SkillType": "ex",
                 "Name": "Help Me, Peroro!",
-                "Desc": "Summons a Peroro decoy with 160% of Hifumi's <b:MAXHP>, dealing <?1> damage to enemies in a circular area and inflicting <c:Provoke> for <?2>.",
+                "Desc": "Summons a Peroro plush with 160% of Hifumi's <b:MAXHP>, dealing <?1> damage to enemies in a circular area and inflicting <c:Provoke> for <?2>.",
                 "Parameters": [
                     [
                         "202%",
                         "234%",
                         "294%",
                         "326%",
-                        "386%"
+                        "386%",
+                        "416%",
+                        "478%",
+                        "508%",
+                        "570%",
+                        "600%"
                     ],
                     [
                         "3.4s",
                         "3.4s",
                         "3.4s",
                         "3.4s",
+                        "3.9s",
+                        "3.9s",
+                        "3.9s",
+                        "3.9s",
+                        "3.9s",
                         "3.9s"
                     ]
                 ],
@@ -1449,8 +1497,14 @@
         "FavorAlts": [
             20005
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "MomoFriends"
         ],
@@ -1676,7 +1730,12 @@
                         "731%",
                         "922%",
                         "1017%",
-                        "1208%"
+                        "1208%",
+                        "1303%",
+                        "1494%",
+                        "1589%",
+                        "1780%",
+                        "1876%"
                     ]
                 ],
                 "Cost": [
@@ -1691,7 +1750,7 @@
             {
                 "SkillType": "normal",
                 "Name": "Lock & Load",
-                "Desc": "When Hina runs out of ammo, immediately reloads and increases <b:ATK> by <?1> for 16s.",
+                "Desc": "Whenever Hina runs out of ammo, immediately reloads and increases <b:ATK> by <?1> for 16s.",
                 "Parameters": [
                     [
                         "21%",
@@ -1734,7 +1793,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Out-and-Out",
-                "Desc": "Deals <?1> damage as an additional hit to enemies not in cover.",
+                "Desc": "Deals <?1> damage as an additional hit to enemies not taking cover.",
                 "Parameters": [
                     [
                         "2.7%",
@@ -1825,8 +1884,14 @@
         "FavorAlts": [
             10022
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Mystery"
         ],
@@ -2045,20 +2110,30 @@
             {
                 "SkillType": "ex",
                 "Name": "Tactical Suppression",
-                "Desc": "Deals <?1> damage to enemies in a cone-shaped area<?2>.",
+                "Desc": "Deals <?1> damage to enemies in a fan-shaped area<?2>.",
                 "Parameters": [
                     [
                         "435%",
                         "501%",
                         "566%",
                         "632%",
-                        "697%"
+                        "697%",
+                        "762%",
+                        "893%",
+                        "959%",
+                        "1089%",
+                        "1155%"
                     ],
                     [
                         "",
                         "",
                         " and inflicts <c:Stunned> for 1s",
                         " and inflicts <c:Stunned> for 1s",
+                        " and inflicts <c:Stunned> for 1.4s",
+                        " and inflicts <c:Stunned> for 1.4s",
+                        " and inflicts <c:Stunned> for 1.4s",
+                        " and inflicts <c:Stunned> for 1.4s",
+                        " and inflicts <c:Stunned> for 1.4s",
                         " and inflicts <c:Stunned> for 1.4s"
                     ]
                 ],
@@ -2117,7 +2192,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Expert Suppression",
-                "Desc": "While using her EX skill, Hoshino gains a <b:Shield> with HP equal to <?1> of Healing. Barrier is dispelled once EX skill has finished.",
+                "Desc": "Whenever Hoshino uses her EX skill, gains a <b:Shield> with HP equal to <?1> of Healing. Barrier is dispelled once EX skill has finished.",
                 "Parameters": [
                     [
                         "108%",
@@ -2208,8 +2283,14 @@
         "FavorAlts": [
             10045
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Roman"
         ],
@@ -2396,8 +2477,8 @@
         "FamilyName": "Shiromi",
         "FamilyNameRuby": null,
         "PersonalName": "Iori",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "November 8th",
         "CharacterSSRNew": "No mercy for criminals!",
         "ProfileIntroduction": "A cold-blooded specialist of Gehenna Academy&#x27;s Prefect Team.\n\nShe uses her overwhelming force as field captain to ruthlessly discipline offenders. Iori is highly efficient and formidable in combat, but her stubbornness causes her to fall for even the most obvious traps.",
@@ -2435,7 +2516,12 @@
                         "403%",
                         "508%",
                         "561%",
-                        "666%"
+                        "666%",
+                        "718%",
+                        "824%",
+                        "876%",
+                        "981%",
+                        "1034%"
                     ]
                 ],
                 "Cost": [
@@ -2493,7 +2579,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Prefect Team Nerve",
-                "Desc": "Deals <?1> damage as an additional hit to enemies when Iori is not taking cover.",
+                "Desc": "Deals <?1> damage as an additional hit to enemies if Iori is not taking cover.",
                 "Parameters": [
                     [
                         "22.6%",
@@ -2584,8 +2670,14 @@
         "FavorAlts": [
             10023
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Army"
@@ -2811,13 +2903,23 @@
                         "777%",
                         "879%",
                         "980%",
-                        "1081%"
+                        "1081%",
+                        "1183%",
+                        "1386%",
+                        "1487%",
+                        "1690%",
+                        "1791%"
                     ],
                     [
                         "41.9%",
                         "41.9%",
                         "48.2%",
                         "48.2%",
+                        "54.5%",
+                        "54.5%",
+                        "54.5%",
+                        "54.5%",
+                        "54.5%",
                         "54.5%"
                     ]
                 ],
@@ -2965,8 +3067,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "Art"
@@ -3192,13 +3300,23 @@
                         "548%",
                         "619%",
                         "691%",
-                        "762%"
+                        "762%",
+                        "834%",
+                        "977%",
+                        "1048%",
+                        "1191%",
+                        "1263%"
                     ],
                     [
                         "1.5",
                         "1.5",
                         "1.6",
                         "1.6",
+                        "1.7",
+                        "1.7",
+                        "1.7",
+                        "1.7",
+                        "1.7",
                         "1.7"
                     ]
                 ],
@@ -3214,7 +3332,7 @@
             {
                 "SkillType": "normal",
                 "Name": "Cruisin' for a Bruisin'!",
-                "Desc": "Every 30s, Neru becomes <s:Fury> and increases <b:Dodge> by <?1> for 20s.",
+                "Desc": "Every 30s, Neru becomes <s:Fury> and her <b:Dodge> increases by <?1> for 20s.",
                 "Parameters": [
                     [
                         "17.8%",
@@ -3257,7 +3375,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Enhanced Rage",
-                "Desc": "Whenever Neru becomes <s:Fury>, increases <b:ATK> by <?1> for 30s.",
+                "Desc": "Whenever Neru becomes <s:Fury>, her <b:ATK> increases by <?1> for 30s.",
                 "Parameters": [
                     [
                         "16.8%",
@@ -3348,9 +3466,17 @@
         "FavorAlts": [
             10026
         ],
-        "MemoryLobby": 8,
+        "MemoryLobby": [
+            8,
+            8
+        ],
         "FurnitureInteraction": [
-            2302
+            [
+                2302
+            ],
+            [
+                2302
+            ]
         ],
         "FavorItemTags": [
             "Toy"
@@ -3537,8 +3663,8 @@
         "FamilyName": "Shishidou",
         "FamilyNameRuby": null,
         "PersonalName": "Izumi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "May 11th",
         "CharacterSSRNew": "The world is full of delicious food!",
         "ProfileIntroduction": "A member of the Gehenna Gourmet Research Society with a voracious appetite.\n\nShe loves food so much that she even gobbles up dishes that others would dislike with gusto.",
@@ -3576,11 +3702,21 @@
                         "167%",
                         "189%",
                         "211%",
-                        "254%"
+                        "254%",
+                        "276%",
+                        "320%",
+                        "342%",
+                        "385%",
+                        "407%"
                     ],
                     [
                         "",
                         "",
+                        " and increases <b:AttackSpeed> by 38.4% for 21s",
+                        " and increases <b:AttackSpeed> by 38.4% for 21s",
+                        " and increases <b:AttackSpeed> by 38.4% for 21s",
+                        " and increases <b:AttackSpeed> by 38.4% for 21s",
+                        " and increases <b:AttackSpeed> by 38.4% for 21s",
                         " and increases <b:AttackSpeed> by 38.4% for 21s",
                         " and increases <b:AttackSpeed> by 38.4% for 21s",
                         " and increases <b:AttackSpeed> by 38.4% for 21s"
@@ -3598,7 +3734,7 @@
             {
                 "SkillType": "normal",
                 "Name": "Ready, Set, Boom!",
-                "Desc": "Whenever Izumi normal attacks, she has a 20% chance to deal <?1> damage to one enemy. 10s cooldown between activations.",
+                "Desc": "Whenever Izumi uses normal attacks, she has a 20% chance to deal <?1> damage to one enemy. 10s cooldown between activations.",
                 "Parameters": [
                     [
                         "275%",
@@ -3641,7 +3777,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Savor the Flavor!",
-                "Desc": "Deals between <?1> ~ <?2> damage as an additional hit to enemies damage based on Izumi's current HP.",
+                "Desc": "Deals between <?1> ~ <?2> damage as an additional hit to enemies based on Izumi's current HP.",
                 "Parameters": [
                     [
                         "0.4%",
@@ -3744,8 +3880,14 @@
         "FavorAlts": [
             16006
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Freakish"
@@ -3932,8 +4074,8 @@
         "FamilyName": "Sunaookami",
         "FamilyNameRuby": null,
         "PersonalName": "Shiroko",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "May 16th",
         "CharacterSSRNew": "Do you need my help?",
         "ProfileIntroduction": "The sporty field captain of the Abydos Foreclosure Task Force.\n\nA girl of few words and almost no facial expression, Shiroko gives the impression of being frigid and emotionless. In truth, she is more devoted to the Abydos Academy than anything else. If it&#x27;s for the sake of revitalizing the academy, she&#x27;ll do whatever it takes and sometimes propose some outlandish ideas herself.",
@@ -3964,14 +4106,19 @@
             {
                 "SkillType": "ex",
                 "Name": "Drone Support",
-                "Desc": "Summons a drone that deals <?1> damage to one enemy.",
+                "Desc": "Deals <?1> damage to one enemy.",
                 "Parameters": [
                     [
                         "400%",
                         "460%",
                         "580%",
                         "640%",
-                        "760%"
+                        "760%",
+                        "820%",
+                        "941%",
+                        "1001%",
+                        "1121%",
+                        "1181%"
                     ]
                 ],
                 "Cost": [
@@ -4029,7 +4176,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Very Rapid Fire",
-                "Desc": "Attacks have a 20% chance to increase <b:AttackSpeed> by <?1> for 30s. 25s cooldown between activations.",
+                "Desc": "Normal attacks have a 20% chance to increase <b:AttackSpeed> by <?1> for 30s. 25s cooldown between activations.",
                 "Parameters": [
                     [
                         "30.2%",
@@ -4120,8 +4267,14 @@
         "FavorAlts": [
             10024
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports"
         ],
@@ -4339,14 +4492,19 @@
             {
                 "SkillType": "ex",
                 "Name": "Where Did You Go, You Rascals?",
-                "Desc": "Augments <s:FormChange> to deal 153% damage and prioritise the enemy with the highest ATK and increases <b:Range> by 24.2%, <b:CriticalChance> by <?1> but decreases <d:AttackSpeed> by 18.8% for 30s.",
+                "Desc": "Augments <s:FormChange> to deal 153% damage and prioritise the enemy with the highest ATK, increases <b:Range> by 24.2% and <b:CriticalChance> by <?1>, but decreases <d:AttackSpeed> by 18.8% for 30s.",
                 "Parameters": [
                     [
                         "26.3%",
                         "30.3%",
                         "38.2%",
                         "42.1%",
-                        "50%"
+                        "50%",
+                        "54%",
+                        "61.9%",
+                        "65.8%",
+                        "73.7%",
+                        "77.7%"
                     ]
                 ],
                 "Cost": [
@@ -4495,8 +4653,14 @@
         "FavorAlts": [
             10025
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "Beauty"
@@ -4683,8 +4847,8 @@
         "FamilyName": "Otohana",
         "FamilyNameRuby": null,
         "PersonalName": "Sumire",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "August 20th",
         "CharacterSSRNew": "Shall we start today&#x27;s training?",
         "ProfileIntroduction": "Leader of the Millennium Athletic Training Club.\n\nAn athletic girl with a passion for physical training. She is very much a jock and believes all problems can be solved with muscles and exercise.",
@@ -4722,7 +4886,12 @@
                         "853%",
                         "1076%",
                         "1187%",
-                        "1410%"
+                        "1410%",
+                        "1521%",
+                        "1744%",
+                        "1855%",
+                        "2078%",
+                        "2189%"
                     ]
                 ],
                 "Cost": [
@@ -4780,7 +4949,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Tension Boost!",
-                "Desc": "Increases <b:DEF> by <?1> while not inflicted with a crowd-control effect.",
+                "Desc": "Increases <b:DEF> by <?1> while not inflicted with a Crowd Control effect.",
                 "Parameters": [
                     [
                         "13.4%",
@@ -4869,8 +5038,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports"
         ],
@@ -5095,13 +5270,23 @@
                         "29.7%",
                         "37.5%",
                         "41.4%",
-                        "45.2%"
+                        "45.2%",
+                        "49.1%",
+                        "56.9%",
+                        "60.8%",
+                        "68.5%",
+                        "72.4%"
                     ],
                     [
                         "once",
                         "once",
                         "once",
                         "once",
+                        "twice",
+                        "twice",
+                        "twice",
+                        "twice",
+                        "twice",
                         "twice"
                     ]
                 ],
@@ -5160,7 +5345,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Uncontrollable Power",
-                "Desc": "When Tsurugi defeats an enemy, <?1> chance to restore 1 ammo to her weapon.",
+                "Desc": "Whenever Tsurugi defeats an enemy, she has a <?1> chance to restore 1 ammo to her weapon.",
                 "Parameters": [
                     [
                         "30%",
@@ -5283,8 +5468,14 @@
         "FavorAlts": [
             16005
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "LoveStory"
         ],
@@ -5502,8 +5693,8 @@
         "FamilyName": "Murokasa",
         "FamilyNameRuby": null,
         "PersonalName": "Akane",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "April 1st",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "An agent of C&amp;C, a secret organization of the Millennium School.\n\nAkane operates under the callsign Zero-Three. She became known as the Master Cleaner for her modus operandi of infiltrating the enemy camp and cleaning it out with explosives, all while wearing that same gentle smile.",
@@ -5541,13 +5732,23 @@
                         "630%",
                         "712%",
                         "794%",
-                        "876%"
+                        "876%",
+                        "958%",
+                        "1123%",
+                        "1205%",
+                        "1369%",
+                        "1452%"
                     ],
                     [
                         "29%",
                         "29%",
                         "33.3%",
                         "33.3%",
+                        "37.7%",
+                        "37.7%",
+                        "37.7%",
+                        "37.7%",
+                        "37.7%",
                         "37.7%"
                     ]
                 ],
@@ -5695,8 +5896,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Household"
         ],
@@ -5882,8 +6089,8 @@
         "FamilyName": "Waraku",
         "FamilyNameRuby": null,
         "PersonalName": "Chise",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "July 13th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A spacey girl who is a member of the Hyakkiyako Academy&#x27;s Yin-Yang Club.\n\nExtremely fond of traditional activities such as writing haiku, which led her to join the Yin-Yang Club. Her exotic looks and presence have made her the envy of her peers at Hyakkiyako, but she seems completely oblivious to that fact.",
@@ -5914,7 +6121,7 @@
             {
                 "SkillType": "ex",
                 "Name": "You Might Get a Boo-Boo!",
-                "Desc": "Creates a circular zone that continuously deals <?1> damage every 1s to enemies in a circular area at the selected location for 10s.",
+                "Desc": "Creates a circular zone that continuously deals <?1> damage to enemies inside it every 1s for 10s.",
                 "Parameters": [
                     [
                         "56%",
@@ -6070,8 +6277,14 @@
         "FavorAlts": [
             10047
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "PureLiterature"
@@ -6444,8 +6657,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "BigMeal"
         ],
@@ -6818,8 +7037,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "BigMeal"
@@ -7006,8 +7231,8 @@
         "FamilyName": "Izayoi",
         "FamilyNameRuby": null,
         "PersonalName": "Nonomi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "September 1st",
         "CharacterSSRNew": "Finally, it&#x27;s time for me to make my move!",
         "ProfileIntroduction": "A member of the Abydos Foreclosure Task Force.\n\nA friendly, pleasant girl that provides the Foreclosure Task Force with much-needed emotional support to balance out the extreme personalities of its other members. Though she doesn&#x27;t show it, she comes from a wealthy family and pays for nearly all of the Foreclosure Task Force&#x27;s snacks out of her own pocket.",
@@ -7194,8 +7419,14 @@
         "FavorAlts": [
             10044
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "Girlish"
@@ -7486,7 +7717,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Oh, Well...",
-                "Desc": "Deals <?1> damage as an additional hit to enemies inflicted with a crowd-control effect.",
+                "Desc": "Deals <?1> damage as an additional hit to enemies inflicted with a Crowd Control effect.",
                 "Parameters": [
                     [
                         "74.8%",
@@ -7575,8 +7806,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic",
             "Music"
@@ -7763,8 +8000,8 @@
         "FamilyName": "Asagi",
         "FamilyNameRuby": null,
         "PersonalName": "Mutsuki",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "July 29th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "Problem Solver 68&#x27;s resident go-getter and chief of staff.\n\nUnlike Aru, who has a semblance of a conscience, Mutsuki is a devilish troublemaker who relishes in committing acts of mayhem. As one of her oldest friends, Aru understands her bravado better than anyone, but she doesn&#x27;t necessarily support it.",
@@ -7951,8 +8188,14 @@
         "FavorAlts": [
             10032
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "CuriousFellow"
@@ -8337,9 +8580,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
+        "MemoryLobby": [
+            8,
+            8
+        ],
         "FurnitureInteraction": [
-            5203
+            [
+                5203
+            ],
+            [
+                5203
+            ]
         ],
         "FavorItemTags": [
             "Dessert",
@@ -8715,8 +8966,14 @@
         "FavorAlts": [
             20011
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios"
         ],
@@ -8902,8 +9159,8 @@
         "FamilyName": "Kasuga",
         "FamilyNameRuby": null,
         "PersonalName": "Tsubaki",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "February 3rd",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "President of Hyakkiyako Academy&#x27;s Inner Discipline Club.\n\nHer motivation for training regularly is to attain &quot;a more comfortable and restful sleep.&quot; Thanks to her diligent training, she is able to sleep while sitting, standing, or even while eating. Her prowess earned her the nickname &quot;Sleeping Beauty.&quot; Though she seems to be constantly on the verge of nodding off, at night she takes to the streets to keep them safe.",
@@ -8934,7 +9191,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Deploy Tactical Shield",
-                "Desc": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> to all nearby enemies for <?2>.",
+                "Desc": "Increases <b:DEF> by <?1> for 30s and inflicts <c:Provoke> on enemies in a circular area around Tsubaki for <?2>.",
                 "Parameters": [
                     [
                         "28.1%",
@@ -9095,8 +9352,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Bedding"
         ],
@@ -9283,8 +9546,8 @@
         "FamilyName": "Hayase",
         "FamilyNameRuby": null,
         "PersonalName": "Yuuka",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "March 14th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "The treasurer of Seminar, the student council of the Millennium Science School.\n\nYuuka has a mathematical acumen that is notable even among Millennium&#x27;s high ratio of STEM students. She oversees the entirety of Millennium&#x27;s budget. Her special talent is the abacus, and she has a habit of fiddling with the beads when dealing with emotional or mental conflicts.",
@@ -9508,8 +9771,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 1,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            1,
+            1
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Smart"
         ],
@@ -9913,8 +10182,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Horticulture",
             "CuriousFellow"
@@ -10289,7 +10564,14 @@
         "FavorAlts": [
             10028
         ],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics"
         ],
@@ -10662,8 +10944,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "Specialized"
@@ -10851,8 +11139,8 @@
         "FamilyName": "Morizuki",
         "FamilyNameRuby": null,
         "PersonalName": "Suzumi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "August 31st",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A member of the Vigilante Crew responsible for protecting Trinity&#x27;s students.\n\nTo combat the increasing number of attacks on Trinity&#x27;s students at the hands of the other academies, Suzumi volunteered to patrol the streets to abate attackers. Often misunderstood as cold and unfeeling due to her strong sense of justice, she actually has a friendly side as well.",
@@ -10955,7 +11243,7 @@
             {
                 "SkillType": "sub",
                 "Name": "Ranger's Assault",
-                "Desc": "Deals <?1> damage as an additional hit to enemies inflicted with a crowd-control effect.",
+                "Desc": "Deals <?1> damage as an additional hit to enemies inflicted with a Crowd Control effect.",
                 "Parameters": [
                     [
                         "27.5%",
@@ -11044,8 +11332,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Doll"
         ],
@@ -11425,9 +11719,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7106
+            [
+                7106
+            ],
+            [
+                7106
+            ]
         ],
         "FavorItemTags": [
             "Movie"
@@ -11801,8 +12103,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic"
         ],
@@ -11988,8 +12296,8 @@
         "FamilyName": "Kakudate",
         "FamilyNameRuby": null,
         "PersonalName": "Karin",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "February 2nd",
         "CharacterSSRNew": "As you wish, Master.",
         "ProfileIntroduction": "An agent of C&amp;C, a secret organization from the Millennium Science School.\n\nShe&#x27;s in charge of providing rear fire support under the callsign Zero-Two. Despite her intimidating appearance, she is the most cautious of C&amp;C&#x27;s agents and often ends up having to reel in Asuna and Akane when they get out of control during missions.",
@@ -12183,8 +12491,14 @@
         "FavorAlts": [
             10027
         ],
-        "MemoryLobby": 9,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            9,
+            9
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Smart"
         ],
@@ -12371,8 +12685,8 @@
         "FamilyName": "Yakushi",
         "FamilyNameRuby": null,
         "PersonalName": "Saya",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "January 3rd",
         "CharacterSSRNew": "Leave the experiments to me!",
         "ProfileIntroduction": "A genius inventor of the Shanhaijing Academy.\n\nA prodigy who earned six degrees while still in primary school. However, she&#x27;s known more for the way she causes trouble for others through her unruly antics than for her genius. She&#x27;s always accompanied by her rat, Nezusuke, whom she&#x27;s known since childhood and regards as family.",
@@ -12403,7 +12717,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Voila, My Masterpiece!",
-                "Desc": "Creates a circular zone that continuously deals <?1> damage every 1s to enemies in a circular area at the selected location for 8s.",
+                "Desc": "Creates a circular zone that continuously deals <?1> damage to enemies inside it every 1s for 8s.",
                 "Parameters": [
                     [
                         "126%",
@@ -12559,8 +12873,14 @@
         "FavorAlts": [
             20006
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Functional",
             "Specialized"
@@ -12940,9 +13260,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            5205
+            [
+                5205
+            ],
+            [
+                5205
+            ]
         ],
         "FavorItemTags": [
             "Dessert"
@@ -13129,8 +13457,8 @@
         "FamilyName": "Aikiyo",
         "FamilyNameRuby": null,
         "PersonalName": "Fuuka",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "April 30th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A member of the School Lunch Club that manages the Gehenna Academy&#x27;s dining hall.\n\nA kind and earnest student, making her a bit of a rarity at Gehenna. She prepares and serves hundreds of meals every morning for the students of Gehenna. She&#x27;s a good cook, but her skills are written off due to the dining hall&#x27;s lack of manpower. Still, she refuses to give up and is constantly looking for ways to improve the menu.",
@@ -13315,8 +13643,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Household",
             "Food"
@@ -13689,8 +14023,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics"
         ],
@@ -13876,8 +14216,8 @@
         "FamilyName": "Omagari",
         "FamilyNameRuby": null,
         "PersonalName": "Hare",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "April 19th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "An engineer of Veritas, the hacker group of the Millennium Science School.\n\nAn unprecedented genius even amongst the brilliant minds at Millennium. Most of the school&#x27;s cutting-edge technology was developed by her. Even with all these achievements, she remains humble, friendly, and considerate towards her peers.",
@@ -14036,7 +14376,7 @@
             {
                 "SkillType": "gearnormal",
                 "Name": "Sabotage: Plan A+",
-                "Desc": "Every 30s, decreases the <d:HealEffectiveness> of one enemy by <?1> for 15s.",
+                "Desc": "Every 30s, decreases the <d:HealEffectiveness> of one enemy by <?1> for 25s.",
                 "Parameters": [
                     [
                         "35.6%",
@@ -14089,8 +14429,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -14509,8 +14855,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Observational"
         ],
@@ -14885,8 +15237,14 @@
         "FavorAlts": [
             26007
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books"
         ],
@@ -15267,7 +15625,14 @@
         "FavorAlts": [
             10030
         ],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "Humanities"
@@ -15459,7 +15824,7 @@
         "CharacterAge": "17 years old",
         "Birthday": "January 5th",
         "CharacterSSRNew": null,
-        "ProfileIntroduction": "A hacker of Veritas, Millennium Science School&#x27;s infamous hacking group.\n\nWiretapping is her specialty, and she takes great pleasure in eavesdropping on other people&#x27;s private conversations. A socially awkward young lady who addresses even younger students with formal deference. In real life, she&#x27;s mousy and shy, but on the internet she&#x27;s a surprisingly glib wordsmith. ",
+        "ProfileIntroduction": "A hacker of Veritas, Millennium Science School&#x27;s infamous hacking group.\n\nWiretapping is her specialty, and she takes great pleasure in eavesdropping on other people&#x27;s private conversations. A socially awkward young lady who addresses even younger students with formal deference. In real life, she&#x27;s mousy and shy, but on the internet she&#x27;s a surprisingly glib wordsmith.",
         "Hobby": "Wireless communications, wiretapping",
         "CharacterVoice": "Mina Takagawa",
         "BirthDay": "1/5",
@@ -15641,7 +16006,14 @@
             ]
         ],
         "FavorAlts": [],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Toy",
             "Doll"
@@ -15825,7 +16197,7 @@
         ],
         "CollectionBG": "BG_Gehenna_Collection",
         "CollectionTexture": "Student_Portrait_Juri_Collection",
-        "FamilyName": "Usimaki",
+        "FamilyName": "Ushimaki",
         "FamilyNameRuby": null,
         "PersonalName": "Juri",
         "SchoolYear": "1st Year",
@@ -16014,7 +16386,14 @@
             ]
         ],
         "FavorAlts": [],
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            0,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Art"
         ],
@@ -16201,8 +16580,8 @@
         "FamilyName": "Sumi",
         "FamilyNameRuby": null,
         "PersonalName": "Serina",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "January 6th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A kind-hearted girl affiliated with the Trinity Remedial Knights.\n\nA virtuous person who enjoys charity work, her concern for the health of those around her has earned her a reputation as a sort of mother hen. Despite having a somewhat timid personality and avoiding quarrels and conflict, she is always ready to stand up against enemies who threaten the peace.",
@@ -16387,8 +16766,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Jellyz"
         ],
@@ -16782,8 +17167,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books"
         ],
@@ -17162,8 +17553,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert"
         ],
@@ -17551,8 +17948,14 @@
         "FavorAlts": [
             20004
         ],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Army"
         ],
@@ -17927,9 +18330,15 @@
         "FavorAlts": [
             10046
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            203303
+            [
+                203303
+            ],
+            []
         ],
         "FavorItemTags": [
             "Fashion"
@@ -18118,8 +18527,8 @@
         "FamilyName": "Kawawa",
         "FamilyNameRuby": null,
         "PersonalName": "Shizuko",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "July 7th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "President of the Festival Operations Department at Hyakkiyako Academy.\n\nThe mascot of Momoyodou, the Hyakkiyako&#x27;s traditional tea house. Acts clumsy, but only because it sells her image as an idol. In truth, she&#x27;s an expert flirt willing to do anything for the success of the festivals and Momoyodou. Wears her heart on her sleeve, making her an easy read for her friends as well as Sensei.",
@@ -18222,7 +18631,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "T-Tehe-Pero?!",
+                "Name": "T-Teeheehee?",
                 "Desc": "Increases <b:HIT> by <?1>.",
                 "Parameters": [
                     [
@@ -18265,7 +18674,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "T-Tehe-Pero?!+",
+                "Name": "T-Teeheehee?+",
                 "Desc": "Increases <b:HIT> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -18337,9 +18746,15 @@
         "FavorAlts": [
             26008
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            203302
+            [
+                203302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Functional"
@@ -18712,8 +19127,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -19105,9 +19526,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            2301
+            [
+                2301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Jellyz"
@@ -19500,9 +19927,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            2301
+            [
+                2301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Game"
@@ -19722,7 +20155,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Call in the Guards!",
-                "Desc": "Deals <?1> damage to all nearby enemies.",
+                "Desc": "Deals <?1> damage to enemies in a circular area around Cherino.",
                 "Parameters": [
                     [
                         "515%",
@@ -19890,8 +20323,14 @@
         "FavorAlts": [
             20009
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Curios",
             "CuriousFellow"
@@ -20078,8 +20517,8 @@
         "FamilyName": "Amami",
         "FamilyNameRuby": null,
         "PersonalName": "Nodoka",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "February 20th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A student suspended from Red Winter Academy and on probation in Former Institute 227.\n\nShe was suspended for constantly monitoring Sensei through a telescope. Nodoka wants to observe the world&#x27;s beauty and sees Sensei in the same vein. Being in Spec Ops No. 227 has taught her to be careful with what little money she has to get by.",
@@ -20278,8 +20717,14 @@
         "FavorAlts": [
             20010
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Observational"
@@ -20467,7 +20912,7 @@
         "FamilyNameRuby": null,
         "PersonalName": "Yuzu",
         "SchoolYear": "1st Year",
-        "CharacterAge": "16 years old",
+        "CharacterAge": "16 tuổi",
         "Birthday": "August 12th",
         "CharacterSSRNew": "P-Please don&#x27;t come looking for me...",
         "ProfileIntroduction": "President of Millennium&#x27;s Game Development Department.\n\nYuzu struggles with social anxiety and finds it difficult to deal with people, so she spends most of her time in a cabinet in the Game Development Department. Despite that, her passion for games is second to none. She loves both making and playing games.",
@@ -20652,8 +21097,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 8,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            8,
+            8
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Electronic",
             "Game"
@@ -20840,8 +21291,8 @@
         "FamilyName": "Shirasu",
         "FamilyNameRuby": null,
         "PersonalName": "Azusa",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "December 26th",
         "CharacterSSRNew": "All is futile, and life has no meaning.\nThough part of me wants to trust you.",
         "ProfileIntroduction": "The ice queen of Trinity&#x27;s Make-Up Work Club.\n\nAfter dropping out of school, she ended up at Trinity and is studying again. Despite being lonely, Azusa distances herself from others to avoid causing trouble—a source of concern for the other Make-Up Work Club members.",
@@ -21040,8 +21491,14 @@
         "FavorAlts": [
             10021
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Fashion",
             "MomoFriends",
@@ -21229,8 +21686,8 @@
         "FamilyName": "Urawa",
         "FamilyNameRuby": null,
         "PersonalName": "Hanako",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "January 3rd",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A friendly girl from the Make-Up Work Club.\n\nShe may appear like a quiet and elegant young lady at first, but a bevy of inappropriate and lewd comments spew out any time Hanako opens her mouth. Every member of the Make-Up Work Club gets nervous whenever Hanako starts speaking.",
@@ -21415,8 +21872,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Books",
             "LoveStory",
@@ -21797,8 +22260,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Cosmetics",
             "LoveStory",
@@ -21986,8 +22455,8 @@
         "FamilyName": "Shirasu",
         "FamilyNameRuby": null,
         "PersonalName": "Azusa",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "December 26th",
         "CharacterSSRNew": "The beach... I&#x27;m still not used to it.",
         "ProfileIntroduction": "The Make-Up Work Club&#x27;s ice queen visits the beach for the first time.\n\nShe tries to keep cool and calm as usual to not cause trouble for others, but her friends want to make sure she enjoys her first beach trip. This causes her to worry about what others might think of her; but from their perspective, she&#x27;s just the usual Azusa.",
@@ -22181,9 +22650,15 @@
         "FavorAlts": [
             10019
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            4303
+            [
+                4303
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -22569,9 +23044,15 @@
         "FavorAlts": [
             20003
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            4200
+            [
+                4200
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -22956,9 +23437,15 @@
         "FavorAlts": [
             10013
         ],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            3
+        ],
         "FurnitureInteraction": [
-            4302
+            [
+                4302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -23150,8 +23637,8 @@
         "FamilyName": "Ajitani",
         "FamilyNameRuby": null,
         "PersonalName": "Hifumi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "November 27th",
         "CharacterSSRNew": "Ahaha... It&#x27;s a bit embarrassing having such a plain swimsuit.",
         "ProfileIntroduction": "A friendly Trinity Make-Up Work Club member visiting the beach with her friend.\n\nShe secretly borrowed a Crusader tank for a friend who had never been to the beach. Unfortunately, the Justice Task Force found out and she got in deep trouble. She happily rides the borrowed tank, just as clumsily as ever.",
@@ -23357,8 +23844,14 @@
         "FavorAlts": [
             10003
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -23747,8 +24240,16 @@
         "FavorAlts": [
             10004
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [
+                4301
+            ],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -23937,8 +24438,8 @@
         "FamilyName": "Shiromi",
         "FamilyNameRuby": null,
         "PersonalName": "Iori",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "November 8th",
         "CharacterSSRNew": "There had better not be any fools caught up in breaking the rules.",
         "ProfileIntroduction": "A cold-blooded specialist of Gehenna&#x27;s Prefect Team participating in summer boot camp.\n\nClosely monitored Gehenna&#x27;s troublemakers from getting out of line at the beach alongside other Prefect Team members. She&#x27;s deeply disappointed that summer camp was ruined by the constant appearance of those fools, even if she tries to hide it.",
@@ -24137,8 +24638,14 @@
         "FavorAlts": [
             10006
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -24327,8 +24834,8 @@
         "FamilyName": "Shishidou",
         "FamilyNameRuby": null,
         "PersonalName": "Izumi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "May 11th",
         "CharacterSSRNew": null,
         "ProfileIntroduction": "A Gehenna Gourmet Research Society member with a gluttonous appetite even during the summer.\n\nShe visits the beach with a watermelon in one hand and an ice cooler in the other in search of renown summer delicacies: Chocolate-flavored grilled unagi, spicy shaved ice, watermelon sprinkled with mint chocolate, and more. Her pursuit of various delicacies in Kivotos are second to none as her peculiar excursions continue even on the hot summer beach.",
@@ -24522,8 +25029,14 @@
         "FavorAlts": [
             10009
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Swimsuit",
             "WaterPlay",
@@ -24712,8 +25225,8 @@
         "FamilyName": "Sunaookami",
         "FamilyNameRuby": null,
         "PersonalName": "Shiroko",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "May 16th",
         "CharacterSSRNew": "Then, I&#x27;ll talk to you later, Sensei.",
         "ProfileIntroduction": "The Foreclosure Task Force captain is earnestly training for summer.\n\nShe changed into her cycling jersey for some summer training, and is as usual, serious about completing her near-impossible trek across Kivotos.",
@@ -24907,8 +25420,14 @@
         "FavorAlts": [
             10010
         ],
-        "MemoryLobby": 3,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            3,
+            3
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Sports",
             "Roman"
@@ -25322,8 +25841,14 @@
         "FavorAlts": [
             10011
         ],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert",
             "Doll"
@@ -25746,8 +26271,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Delicious",
             "Simplicity"
@@ -25935,8 +26466,8 @@
         "FamilyName": "Yakushi",
         "FamilyNameRuby": null,
         "PersonalName": "Saya",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "January 3rd",
         "CharacterSSRNew": "Even a genius like me needs some time off. Hahaha...",
         "ProfileIntroduction": "The genius inventor of Shanhaijing on a day off from her busy life.\n\nContrary to her usual days of being confined to the lab and devoting herself solely to researching new elixirs, Saya is active enough to ride a skateboard and roam around the streets during her days off. However, her constant intellectual curiosity for exploring new things remains the same even when she&#x27;s taking it easy.",
@@ -26123,8 +26654,14 @@
         "FavorAlts": [
             20002
         ],
-        "MemoryLobby": 5,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            5,
+            5
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Delicious",
             "CuriousFellow"
@@ -26514,8 +27051,14 @@
         "FavorAlts": [
             10008
         ],
-        "MemoryLobby": 3,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            3,
+            3
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Game"
         ],
@@ -26702,8 +27245,8 @@
         "FamilyName": "Kakudate",
         "FamilyNameRuby": null,
         "PersonalName": "Karin",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "February 2nd",
         "CharacterSSRNew": "There&#x27;s no mission I can&#x27;t accomplish.",
         "ProfileIntroduction": "A C&amp;C agent on the front lines.\n\nShe is focused only on accomplishing the mission without complaint or concern for her outfit.\nStill, the longer-than-normal stares from others are a bit bothersome.",
@@ -26909,8 +27452,14 @@
         "FavorAlts": [
             20001
         ],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Doll"
         ],
@@ -27324,8 +27873,14 @@
         "FavorAlts": [
             16001
         ],
-        "MemoryLobby": 2,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            2,
+            2
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [
             "Dessert"
         ],
@@ -27729,9 +28284,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            3301
+            [
+                3301
+            ],
+            [
+                3301
+            ]
         ],
         "FavorItemTags": [
             "Dessert",
@@ -28105,9 +28668,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            3
+        ],
         "FurnitureInteraction": [
-            1105
+            [
+                1105
+            ],
+            [
+                1105
+            ]
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -28296,7 +28867,7 @@
         "FamilyNameRuby": null,
         "PersonalName": "Miku",
         "SchoolYear": null,
-        "CharacterAge": "16 years old",
+        "CharacterAge": "16 tuổi",
         "Birthday": "August 31st",
         "CharacterSSRNew": "Please listen to my song!",
         "ProfileIntroduction": "A virtual idol with a cheerful personality who loves to sing.\n\nOriginally, she only existed virtually online with no physical body, but she came to exist in the real world just in time for her live performance with the help of Kivotos&#x27; technology. She has quite a few hidden fans in Kivotos due to her ability to sing across time and space.",
@@ -28488,8 +29059,14 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
-        "FurnitureInteraction": [],
+        "MemoryLobby": [
+            6,
+            6
+        ],
+        "FurnitureInteraction": [
+            [],
+            []
+        ],
         "FavorItemTags": [],
         "FavorItemUniqueTags": [
             "F_Miku"
@@ -28890,9 +29467,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            1101
+            [
+                1101
+            ],
+            [
+                1101
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -29296,9 +29881,17 @@
         "FavorAlts": [
             10017
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6203
+            [
+                6203
+            ],
+            [
+                6203
+            ]
         ],
         "FavorItemTags": [
             "Roman",
@@ -29318,8 +29911,8 @@
             "AttackPower100": 876,
             "MaxHP1": 484,
             "MaxHP100": 4844,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 191,
+            "HealPower100": 1911,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -29675,9 +30268,17 @@
         "FavorAlts": [
             26000
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6200
+            [
+                6200
+            ],
+            [
+                6200
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -29898,7 +30499,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Everyone, Please Listen to Me!",
-                "Desc": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% of all nearby allies for 30s.",
+                "Desc": "Increases the <b:CriticalChance> and <b:CriticalDamage> by <?1>, <b:MoveSpeed> by 30.8% but decreases <d:Range> by 38.5% for all allies in a circular area around Tomoe for 30s.",
                 "Parameters": [
                     [
                         "13.9%",
@@ -30052,9 +30653,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            6100
+            [
+                6100
+            ],
+            [
+                6100
+            ]
         ],
         "FavorItemTags": [
             "Simplicity",
@@ -30244,8 +30853,8 @@
         "FamilyName": "Amami",
         "FamilyNameRuby": null,
         "PersonalName": "Nodoka",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "February 20th",
         "CharacterSSRNew": "I will serve my guests with all my heart!",
         "ProfileIntroduction": "The owner of Hot Springs Resort No. 227 who runs the large resort with the Spec Ops students.\n\nShe is still suspended from the Red Winter Office, but finds herself with newfound wealth when a hot spring suddenly erupts at the Former Institute. However, her troubles continue as students with strong personalities from the Red Winter Federal Academy come to disrupt her business for various reasons.",
@@ -30446,9 +31055,17 @@
         "FavorAlts": [
             26006
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            6201
+            [
+                6201
+            ],
+            [
+                6201
+            ]
         ],
         "FavorItemTags": [
             "Reservation",
@@ -30637,12 +31254,12 @@
         "FamilyName": "Rikuhachima",
         "FamilyNameRuby": null,
         "PersonalName": "Aru",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
-        "Birthday": "March 12th",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
+        "Birthday": "Ngày 12 tháng 3",
         "CharacterSSRNew": "Heeheehee. This is the first commission of the year, right?\nOkay, I&#x27;ll give it my best.",
-        "ProfileIntroduction": "The eternal boss of Problem Solver 68.\n\nAru spends a lot of money on getting her hair done and renting an outfit to wear to the New Year&#x27;s event in the hopes that her fixer agency will prosper in the new year. Perhaps because she feels more confident than usual, she has been putting on the air of a dignified boss, walking and talking in a nonchalant and carefree way.",
-        "Hobby": "Studying management",
+        "ProfileIntroduction": "The eternal boss of Problem Solver 68.\n\nAru spends a lot of money on getting her hair done and renting an outfit to wear to the New Year&#x27;s event in the hopes that her fixer agency will prosper in the new year.Perhaps because she feels more confident than usual, she has been putting on the air of a dignified boss, walking and talking in a nonchalant and carefree way.",
+        "Hobby": "Quản lý học tập",
         "CharacterVoice": "Reina Kondō",
         "BirthDay": "3/12",
         "ArtistName": "DoReMi",
@@ -30844,9 +31461,17 @@
         "FavorAlts": [
             10000
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7203
+            [
+                7203
+            ],
+            [
+                7203
+            ]
         ],
         "FavorItemTags": [
             "Curios",
@@ -31034,8 +31659,8 @@
         "FamilyName": "Asagi",
         "FamilyNameRuby": null,
         "PersonalName": "Mutsuki",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "Birthday": "July 29th",
         "CharacterSSRNew": "Heeheehee! Let&#x27;s have a lot of fun this year, Sensei!",
         "ProfileIntroduction": "Problem Solver 68&#x27;s resident go-getter and chief of staff.\n\nShe goes to the New Year event with Aru to celebrate the upcoming new year. Mutsuki puts more effort into dressing up nicely for New Year&#x27;s, but it doesn&#x27;t change how she laughs and thoroughly enjoys watching the troubles that arise from her evil deeds. This troublemaker enjoys the new year with Aru, who always seems to be in trouble for one reason or another.",
@@ -31234,9 +31859,17 @@
         "FavorAlts": [
             13006
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7107
+            [
+                7107
+            ],
+            [
+                7107
+            ]
         ],
         "FavorItemTags": [
             "Toy",
@@ -31393,7 +32026,7 @@
         "Id": 20011,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "DefaultOrder": 81,
         "PathName": "Serika_NewYear",
@@ -31422,19 +32055,19 @@
         "CollectionBG": "BG_Newyear_Collection",
         "CollectionTexture": "Student_Portrait_Serika_newyear_Collection",
         "FamilyName": "Kuromi",
+        "FamilyNameRuby": null,
         "PersonalName": "Serika",
         "SchoolYear": "1st Year",
         "CharacterAge": "15 years old",
-        "FamilyNameRuby": "くろみ",
-        "Birthday": "6月25日",
-        "CharacterSSRNew": "別にお祈りくらい、先生のためなら幾らでも……",
-        "ProfileIntroduction": "アビドス対策委員会所属、巫女さん姿のしっかり者（？）の会計担当。\n\n少しでも対策委員会の役に立つために、これまでも色々とアルバイトを掛け持ちして真面目に頑張ってきたセリカ。新年を迎えて彼女が選んだのは巫女さんのアルバイトだった。特別巫女さんが好きだったり造詣が深いわけではないものの、基本的に任せられればしっかりやり遂げようとする彼女の性格もあって、今回もまた全力で頑張っている様子（どうやら、より巫女っぽく振舞えれば時給が上がるという裏事情もある模様）。",
-        "Hobby": "貯金、アルバイト",
+        "Birthday": "June 25th",
+        "CharacterSSRNew": "Well, if it&#x27;s for Sensei, I&#x27;ll lift up a prayer or two.",
+        "ProfileIntroduction": "The smart treasurer of the Abydos Foreclosure Task Force.\n\nA diligent girl who works several part-time jobs to help the Foreclosure Task Force, she is now working as a miko for the new year. Serika is giving it her patented best after being told she would get higher pay if she plays a convincing miko.",
+        "Hobby": "Saving money, working part-time",
         "CharacterVoice": "Ayaka Oohashi",
         "BirthDay": "6/25",
         "ArtistName": "YutokaMizu",
         "CharHeightMetric": "153cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;0&quot;",
         "StabilityPoint": 1463,
         "AttackPower1": 206,
         "AttackPower100": 2061,
@@ -31619,9 +32252,17 @@
         "FavorAlts": [
             13008
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            7301
+            [
+                7301
+            ],
+            [
+                7301
+            ]
         ],
         "FavorItemTags": [
             "Curios"
@@ -31631,16 +32272,16 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "シンシアリティ",
-            "Desc": "セリカがバイトに出る時も携帯しているアサルトライフル。\n\n巫女さんのアルバイトであってもそれは例外ではなく、新年だからと他者に迷惑をかける問題児の沈静化にも使われている模様。",
+            "Name": "Sincerity",
+            "Desc": "An assault rifle Serika carries with her whenever she goes to work part time.\n\nShe also takes it to her part-time miko job and uses it to quiet troublemakers who cause a ruckus at the New Year's event.",
             "AdaptationType": "Indoor",
             "AdaptationValue": 1,
             "AttackPower1": 91,
             "AttackPower100": 906,
             "MaxHP1": 673,
             "MaxHP100": 6727,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 207,
+            "HealPower100": 2065,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -31777,7 +32418,7 @@
         "Id": 10033,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "DefaultOrder": 82,
         "PathName": "Wakamo",
@@ -31806,19 +32447,19 @@
         "CollectionBG": "BG_Hyakkiyako_Collection",
         "CollectionTexture": "Student_Portrait_Wakamo_Collection",
         "FamilyName": "Kosaka",
+        "FamilyNameRuby": null,
         "PersonalName": "Wakamo",
         "SchoolYear": "Suspended",
         "CharacterAge": "18 years old",
-        "FamilyNameRuby": "こさか",
-        "Birthday": "4月3日",
-        "CharacterSSRNew": "ああ……ついに会えましたね、あなた様♡",
-        "ProfileIntroduction": "百鬼夜行連合学院所属、しかし停学処分となった後に矯正局へと入れられ、さらにそこから脱獄した「七囚人」の一人。\n\n無差別かつ大規模な破壊行為により「災厄の狐」と呼ばれ恐れられる少女。動機も目的も一切が謎に包まれている。仮面の下に隠された素顔は鬼のように怖い、悪魔のように醜いなどの噂が絶えないが、知らないものは大抵恐ろしく感じられるものである。",
-        "Hobby": "破壊、略奪",
+        "Birthday": "April 3rd",
+        "CharacterSSRNew": "Oh... We meet at last. ♥",
+        "ProfileIntroduction": "One of the Seven Prisoners that escaped the Corrections Bureau after being suspended from the Allied Hyakkiyako Academy.\n\nShe is the feared Fox of Calamity due to her destructive ways. Her motives are a mystery, and there are several rumors surrounding the face under her mask. Some say there&#x27;s a monstrous devil underneath, but it remains only a rumor.",
+        "Hobby": "Destroying, looting",
         "CharacterVoice": "Chiwa Saitō",
         "BirthDay": "4/3",
         "ArtistName": "NAMYO",
         "CharHeightMetric": "161cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;3&quot;",
         "StabilityPoint": 1976,
         "AttackPower1": 349,
         "AttackPower100": 3498,
@@ -31840,7 +32481,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Crimson Flower Divination",
-                "Desc": "Deals <?1> damage to one enemy and inflicts <s:Accumulation> for 10s. For the duration of the debuff, all damage taken from allies will be accumulated and dealt again as <b class='ba-col-mystic'>Mystic</b> damage once it expires, up to a maximum of <?2> of Wakamo's ATK. (This additional damage cannot critically hit.)",
+                "Desc": "Deals <?1> damage to one enemy and inflicts <s:Accumulation> for 10s. For the duration of the effect, all damage taken from allies will be accumulated and dealt again as <b class='ba-col-mystic'>Mystic</b> damage once it expires, up to a maximum of <?2> of Wakamo's ATK. (This additional damage cannot critically hit.)",
                 "Parameters": [
                     [
                         "203%",
@@ -31868,7 +32509,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Scattered Blossom Storm",
+                "Name": "Scattering Petals",
                 "Desc": "Every 25s, deals <?1> damage to one enemy.",
                 "Parameters": [
                     [
@@ -31888,7 +32529,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Destructive Impulse",
+                "Name": "Bloom of Destruction",
                 "Desc": "Increases <b:ATK> by <?1>.",
                 "Parameters": [
                     [
@@ -31911,7 +32552,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Full Bloom Instinct",
+                "Name": "Full Bloom Battle Instinct",
                 "Desc": "Deals <?1> damage as an additional hit to BOSS enemies.",
                 "Parameters": [
                     [
@@ -31931,7 +32572,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Destructive Impulse+",
+                "Name": "Bloom of Destruction+",
                 "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -32003,9 +32644,17 @@
         "FavorAlts": [
             10043
         ],
-        "MemoryLobby": 2,
+        "MemoryLobby": [
+            2,
+            2
+        ],
         "FurnitureInteraction": [
-            3108
+            [
+                3108
+            ],
+            [
+                3108
+            ]
         ],
         "FavorItemTags": [
             "Doll"
@@ -32016,8 +32665,8 @@
         ],
         "IsLimited": 1,
         "Weapon": {
-            "Name": "真紅の災厄",
-            "Desc": "ワカモの愛用するライフル。\n\n古風な外観に反して、いつも炎と火薬の匂いを漂わせている。現在は先生の身の回りの「邪魔もの」に向けて放たれることが多い。",
+            "Name": "Crimson Calamity",
+            "Desc": "Wakamo's favorite rifle.\n\nContrary to its antique design, it's a terrifying gun that always smells like smoke and gunpowder. It's mainly used to take care of the obstacles that threaten Sensei's safety.",
             "AdaptationType": "Indoor",
             "AdaptationValue": 1,
             "AttackPower1": 154,
@@ -32162,7 +32811,7 @@
         "Id": 16008,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "DefaultOrder": 83,
         "PathName": "Fubuki",
@@ -32191,19 +32840,19 @@
         "CollectionBG": "BG_Valkyrie_Collection",
         "CollectionTexture": "Student_Portrait_CH0141_Collection",
         "FamilyName": "Nemugaki",
+        "FamilyNameRuby": null,
         "PersonalName": "Fubuki",
         "SchoolYear": "1st Year",
         "CharacterAge": "15 years old",
-        "FamilyNameRuby": "ねむがき",
-        "Birthday": "10月21日",
-        "CharacterSSRNew": "",
-        "ProfileIntroduction": "ヴァルキューレ警察学校所属、生活安全局の怠け者の生徒。\n\nのんびりとした公務員の生活に憧れ、ヴァルキューレ警察学校に入学した。生活安全局に何か苦情などが舞い込んできても、基本的には一貫して誠意の無い態度で処理し、金や名誉に振り回されない窓際族の生活を楽しんでいる。一番好きなことはドーナッツを食べながらラジオを聞くこと。",
-        "Hobby": "クロスワード、ラジオ",
+        "Birthday": "October 21st",
+        "CharacterSSRNew": null,
+        "ProfileIntroduction": "A laid-back administrative advisor of the Valkyrie Police School.\n\nShe entered Valkyrie longing for a laid-back, easygoing life as a civil servant. She remains negligent, enjoying life as it is without being swayed by money or fame even when a case is sent to the Public Safety Bureau. Her favorite activity is eating donuts while listening to the radio.",
+        "Hobby": "Crosswords, radio listening",
         "CharacterVoice": "Emi Hirayama",
         "BirthDay": "10/21",
         "ArtistName": "ミミトケ",
         "CharHeightMetric": "148cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "4&#x27;10&#x27;&#x27;",
         "StabilityPoint": 1980,
         "AttackPower1": 247,
         "AttackPower100": 2476,
@@ -32224,7 +32873,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Sweet Dreams",
+                "Name": "Sweet Relief",
                 "Desc": "Increases <b:ATK> by <?1> for 46s.",
                 "Parameters": [
                     [
@@ -32246,7 +32895,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "The Last Bite!",
+                "Name": "Every Last Round!",
                 "Desc": "When Fubuki's current ammo is 3 or less, consumes all remaining ammo to deal <?1> damage to one enemy and inflict <c:Stunned> for <?2>.",
                 "Parameters": [
                     [
@@ -32278,7 +32927,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Traffic Control",
+                "Name": "Traffic Map",
                 "Desc": "Increases <b:OppressionPower> by <?1>.",
                 "Parameters": [
                     [
@@ -32321,7 +32970,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Traffic Control+",
+                "Name": "Traffic Map+",
                 "Desc": "Increases <b:CriticalChance> by <?1> and <b:OppressionPower> by <?2>.",
                 "Parameters": [
                     [
@@ -32391,9 +33040,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            1104
+            [
+                1104
+            ],
+            [
+                1104
+            ]
         ],
         "FavorItemTags": [
             "Dessert",
@@ -32404,8 +33061,8 @@
         ],
         "IsLimited": 2,
         "Weapon": {
-            "Name": "第14号ヴァルキューレ制式ライフル",
-            "Desc": "フブキがヴァルキューレ警察学校から支給されている制式ライフル。\n\n独自の高い威力を誇るが、フブキが管理を疎かにしがちなため、本来の性能を発揮できずにいる。",
+            "Name": "Valkyrie Standard Rifle No. 14",
+            "Desc": "A standard rifle that Fubuki received from the Valkyrie Police School.\n\nIt's pretty powerful, but it doesn't function properly because Fubuki has neglected to take care of it.",
             "AdaptationType": "Indoor",
             "AdaptationValue": 2,
             "AttackPower1": 87,
@@ -32550,7 +33207,7 @@
         "Id": 20012,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "DefaultOrder": 84,
         "PathName": "Sena",
@@ -32581,19 +33238,19 @@
         "CollectionBG": "BG_Gehenna_Collection",
         "CollectionTexture": "Student_Portrait_Sena_Collection",
         "FamilyName": "Himuro",
+        "FamilyNameRuby": null,
         "PersonalName": "Sena",
         "SchoolYear": "3rd Year",
         "CharacterAge": "17 years old",
-        "FamilyNameRuby": "ひむろ",
-        "Birthday": "4月7日",
-        "CharacterSSRNew": "死体……いえ、負傷者はどこですか？",
-        "ProfileIntroduction": "ゲヘナ学園所属、救急医学部の部長。\n\nゲヘナで日々起こり続ける事件・事故の中、どんな状況でも不平不満を漏らすことなく、いつも無愛想な顔で負傷者を運んでいる。数多くの負傷者を救ってきた経歴の持ち主だが、負傷者を「死体」と呼び間違える癖やその手荒な扱い方のせいで、一部の生徒からはやや遠巻きにされている。",
-        "Hobby": "待機、薬品の整備",
+        "Birthday": "April 7th",
+        "CharacterSSRNew": "Where is the corpse...? I mean, where is the injured patient?",
+        "ProfileIntroduction": "President of Gehenna&#x27;s always busy Medical Emergency Club.\n\nShe transports the wounded with a stoic face no matter the situation. She may seem apathetic as she treats the wounded like inanimate cargo, but she has never once complained about transporting numerous injured people all over Gehenna.",
+        "Hobby": "Being on standby, organizing medicine",
         "CharacterVoice": "Saori Ōnishi",
         "BirthDay": "4/7",
         "ArtistName": "イコモチ",
         "CharHeightMetric": "155cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;1&quot;",
         "StabilityPoint": 1053,
         "AttackPower1": 151,
         "AttackPower100": 1516,
@@ -32615,7 +33272,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Emergency Dispatch",
-                "Desc": "Deploys Sena riding Emergency Vehicle No.11 for 50s, with an additional <?1> of Sena's <b:HealPower>. Emergency Vehicle No.11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. Only one tactical support vehicle may be deployed at any given time.",
+                "Desc": "Deploys Sena riding Tactical Ambulance 11 for 50s, with an additional <?1> of Sena's <b:HealPower>. Tactical Ambulance 11 increases the <b:ATK> of allies in a circular area around it by <?2> and continuously restores their HP by <?3> of Healing every 10s as long as they stay within range. Only one tactical support vehicle may be deployed at any given time.",
                 "Parameters": [
                     [
                         "16.2%",
@@ -32682,7 +33339,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Emergency Aid",
+                "Name": "Emergency Assist",
                 "Desc": "Increases <b:HealPower> by <?1>.",
                 "Parameters": [
                     [
@@ -32705,7 +33362,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "ASAP",
+                "Name": "As Soon as Possible",
                 "Desc": "Increases all allies' <b:ATK> by <?1>.",
                 "Parameters": [
                     [
@@ -32725,7 +33382,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Emergency Aid+",
+                "Name": "Emergency Assist+",
                 "Desc": "Increases <b:HealPower> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -32795,9 +33452,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            6
+        ],
         "FurnitureInteraction": [
-            10
+            [
+                10
+            ],
+            [
+                10
+            ]
         ],
         "FavorItemTags": [
             "Bedding",
@@ -32809,8 +33474,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "救急用突入キット",
-            "Desc": "セナの使用するショートバレルのグレネードランチャー。\n\n救急出動時の障害物を素早く取り除くための道具。障害物の中には仕事の邪魔をする相手も含まれる。",
+            "Name": "Portable Emergency Kit",
+            "Desc": "Sena's sawed-off grenade launcher.\n\nUsed to quickly clear obstacles during emergency dispatches. Also used to occasionally clear people who are in the way.",
             "AdaptationType": "Outdoor",
             "AdaptationValue": 1,
             "AttackPower1": 67,
@@ -32955,7 +33620,7 @@
         "Id": 20013,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "DefaultOrder": 85,
         "PathName": "Chihiro",
@@ -32984,19 +33649,19 @@
         "CollectionBG": "BG_Millennium_Collection",
         "CollectionTexture": "Student_Portrait_CH0160_Collection",
         "FamilyName": "Kagami",
+        "FamilyNameRuby": null,
         "PersonalName": "Chihiro",
         "SchoolYear": "3rd Year",
         "CharacterAge": "17 years old",
-        "FamilyNameRuby": "かがみ",
-        "Birthday": "4月26日",
-        "CharacterSSRNew": "……新しいセキュリティホールを発見",
-        "ProfileIntroduction": "ミレニアムサイエンススクール所属、ハッカー集団「ヴェリタス」の副部長。\n\n卓越したプログラミング能力を持つハッカーであり、同時にその能力をなるべく乱用しないようにと心がける常識人。いたずらっ子の多いヴェリタスにおける良心的な存在で、常日頃から部員たちに「正しいハッカー倫理」について熱弁しているものの、いざとなれば現場への潜入なども辞さないアクティブなタイプでもある。",
-        "Hobby": "電子機器類の買い物",
+        "Birthday": "April 26th",
+        "CharacterSSRNew": "New security vulnerability found.",
+        "ProfileIntroduction": "Vice president of Veritas, Millennium Science School&#x27;s hacker group.\n\nA genius programmer with excellent hacking skills, she is not afraid of getting her hands dirty when the task demands, whether it&#x27;s going undercover or in the field. She actually has common sense unlike most of Veritas&#x27; devilish members. She is always emphasizing proper hacking ethics to other members.",
+        "Hobby": "Shopping for electronics",
         "CharacterVoice": "Hibiki Yamamura",
         "BirthDay": "4/26",
         "ArtistName": "ni02",
         "CharHeightMetric": "160cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;2&quot;",
         "StabilityPoint": 1587,
         "AttackPower1": 270,
         "AttackPower100": 2701,
@@ -33046,8 +33711,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Into The Backdoor",
-                "Desc": "Every 30s, decreases the <d:ATK> of the enemy with the highest ATK by <?1> for 30s.",
+                "Name": "Through the Backdoor",
+                "Desc": "Every 30s, decreases the <d:ATK> of the enemy with the highest ATK by <?1> for 23s.",
                 "Parameters": [
                     [
                         "16.9%",
@@ -33089,7 +33754,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Firewall",
+                "Name": "Building a Firewall",
                 "Desc": "Increases all allies' <b:OppressionPower> by <?1>.",
                 "Parameters": [
                     [
@@ -33179,9 +33844,17 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            5
+        ],
         "FurnitureInteraction": [
-            2203
+            [
+                2203
+            ],
+            [
+                2203
+            ]
         ],
         "FavorItemTags": [
             "Electronic",
@@ -33192,16 +33865,16 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "バックドア",
-            "Desc": "チヒロが使用するアサルトライフル。\n\n彼女の言葉によると、暗号化されたパスワードを手に入れる最も早い手段だとか。",
+            "Name": "Backdoor",
+            "Desc": "An automatic rifle used by Chihiro.\n\nAccording to Chihiro, it's the fastest way to find out an encrypted password.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 119,
             "AttackPower100": 1187,
             "MaxHP1": 483,
             "MaxHP100": 4830,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 192,
+            "HealPower100": 1916,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -33367,19 +34040,19 @@
         "CollectionBG": "BG_Hyakkiyako_Collection",
         "CollectionTexture": "Student_Portrait_Mimori_Collection",
         "FamilyName": "Mizuha",
+        "FamilyNameRuby": null,
         "PersonalName": "Mimori",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
-        "FamilyNameRuby": "みずは",
-        "Birthday": "3月15日",
-        "CharacterSSRNew": "まだまだ未熟者ですが……\n修行の成果、お見せいたします",
-        "ProfileIntroduction": "百鬼夜行連合学院所属、修行部の優しい副部長。\n\nいつも朗らかな笑顔と穏やかな物腰で、皆からの人望が非常に厚い。幼い頃に読んだ少女漫画の影響で「大和撫子」になりたいという夢を抱き、修行部へと入った。幼馴染であり部長でもあるツバキとともに、料理や掃除などの修行に日々邁進している。",
-        "Hobby": "少女漫画、家事全般",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
+        "Birthday": "March 15th",
+        "CharacterSSRNew": "I still have a long way to go...\nbut I&#x27;ll show you the results of my training.",
+        "ProfileIntroduction": "Hyakkiyako Academy Inner Discipline Club&#x27;s kind vice president.\n\nA popular girl because she always has a gentle smile and is kind to everyone. The childhood friend of Tsubaki, the president of the Inner Discipline Club. She joined the club to fulfill her dream of becoming an elegant lady like the ones in the shoujo manga she used to read when she was young. She continues to train diligently by cooking and cleaning to make her dream come true.",
+        "Hobby": "Reading shoujo manga, homemaking",
         "CharacterVoice": "Rie Tanaka",
         "BirthDay": "3/15",
         "ArtistName": "tokki",
         "CharHeightMetric": "156cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;1&quot;",
         "StabilityPoint": 948,
         "AttackPower1": 134,
         "AttackPower100": 1347,
@@ -33400,7 +34073,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Cherry Blossom Viewing",
+                "Name": "Fresh Flower Viewing",
                 "Desc": "Repositions up to 5 allies in a circular area to the selected location and increases their <b:AttackSpeed> by <?1> for 40s.",
                 "Parameters": [
                     [
@@ -33422,7 +34095,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Homemade Bento",
+                "Name": "I Brought a Bento",
                 "Desc": "Every 45s, grants <b:DotHeal> to the ally with the lowest HP, continuously restoring HP equal to <?1> of Healing every 4s for 20s. Mimori herself cannot be affected.",
                 "Parameters": [
                     [
@@ -33442,7 +34115,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "There's Plenty More",
+                "Name": "How About Another Plate?",
                 "Desc": "Increases <b:DEF> by <?1>.",
                 "Parameters": [
                     [
@@ -33465,7 +34138,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Would You Like to Try Some?",
+                "Name": "Shall We Have a Taste?",
                 "Desc": "Every 35s, increases the <b:DEF> of allies in a circular area by <?1> for 23s.",
                 "Parameters": [
                     [
@@ -33485,7 +34158,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "There's Plenty More+",
+                "Name": "How About Another Plate?+",
                 "Desc": "Increases <b:DEF> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -33555,9 +34228,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7101
+            [
+                7101
+            ],
+            []
         ],
         "FavorItemTags": [
             "Household",
@@ -33570,8 +34249,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "柔らかな決意",
-            "Desc": "ミモリが普段持ち歩いている自動式拳銃。\n\n初めて素敵なレディーになりたいという夢を抱いた時に買ったもので、日々大切に手入れがされている。",
+            "Name": "Soft Resolution",
+            "Desc": "An automatic pistol that Mimori usually carries around.\n\nShe bought it when she first dreamt of becoming an elegant lady. She cherishes it, always having it by her side.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 59,
@@ -33745,19 +34424,19 @@
         "CollectionBG": "BG_Trinity_Collection",
         "CollectionTexture": "Student_Portrait_CH0169_Collection",
         "FamilyName": "Kozeki",
+        "FamilyNameRuby": null,
         "PersonalName": "Ui",
         "SchoolYear": "3rd Year",
         "CharacterAge": "17 years old",
-        "FamilyNameRuby": "こぜき",
-        "Birthday": "4月23日",
-        "CharacterSSRNew": "あ、あの、もう少し静かに……",
-        "ProfileIntroduction": "トリニティ総合学園所属、図書委員会の委員長。\n\nこよなく本を愛する少女であり、鶏が先か卵が先かは不明なものの、同時に中々の人嫌いでもある。本の中でも特に古書を好んでおり、彼女自身も日々「古書館」と呼ばれる場所で古書の解読や管理を行いつつ、引きこもるようにして日々を過ごしている。その知的好奇心や、古書に関する知識および技術は一級品であり、周囲から二つ名として「古書館の魔術師」と呼ばれるほど。",
-        "Hobby": "読書、書籍の管理、古書の研究",
+        "Birthday": "April 23rd",
+        "CharacterSSRNew": "P-Please, keep it down...",
+        "ProfileIntroduction": "Trinity Library Committee&#x27;s Director.\n\nA girl said to love books more than people that especially likes old books that clearly have history. She normally spends her time couped up in Trinity&#x27;s old library, curating the ancient texts.",
+        "Hobby": "Reading, Curating, Researching",
         "CharacterVoice": "Saori Goto",
         "BirthDay": "4/23",
         "ArtistName": "CHILD",
         "CharHeightMetric": "165cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;4&quot;",
         "StabilityPoint": 1908,
         "AttackPower1": 238,
         "AttackPower100": 2388,
@@ -33778,8 +34457,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Antique Book Specialist",
-                "Desc": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skills by 50% (reduction is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or tactical support vehicles.",
+                "Name": "Ancient Texts Expert",
+                "Desc": "Reduces the <b:CostChange> of an ally's next <b>two</b> EX skill uses by 50% (The amount reduced is rounded down to the nearest whole number) and increases their <b:ATK> by <?1> for 46s. Cannot target self or T.S. vehicles.",
                 "Parameters": [
                     [
                         "10%",
@@ -33800,8 +34479,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Knowledge To Pass On",
-                "Desc": "Every 40s, increases the <b:CriticalChance> of nearby allies by <?1> for 33s.",
+                "Name": "Imparting Knowledge",
+                "Desc": "Every 40s, increases the <b:CriticalChance> of allies in a circular area by <?1> for 33s.",
                 "Parameters": [
                     [
                         "13.6%",
@@ -33820,7 +34499,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Expertise",
+                "Name": "Expert Skill",
                 "Desc": "Increases <b:CriticalChance> by <?1>.",
                 "Parameters": [
                     [
@@ -33843,7 +34522,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Nervousness",
+                "Name": "Jitters",
                 "Desc": "Increases <b:AttackSpeed> by <?1> for 20s after Ui uses her EX skill.",
                 "Parameters": [
                     [
@@ -33863,7 +34542,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Expertise+",
+                "Name": "Expert Skill+",
                 "Desc": "Increases <b:CriticalChance> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -33933,9 +34612,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            204301
+            [
+                204301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Books",
@@ -33948,8 +34633,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "ボリュームサプレッサー",
-            "Desc": "周囲の騒音が大きくなってきた時などに、ウイが使用するスナイパーライフル。\n\n名前の通り、対象を静かにさせることが可能。",
+            "Name": "Volume Suppressor",
+            "Desc": "A silencer rifle that Ui takes out when she can't stand the noise around her anymore.\n\nSilences the target, just like its name.",
             "AdaptationType": "Outdoor",
             "AdaptationValue": 1,
             "AttackPower1": 105,
@@ -34123,19 +34808,19 @@
         "CollectionBG": "BG_Trinity_Collection",
         "CollectionTexture": "Student_Portrait_Hinata_Collection",
         "FamilyName": "Wakaba",
+        "FamilyNameRuby": null,
         "PersonalName": "Hinata",
         "SchoolYear": "3rd Year",
         "CharacterAge": "17 years old",
-        "FamilyNameRuby": "わかば",
-        "Birthday": "5月17日",
-        "CharacterSSRNew": "何か、私にできることはありますでしょうか？",
-        "ProfileIntroduction": "トリニティ総合学園所属、シスターフッドの真面目でひたむきな少女。\n\nシスターフッドにおいて「聖堂などの物品管理」という責務を担っており、その仕事も日々誠実にこなしている。しかしながら少々おっちょこちょいな部分があり、ミスを重ねては自信を失うこともしばしば。普段から持ち歩いている大きなカバンにはグレネードランチャーなどが色々と入っているものの、彼女はそれを軽々と運んでいる。",
-        "Hobby": "お祈り、整理整頓",
+        "Birthday": "May 17th",
+        "CharacterSSRNew": "Do you need help with something?",
+        "ProfileIntroduction": "A hardworking and kindhearted girl affiliated with the Sisterhood.\n\nIn charge of caring for the Trinity Cathedral as she completes duties and remains polite to all. However, she often makes mistakes thanks to her clumsy disposition and lack of confidence. She always carries an installable grenade machine gun in her bag, but never seems to struggle with its weight.",
+        "Hobby": "Praying, cleaning",
         "CharacterVoice": "Rina Hidaka",
         "BirthDay": "5/17",
         "ArtistName": "tonito",
         "CharHeightMetric": "166cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;5&quot;",
         "StabilityPoint": 984,
         "AttackPower1": 174,
         "AttackPower100": 1741,
@@ -34156,7 +34841,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Last Resort",
+                "Name": "Last Means of Communication",
                 "Desc": "Deals <?1> damage to enemies in 5 circular areas.",
                 "Parameters": [
                     [
@@ -34178,7 +34863,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "We Need To Talk",
+                "Name": "Let's Talk First...!",
                 "Desc": "Every 20s, deals <?1> damage to the enemy with the highest HP.",
                 "Parameters": [
                     [
@@ -34198,7 +34883,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Twist of Fate",
+                "Name": "Unexpected Development",
                 "Desc": "Increases <b:CriticalDamage> by <?1>.",
                 "Parameters": [
                     [
@@ -34241,7 +34926,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Twist of Fate+",
+                "Name": "Unexpected Development+",
                 "Desc": "Increases <b:CriticalDamage> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -34311,9 +34996,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            0
+        ],
         "FurnitureInteraction": [
-            2103
+            [
+                2103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -34325,8 +35016,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "ブレッシング",
-            "Desc": "ヒナタがいつも身に着けている拳銃。\n\n平時は鍵を失くした扉を開くためなど、困っている人たちを助ける目的で使われる。",
+            "Name": "Reverence",
+            "Desc": "A pistol Hinata carries with her everywhere.\n\nNormally used to help people out of a pinch, like picking a broken lock.",
             "AdaptationType": "Outdoor",
             "AdaptationValue": 1,
             "AttackPower1": 77,
@@ -34500,19 +35191,19 @@
         "CollectionBG": "BG_Redwinter_Collection",
         "CollectionTexture": "Student_Portrait_Marina_Collection",
         "FamilyName": "Ikekura",
+        "FamilyNameRuby": null,
         "PersonalName": "Marina",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
-        "FamilyNameRuby": "いけくら",
-        "Birthday": "11月4日",
-        "CharacterSSRNew": "私は、逃げも隠れもしない！",
-        "ProfileIntroduction": "レッドウィンター連邦学園所属、治安の維持を担当する保安委員会における委員長。\n\n校則違反をすれば問答無用で無慈悲な懲罰を下すことから、血も涙もない冷血漢として有名……とも言われるが、実際には思い込んだら一直線、基本的にはチェリノ会長の命令を着実に遂行していく直情タイプ。「突撃」という言葉が好きで、何につけても突撃を繰り返す。レッドウィンターで何か問題があれば真っ先に飛び出すため、職務に忠実とも言えるものの、突撃した結果として道に迷うことも多い。",
-        "Hobby": "散歩、突撃",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
+        "Birthday": "November 4th",
+        "CharacterSSRNew": "Running away doesn&#x27;t help one bit!",
+        "ProfileIntroduction": "Chair of the Security Committee in charge of Red Winter Academy&#x27;s safety.\n\nThough she&#x27;s known as cold-hearted disciplinarian, the truth is she blindly follows President Cherino&#x27;s orders without thinking. She likes the word &quot;charge&quot;, and is the first to run off when a problem occurs within the Red Winter Academy, but often loses her way due to her terrible sense of direction.",
+        "Hobby": "March, Charge",
         "CharacterVoice": "Sachie Hirai",
         "BirthDay": "11/4",
         "ArtistName": "Mx2j",
         "CharHeightMetric": "166cm",
-        "CharHeightImperial": null,
+        "CharHeightImperial": "5&#x27;5&quot;",
         "StabilityPoint": 1264,
         "AttackPower1": 145,
         "AttackPower100": 1456,
@@ -34533,7 +35224,7 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Revolutionary Charge",
+                "Name": "Revolutionary Charge!",
                 "Desc": "Deals <?1> damage to enemies in an arc-shaped area and decreases their <d:HealEffectiveness> by <?2> for 30s.",
                 "Parameters": [
                     [
@@ -34562,7 +35253,7 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "I Won't Back Down!",
+                "Name": "No Retreat!",
                 "Desc": "When Marina's HP falls below 20%, she becomes <s:Immortal> for <?1> once per battle.",
                 "Parameters": [
                     [
@@ -34582,7 +35273,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "No Retreat",
+                "Name": "Evading Isn't Retreating!",
                 "Desc": "Increases <b:Dodge> by <?1>.",
                 "Parameters": [
                     [
@@ -34605,7 +35296,7 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Decisiveness",
+                "Name": "A Bold Decision",
                 "Desc": "Increases <b:Dodge> by <?1> for the duration of Marina's EX skill.",
                 "Parameters": [
                     [
@@ -34625,7 +35316,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "No Retreat+",
+                "Name": "Evading Isn't Retreating!+",
                 "Desc": "Increases <b:MAXHP> by <?1> and <b:Dodge> by <?2>.",
                 "Parameters": [
                     [
@@ -34695,9 +35386,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            3105
+            [
+                3105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Curios",
@@ -34708,8 +35405,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "バラライカ",
-            "Desc": "マリナが愛用している、ドラムマガジン付きのサブマシンガン。\n\nその驚異的な発射速度は、レッドウィンターの権威を疑う者たちに容赦なく襲い掛かる。",
+            "Name": "Gray Balalaika",
+            "Desc": "A submachine gun with a drum magazine adored by Marina.\n\nCan smash those that doubt the Red Winter Office's authority with alacrity.",
             "AdaptationType": "Indoor",
             "AdaptationValue": 1,
             "AttackPower1": 64,
@@ -35078,9 +35775,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            8105
+            [
+                8105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -35474,9 +36177,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            8104
+            [
+                8104
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -35496,8 +36205,8 @@
             "AttackPower100": 1268,
             "MaxHP1": 482,
             "MaxHP100": 4823,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 192,
+            "HealPower100": 1920,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -35851,9 +36560,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            8103
+            [
+                8103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Army",
@@ -36228,9 +36943,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            6102
+            [
+                6102
+            ],
+            []
         ],
         "FavorItemTags": [
             "Toy",
@@ -36420,8 +37141,8 @@
         "CollectionTexture": "Student_Portrait_CH0156_Collection",
         "FamilyName": "Natsume",
         "PersonalName": "Iroha",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "なつめ",
         "Birthday": "11月16日",
         "CharacterSSRNew": "……私のことが必要？\n全く、仕方ありませんね",
@@ -36626,9 +37347,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            6105
+            [
+                6105
+            ],
+            []
         ],
         "FavorItemTags": [
             "Books",
@@ -36647,8 +37374,8 @@
             "AttackPower100": 1209,
             "MaxHP1": 491,
             "MaxHP100": 4914,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 188,
+            "HealPower100": 1884,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -37021,9 +37748,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            7102
+            [
+                7102
+            ],
+            []
         ],
         "FavorItemTags": [
             "Curios",
@@ -37243,7 +37976,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Tsukuyo-Style Ninjutsu!",
-                "Desc": "Gains <b:HealByHit_Damaged> for 30s, restoring HP by <?1> of Healing each time Tsukuyo is attacked. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
+                "Desc": "Gains a <b:HealByHit_Damaged> effect for 30s, restoring HP by <?1> of Healing each time Tsukuyo takes damage from an attack. (Effect can trigger up to a maximum of <b>100</b> times and Tsukuyo's <d:ATK> is decreased by <?2> for the effect's duration.)",
                 "Parameters": [
                     [
                         "7%",
@@ -37327,7 +38060,7 @@
             {
                 "SkillType": "sub",
                 "Name": "I Won't Fall!",
-                "Desc": "Whenever Tsukuyo is inflicted with a crowd-control effect, restores own HP by <?1> of Healing.",
+                "Desc": "Whenever Tsukuyo is inflicted with a Crowd Control effect, restores own HP by <?1> of Healing.",
                 "Parameters": [
                     [
                         "97.5%",
@@ -37346,7 +38079,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Natural Talent+",
+                "Name": "Natural Ability+",
                 "Desc": "Increases <b:MAXHP> by <?1> plus a further <?2>.",
                 "Parameters": [
                     [
@@ -37416,9 +38149,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            4106
+            [
+                4106
+            ],
+            []
         ],
         "FavorItemTags": [
             "Horticulture",
@@ -37605,8 +38344,8 @@
         "CollectionTexture": "Student_Portrait_Misaki_Collection",
         "FamilyName": "Imashino",
         "PersonalName": "Misaki",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "いましの",
         "Birthday": "1月13日",
         "CharacterSSRNew": "この虚しさに、答えなんて無い。\nそれでも……",
@@ -37840,9 +38579,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            1108
+            [
+                1108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Doll"
@@ -38029,8 +38774,8 @@
         "CollectionTexture": "Student_Portrait_Hiyori_Collection",
         "FamilyName": "Tsuchinaga",
         "PersonalName": "Hiyori",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "つちなが",
         "Birthday": "1月8日",
         "CharacterSSRNew": "きょ、今日は運が良かったです。\nえへへ……",
@@ -38242,9 +38987,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            5
+            [
+                5
+            ],
+            []
         ],
         "FavorItemTags": [
             "Household"
@@ -38262,8 +39013,8 @@
             "AttackPower100": 934,
             "MaxHP1": 462,
             "MaxHP100": 4622,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 200,
+            "HealPower100": 1996,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -38617,9 +39368,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            205301
+            [
+                205301
+            ],
+            []
         ],
         "FavorItemTags": [
             "Specialized"
@@ -39033,9 +39790,15 @@
         "FavorAlts": [
             10033
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4201
+            [
+                4201
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -39224,8 +39987,8 @@
         "CollectionTexture": "Student_Portrait_CH0092_Collection",
         "FamilyName": "Izayoi",
         "PersonalName": "Nonomi",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "いざよい",
         "Birthday": "9月1日",
         "CharacterSSRNew": "やっぱり夏といえば、みんなで海ですね☆",
@@ -39420,9 +40183,15 @@
         "FavorAlts": [
             13004
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4108
+            [
+                4108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -39855,9 +40624,15 @@
         "FavorAlts": [
             23005
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            4103
+            [
+                4103
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -39878,8 +40653,8 @@
             "AttackPower100": 1016,
             "MaxHP1": 374,
             "MaxHP100": 3738,
-            "HealPower1": 0,
-            "HealPower100": 0,
+            "HealPower1": 158,
+            "HealPower100": 1582,
             "StatLevelUpType": "Standard"
         },
         "Gear": {},
@@ -40305,9 +41080,15 @@
         "FavorAlts": [
             10005
         ],
-        "MemoryLobby": 2,
+        "MemoryLobby": [
+            2,
+            0
+        ],
         "FurnitureInteraction": [
-            9304
+            [
+                9304
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -40496,8 +41277,8 @@
         "CollectionTexture": "Student_Portrait_CH0180_Collection",
         "FamilyName": "Kawawa",
         "PersonalName": "Shizuko",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "かわわ",
         "Birthday": "7月7日",
         "CharacterSSRNew": "",
@@ -40692,9 +41473,15 @@
         "FavorAlts": [
             23006
         ],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            9302
+            [
+                9302
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41090,9 +41877,15 @@
         "FavorAlts": [
             10014
         ],
-        "MemoryLobby": 6,
+        "MemoryLobby": [
+            6,
+            0
+        ],
         "FurnitureInteraction": [
-            9300
+            [
+                9300
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41280,12 +42073,12 @@
         "CollectionTexture": "Student_Portrait_CH0178_Collection",
         "FamilyName": "Waraku",
         "PersonalName": "Chise",
-        "SchoolYear": "2nd Year",
-        "CharacterAge": "16 years old",
+        "SchoolYear": "Năm 2",
+        "CharacterAge": "16 tuổi",
         "FamilyNameRuby": "わらく",
         "Birthday": "7月13日",
         "CharacterSSRNew": "海には不思議なものがいっぱいだね～",
-        "ProfileIntroduction": "百鬼夜行連合学院所属、夏の日差しの下でも相変わらずぼんやりしている陰陽部の電波系少女。\n\n水着に着替えた事でアイドル力（？）が上がったのか、彼女を見守るファンの叫びは夏の日差しに負けないほどの熱気を持っていたとか。しかし、本人は全く気にする気配もなく。今日もチセは先生と一緒にきらめきを探して充実した夏を過ごしている。",
+        "ProfileIntroduction": "百鬼夜行連合学院所属、夏の日差しの下でも相変わらずぼんやりしている陰陽部の電波系少女。\n\n水着に着替えた事でアイドル力（？）が上がったのか、彼女を見守るファンの叫びは夏の日差しに負けないほどの熱気を持っていたとか。しかし、本人は全く気にする気配もなく。今日もチセは先生と一緒にきらめきを探して充実した夏を過ごしている。\n\n\nÔn lần",
         "Hobby": "俳句",
         "CharacterVoice": "Yū Shimamura",
         "BirthDay": "7/13",
@@ -41313,7 +42106,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Summer Seaside!",
-                "Desc": "Fires 3 grenades that target up to 3 different enemies. Each grenade deals <?1> damage and inflicts <c:Stunned> for <?2> to the target and enemies in a circular area around them. If the target is already inflicted with a crowd-control effect, deals <?3> damage and inflicts <c:Stunned> for <?4> instead.",
+                "Desc": "Fires 3 grenades that target up to 3 different enemies. Each grenade deals <?1> damage and inflicts <c:Stunned> for <?2> to the target and enemies in a circular area around them. If the target is already inflicted with a Crowd Control effect, deals <?3> damage and inflicts <c:Stunned> for <?4> instead.",
                 "Parameters": [
                     [
                         "232%",
@@ -41524,9 +42317,15 @@
         "FavorAlts": [
             13001
         ],
-        "MemoryLobby": 3,
+        "MemoryLobby": [
+            3,
+            0
+        ],
         "FurnitureInteraction": [
-            9201
+            [
+                9201
+            ],
+            []
         ],
         "FavorItemTags": [
             "Swimsuit",
@@ -41715,7 +42514,7 @@
         "CollectionTexture": "Student_Portrait_Saori_Collection",
         "FamilyName": "Joumae",
         "PersonalName": "Saori",
-        "SchoolYear": "2nd Year",
+        "SchoolYear": "Năm 2",
         "CharacterAge": "17 years old",
         "FamilyNameRuby": "じょうまえ",
         "Birthday": "9月3日",
@@ -41921,9 +42720,15 @@
             ]
         ],
         "FavorAlts": [],
-        "MemoryLobby": 5,
+        "MemoryLobby": [
+            5,
+            0
+        ],
         "FurnitureInteraction": [
-            1108
+            [
+                1108
+            ],
+            []
         ],
         "FavorItemTags": [
             "Cosmetics",
@@ -42072,6 +42877,809 @@
             [
                 12,
                 8,
+                14
+            ]
+        ]
+    },
+    {
+        "Id": 20018,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "DefaultOrder": 108,
+        "PathName": "Moe",
+        "DevName": "Moe",
+        "Name": "Moe",
+        "School": "SRT",
+        "Club": "RabbitPlatoon",
+        "StarGrade": 3,
+        "SquadType": "Support",
+        "TacticRole": "DamageDealer",
+        "SummonIds": [],
+        "Position": "Back",
+        "BulletType": "Pierce",
+        "ArmorType": "LightArmor",
+        "StreetBattleAdaptation": 0,
+        "OutdoorBattleAdaptation": 2,
+        "IndoorBattleAdaptation": 4,
+        "WeaponType": "HG",
+        "WeaponImg": "Weapon_Icon_CH0143",
+        "Cover": false,
+        "Equipment": [
+            "Hat",
+            "Bag",
+            "Watch"
+        ],
+        "CollectionBG": "BG_SRT_Collection",
+        "CollectionTexture": "Student_Portrait_Moe_Collection",
+        "FamilyName": "Kazekura",
+        "PersonalName": "Moe",
+        "SchoolYear": "1st Year",
+        "CharacterAge": "15 years old",
+        "FamilyNameRuby": "かぜくら",
+        "Birthday": "9月13日",
+        "CharacterSSRNew": "こちらRABBIT3。次の爆撃場所はどこ？",
+        "ProfileIntroduction": "SRT特殊学園所属、RABBIT小隊のオペレーター。コールサインは「RABBIT3」。\n\n強大な火力を保有したSRT特殊学園の武器に憧れて入学したが、突然学園が閉鎖され、現在は公園で他の小隊員と共に野宿をしている。何かを爆破したり台無しにしたりすることに喜びを感じる奇妙な趣向の持ち主だが、オペレーターの腕だけは確かである。重症の甘いもの好きで、いつも棒キャンディを口にくわえている。",
+        "Hobby": "打ち上げ花火",
+        "CharacterVoice": "Shiori Izawa",
+        "BirthDay": "9/13",
+        "ArtistName": "Mx2j",
+        "CharHeightMetric": "163cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 1136,
+        "AttackPower1": 199,
+        "AttackPower100": 1998,
+        "MaxHP1": 2224,
+        "MaxHP100": 16629,
+        "DefensePower1": 19,
+        "DefensePower100": 118,
+        "HealPower1": 1627,
+        "HealPower100": 4883,
+        "DodgePoint": 791,
+        "AccuracyPoint": 404,
+        "CriticalPoint": 202,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 5,
+        "AmmoCost": 1,
+        "Range": 1000,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "ex",
+                "Name": "Rain Of Steel",
+                "Desc": "Deals <?1> damage to enemies in a rectangular area, plus an additional <?2> <d:Burn> damage every 4s for 20s.",
+                "Parameters": [
+                    [
+                        "306%",
+                        "352%",
+                        "398%",
+                        "443%",
+                        "489%",
+                        "535%",
+                        "581%",
+                        "627%",
+                        "673%",
+                        "719%"
+                    ],
+                    [
+                        "50.9%",
+                        "50.9%",
+                        "58.5%",
+                        "58.5%",
+                        "66.2%",
+                        "66.2%",
+                        "73.8%",
+                        "73.8%",
+                        "81.5%",
+                        "81.5%"
+                    ]
+                ],
+                "Cost": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4
+                ],
+                "SummonStat": [],
+                "SummonStatCoefficient": [],
+                "Icon": "COMMON_SKILLICON_RECZONE"
+            },
+            {
+                "SkillType": "normal",
+                "Name": "Concentrated Assault",
+                "Desc": "Every 40s, deals <?1> damage to up to 5 enemies and inflicts <c:Stunned> for <?2>.",
+                "Parameters": [
+                    [
+                        "100%",
+                        "105%",
+                        "110%",
+                        "120%",
+                        "125%",
+                        "130%",
+                        "140%",
+                        "145%",
+                        "150%",
+                        "160%"
+                    ],
+                    [
+                        "1.2s",
+                        "1.2s",
+                        "1.2s",
+                        "1.4s",
+                        "1.4s",
+                        "1.4s",
+                        "1.5s",
+                        "1.5s",
+                        "1.5s",
+                        "1.6s"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_STUNNED"
+            },
+            {
+                "SkillType": "passive",
+                "Name": "Destructive Pleasure",
+                "Desc": "Increases <b:ATK> by <?1>.",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Stat": [
+                    "AttackPower"
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "Operational Support",
+                "Desc": "Increases all allies' <b:ATK> by <?1>.",
+                "Parameters": [
+                    [
+                        "9.1%",
+                        "9.5%",
+                        "10%",
+                        "11.8%",
+                        "12.3%",
+                        "12.7%",
+                        "14.5%",
+                        "15%",
+                        "15.5%",
+                        "17.3%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF"
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "Destructive Pleasure+",
+                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Parameters": [
+                    [
+                        "239",
+                        "251",
+                        "263",
+                        "311",
+                        "323",
+                        "335",
+                        "383",
+                        "395",
+                        "406",
+                        "454"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Stat": [
+                    "AttackPower",
+                    "AttackPower"
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                2,
+                0
+            ],
+            [
+                3,
+                0
+            ],
+            [
+                4,
+                42
+            ],
+            [
+                5,
+                50
+            ],
+            [
+                1,
+                9
+            ],
+            [
+                2,
+                13
+            ],
+            [
+                3,
+                22
+            ]
+        ],
+        "FavorAlts": [],
+        "MemoryLobby": [
+            6,
+            0
+        ],
+        "FurnitureInteraction": [
+            [
+                8106
+            ],
+            []
+        ],
+        "FavorItemTags": [
+            "Electronic",
+            "Army"
+        ],
+        "FavorItemUniqueTags": [
+            "F_Moe"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "ラビット224式拳銃",
+            "Desc": "モエがSRT特殊学園から支給された制式拳銃。\n\n拳銃にもかかわらず高い連射力を保有しているため、弾倉を瞬時に空にすることができる。",
+            "AdaptationType": "Indoor",
+            "AdaptationValue": 1,
+            "AttackPower1": 88,
+            "AttackPower100": 877,
+            "MaxHP1": 484,
+            "MaxHP100": 4840,
+            "HealPower1": 191,
+            "HealPower100": 1913,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3080,
+                160
+            ],
+            [
+                3081,
+                3080,
+                161,
+                130
+            ],
+            [
+                3082,
+                3081,
+                162,
+                131
+            ],
+            [
+                3083,
+                3082,
+                163,
+                132
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                15
+            ],
+            [
+                12,
+                18,
+                14,
+                31
+            ],
+            [
+                12,
+                18,
+                9,
+                24
+            ],
+            [
+                8,
+                18,
+                7,
+                21
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4080
+            ],
+            [
+                4080
+            ],
+            [
+                4081,
+                4080,
+                160
+            ],
+            [
+                4081,
+                161,
+                130
+            ],
+            [
+                4082,
+                4081,
+                161,
+                130
+            ],
+            [
+                4082,
+                162,
+                131
+            ],
+            [
+                4083,
+                4082,
+                163,
+                132
+            ],
+            [
+                4083,
+                163,
+                132
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                5
+            ],
+            [
+                8,
+                4,
+                12
+            ],
+            [
+                5,
+                12,
+                9,
+                18
+            ],
+            [
+                8,
+                2,
+                15
+            ],
+            [
+                8,
+                12,
+                4,
+                8
+            ],
+            [
+                12,
+                8,
+                14
+            ]
+        ]
+    },
+    {
+        "Id": 10049,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "DefaultOrder": 109,
+        "PathName": "Kazusa",
+        "DevName": "Kazusa",
+        "Name": "Kazusa",
+        "School": "Trinity",
+        "Club": "HoukagoDessert",
+        "StarGrade": 3,
+        "SquadType": "Main",
+        "TacticRole": "DamageDealer",
+        "SummonIds": [],
+        "Position": "Back",
+        "BulletType": "Pierce",
+        "ArmorType": "HeavyArmor",
+        "StreetBattleAdaptation": 4,
+        "OutdoorBattleAdaptation": 0,
+        "IndoorBattleAdaptation": 2,
+        "WeaponType": "MG",
+        "WeaponImg": "Weapon_Icon_CH0075",
+        "Cover": false,
+        "Equipment": [
+            "Gloves",
+            "Hairpin",
+            "Watch"
+        ],
+        "CollectionBG": "BG_Trinity_Collection",
+        "CollectionTexture": "Student_Portrait_Kazusa_Collection",
+        "FamilyName": "Kyouyama",
+        "PersonalName": "Kazusa",
+        "SchoolYear": "1st Year",
+        "CharacterAge": "15 years old",
+        "FamilyNameRuby": "きょうやま",
+        "Birthday": "8月5日",
+        "CharacterSSRNew": "あ、先生。\nこんな所で会えるなんて奇遇だね",
+        "ProfileIntroduction": "トリニティ総合学園所属、ゆったりとした静かな性格の「放課後スイーツ部」の部員。\n\n自分をあまり表に出さないため、普段は他の部員たちに黙々とついていく事が多い。\nいつも周囲の奇行に巻き込まれて苦労しているが、一方でそういう所も大切に思っている。",
+        "Hobby": "「普通に」スイーツを食べること",
+        "CharacterVoice": "Yuko Natsuyoshi",
+        "BirthDay": "8/5",
+        "ArtistName": "mimo",
+        "CharHeightMetric": "155cm",
+        "CharHeightImperial": null,
+        "StabilityPoint": 1388,
+        "AttackPower1": 241,
+        "AttackPower100": 2415,
+        "MaxHP1": 2231,
+        "MaxHP100": 19340,
+        "DefensePower1": 79,
+        "DefensePower100": 475,
+        "HealPower1": 1411,
+        "HealPower100": 4235,
+        "DodgePoint": 198,
+        "AccuracyPoint": 100,
+        "CriticalPoint": 201,
+        "CriticalDamageRate": 20000,
+        "AmmoCount": 40,
+        "AmmoCost": 4,
+        "Range": 750,
+        "RegenCost": 700,
+        "Skills": [
+            {
+                "SkillType": "ex",
+                "Name": "Sweet Fire",
+                "Desc": "Immediately reloads and deals <?1> damage to one enemy.",
+                "Parameters": [
+                    [
+                        "933%",
+                        "1073%",
+                        "1353%",
+                        "1493%",
+                        "1773%",
+                        "1913%",
+                        "2193%",
+                        "2333%",
+                        "2613%",
+                        "2753%"
+                    ]
+                ],
+                "Cost": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4
+                ],
+                "SummonStat": [],
+                "SummonStatCoefficient": [],
+                "Icon": "COMMON_SKILLICON_TARGET"
+            },
+            {
+                "SkillType": "normal",
+                "Name": "Bad Habit",
+                "Desc": "Every 30s, increases <b:ATK> by <?1> for 25s.",
+                "Parameters": [
+                    [
+                        "23%",
+                        "24.2%",
+                        "25.3%",
+                        "29.9%",
+                        "31.1%",
+                        "32.2%",
+                        "36.8%",
+                        "38%",
+                        "39.2%",
+                        "43.8%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF"
+            },
+            {
+                "SkillType": "passive",
+                "Name": "Sugar High",
+                "Desc": "Increases <b:ATK> by <?1>.",
+                "Parameters": [
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Stat": [
+                    "AttackPower"
+                ]
+            },
+            {
+                "SkillType": "sub",
+                "Name": "Snatched Food",
+                "Desc": "Whenever Kazusa reloads, increases <b:ATK> by <?1> but decreases <d:AttackSpeed> by 16.3% for 15s. Effect can stack up to 2 times.",
+                "Parameters": [
+                    [
+                        "26.1%",
+                        "27.4%",
+                        "28.7%",
+                        "33.9%",
+                        "35.2%",
+                        "36.5%",
+                        "41.8%",
+                        "43.1%",
+                        "44.4%",
+                        "49.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONDUALEFFECT"
+            },
+            {
+                "SkillType": "weaponpassive",
+                "Name": "Sugar High+",
+                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Parameters": [
+                    [
+                        "290",
+                        "304",
+                        "319",
+                        "376",
+                        "391",
+                        "405",
+                        "463",
+                        "478",
+                        "492",
+                        "550"
+                    ],
+                    [
+                        "14%",
+                        "14.7%",
+                        "15.4%",
+                        "18.2%",
+                        "18.9%",
+                        "19.6%",
+                        "22.4%",
+                        "23.1%",
+                        "23.8%",
+                        "26.6%"
+                    ]
+                ],
+                "Icon": "COMMON_SKILLICON_WEAPONBUFF",
+                "Stat": [
+                    "AttackPower",
+                    "AttackPower"
+                ]
+            }
+        ],
+        "FavorStatType": [
+            "AttackPower",
+            "MaxHP"
+        ],
+        "FavorStatValue": [
+            [
+                2,
+                0
+            ],
+            [
+                4,
+                0
+            ],
+            [
+                5,
+                48
+            ],
+            [
+                6,
+                58
+            ],
+            [
+                2,
+                10
+            ],
+            [
+                2,
+                15
+            ],
+            [
+                4,
+                25
+            ]
+        ],
+        "FavorAlts": [],
+        "MemoryLobby": [
+            5,
+            0
+        ],
+        "FurnitureInteraction": [
+            [
+                3103
+            ],
+            []
+        ],
+        "FavorItemTags": [
+            "Dessert",
+            "Delicious",
+            "Girlish"
+        ],
+        "FavorItemUniqueTags": [
+            "F_Kazusa"
+        ],
+        "IsLimited": 0,
+        "Weapon": {
+            "Name": "マビノギオン",
+            "Desc": "古くからカズサと長い間過ごしてきたマシンガン。\n\n名前の由来について尋ねると、苦い顔をする。",
+            "AdaptationType": "Street",
+            "AdaptationValue": 1,
+            "AttackPower1": 106,
+            "AttackPower100": 1061,
+            "MaxHP1": 559,
+            "MaxHP100": 5592,
+            "HealPower1": 0,
+            "HealPower100": 0,
+            "StatLevelUpType": "Standard"
+        },
+        "Gear": {},
+        "SkillExMaterial": [
+            [
+                3020,
+                240
+            ],
+            [
+                3021,
+                3020,
+                241,
+                140
+            ],
+            [
+                3022,
+                3021,
+                242,
+                141
+            ],
+            [
+                3023,
+                3022,
+                243,
+                142
+            ]
+        ],
+        "SkillExMaterialAmount": [
+            [
+                12,
+                12
+            ],
+            [
+                12,
+                18,
+                12,
+                33
+            ],
+            [
+                12,
+                18,
+                8,
+                27
+            ],
+            [
+                8,
+                18,
+                8,
+                21
+            ]
+        ],
+        "SkillMaterial": [
+            [
+                4020
+            ],
+            [
+                4020
+            ],
+            [
+                4021,
+                4020,
+                240
+            ],
+            [
+                4021,
+                241,
+                140
+            ],
+            [
+                4022,
+                4021,
+                241,
+                140
+            ],
+            [
+                4022,
+                242,
+                141
+            ],
+            [
+                4023,
+                4022,
+                243,
+                142
+            ],
+            [
+                4023,
+                243,
+                142
+            ]
+        ],
+        "SkillMaterialAmount": [
+            [
+                5
+            ],
+            [
+                8
+            ],
+            [
+                5,
+                12,
+                5
+            ],
+            [
+                8,
+                3,
+                12
+            ],
+            [
+                5,
+                12,
+                10,
+                18
+            ],
+            [
+                8,
+                3,
+                16
+            ],
+            [
+                8,
+                12,
+                4,
+                9
+            ],
+            [
+                12,
+                7,
                 14
             ]
         ]

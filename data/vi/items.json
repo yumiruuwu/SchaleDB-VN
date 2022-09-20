@@ -7584,7 +7584,7 @@
         "Id": 10034,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "SecretStone",
         "Rarity": "N",
@@ -10112,7 +10112,7 @@
         "Id": 85000,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Coin",
         "Rarity": "N",
@@ -10127,7 +10127,7 @@
         "Id": 85001,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Coin",
         "Rarity": "N",
@@ -10142,7 +10142,7 @@
         "Id": 85002,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Coin",
         "Rarity": "N",
@@ -10157,7 +10157,7 @@
         "Id": 85003,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Coin",
         "Rarity": "N",
@@ -10854,8 +10854,8 @@
             }
         ],
         "Icon": "Equipment_Icon_Selection_Tier2_Piece",
-        "Name": "Vé lựa chọn thiết bị T2",
-        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
+        "Name": "Vé lựa chọn bản thiết kế trang bị T2",
+        "Desc": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
     },
     {
         "Id": 150029,
@@ -10881,8 +10881,8 @@
             }
         ],
         "Icon": "Equipment_Icon_Selection_Tier3_Piece",
-        "Name": "Vé lựa chọn thiết bị T3",
-        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
+        "Name": "Vé lựa chọn bản thiết kế trang bị T3",
+        "Desc": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
     },
     {
         "Id": 150030,
@@ -10908,14 +10908,14 @@
             }
         ],
         "Icon": "Equipment_Icon_Selection_Tier4_Piece",
-        "Name": "Vé lựa chọn thiết bị T4",
-        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
+        "Name": "Vé lựa chọn bản thiết kế trang bị T4",
+        "Desc": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
     },
     {
         "Id": 150031,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Consumable",
         "Rarity": "N",
@@ -10935,14 +10935,14 @@
             }
         ],
         "Icon": "Equipment_Icon_Selection_Tier5_Piece",
-        "Name": "Vé lựa chọn thiết bị T5",
-        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
+        "Name": "Vé lựa chọn bản thiết kế trang bị T5",
+        "Desc": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
     },
     {
         "Id": 150032,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Category": "Consumable",
         "Rarity": "N",
@@ -10950,8 +10950,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Equipment_Icon_Selection_Tier6_Piece",
-        "Name": "Vé lựa chọn thiết bị T6",
-        "Desc": "Một vé có thể đổi lấy bản thiết bị do bạn chọn."
+        "Name": "Vé lựa chọn bản thiết kế trang bị T6",
+        "Desc": "Một vé có thể đổi lấy bản thiết kế trang bị do bạn chọn."
     },
     {
         "Id": 151000,
@@ -11435,8 +11435,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Event_Vallentine_Chocolate_Aris",
-        "Name": "Sô cô la ốc sên tự làm",
-        "Desc": "Một món sô cô la tự làm của Aris dựa trên một con quái vật ốc sên trong trò chơi. Tuy nhiên, nó không giống một con ốc sên cho dù bạn nhìn nó như thế nào.\n\n\nಠ_ಠ"
+        "Name": "Sô cô la nhờn tự làm",
+        "Desc": "Một món sô cô la tự làm của Aris dựa trên một con quái vật chất nhờn trong trò chơi. Tuy nhiên, nó không giống một con chất nhờn cho dù bạn nhìn nó như thế nào.\n\n\nಠ_ಠ"
     },
     {
         "Id": 180020,
@@ -12081,7 +12081,7 @@
         "Shops": [],
         "Icon": "Event_Vallentine_Chocolate_Haruka",
         "Name": "Cacao 99.99%",
-        "Desc": "Sô cô la rất đắt tiền mà Haruka mua cho Sensei. Hàm lượng đường có thể không phải là điều duy nhất mà giá trị độ tinh khiết 99,99% đề cập đến."
+        "Desc": "Sô cô la rất đắt tiền mà Haruka mua cho Sensei. Bạn có thể phù hợp với Problem Solver 68 nếu hàm lượng 99,99% cacao không làm bạn nản lòng."
     },
     {
         "Id": 180063,
@@ -12170,7 +12170,7 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Event_Vallentine_Chocolate_Pina",
-        "Name": "Kính ngọt",
+        "Name": "Sô cô la Sakazuki",
         "Desc": "Sô cô la hình ly uống nước do Pina mang đến. Vì nó là một món quà lưu niệm trong ngày lễ tình nhân, nó không thực sự là một chiếc ly uống rượu, và bạn không thể đổ đầy rượu vào nó."
     },
     {
