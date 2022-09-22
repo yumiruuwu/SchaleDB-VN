@@ -414,8 +414,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Item_Icon_TimeAttackCoin",
-        "Name": "Đồng xu khoan lỗ chung &quot;translation_error&quot;",
-        "Desc": "Đồng xu này có thể dùng tại Cửa hàng Máy khoan Chung. &quot;translation_error&quot;"
+        "Name": "Xu hoàn thành thử thách chiến thuật",
+        "Desc": "Đồng xu này có thể dùng tại Cửa hàng hoàn thành thử thách chiến thuật. &quot;translation_error&quot;"
     },
     {
         "Id": 61,
@@ -6487,7 +6487,9 @@
             "F_Kirino_default",
             "F_Kirino_default2",
             "F_Asuna",
-            "F_Asuna2"
+            "F_Asuna2",
+            "F_Kokona",
+            "F_Kokona2"
         ],
         "Shops": [],
         "Icon": "Item_Icon_Favor_Lv2_4",
@@ -7115,7 +7117,19 @@
         "Tags": [
             "SecretStone"
         ],
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "TimeAttack",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 5,
+                "CostType": "Item",
+                "CostId": 60,
+                "CostAmount": 50
+            }
+        ],
         "Icon": "Item_Icon_SecretStone_Tsurugi",
         "Name": "Eleph của Tsurugi",
         "Desc": "Eleph huyền bí của Tsurugi."
@@ -7863,6 +7877,23 @@
         "Icon": "Item_Icon_SecretStone_Kazusa",
         "Name": "Eleph của Kazusa",
         "Desc": "Eleph huyền bí của Kazusa."
+    },
+    {
+        "Id": 10050,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "SecretStone",
+        "Rarity": "N",
+        "Quality": 9,
+        "Tags": [
+            "SecretStone"
+        ],
+        "Shops": [],
+        "Icon": "Item_Icon_SecretStone_CH0137",
+        "Name": "Eleph của Kokona",
+        "Desc": "Eleph huyền bí của Kokona."
     },
     {
         "Id": 13000,
@@ -10353,6 +10384,66 @@
         "Icon": "Item_Icon_Event_Token_0_S7",
         "Name": "Mũ BH của bọn du côn (lặp lại)",
         "Desc": "Bị thu giữ bởi đội Perfect Team từ một băng đảng lưu manh Mũ bảo hiểm trong khu ổ chuột bên bờ biển.\nDấu hiệu của một cuộc đấu tranh vô ích vẫn còn."
+    },
+    {
+        "Id": 85040,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Item_0",
+        "Name": "Điểm sự kiện (Lặp lại)",
+        "Desc": "Những điểm này kiếm được mỗi khi bạn thao tác hành động trong một sự kiện. Bạn càng kiếm được nhiều, bạn càng có thể nhận được nhiều phần thưởng hơn."
+    },
+    {
+        "Id": 85041,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 2,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_0_S8",
+        "Name": "Nấm rùa (Lặp lại)",
+        "Desc": "Một loại nấm kỳ lạ mọc tự nhiên khắp quận Shanhaijing. Trái ngược với vẻ ngoài của nó, kết cấu chắc chắn và hương vị tuyệt vời của nó khiến nó trở thành một món ngon."
+    },
+    {
+        "Id": 85042,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 3,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_1_S8",
+        "Name": "Măng đen (Lặp lại)",
+        "Desc": "Măng đen mọc trong vườn Genryumon. Khó có được do sự quản lý chặt chẽ của các sĩ quan Genryumon."
+    },
+    {
+        "Id": 85043,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 4,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_2_S8",
+        "Name": "Búp bê nhân sâm (Lặp lại)",
+        "Desc": "Một loại thảo mộc có rễ hình người được tìm thấy sâu trong vùng núi Shanhaijing. Nó được cho là có tác dụng kéo dài tuổi thọ của bạn hoặc làm cho bạn trẻ hơn."
     },
     {
         "Id": 100008,

@@ -348,7 +348,7 @@
         "Special_CostRegenBan": "Dừng phục hồi",
         "Special_ImmuneCC": "Khắc áp đảo",
         "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
-        "Special_Stamp": ""
+        "Special_Stamp": "Dấu hoa"
     },
     "BuffNameLong": {
         "Buff_AmmoCount": "Tăng lượng băng đạn",
@@ -430,7 +430,7 @@
         "Special_CostRegenBan": "Ngưng phục hồi chi phí",
         "Special_ImmuneCC": "Khắc áp đảo",
         "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
-        "Special_Stamp": ""
+        "Special_Stamp": "Dấu hoa"
     },
     "BuffTooltip": {
         "Buff_AmmoCount": "Tăng lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường.",
@@ -512,7 +512,7 @@
         "Special_CostRegenBan": "Phục hồi chi phí giảm xuống 0.",
         "Special_ImmuneCC": "Miễn nhiễm với tất cả các hiệu ứng kiểm soát đám đông.",
         "Special_SuddenDeath": "Một cộng dồn 5 lần sẽ gây sát thương chết người cho nhân vật.",
-        "Special_Stamp": ""
+        "Special_Stamp": "Dấu hoa"
     },
     "ServerName": {
         "0": "Japan",

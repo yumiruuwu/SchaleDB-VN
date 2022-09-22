@@ -1,6 +1,3 @@
-const starscale_hp      = [1, 1.05,  1.12,  1.21,  1.35 ]
-const starscale_attack  = [1, 1.1,   1.22,  1.36,  1.53 ]
-const starscale_healing = [1, 1.075, 1.175, 1.295, 1.445] 
 const raid_level = [17, 25, 35, 50, 70, 80]
 const maxbond = [10, 10, 20, 20, 50]
 const gear_minlevelreq = [0, 15, 35]
@@ -86,8 +83,8 @@ let json_lang_list = getLanguageJSONList(userLang.toLowerCase())
 function getLanguageJSONList(lang) {
     return {
         localization: getCacheVerResourceName(`./data/${lang}/localization.min.json`),
-        //students: getCacheVerResourceName(`./data/${lang}/students.min.json`),
-        students: getCacheVerResourceName(`./data/${lang}/students.json`),
+        students: getCacheVerResourceName(`./data/${lang}/students.min.json`),
+        //students: getCacheVerResourceName(`./data/${lang}/students.json`),
         enemies: getCacheVerResourceName(`./data/${lang}/enemies.min.json`),
         items: getCacheVerResourceName(`./data/${lang}/items.min.json`),
         furniture: getCacheVerResourceName(`./data/${lang}/furniture.min.json`),
@@ -359,7 +356,7 @@ let itemSearchOptions = {
  */
  class CharacterStats {
     
-    constructor(character, level, stargrade, scaletype=0) {
+    constructor(character, level, stargrade, transcendence=[], scaletype=0) {
         this.stats = {}
         let levelscale
         if (scaletype == 0) {
@@ -368,10 +365,24 @@ let itemSearchOptions = {
             levelscale = CharacterStats.getTimeAttackLevelScale(level)
         }
 
-        let MaxHP = Math.ceil((Math.round((character.MaxHP1 + (character.MaxHP100-character.MaxHP1)*levelscale).toFixed(4))*starscale_hp[stargrade-1]).toFixed(4))
-        let AttackPower = Math.ceil((Math.round((character.AttackPower1 + (character.AttackPower100-character.AttackPower1)*levelscale).toFixed(4))*starscale_attack[stargrade-1]).toFixed(4))
+        if (transcendence.length == 0) {
+            transcendence = [[0, 1000, 1200, 1400, 1700], [0, 500, 700, 900, 1400], [0, 750, 1000, 1200, 1500]]
+        }
+
+        let transcendenceAttack = 1
+        let transcendenceHP = 1
+        let transcendenceHeal = 1
+
+        for (let i = 0; i < stargrade; i++) {
+            transcendenceAttack += transcendence[0][i] / 10000
+            transcendenceHP += transcendence[1][i] / 10000
+            transcendenceHeal += transcendence[2][i] / 10000
+        }
+
+        let MaxHP = Math.ceil((Math.round((character.MaxHP1 + (character.MaxHP100-character.MaxHP1)*levelscale).toFixed(4))*transcendenceHP).toFixed(4))
+        let AttackPower = Math.ceil((Math.round((character.AttackPower1 + (character.AttackPower100-character.AttackPower1)*levelscale).toFixed(4))*transcendenceAttack).toFixed(4))
         let DefensePower = Math.round((character.DefensePower1 + (character.DefensePower100-character.DefensePower1)*levelscale).toFixed(4))
-        let HealPower = Math.ceil((Math.round((character.HealPower1 + (character.HealPower100-character.HealPower1)*levelscale).toFixed(4))*starscale_healing[stargrade-1]).toFixed(4))
+        let HealPower = Math.ceil((Math.round((character.HealPower1 + (character.HealPower100-character.HealPower1)*levelscale).toFixed(4))*transcendenceHeal).toFixed(4))
         this.stats['MaxHP'] = [MaxHP,0,1]
         this.stats['AttackPower'] = [AttackPower,0,1]
         this.stats['DefensePower'] = [DefensePower,0,1]
@@ -545,7 +556,7 @@ $.when($.ready, loadPromise).then(function() {
     }
 
     //gtag settings
-    gtag('config', 'G-K6ESZV7L7Y', {
+    gtag('config', 'G-XQEWDXR13H', {
         'custom_map': {
             'dimension1': 'user_language' 
         },
@@ -2284,7 +2295,7 @@ function changeRaidEnemy(num) {
     let level
     (raid.Id < 1000) ? level = raid_level[raid_difficulty] : level = raid.Level[raid_difficulty]
 
-    let enemyStats = new CharacterStats(enemy, level, 1)
+    let enemyStats = new CharacterStats(enemy, level, 1, (enemy.Transcendence ? enemy.Transcendence : []), 0)
 
     raidEnemyStatList.forEach((statName) => {
         if (statName == 'AmmoCount') {
@@ -2303,7 +2314,7 @@ function changeRaidEnemy(num) {
     $("#ba-raid-attacktype").removeClass("bg-atk-explosion bg-atk-pierce bg-atk-mystic bg-atk-normal").addClass(`bg-atk-${bulletType.toLowerCase()}`).tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('BulletType', bulletType)}`, translateUI('attacktype'), null, getAttackTypeText(bulletType), 32), placement: 'top', html: true})
     $("#ba-raid-attacktype-label").text(getLocalizedString('BulletType',bulletType))
 
-    $("#ba-raid-defensetype").removeClass("bg-def-lightarmor bg-def-heavyarmor bg-def-unarmed bg-def-normal").addClass(`bg-def-${enemy.ArmorType.toLowerCase()}`).tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('ArmorType', enemy.ArmorType)} Armor`, translateUI('defensetype'), null, getDefenseTypeText(enemy.ArmorType), 32), placement: 'top', html: true})
+    $("#ba-raid-defensetype").removeClass("bg-def-lightarmor bg-def-heavyarmor bg-def-unarmed bg-def-normal").addClass(`bg-def-${enemy.ArmorType.toLowerCase()}`).tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('ArmorType', enemy.ArmorType)}`, translateUI('defensetype'), null, getDefenseTypeText(enemy.ArmorType), 32), placement: 'top', html: true})
     $("#ba-raid-defensetype-label").text(getLocalizedString('ArmorType',enemy.ArmorType))
     let enemysize = getEnemySize(enemy)
     $('#ba-raid-enemy-size').text(enemysize != null ? getLocalizedString('EnemyTags', enemysize) : '').toggle(enemysize != null)
@@ -3275,9 +3286,9 @@ function showEnemyInfo(id, level, grade=1, scaletype=0, switchTab=false) {
     $("#ba-stage-enemy-attacktype-label").text(getLocalizedString('BulletType',enemy.BulletType))
     $('#ba-stage-enemy-attacktype').tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('BulletType',enemy.BulletType)}`, translateUI('attacktype'), null, getAttackTypeText(enemy.BulletType), 32), placement: 'top', html: true})
     $("#ba-stage-enemy-defensetype-label").text(getLocalizedString('ArmorType',enemy.ArmorType))
-    $('#ba-stage-enemy-defensetype').tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('ArmorType',enemy.ArmorType)} Armor`, translateUI('defensetype'), null, getDefenseTypeText(enemy.ArmorType), 32), placement: 'top', html: true})        
+    $('#ba-stage-enemy-defensetype').tooltip('dispose').tooltip({title: getRichTooltip(null, `${getLocalizedString('ArmorType',enemy.ArmorType)}`, translateUI('defensetype'), null, getDefenseTypeText(enemy.ArmorType), 32), placement: 'top', html: true})        
 
-    let enemyStats = new CharacterStats(enemy, level, grade, scaletype)
+    let enemyStats = new CharacterStats(enemy, level, grade, (enemy.Transcendence ? enemy.Transcendence : []), scaletype)
 
     enemyStatList.forEach((statName) => {
         if (statName == 'AmmoCount') {

@@ -223,7 +223,7 @@
         "Name": "Bàn cà phê trắng",
         "Desc": "Một cái bàn với một ly cà phê trên đó. Hoàn hảo cho một buổi chiều thư giãn.",
         "Interaction": [
-            false,
+            true,
             false
         ]
     },
