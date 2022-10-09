@@ -680,7 +680,7 @@
         "Desc": "Một chiếc ghế sofa đơn giản với một tấm đệm. Học sinh cảm thấy thoải mái khi ngả lưng vào đống đồ quá đầy của nó.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -1041,7 +1041,7 @@
         "Desc": "Một chiếc ghế đơn thanh lịch dành cho lễ tình nhân. Thiết kế độc đáo của nó chắc chắn nổi bật.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -5525,7 +5525,7 @@
         "Desc": "Một chiếc bàn gỗ cũ với hàng tấn đồ lưu trữ. Bạn có thể nghiên cứu rất nhiều văn bản cổ tại bàn này!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
