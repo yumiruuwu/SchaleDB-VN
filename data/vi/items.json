@@ -6807,7 +6807,9 @@
             "F_Karin",
             "F_Karin2",
             "F_Hibiki_Cheerleader",
-            "F_Hibiki_Cheerleader2"
+            "F_Hibiki_Cheerleader2",
+            "F_Akane_BunnyGirl",
+            "F_Akane_BunnyGirl2"
         ],
         "Shops": [],
         "Icon": "Item_Icon_Favor_Lv2_9",
@@ -8907,6 +8909,23 @@
         "Desc": "Eleph huyền bí của Moe."
     },
     {
+        "Id": 20019,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "SecretStone",
+        "Rarity": "N",
+        "Quality": 9,
+        "Tags": [
+            "SecretStone"
+        ],
+        "Shops": [],
+        "Icon": "Item_Icon_SecretStone_CH0099",
+        "Name": "Eleph của Akane (Bunny)",
+        "Desc": "Eleph huyền bí của Akane (Bunny)."
+    },
+    {
         "Id": 23000,
         "IsReleased": [
             true,
@@ -9812,8 +9831,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Item_Icon_Event_Token_0_S9",
-        "Name": "Chocolate Coin",
-        "Desc": "One of the famous snacks of the Golden Fleece. Not a real coin, but popular among students because of its sweet taste."
+        "Name": "Xu sô cô la",
+        "Desc": "Một trong những món ăn vặt nổi tiếng của Golden Fleece. Không phải là xu thật, nhưng được giới sinh viên ưa chuộng vì vị ngọt của nó."
     },
     {
         "Id": 80051,
@@ -9827,8 +9846,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Item_Icon_Event_Token_1_S9",
-        "Name": "Rabbit Sticker",
-        "Desc": "A rabbit-shaped sticker used by students. They don&#x27;t really mean anything. They&#x27;re easy to make, so most students make their own."
+        "Name": "Hình dán thỏ con",
+        "Desc": "Một miếng dán hình con thỏ được học sinh sử dụng. Chúng không thực sự có ý nghĩa gì cả. Chúng rất dễ làm, vì vậy hầu hết học sinh đều tự làm."
     },
     {
         "Id": 80052,
@@ -9842,8 +9861,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Item_Icon_Event_Token_2_S9",
-        "Name": "Boarding Pass",
-        "Desc": "A boarding pass for the Golden Fleece. Even after boarding, it is best to carry it at all times since it&#x27;s often needed functions and events."
+        "Name": "Vé lên tàu",
+        "Desc": "Thẻ lên tàu của Golden Fleece. Ngay cả sau khi lên tàu, tốt nhất là nên mang theo nó mọi lúc vì nó thường cần đến các chức năng và sự kiện."
     },
     {
         "Id": 80053,
@@ -9857,8 +9876,8 @@
         "Tags": [],
         "Shops": [],
         "Icon": "Item_Icon_Event_Token_3_S9",
-        "Name": "Dice",
-        "Desc": "Dice like those often found aboard ships. Although they&#x27;re a simple toy, they are sometimes used to resolve conflicts between students."
+        "Name": "Xúc xắc",
+        "Desc": "Xúc xắc thường được thấy trên tàu. Mặc dù là một món đồ chơi đơn giản nhưng đôi khi chúng được dùng để giải quyết xung đột giữa các học sinh."
     },
     {
         "Id": 80060,
@@ -10741,6 +10760,66 @@
         "Icon": "Item_Icon_Event_Token_2_S8",
         "Name": "Búp bê nhân sâm (Lặp lại)",
         "Desc": "Một loại thảo mộc có rễ hình người được tìm thấy sâu trong vùng núi Shanhaijing. Nó được cho là có tác dụng kéo dài tuổi thọ của bạn hoặc làm cho bạn trẻ hơn."
+    },
+    {
+        "Id": 85050,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_0_S9",
+        "Name": "Xu sô cô la (Lặp lại)",
+        "Desc": "Một trong những món ăn vặt nổi tiếng của Golden Fleece. Không phải là xu thật, nhưng được giới sinh viên ưa chuộng vì vị ngọt của nó."
+    },
+    {
+        "Id": 85051,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 2,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_1_S9",
+        "Name": "Hình dán thỏ con (Lặp lại)",
+        "Desc": "Một miếng dán hình con thỏ được học sinh sử dụng. Chúng không thực sự có ý nghĩa gì cả. Chúng rất dễ làm, vì vậy hầu hết học sinh đều tự làm."
+    },
+    {
+        "Id": 85052,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 3,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_2_S9",
+        "Name": "Vé lên tàu (Lặp lại)",
+        "Desc": "Thẻ lên tàu của Golden Fleece. Ngay cả sau khi lên tàu, tốt nhất là nên mang theo nó mọi lúc vì nó thường cần đến các chức năng và sự kiện."
+    },
+    {
+        "Id": 85053,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 4,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_3_S9",
+        "Name": "Xúc xắc (Lặp lại)",
+        "Desc": "Xúc xắc thường được thấy trên tàu. Mặc dù là một món đồ chơi đơn giản nhưng đôi khi chúng được dùng để giải quyết xung đột giữa các học sinh."
     },
     {
         "Id": 100008,
