@@ -2954,6 +2954,10 @@ function recalculateStatPreview() {
     if (statPreviewIncludeExGear && "Released" in student.Gear && student.Gear.Released[regionID]) {
         studentStats.addBuff(student.Gear.StatType[0], student.Gear.StatValue[0][1])
 
+        if (statPreviewSummonStats && summon.Id != 99999) {
+            summonStats.addBuff(student.Gear.StatType[0], student.Gear.StatValue[0][1])
+        }
+
         if (compareMode && "Released" in studentCompare.Gear && studentCompare.Gear.Released[regionID]) {
             studentCompareStats.addBuff(studentCompare.Gear.StatType[0], studentCompare.Gear.StatValue[0][1])
         }

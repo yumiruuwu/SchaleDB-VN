@@ -724,6 +724,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 8000
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 24
             }
         ],
         "Icon": "Item_Icon_Material_Phaistos_0",
@@ -756,6 +767,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 25000
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 40
             }
         ],
         "Icon": "Item_Icon_Material_Phaistos_1",
@@ -777,7 +799,19 @@
             "MaterialItemSR"
         ],
         "SynthQuality": 50,
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 80
+            }
+        ],
         "Icon": "Item_Icon_Material_Phaistos_2",
         "Name": "Đĩa Phaistos bị hư hại",
         "Desc": "Một đĩa Phaistos cũ bị hư hại ở nhiều nơi. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -797,7 +831,19 @@
             "MaterialItemSSR"
         ],
         "SynthQuality": 80,
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 200
+            }
+        ],
         "Icon": "Item_Icon_Material_Phaistos_3",
         "Name": "Đĩa Phaistos nguyên vẹn",
         "Desc": "Một đĩa Phaistos còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -968,15 +1014,26 @@
                 "CostAmount": 8000
             },
             {
-                "ShopCategory": "SecretStoneGrowth",
+                "ShopCategory": "Chaser",
                 "Released": [
                     true,
-                    true
+                    false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 24
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Amount": 1,
+                "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 1
+                "CostAmount": 1,
+                "Released": [
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Nimrud_0",
@@ -1011,15 +1068,26 @@
                 "CostAmount": 25000
             },
             {
-                "ShopCategory": "SecretStoneGrowth",
+                "ShopCategory": "Chaser",
                 "Released": [
                     true,
-                    true
+                    false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 40
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Amount": 1,
+                "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 4
+                "CostAmount": 4,
+                "Released": [
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Nimrud_1",
@@ -1043,15 +1111,26 @@
         "SynthQuality": 50,
         "Shops": [
             {
-                "ShopCategory": "SecretStoneGrowth",
+                "ShopCategory": "Chaser",
                 "Released": [
                     true,
-                    true
+                    false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 80
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Amount": 1,
+                "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 8
+                "CostAmount": 8,
+                "Released": [
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Nimrud_2",
@@ -1073,7 +1152,19 @@
             "MaterialItemSSR"
         ],
         "SynthQuality": 80,
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 200
+            }
+        ],
         "Icon": "Item_Icon_Material_Nimrud_3",
         "Name": "Ống kính Nimrud nguyên vẹn",
         "Desc": "Một ống kính Nimrud còn nguyên vẹn. Được sử dụng trong các vật phẩm và cải tiến thủ công khác nhau."
@@ -1107,25 +1198,14 @@
             },
             {
                 "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    true
-                ],
                 "Amount": 1,
                 "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 1
-            },
-            {
-                "ShopCategory": "Chaser",
+                "CostAmount": 1,
                 "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 24
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Mandragora_0",
@@ -1161,25 +1241,14 @@
             },
             {
                 "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    true
-                ],
                 "Amount": 1,
                 "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 4
-            },
-            {
-                "ShopCategory": "Chaser",
+                "CostAmount": 4,
                 "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 40
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Mandragora_1",
@@ -1204,25 +1273,14 @@
         "Shops": [
             {
                 "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    true
-                ],
                 "Amount": 1,
                 "CostType": "Item",
                 "CostId": 23,
-                "CostAmount": 8
-            },
-            {
-                "ShopCategory": "Chaser",
+                "CostAmount": 8,
                 "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 80
+                    false,
+                    true
+                ]
             }
         ],
         "Icon": "Item_Icon_Material_Mandragora_2",
@@ -1244,19 +1302,7 @@
             "MaterialItemSSR"
         ],
         "SynthQuality": 80,
-        "Shops": [
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 200
-            }
-        ],
+        "Shops": [],
         "Icon": "Item_Icon_Material_Mandragora_3",
         "Name": "Chiết xuất Mandrake",
         "Desc": "Một chiết xuất cô đặc của nước ép mandrake. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -1287,17 +1333,6 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 8000
-            },
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 1
             }
         ],
         "Icon": "Item_Icon_Material_Rohonc_0",
@@ -1330,17 +1365,6 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 25000
-            },
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 4
             }
         ],
         "Icon": "Item_Icon_Material_Rohonc_1",
@@ -1362,19 +1386,7 @@
             "MaterialItemSR"
         ],
         "SynthQuality": 50,
-        "Shops": [
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 8
-            }
-        ],
+        "Shops": [],
         "Icon": "Item_Icon_Material_Rohonc_2",
         "Name": "Trang Rohonc Codex được chú thích",
         "Desc": "Trang Rohonc Codex với chú thích cuối trang ở các khu vực bị hư hỏng. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -1425,6 +1437,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 8000
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 1
             }
         ],
         "Icon": "Item_Icon_Material_Ether_0",
@@ -1457,6 +1480,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 25000
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 4
             }
         ],
         "Icon": "Item_Icon_Material_Ether_1",
@@ -1478,7 +1512,19 @@
             "MaterialItemSR"
         ],
         "SynthQuality": 50,
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 8
+            }
+        ],
         "Icon": "Item_Icon_Material_Ether_2",
         "Name": "Mảnh vỡ tinh tuý",
         "Desc": "Một mảnh kết tinh từ tinh tuý tinh khiết. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -1531,15 +1577,15 @@
                 "CostAmount": 8000
             },
             {
-                "ShopCategory": "Chaser",
+                "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
                     false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 24
+                "CostId": 23,
+                "CostAmount": 1
             }
         ],
         "Icon": "Item_Icon_Material_Antikythera_0",
@@ -1574,15 +1620,15 @@
                 "CostAmount": 25000
             },
             {
-                "ShopCategory": "Chaser",
+                "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
                     false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 40
+                "CostId": 23,
+                "CostAmount": 4
             }
         ],
         "Icon": "Item_Icon_Material_Antikythera_1",
@@ -1606,15 +1652,15 @@
         "SynthQuality": 50,
         "Shops": [
             {
-                "ShopCategory": "Chaser",
+                "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
                     false
                 ],
                 "Amount": 1,
                 "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 80
+                "CostId": 23,
+                "CostAmount": 8
             }
         ],
         "Icon": "Item_Icon_Material_Antikythera_2",
@@ -1636,19 +1682,7 @@
             "MaterialItemSSR"
         ],
         "SynthQuality": 80,
-        "Shops": [
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 200
-            }
-        ],
+        "Shops": [],
         "Icon": "Item_Icon_Material_Antikythera_3",
         "Name": "Cơ chế Antikythera nguyên vẹn",
         "Desc": "Cơ chế Antikythera còn nguyên vẹn. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -1783,6 +1817,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 8000
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 1
             }
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_0",
@@ -1815,6 +1860,17 @@
                 "CostType": "Currency",
                 "CostId": 1,
                 "CostAmount": 25000
+            },
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 4
             }
         ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_1",
@@ -1836,7 +1892,19 @@
             "MaterialItemSR"
         ],
         "SynthQuality": 50,
-        "Shops": [],
+        "Shops": [
+            {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 8
+            }
+        ],
         "Icon": "Item_Icon_Material_CrystalHaniwa_2",
         "Name": "Pha lê Haniwa đã sửa chữa",
         "Desc": "Một pha lê Haniwa được sửa chữa bằng cách ghép nhiều mảnh lại với nhau. Được sử dụng trong các vật phẩm chế tạo và cải tiến khác nhau."
@@ -1878,6 +1946,17 @@
         "SynthQuality": 10,
         "Shops": [
             {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 1
+            },
+            {
                 "ShopCategory": "TimeAttack",
                 "Released": [
                     true,
@@ -1887,17 +1966,6 @@
                 "CostType": "Item",
                 "CostId": 60,
                 "CostAmount": 2
-            },
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 1,
-                "Released": [
-                    false,
-                    true
-                ]
             }
         ],
         "Icon": "Item_Icon_Material_TotemPole_0",
@@ -1921,6 +1989,17 @@
         "SynthQuality": 20,
         "Shops": [
             {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 4
+            },
+            {
                 "ShopCategory": "TimeAttack",
                 "Released": [
                     true,
@@ -1930,17 +2009,6 @@
                 "CostType": "Item",
                 "CostId": 60,
                 "CostAmount": 9
-            },
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 4,
-                "Released": [
-                    false,
-                    true
-                ]
             }
         ],
         "Icon": "Item_Icon_Material_TotemPole_1",
@@ -1964,6 +2032,17 @@
         "SynthQuality": 50,
         "Shops": [
             {
+                "ShopCategory": "SecretStoneGrowth",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 23,
+                "CostAmount": 8
+            },
+            {
                 "ShopCategory": "TimeAttack",
                 "Released": [
                     true,
@@ -1973,17 +2052,6 @@
                 "CostType": "Item",
                 "CostId": 60,
                 "CostAmount": 12
-            },
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 8,
-                "Released": [
-                    false,
-                    true
-                ]
             }
         ],
         "Icon": "Item_Icon_Material_TotemPole_2",
@@ -2167,17 +2235,6 @@
         "SynthQuality": 10,
         "Shops": [
             {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 1
-            },
-            {
                 "ShopCategory": "TimeAttack",
                 "Released": [
                     true,
@@ -2210,17 +2267,6 @@
         "SynthQuality": 20,
         "Shops": [
             {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 4
-            },
-            {
                 "ShopCategory": "TimeAttack",
                 "Released": [
                     true,
@@ -2252,17 +2298,6 @@
         ],
         "SynthQuality": 50,
         "Shops": [
-            {
-                "ShopCategory": "SecretStoneGrowth",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 23,
-                "CostAmount": 8
-            },
             {
                 "ShopCategory": "TimeAttack",
                 "Released": [
@@ -2648,6 +2683,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 10
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 80
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_0",
@@ -2691,6 +2737,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 20
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 160
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_1",
@@ -2734,6 +2791,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 50
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 400
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_2",
@@ -2777,6 +2845,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 100
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 800
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_RedWinter_3",
@@ -2992,178 +3071,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 10
-            }
-        ],
-        "Icon": "Item_Icon_Material_ExSkill_Gehenna_0",
-        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Gehenna)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
-    },
-    {
-        "Id": 3031,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "R",
-        "Quality": 2,
-        "Tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemR"
-        ],
-        "SynthQuality": 60,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 20
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 20
-            }
-        ],
-        "Icon": "Item_Icon_Material_ExSkill_Gehenna_1",
-        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Gehenna)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
-    },
-    {
-        "Id": 3032,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "SR",
-        "Quality": 3,
-        "Tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSR"
-        ],
-        "SynthQuality": 150,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 50
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 50
-            }
-        ],
-        "Icon": "Item_Icon_Material_ExSkill_Gehenna_2",
-        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Gehenna)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
-    },
-    {
-        "Id": 3033,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "SSR",
-        "Quality": 4,
-        "Tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemSSR"
-        ],
-        "SynthQuality": 200,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 100
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 100
-            }
-        ],
-        "Icon": "Item_Icon_Material_ExSkill_Gehenna_3",
-        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Gehenna)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
-    },
-    {
-        "Id": 3040,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "N",
-        "Quality": 1,
-        "Tags": [
-            "CDItem",
-            "ExpendableItem",
-            "CDItemN"
-        ],
-        "SynthQuality": 30,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 10
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 10
             },
             {
                 "ShopCategory": "Chaser",
@@ -3177,12 +3084,12 @@
                 "CostAmount": 80
             }
         ],
-        "Icon": "Item_Icon_Material_ExSkill_Abydos_0",
-        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Abydos)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+        "Icon": "Item_Icon_Material_ExSkill_Gehenna_0",
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Gehenna)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
-        "Id": 3041,
+        "Id": 3031,
         "IsReleased": [
             true,
             true
@@ -3231,12 +3138,12 @@
                 "CostAmount": 160
             }
         ],
-        "Icon": "Item_Icon_Material_ExSkill_Abydos_1",
-        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Abydos)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+        "Icon": "Item_Icon_Material_ExSkill_Gehenna_1",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Gehenna)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
-        "Id": 3042,
+        "Id": 3032,
         "IsReleased": [
             true,
             true
@@ -3285,12 +3192,12 @@
                 "CostAmount": 400
             }
         ],
-        "Icon": "Item_Icon_Material_ExSkill_Abydos_2",
-        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Abydos)",
-        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+        "Icon": "Item_Icon_Material_ExSkill_Gehenna_2",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Gehenna)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
     },
     {
-        "Id": 3043,
+        "Id": 3033,
         "IsReleased": [
             true,
             true
@@ -3337,6 +3244,178 @@
                 "CostType": "Item",
                 "CostId": 61,
                 "CostAmount": 800
+            }
+        ],
+        "Icon": "Item_Icon_Material_ExSkill_Gehenna_3",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật cao cấp (Gehenna)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Gehenna."
+    },
+    {
+        "Id": 3040,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [
+            "CDItem",
+            "ExpendableItem",
+            "CDItemN"
+        ],
+        "SynthQuality": 30,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 10
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 10
+            }
+        ],
+        "Icon": "Item_Icon_Material_ExSkill_Abydos_0",
+        "Name": "Đĩa Blu-ray đào tạo chiến thuật cho người mới bắt đầu (Abydos)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+    },
+    {
+        "Id": 3041,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "R",
+        "Quality": 2,
+        "Tags": [
+            "CDItem",
+            "ExpendableItem",
+            "CDItemR"
+        ],
+        "SynthQuality": 60,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 20
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 20
+            }
+        ],
+        "Icon": "Item_Icon_Material_ExSkill_Abydos_1",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật thông thường (Abydos)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+    },
+    {
+        "Id": 3042,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "SR",
+        "Quality": 3,
+        "Tags": [
+            "CDItem",
+            "ExpendableItem",
+            "CDItemSR"
+        ],
+        "SynthQuality": 150,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 50
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 50
+            }
+        ],
+        "Icon": "Item_Icon_Material_ExSkill_Abydos_2",
+        "Name": "Đĩa Blu-ray huấn luyện chiến thuật nâng cao (Abydos)",
+        "Desc": "Một loại đĩa Blu-ray huấn luyện chứa video tài liệu về các hoạt động chiến thuật của học sinh Abydos."
+    },
+    {
+        "Id": 3043,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "SSR",
+        "Quality": 4,
+        "Tags": [
+            "CDItem",
+            "ExpendableItem",
+            "CDItemSSR"
+        ],
+        "SynthQuality": 200,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 100
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 100
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_Abydos_3",
@@ -3724,17 +3803,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 10
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 80
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_0",
@@ -3778,17 +3846,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 20
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 160
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_1",
@@ -3832,17 +3889,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 50
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 400
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_2",
@@ -3886,17 +3932,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 100
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 800
             }
         ],
         "Icon": "Item_Icon_Material_ExSkill_Shanhaijing_3",
@@ -4284,6 +4319,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 3
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 24
             }
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_0",
@@ -4327,6 +4373,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 5
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 40
             }
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_1",
@@ -4370,6 +4427,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 10
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 80
             }
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_2",
@@ -4413,6 +4481,17 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 25
+            },
+            {
+                "ShopCategory": "Chaser",
+                "Released": [
+                    true,
+                    false
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 61,
+                "CostAmount": 200
             }
         ],
         "Icon": "Item_Icon_SkillBook_RedWinter_3",
@@ -4628,178 +4707,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 3
-            }
-        ],
-        "Icon": "Item_Icon_SkillBook_Gehenna_0",
-        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Gehenna)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
-    },
-    {
-        "Id": 4031,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "R",
-        "Quality": 2,
-        "Tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemR"
-        ],
-        "SynthQuality": 20,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 5
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 5
-            }
-        ],
-        "Icon": "Item_Icon_SkillBook_Gehenna_1",
-        "Name": "Ghi chú kỹ thuật thông thường (Gehenna)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
-    },
-    {
-        "Id": 4032,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "SR",
-        "Quality": 3,
-        "Tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSR"
-        ],
-        "SynthQuality": 50,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 10
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 10
-            }
-        ],
-        "Icon": "Item_Icon_SkillBook_Gehenna_2",
-        "Name": "Ghi chú kỹ thuật nâng cao (Gehenna)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
-    },
-    {
-        "Id": 4033,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "SSR",
-        "Quality": 4,
-        "Tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemSSR"
-        ],
-        "SynthQuality": 80,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 25
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 25
-            }
-        ],
-        "Icon": "Item_Icon_SkillBook_Gehenna_3",
-        "Name": "Ghi chú kỹ thuật cao cấp (Gehenna)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
-    },
-    {
-        "Id": 4040,
-        "IsReleased": [
-            true,
-            true
-        ],
-        "Category": "Material",
-        "Rarity": "N",
-        "Quality": 1,
-        "Tags": [
-            "BookItem",
-            "ExpendableItem",
-            "BookItemN"
-        ],
-        "SynthQuality": 10,
-        "Shops": [
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 7,
-                "CostAmount": 3
-            },
-            {
-                "ShopCategory": "Raid",
-                "Released": [
-                    true,
-                    true
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 9,
-                "CostAmount": 3
             },
             {
                 "ShopCategory": "Chaser",
@@ -4813,12 +4720,12 @@
                 "CostAmount": 24
             }
         ],
-        "Icon": "Item_Icon_SkillBook_Abydos_0",
-        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Abydos)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+        "Icon": "Item_Icon_SkillBook_Gehenna_0",
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
-        "Id": 4041,
+        "Id": 4031,
         "IsReleased": [
             true,
             true
@@ -4867,12 +4774,12 @@
                 "CostAmount": 40
             }
         ],
-        "Icon": "Item_Icon_SkillBook_Abydos_1",
-        "Name": "Ghi chú kỹ thuật thông thường (Abydos)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+        "Icon": "Item_Icon_SkillBook_Gehenna_1",
+        "Name": "Ghi chú kỹ thuật thông thường (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
-        "Id": 4042,
+        "Id": 4032,
         "IsReleased": [
             true,
             true
@@ -4921,12 +4828,12 @@
                 "CostAmount": 80
             }
         ],
-        "Icon": "Item_Icon_SkillBook_Abydos_2",
-        "Name": "Ghi chú kỹ thuật nâng cao (Abydos)",
-        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+        "Icon": "Item_Icon_SkillBook_Gehenna_2",
+        "Name": "Ghi chú kỹ thuật nâng cao (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
     },
     {
-        "Id": 4043,
+        "Id": 4033,
         "IsReleased": [
             true,
             true
@@ -4973,6 +4880,178 @@
                 "CostType": "Item",
                 "CostId": 61,
                 "CostAmount": 200
+            }
+        ],
+        "Icon": "Item_Icon_SkillBook_Gehenna_3",
+        "Name": "Ghi chú kỹ thuật cao cấp (Gehenna)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của học viện Gehenna."
+    },
+    {
+        "Id": 4040,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [
+            "BookItem",
+            "ExpendableItem",
+            "BookItemN"
+        ],
+        "SynthQuality": 10,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 3
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 3
+            }
+        ],
+        "Icon": "Item_Icon_SkillBook_Abydos_0",
+        "Name": "Ghi chú kỹ thuật cho người mới bắt đầu (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+    },
+    {
+        "Id": 4041,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "R",
+        "Quality": 2,
+        "Tags": [
+            "BookItem",
+            "ExpendableItem",
+            "BookItemR"
+        ],
+        "SynthQuality": 20,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 5
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 5
+            }
+        ],
+        "Icon": "Item_Icon_SkillBook_Abydos_1",
+        "Name": "Ghi chú kỹ thuật thông thường (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+    },
+    {
+        "Id": 4042,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "SR",
+        "Quality": 3,
+        "Tags": [
+            "BookItem",
+            "ExpendableItem",
+            "BookItemSR"
+        ],
+        "SynthQuality": 50,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 10
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 10
+            }
+        ],
+        "Icon": "Item_Icon_SkillBook_Abydos_2",
+        "Name": "Ghi chú kỹ thuật nâng cao (Abydos)",
+        "Desc": "Ghi chú tóm tắt những bí mật chiến thuật cốt lõi của trường trung học Abydos."
+    },
+    {
+        "Id": 4043,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Material",
+        "Rarity": "SSR",
+        "Quality": 4,
+        "Tags": [
+            "BookItem",
+            "ExpendableItem",
+            "BookItemSSR"
+        ],
+        "SynthQuality": 80,
+        "Shops": [
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 7,
+                "CostAmount": 25
+            },
+            {
+                "ShopCategory": "Raid",
+                "Released": [
+                    true,
+                    true
+                ],
+                "Amount": 1,
+                "CostType": "Item",
+                "CostId": 9,
+                "CostAmount": 25
             }
         ],
         "Icon": "Item_Icon_SkillBook_Abydos_3",
@@ -5360,17 +5439,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 3
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 24
             }
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_0",
@@ -5414,17 +5482,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 5
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 40
             }
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_1",
@@ -5468,17 +5525,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 10
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 80
             }
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_2",
@@ -5522,17 +5568,6 @@
                 "CostType": "Item",
                 "CostId": 9,
                 "CostAmount": 25
-            },
-            {
-                "ShopCategory": "Chaser",
-                "Released": [
-                    true,
-                    false
-                ],
-                "Amount": 1,
-                "CostType": "Item",
-                "CostId": 61,
-                "CostAmount": 200
             }
         ],
         "Icon": "Item_Icon_SkillBook_Shanhaijing_3",
@@ -6309,7 +6344,8 @@
             "Toy",
             "Smart",
             "F_Yuuka",
-            "F_Karin"
+            "F_Karin",
+            "F_Yuuka_Track"
         ],
         "SynthQuality": 20,
         "Shops": [],
@@ -6655,7 +6691,9 @@
             "F_Asuna",
             "F_Asuna2",
             "F_Kokona",
-            "F_Kokona2"
+            "F_Kokona2",
+            "F_Hasumi_Track",
+            "F_Hasumi_Track2"
         ],
         "Shops": [],
         "Icon": "Item_Icon_Favor_Lv2_4",
@@ -6721,7 +6759,9 @@
             "F_Tsurugi_Swimsuit",
             "F_Tsurugi_Swimsuit2",
             "F_Wakamo_Swimsuit",
-            "F_Wakamo_Swimsuit2"
+            "F_Wakamo_Swimsuit2",
+            "F_Mari_Track",
+            "F_Mari_Track2"
         ],
         "Shops": [],
         "Icon": "Item_Icon_Favor_Lv2_6",
@@ -8118,6 +8158,40 @@
         "Desc": "Eleph huyền bí của Noa."
     },
     {
+        "Id": 10053,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "SecretStone",
+        "Rarity": "N",
+        "Quality": 9,
+        "Tags": [
+            "SecretStone"
+        ],
+        "Shops": [],
+        "Icon": "Item_Icon_SecretStone_CH0184",
+        "Name": "Eleph của Yuuka (Chạy bộ)",
+        "Desc": "Eleph huyền bí của Yuuka (Chạy bộ)."
+    },
+    {
+        "Id": 10054,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "SecretStone",
+        "Rarity": "N",
+        "Quality": 9,
+        "Tags": [
+            "SecretStone"
+        ],
+        "Shops": [],
+        "Icon": "Item_Icon_SecretStone_CH0186",
+        "Name": "Eleph của Mari (Track)",
+        "Desc": "Eleph huyền bí của Mari (Chạy bộ)."
+    },
+    {
         "Id": 13000,
         "IsReleased": [
             true,
@@ -8548,6 +8622,23 @@
         "Icon": "Item_Icon_SecretStone_CH0181",
         "Name": "Eleph của Hibiki (Cheerleader)",
         "Desc": "Eleph huyền bí của Hibiki (Cheerleader)."
+    },
+    {
+        "Id": 16011,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "SecretStone",
+        "Rarity": "N",
+        "Quality": 9,
+        "Tags": [
+            "SecretStone"
+        ],
+        "Shops": [],
+        "Icon": "Item_Icon_SecretStone_CH0190",
+        "Name": "Eleph của Hasumi (Chạy bộ)",
+        "Desc": "Eleph huyền bí của Hasumi (Chạy bộ)."
     },
     {
         "Id": 20000,
@@ -10456,6 +10547,66 @@
         "Desc": "エンジニア部の先端技術で作られた特製ホイッスル。吹くと電子信号を発生させ、音を出すスピーカーが作動する複雑な構造になっている。"
     },
     {
+        "Id": 80160,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_0_S20",
+        "Name": "スポーツドリンク",
+        "Desc": "ミレニアムが開発した特製スポーツドリンク。トレーニング部のデータに基づいて開発されているため、他のドリンクより早く水分補給ができるらしい。"
+    },
+    {
+        "Id": 80161,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 2,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_1_S20",
+        "Name": "リレー用バトン",
+        "Desc": "リレーに使用されるバトン。旧式の柄付き手榴弾のような形だが、電子式雷管を挿入した製品で、一定時間内に次のランナーに引き継げれば絶対に爆発しない。"
+    },
+    {
+        "Id": 80162,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 3,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_2_S20",
+        "Name": "あんぱん",
+        "Desc": "パン食い競争に使われる、ビニールに包まれたあんぱん。小豆だけが入ったシンプルな構成のパンだが、一部のヴァルキューレ警察学校の生徒たちから大好評を受けたという。"
+    },
+    {
+        "Id": 80163,
+        "IsReleased": [
+            true,
+            false
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 4,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_3_S20",
+        "Name": "案内パンフレット",
+        "Desc": "晄輪大祭実行委員会本部から配っている案内パンフレット。試合日程はもちろんの事、競技場近くのグルメマップまで詳細に記載されている。"
+    },
+    {
         "Id": 85000,
         "IsReleased": [
             true,
@@ -10867,7 +11018,7 @@
         "Shops": [],
         "Icon": "Item_Icon_Favor_Random_Lv2",
         "Name": "高級贈り物ボックス",
-        "Desc": "高級贈り物のいずれかをランダムで獲得できるランダム贈り物ボックス"
+        "Desc": "使用時、高級贈り物の中から、一つを同じ確率で獲得することができる贈り物ボックス"
     },
     {
         "Id": 150000,
@@ -11993,6 +12144,21 @@
     },
     {
         "Id": 160002,
+        "IsReleased": [
+            true,
+            true
+        ],
+        "Category": "Coin",
+        "Rarity": "N",
+        "Quality": 1,
+        "Tags": [],
+        "Shops": [],
+        "Icon": "Item_Icon_Event_Token_Special_1",
+        "Name": "Dữ liệu nhiệm vụ 2: Loại D-X",
+        "Desc": "Dữ liệu được sử dụng để phân tích Decagrammaton."
+    },
+    {
+        "Id": 160003,
         "IsReleased": [
             true,
             true
@@ -13835,7 +14001,7 @@
             "IngredientExp": 200
         },
         "Icon": "Item_Icon_Furniture_Random_Group109",
-        "Name": "ランダム式・大運動会シリーズ",
-        "Desc": "大運動会シリーズの家具の中から、一つをランダムで獲得することができる。"
+        "Name": "大運動会シリーズ抽選ボックス",
+        "Desc": "使用時、大運動会シリーズの家具の中から、一つを同じ確率で獲得することができる抽選ボックス。"
     }
 ]
