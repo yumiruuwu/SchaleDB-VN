@@ -8171,8 +8171,8 @@
         ],
         "Shops": [],
         "Icon": "Item_Icon_SecretStone_CH0184",
-        "Name": "Eleph của Yuuka (Chạy bộ)",
-        "Desc": "Eleph huyền bí của Yuuka (Chạy bộ)."
+        "Name": "Eleph của Yuuka (Tiếp sức)",
+        "Desc": "Eleph huyền bí của Yuuka (Tiếp sức)."
     },
     {
         "Id": 10054,
@@ -8188,8 +8188,8 @@
         ],
         "Shops": [],
         "Icon": "Item_Icon_SecretStone_CH0186",
-        "Name": "Eleph của Mari (Track)",
-        "Desc": "Eleph huyền bí của Mari (Chạy bộ)."
+        "Name": "Eleph của Mari (Tiếp sức)",
+        "Desc": "Eleph huyền bí của Mari (Tiếp sức)."
     },
     {
         "Id": 13000,
@@ -8637,8 +8637,8 @@
         ],
         "Shops": [],
         "Icon": "Item_Icon_SecretStone_CH0190",
-        "Name": "Eleph của Hasumi (Chạy bộ)",
-        "Desc": "Eleph huyền bí của Hasumi (Chạy bộ)."
+        "Name": "Eleph của Hasumi (Tiếp sức)",
+        "Desc": "Eleph huyền bí của Hasumi (Tiếp sức)."
     },
     {
         "Id": 20000,
