@@ -77,7 +77,7 @@
         "Rarity": "N",
         "Icon": "",
         "Name": "Vé lấy lại vật phẩm",
-        "Desc": "Một vé vào cửa hoạt động đặc biệt."
+        "Desc": "Một loại vé vào hoạt động uỷ thác."
     },
     {
         "Id": 11,
@@ -85,7 +85,7 @@
         "Rarity": "N",
         "Icon": "",
         "Name": "Vé Phòng thủ Căn cứ",
-        "Desc": "Một vé vào cửa hoạt động đặc biệt."
+        "Desc": "Một loại vé vào hoạt động uỷ thác."
     },
     {
         "Id": 12,
@@ -140,15 +140,15 @@
         "Category": "MasterCoin",
         "Rarity": "N",
         "Icon": "Currency_Icon_MasterCoin",
-        "Name": "熟達証書",
-        "Desc": "十分な経験を積んだ証として貰える証書。様々なアイテムと交換ができる。"
+        "Name": "Chứng chỉ chuyên gia",
+        "Desc": "Một loại chứng chỉ chỉ có thể nhận được sau khi có đủ kinh nghiệm. Có thể đổi lấy nhiều mặt hàng khác nhau."
     },
     {
         "Id": 19,
         "Category": "WorldRaidTicketA",
         "Rarity": "N",
         "Icon": "Currency_Icon_WorldRaidCommonTicket",
-        "Name": "連合作戦チケット",
-        "Desc": "連合作戦に挑戦できるチケット。"
+        "Name": "Vé Hoạt động Đồng minh A",
+        "Desc": "(DNT)"
     }
 ]

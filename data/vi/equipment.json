@@ -449,7 +449,7 @@
                 "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
-                    false
+                    true
                 ],
                 "Amount": 1,
                 "CostType": "Item",
@@ -484,7 +484,7 @@
                 "ShopCategory": "SecretStoneGrowth",
                 "Released": [
                     true,
-                    false
+                    true
                 ],
                 "Amount": 1,
                 "CostType": "Item",
@@ -519,7 +519,7 @@
                 "ShopCategory": "MasterCoin",
                 "Released": [
                     true,
-                    false
+                    true
                 ],
                 "Amount": 10,
                 "CostType": "Currency",
@@ -1014,7 +1014,7 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Gloves_Tier7",
         "Shops": [],
-        "Name": "Bao bọc cánh tay",
+        "Name": "Bao cánh tay",
         "Desc": "Bao tay dành cho học sinh muốn tìm kiếm khả năng chống tia cực tím và thời trang. Được đề xuất cho những lúc thay đổi mùa.",
         "IsReleased": [
             true,
@@ -1271,7 +1271,7 @@
         "Icon": "Equipment_Icon_Shoes_Tier7",
         "Shops": [],
         "Name": "Giày thể thao thông thường",
-        "Desc": "Giày thể thao với thiết kế đơn giản. Nhẹ và vừa vặn nên được nhiều học sinh ưa chuộng.",
+        "Desc": "Giày thể thao gọn gàng. Được các sinh viên năng động ưa thích nhờ trọng lượng nhẹ.",
         "IsReleased": [
             true,
             false
@@ -1522,7 +1522,7 @@
         "Icon": "Equipment_Icon_Bag_Tier7",
         "Shops": [],
         "Name": "Túi đường phố",
-        "Desc": "Chiếc túi đường phố này kết hợp bầu không khí giản dị với tính thực dụng. Nó là sự yêu thích của nhiều học sinh vì khả năng lưu trữ phong phú của nó.",
+        "Desc": "Một chiếc túi đường phố thiết thực với một cái nhìn giản dị. Nhờ không gian mẫu của nó, nhiều học sinh yêu thích chiếc túi này.",
         "IsReleased": [
             true,
             false
@@ -1783,7 +1783,7 @@
         "Icon": "Equipment_Icon_Badge_Tier7",
         "Shops": [],
         "Name": "Huy hiệu đường phố",
-        "Desc": "Một huy hiệu mới từ thương hiệu thời trang đường phố Triple Step. Độ đậm của tên công ty được in lớn ở trung tâm gợi lên sự tự tin của người sáng tạo.",
+        "Desc": "Một huy hiệu được phát hành bởi thương hiệu thời trang đường phố Triple Step. Logo của công ty được in chữ lớn để thể hiện thương hiệu.",
         "IsReleased": [
             true,
             false
@@ -2044,7 +2044,7 @@
         "Icon": "Equipment_Icon_Hairpin_Tier7",
         "Shops": [],
         "Name": "Kẹp tóc thư pháp",
-        "Desc": "Một chiếc kẹp tóc được thiết kế với các chữ cái. Bản thân chuỗi các chữ cái không có ý nghĩa gì, nhưng bằng cách nào đó, thiết kế này rất thú vị.",
+        "Desc": "Một chiếc kẹp tóc làm bằng chữ cái. Mặc dù bản thân nó không có nghĩa gì, nhưng nó thu hút sự chú ý của những người có gu thời trang.",
         "IsReleased": [
             true,
             false
@@ -2304,8 +2304,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Charm_Tier7",
         "Shops": [],
-        "Name": "ポケット消臭剤",
-        "Desc": "機能的化粧品ブランド「シーサイド」とのコラボで制作された携帯消臭剤。そのファッショナブルなデザインから、キーホルダーにつけてアクセサリーのように活用する生徒も多い。",
+        "Name": "Chất khử mùi bỏ túi",
+        "Desc": "Lăn khử mùi xách tay này được sản xuất với sự hợp tác của thương hiệu mỹ phẩm chức năng Seaside. Vì thiết kế thời trang của nó, nhiều học sinh gắn nó vào móc chìa khóa của họ và sử dụng nó như một phụ kiện.",
         "IsReleased": [
             true,
             false
@@ -2570,8 +2570,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Watch_Tier7",
         "Shops": [],
-        "Name": "ストリートファッションウォッチ",
-        "Desc": "モダンで可愛いデザインが人気のストリートファッションウォッチ。「トリプルステップ」はこの時計と合わせて、ブレスレットをセット売りする戦略を立てているとか。",
+        "Name": "Đồng hồ thời trang đường phố",
+        "Desc": "Đồng hồ thời trang đường phố này được yêu thích vì thiết kế hiện đại và dễ thương. Triple Step đang lên kế hoạch bán một bộ vòng tay đi kèm với chiếc đồng hồ này.",
         "IsReleased": [
             true,
             false
@@ -2851,8 +2851,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Necklace_Tier7",
         "Shops": [],
-        "Name": "チェーンネックレス",
-        "Desc": "チェーンで作られたネックレス。ジャラジャラと響く音が心地良いという生徒もいれば、冷たい感触が苦手という生徒もおり、評価は割れるところ。",
+        "Name": "Chuỗi vòng cổ",
+        "Desc": "Một chiếc vòng cổ làm từ dây xích. Một số sinh viên cảm thấy âm thanh leng keng dễ chịu, trong khi những người khác không thích cảm giác lạnh và có ý kiến khác nhau.",
         "IsReleased": [
             true,
             false
@@ -3152,7 +3152,7 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Gloves_Tier7_Piece",
         "Shops": [],
-        "Name": "Bản thiết kế bao bọc cánh tay",
+        "Name": "Bản thiết kế bao cánh tay",
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
@@ -3842,8 +3842,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Charm_Tier7_Piece",
         "Shops": [],
-        "Name": "ポケット消臭剤の設計図",
-        "Desc": "装備を作ることができる図面。",
+        "Name": "Bản thiết kế chất khử mùi bỏ túi",
+        "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
             false
@@ -3980,8 +3980,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Watch_Tier7_Piece",
         "Shops": [],
-        "Name": "ストリートファッションウォッチの設計図",
-        "Desc": "装備を作ることができる図面。",
+        "Name": "Bản thiết kế đồng hồ thời trang đường phố",
+        "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
             false
@@ -4118,8 +4118,8 @@
         "Tier": 7,
         "Icon": "Equipment_Icon_Necklace_Tier7_Piece",
         "Shops": [],
-        "Name": "チェーンネックレスの設計図",
-        "Desc": "装備を作ることができる図面。",
+        "Name": "Bản thiết kế chuỗi vòng cổ",
+        "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
             false

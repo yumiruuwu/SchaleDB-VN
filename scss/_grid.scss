@@ -215,7 +215,7 @@
 
             height: 18px;
 
-            left: 4px;
+            right: 4px;
             top: 4px;
             padding: 4px;
 
@@ -228,6 +228,7 @@
             background-color: var(--col-bg-imglabel);
 
             @include transition(transform, opacity);
+
         }
 
         &.stage-droprate {
@@ -503,7 +504,7 @@
             &.student-rarity {
 
                 opacity: 100%;
-                transform: translateX(22px);
+                //transform: translateX(22px);
 
             }
 
@@ -618,6 +619,33 @@
     &.card-shop {
 
         cursor: default;
+    }
+
+}
+
+.show-info .selection-grid-card {
+
+    .card-badge {
+
+        &.student-type {
+            opacity: 100%;
+
+            &.atk {
+                transform: translateY(22px);
+            }
+
+            &.def {
+                transform: translateY(42px);
+            }
+        }
+
+        &.student-rarity {
+
+            opacity: 100%;
+            //transform: translateX(22px);
+
+        }
+
     }
 
 }
