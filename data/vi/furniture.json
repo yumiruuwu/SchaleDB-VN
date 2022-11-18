@@ -1173,7 +1173,8 @@
             "Furniture",
             "CraftMaterial_Furniture",
             "ShiftingCraftMaterial_Furniture",
-            "GameCenter"
+            "GameCenter",
+            "F_Himari"
         ],
         "SynthQuality": 30,
         "SubCategory": "HomeAppliance",
@@ -1181,7 +1182,7 @@
         "Name": "Máy bán hàng tự động đầy màu sắc",
         "Desc": "Một máy bán đồ ăn nhẹ tự động. Bạn không thể không muốn nhét một đồng xu vào chiếc máy lạ mắt này.",
         "Interaction": [
-            false,
+            true,
             false
         ]
     },
@@ -2261,7 +2262,7 @@
         "Desc": "Một chiếc dù che nắng để tận hưởng một mùa hè mát mẻ. Ngồi dưới bóng râm và thư giãn một lúc.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -2472,7 +2473,7 @@
         "Desc": "Một hồ bơi lớn với bộ đồ bơi vui tươi Momo Friends. Hãy có rất nhiều niềm vui trong mùa hè này!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -2499,7 +2500,7 @@
         "Desc": "Ghế sofa thoải mái được trang trí với rèm màu trắng. Bạn có thể thư thái trong đó với những tán cây trắng muốt rung rinh trước gió.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -8236,7 +8237,7 @@
         "Id": 302303,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Videopanel_Pv03",
