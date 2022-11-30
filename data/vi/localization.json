@@ -235,9 +235,9 @@
         "Conquest": "Sự chinh phục"
     },
     "TimeAttackStage": {
-        "Shooting": "Shooting Drill *Untranslate String*",
-        "Defense": "Defense Drill *Untranslate String*",
-        "Destruction": "Breakthrough Drill *Untranslate String*"
+        "Shooting": "Diễn tập bắn",
+        "Defense": "Diễn tập phòng thủ",
+        "Destruction": "Diễn tập đột phá"
     },
     "ConquestMap": {
         "815": "Quần đảo nghỉ dưỡng thiên đường mất tích"
