@@ -38974,7 +38974,7 @@
     {
         "Id": 8040003,
         "DevName": "Droid_Helmet_SMG_E_804Event_03",
-        "Name": "Helmet Gangster Automata (SMG)",
+        "Name": "Người máy thuộc băng đảng mủ bão hiểm (SMG)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -39010,7 +39010,7 @@
     {
         "Id": 8040004,
         "DevName": "Droid_Helmet_RL_E_804Event_04",
-        "Name": "Helmet Gangster Automata (RL)",
+        "Name": "Người máy thuộc băng đảng mủ bão hiểm (RL)",
         "SquadType": "Main",
         "Rank": "Elite",
         "BulletType": "Normal",
@@ -60919,7 +60919,7 @@
     {
         "Id": 7823099,
         "DevName": "Totem03_TimeAttack_M_TimeAttack",
-        "Name": "Bù nhìn",
+        "Name": "Bù nhìn (Đợt 1)",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",
@@ -60951,7 +60951,7 @@
     {
         "Id": 7823199,
         "DevName": "Totem03_TimeAttack_M_01_TimeAttack",
-        "Name": "Bù nhìn",
+        "Name": "Bù nhìn (Đợt 2)",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",
@@ -60983,7 +60983,7 @@
     {
         "Id": 7823299,
         "DevName": "Totem03_TimeAttack_M_02_TimeAttack",
-        "Name": "Bù nhìn",
+        "Name": "Bù nhìn (Đợt 3)",
         "Icon": "EnemyInfo_Totem03_TimeAttack",
         "SquadType": "Main",
         "Rank": "Summoned",

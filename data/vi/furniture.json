@@ -2130,7 +2130,7 @@
         "Desc": "Một cái chậu trồng cây màu trắng với Monstera. Các lá gió lớn tạo ra một bầu không khí thư giãn.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -3232,7 +3232,7 @@
         "Desc": "Một máy tạo viên nang với các sản phẩm capybara suối nước nóng khác nhau. Một khi bạn bắt đầu, bạn không thể dừng lại!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -3311,7 +3311,7 @@
         "Desc": "Một quầy tạp chí bằng thép với các tạp chí thuộc nhiều thể loại. Kiểm tra nó khi bạn có thời gian hoặc nếu bạn cảm thấy buồn chán.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -3758,7 +3758,7 @@
         "Desc": "Một đèn chiếu sáng tâm trạng tròn được chế tạo để trông truyền thống. Ánh sáng của nó khiến người ta liên tưởng đến ánh trăng dịu nhẹ trong đêm tối.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
