@@ -20,6 +20,8 @@
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
     <link href="css/main.css?v=67" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/shuffle-text@0.3.5/build/shuffle-text.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-K6ESZV7L7Y"></script>
     <script>
@@ -48,9 +50,10 @@
             <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark drop-shadow" style="min-height: 56px;">
                 <div class="container-xl">
                     <img id="navbar-logo" src="images/schale.png" class="" style="height:38px; width:auto">
-                    <a class="navbar-brand me-4 unselectable" onclick="window.scrollTo(0,0);" translate="no">
-                        SCHALE <span class="navbar-accent">DB</span>
-                    </a>
+                    <div class="navbar-brand me-4 unselectable" style="display: grid; padding: 0;">
+                        <a style="height: 20px; padding: 0;" onclick="window.scrollTo(0,0);" translate="no">SCHALE <span class="navbar-accent">DB</span></a>
+                        <span style="font-size: .6em; height: 20px; padding: 0; margin: 0; margin-right: -1cm;" class="under_text navbar-brand" href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#mirror-info-modal" data-randomize></span>
+                    </div>
                     <div class="dropdown ms-auto order-lg-1">
                         <a class="btn btn-dark" href="#" id="ba-navbar-regionselector" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" >
                             <i class="fa-solid fa-gear"></i><span class="d-none ms-2">Settings</span>
@@ -185,6 +188,32 @@
         </div>
         <div id="loaded-module">
         </div>
+        <!-- <div class="modal fade" id="mirror-info-modal" tabindex="-1" style="display: none;" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-fullscreen-sm-down">
+                <div class="modal-content" style="height:auto;">
+                    <div class="modal-header" style="border-bottom: none;">
+                        <h5 class="modal-title">BrightSu CN Mirror</h5>
+                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div id="mirror-info-modal-content" class="modal-body p-3">
+                        <style>#mirror-info-modal-content p {text-indent: 2em; margin: 0;}#mirror-info-modal-content hr {margin: 0.5em;height: 1px !important;}#mirror-info-modal-content h5 {margin-top: 1em;}</style>
+                        <h2>镜像站点说明 / Mirror Information</h2>
+                        <p style="text-indent: 2em;">此 <a class="text-emphasis" href="https://github.com/lonqie/SchaleDB" target="_blank" title="GitHub 项目页面">SchaleDB</a> 的中国大陆镜像站点为 <a class="text-emphasis" href="https://www.brightsu.cn/" target="_blank">BrightSu</a> (B站<a class="text-emphasis" href="https://space.bilibili.com/13827887" target="_blank">@BrightSu02</a> / 贴吧<a class="text-emphasis" href="https://tieba.baidu.com/home/main?id=tb.1.b59f729d.sv6iNSLdmjHcp_RCkzX1Vw" target="_blank">@Happy_Bright</a>) 获得项目作者 lonqie 授权建立，旨在为国内无法正常访问原项目站点（部署于 GitHub Pages）的碧蓝档案用户提供便利。</p>
+                        <p>与即时部署的 GitHub Pages 相比，此镜像站点的更新同步存在一定延迟。境外或是连接未被阻断的用户大可直接访问 <a class="text-emphasis" href="https://lonqie.github.io/SchaleDB/">SchaleDB 源站</a>。</p>
+                        <div class="text-center">
+                            <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JrKStBMm1ROUfVW3/quote.js?theme=#999999,#999999,#999999,#54A8FF,,,16&amp;f=16&amp;display=1,0,1,1,0,0,1,1"></script><span class="la-widget la-data-widget__container" style="box-sizing: border-box !important; margin: 0px !important; font-size: 12px !important; line-height: 1.71428em !important; color: rgb(51, 51, 51) !important;"><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(153, 153, 153) !important; font-weight: bold !important;">网站数据概况  - </span><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(51, 51, 51) !important; border-left: none !important; padding-left: 0px !important;"><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(153, 153, 153) !important; display: inline-block !important;">今日访问人数</span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(84, 168, 255) !important; font-weight: bold !important;">170</span></span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(51, 51, 51) !important; border-left: 1px solid rgb(153, 153, 153) !important; padding-left: 6px !important;"><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(153, 153, 153) !important; display: inline-block !important;">今日访问量</span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(84, 168, 255) !important; font-weight: bold !important;">2,772</span></span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(51, 51, 51) !important; border-left: 1px solid rgb(153, 153, 153) !important; padding-left: 6px !important;"><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(153, 153, 153) !important; display: inline-block !important;">本月访问量</span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(84, 168, 255) !important; font-weight: bold !important;">2,772</span></span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(51, 51, 51) !important; border-left: 1px solid rgb(153, 153, 153) !important; padding-left: 6px !important;"><span style="box-sizing: border-box !important; margin: 0px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(153, 153, 153) !important; display: inline-block !important;">总访问量</span><span style="box-sizing: border-box !important; margin: 0px 0px 0px 6px !important; font-size: 16px !important; line-height: 1.71428em !important; color: rgb(84, 168, 255) !important; font-weight: bold !important;">113,879</span></span></span>
+                        </div>
+                        <hr>
+                        <p>This CN Mirror is set up by <a class="text-emphasis" href="https://www.brightsu.cn/" target="_blank">BrightSu</a> under the authorization from lonqie, the author and owner of <a class="text-emphasis" href="https://github.com/lonqie/SchaleDB" target="_blank" title="GitHub Project Page">SchaleDB</a>, intended for users in mainland China who do not have access to the source site deployed on GitHub Pages.</p>
+                        <p>For overseas users, please directly visit the <a class="text-emphasis" href="https://lonqie.github.io/SchaleDB/">source SchaleDB site</a> instead of this mirror. Connecting to this mirror may result in package loss, high latency or unavailability.</p>
+                        <h5>
+                                GeoIP: <span class="text-emphasis"><img style="height:24px;" src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/flag-icon-css/4.1.5/flags/4x3/vn.svg" alt="VN"> 越南 / Vietnam</span>
+                                    <a class="btn btn-dark m-1" href="https://lonqie.github.io/SchaleDB/"><i class="fa-solid fa-arrow-right me-2"></i> lonqie/SchaleDB</a>
+                                    </h5>
+                    </div>
+                </div>
+            </div>
+        </div> -->
         <div class="modal fade" id="collection-data-modal" tabindex="-1">
             <div class="modal-dialog modal-xl modal-fullscreen-lg-down" style="transition: transform .15s ease-out;">
                 <div class="modal-content">
@@ -237,4 +266,5 @@
     window.setTimeout(x => {document.getElementById('loading-skipmsg').style.display = null;}, 10000);
 </script>
 <script src="js/common.min.js?v=67"></script>
+<script src="js/under_text.js"></script>
 </html>
