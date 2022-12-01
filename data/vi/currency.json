@@ -60,8 +60,8 @@
         "Category": "RaidTicket",
         "Rarity": "N",
         "Icon": "Currency_Icon_RaidTicket",
-        "Name": "Vé T.A",
-        "Desc": "Một tấm vé tham gia vào T.A."
+        "Name": "Vé sự kiện Tổng tấn công",
+        "Desc": "Một tấm vé tham gia vào sự kiện Tổng tấn công."
     },
     {
         "Id": 9,
@@ -108,7 +108,7 @@
         "Category": "SchoolDungeonATicket",
         "Rarity": "N",
         "Icon": "Currency_Icon_SchoolATicket",
-        "Name": "Vé biên kịch (Trinity)",
+        "Name": "Vé biên kịch Trinity",
         "Desc": "Một vé tham gia biên kịch."
     },
     {
@@ -132,8 +132,8 @@
         "Category": "TimeAttackDungeonTicket",
         "Rarity": "N",
         "Icon": "Currency_Icon_TimeAttackTicket",
-        "Name": "Vé khoan",
-        "Desc": "Một vé để tham gia Cuộc khoan bắn chung."
+        "Name": "Vé diễn tập",
+        "Desc": "Một vé để tham gia sự kiện Diễn tập."
     },
     {
         "Id": 18,
