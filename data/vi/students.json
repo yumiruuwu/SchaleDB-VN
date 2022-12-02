@@ -38,7 +38,7 @@
         "CharacterAge": "16 tuổi",
         "Birthday": "Ngày 12 tháng 3",
         "CharacterSSRNew": "Heh, chọn hay đấy Sensei~",
-        "ProfileIntroduction": "Tự xưng là người dẫn đầu đội giải quyết &quot;vấn đề&quot; 68.\n\nAru đã thành lập đội giải quyết &quot;vấn đề&quot; 68 của Học viện Gehenna mà không có phép để tiến hành các hoạt động kinh doanh bất hợp pháp. Cô ấy khao khát được xem như một nhân vật phản diện bảnh bao và phá phách, nhưng những sai lầm thường xuyên của cô ấy luôn cho thấy cô ấy là một người có tư cách.",
+        "ProfileIntroduction": "Tự xưng là người dẫn đầu đội giải quyết &quot;vấn đề&quot; 68.\n\nAru đã thành lập đội giải quyết &quot;vấn đề&quot; 68 của Học viện Gehenna mà không có phép để tiến hành các hoạt động kinh doanh bất hợp pháp. Em ấy khao khát được xem như một nhân vật phản diện bảnh bao và phá phách, nhưng những sai lầm thường xuyên của Em ấy luôn cho thấy Em ấy là một người có tư cách.",
         "Hobby": "Quản lý học tập",
         "CharacterVoice": "Reina Kondō",
         "BirthDay": "3/12",
@@ -111,7 +111,7 @@
             {
                 "SkillType": "normal",
                 "Name": "Đường đạn đen tối",
-                "Desc": "Cứ sau 25 giây, bắn một phát gây <?1> sát thương cho một kẻ địch với 50% tỷ lệ phát nổ gây thêm <?2> sát thương cho kẻ địch trong khu vực hình tròn xung quanh mục tiêu.",
+                "Desc": "Cứ sau 25 giây, bắn một phát gây <?1> sát thương cho một kẻ địch với 50% tỉ lệ phát nổ gây thêm <?2> sát thương cho kẻ địch trong khu vực hình tròn xung quanh mục tiêu.",
                 "Parameters": [
                     [
                         "152%",
@@ -248,7 +248,7 @@
             {
                 "SkillType": "gearnormal",
                 "Name": "Đường đạn đen tối+",
-                "Desc": "Cứ sau 25 giây, bắn một phát gây <?1> sát thương cho một kẻ địch với 100% tỷ lệ phát nổ gây thêm <?2> sát thương cho kẻ địch trong khu vực hình tròn xung quanh mục tiêu.",
+                "Desc": "Cứ sau 25 giây, bắn một phát gây <?1> sát thương cho một kẻ địch với 100% tỉ lệ phát nổ gây thêm <?2> sát thương cho kẻ địch trong khu vực hình tròn xung quanh mục tiêu.",
                 "Parameters": [
                     [
                         "156%",
@@ -333,7 +333,7 @@
         "IsLimited": 0,
         "Weapon": {
             "Name": "Rượu vang đỏ/Ngưỡng mộ",
-            "Desc": "Một khẩu súng bắn tỉa bán tự động với thiết kế cổ xưa được Aru ấp ủ.\n\nBản chất cứng rắn của cô ấy tăng cường chỉ bằng cách mang nó.",
+            "Desc": "Một khẩu súng bắn tỉa bán tự động với thiết kế cổ xưa được Aru ấp ủ.\n\nBản chất cứng rắn của Em ấy tăng cường chỉ bằng cách mang nó.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 162,
@@ -359,7 +359,7 @@
                 ]
             ],
             "Name": "Ví có giá trị của Aru",
-            "Desc": "Chiếc ví xa xỉ yêu thích của Aru.\nMột món đồ xa xỉ được làm bằng vật liệu chất lượng cao, nhưng màu sắc đã phai và có vết trầy xước do sử dụng lâu ngày. Được Haruka, Kayoko và Mutsuki tặng cho cô ấy sau khi cô ấy thành lập Đội giải quyết \"vấn đề\" 68 đầu tiên, đó là một món đồ quý giá và không thể thay thế đối với Aru.",
+            "Desc": "Chiếc ví xa xỉ yêu thích của Aru.\nMột món đồ xa xỉ được làm bằng vật liệu chất lượng cao, nhưng màu sắc đã phai và có vết trầy xước do sử dụng lâu ngày. Được Haruka, Kayoko và Mutsuki tặng cho Em ấy sau khi Em ấy thành lập Đội giải quyết \"vấn đề\" 68 đầu tiên, đó là một món đồ quý giá và không thể thay thế đối với Aru.",
             "Icon": "Gear_Icon_10000",
             "TierUpMaterial": [
                 [
@@ -544,7 +544,7 @@
         "CharacterAge": "15 tuổi",
         "Birthday": "Ngày 1 tháng 5",
         "CharacterSSRNew": "Làm thế nào để em có thể chiến đấu hiệu quả hơn?",
-        "ProfileIntroduction": "Một đặc vụ của Lực lượng đặc nhiệm siêu hiện tượng tại Trường Millennium.\n\nLà một người lập dị khó hiểu về mặt cảm xúc, Eimi rất hiếm khi nói và người ta thường thấy Eimi nhìn chằm chằm vào khoảng không mà không có lý do cụ thể. Tuy nhiên, không có ai có thể thực hiện nhiệm vụ một cách tàn nhẫn như cô ấy khi thực hiện các nhiệm vụ cho Hội thảo.",
+        "ProfileIntroduction": "Một đặc vụ của Lực lượng đặc nhiệm siêu hiện tượng tại Trường Millennium.\n\nLà một người lập dị khó hiểu về mặt cảm xúc, Eimi rất hiếm khi nói và người ta thường thấy Eimi nhìn chằm chằm vào khoảng không mà không có lý do cụ thể. Tuy nhiên, không có ai có thể thực hiện nhiệm vụ một cách tàn nhẫn như Em ấy khi thực hiện các nhiệm vụ cho Hội thảo.",
         "Hobby": "Tránh tiếp xúc, nghe nhạc",
         "CharacterVoice": "Akane Matsunaga",
         "BirthDay": "5/1",
@@ -961,7 +961,7 @@
         "CharacterAge": "17 tuổi",
         "Birthday": "Ngày 1 tháng 3",
         "CharacterSSRNew": "Chúng ta sẽ khám phá thế giới ẩm thực cao cấp chứ?",
-        "ProfileIntroduction": "Chủ tịch Hiệp hội nghiên cứu người sành ăn.\n\nNhìn thoáng qua, cô ấy có vẻ sở hữu thần thái duyên dáng của một quý cô tinh tế. Nhưng khi nói đến thức ăn, cô ấy có thể biến thành một kẻ điên loạn trí như một cú bật công tắc. Mặc dù háu ăn không thể kiểm soát, cô ấy thực sự không thể tiêu hóa quá nhiều thức ăn cùng một lúc. Món ăn yêu thích của cô ấy là những món giàu chất béo, chẳng hạn như motsunabe và horumonyaki.",
+        "ProfileIntroduction": "Chủ tịch Hiệp hội nghiên cứu người sành ăn.\n\nNhìn thoáng qua, Em ấy có vẻ sở hữu thần thái duyên dáng của một quý cô tinh tế. Nhưng khi nói đến thức ăn, Em ấy có thể biến thành một kẻ điên loạn trí như một cú bật công tắc. Mặc dù háu ăn không thể kiểm soát, Em ấy thực sự không thể tiêu hóa quá nhiều thức ăn cùng một lúc. Món ăn yêu thích của Em ấy là những món giàu chất béo, chẳng hạn như motsunabe và horumonyaki.",
         "Hobby": "Tham quan ẩm thực, lập danh sách ẩm thực",
         "CharacterVoice": "Azusa Tadokoro",
         "BirthDay": "3/1",
@@ -1198,7 +1198,7 @@
         "IsLimited": 0,
         "Weapon": {
             "Name": "Ý tưởng",
-            "Desc": "Một khẩu súng trường bắn tỉa trang nhã được sử dụng bởi Haruna.\n\nCô ấy nói rằng cô ấy có thể nhìn thấy con đường trở thành người sành ăn vĩ đại thông qua ống ngắm.",
+            "Desc": "Một khẩu súng trường bắn tỉa trang nhã được sử dụng bởi Haruna.\n\nEm ấy nói rằng Em ấy có thể nhìn thấy con đường trở thành người sành ăn vĩ đại thông qua ống ngắm.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 165,
@@ -1395,7 +1395,7 @@
         "CharacterAge": "16 tuổi",
         "Birthday": "Ngày 27 tháng 11",
         "CharacterSSRNew": "Nếu Sensei ở bên em... em sẽ cố gắng hết sức!",
-        "ProfileIntroduction": "Một thành viên thân thiện, hướng ngoại của Câu lạc bộ trang điểm Trinity.\n\nHifumi chỉ là một cô gái bình thường với điểm số trung bình, nhưng dù sao cô ấy cũng được yêu thích và nổi tiếng nhờ tính cách toàn diện của mình. Cô ấy là một người biết lắng nghe bất cứ ai cần tâm sự về những lo lắng hoặc vấn đề của họ, nhưng điều này cũng khiến cô ấy bị cuốn vào lúc này và vô tình gây ra rắc rối.\n\n\nHIFUMI DAISUKII (ᗒᗣᗕ)՞",
+        "ProfileIntroduction": "Một thành viên thân thiện, hướng ngoại của Câu lạc bộ trang điểm Trinity.\n\nHifumi chỉ là một cô gái bình thường với điểm số trung bình, nhưng dù sao Em ấy cũng được yêu thích và nổi tiếng nhờ tính cách toàn diện của mình. Em ấy là một người biết lắng nghe bất cứ ai cần tâm sự về những lo lắng hoặc vấn đề của họ, nhưng điều này cũng khiến Em ấy bị cuốn vào lúc này và vô tình gây ra rắc rối.\n\n\nHIFUMI DAISUKII (ᗒᗣᗕ)՞",
         "Hobby": "Thu thập thú Peroro, mua sắm, lắng nghe người khác",
         "CharacterVoice": "Kaede Hondo",
         "BirthDay": "11/27",
@@ -2294,7 +2294,7 @@
             {
                 "SkillType": "ex",
                 "Name": "Chiến thuật đàn áp",
-                "Desc": "Gây <?1> sát thương lên kẻ địch trong khu vực hình quạt.",
+                "Desc": "Gây <?1> sát thương lên kẻ địch trong khu vực hình quạt.<?2>",
                 "Parameters": [
                     [
                         "435%",
@@ -2311,14 +2311,14 @@
                     [
                         "",
                         "",
-                        " Each hit inflicts <c:Stunned> for 1s.",
-                        " Each hit inflicts <c:Stunned> for 1s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s.",
-                        " Each hit inflicts <c:Stunned> for 1.4s."
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây.",
+                        " Mỗi phát đánh gây hiệu ứng <c:Stunned> trong 1.4 giây."
                     ]
                 ],
                 "Cost": [
@@ -2671,10 +2671,10 @@
         "PersonalName": "Iori",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "November 8th",
-        "CharacterSSRNew": "No mercy for criminals!",
-        "ProfileIntroduction": "A cold-blooded specialist of Gehenna Academy&#x27;s Prefect Team.\n\nShe uses her overwhelming force as field captain to ruthlessly discipline offenders. Iori is highly efficient and formidable in combat, but her stubbornness causes her to fall for even the most obvious traps.",
-        "Hobby": "Going on patrol, castigating others",
+        "Birthday": "Ngày 8 tháng 11",
+        "CharacterSSRNew": "Không thương xót cho bọn phạm tội!",
+        "ProfileIntroduction": "Một chuyên gia máu lạnh của Đội trưởng Học viện Gehenna.\n\nEm ấy sử dụng lực lượng áp đảo của mình với tư cách là đội trưởng để kỷ luật những kẻ phạm tội một cách tàn nhẫn. Iori rất hiệu quả và đáng gờm trong chiến đấu, nhưng sự bướng bỉnh của em ấy khiến em ấy rơi vào những cái bẫy rõ ràng dễ tránh nhất.",
+        "Hobby": "Đi tuần tra, thiến bất kì bố con thằng nào dám ngáng đường",
         "CharacterVoice": "Ayane Sakura",
         "BirthDay": "11/8",
         "ArtistName": "Mx2j",
@@ -2703,8 +2703,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Major Roundup",
-                "Desc": "Fires 3 shots at an enemy that each deal <?1> damage to the target and enemies in a fan-shaped area behind them.",
+                "Name": "Phán quyết của Iori",
+                "Desc": "Bắn 3 phát vào kẻ thù, mỗi phát gây <?1> sát thương cho mục tiêu và kẻ địch trong khu vực hình quạt phía sau mục tiêu.",
                 "Parameters": [
                     [
                         "350%",
@@ -2735,8 +2735,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Bounty",
-                "Desc": "Every 25s, deals <?1> damage to one enemy.",
+                "Name": "Kẻ săn tiền thưởng",
+                "Desc": "Cứ sau 25 giây, gây <?1> sát thương cho một kẻ địch.",
                 "Parameters": [
                     [
                         "229%",
@@ -2758,8 +2758,8 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "One-Shot Bullseye",
-                "Desc": "Increases <b:HIT> by <?1>.",
+                "Name": "Một trúng một bay",
+                "Desc": "Tăng <?1> <b:HIT>.",
                 "Parameters": [
                     [
                         "14%",
@@ -2781,8 +2781,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Prefect Team Nerve",
-                "Desc": "Deals <?1> damage as an additional hit to enemies if Iori is not taking cover.",
+                "Name": "Khí lực của đội Perfect Team",
+                "Desc": "Gây <?1> sát thương dưới dạng một đòn đánh bổ sung cho kẻ địch nếu Iori không ẩn nấp.",
                 "Parameters": [
                     [
                         "22.6%",
@@ -2801,8 +2801,8 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "One-Shot Bullseye+",
-                "Desc": "Increases <b:HIT> by <?1> plus a further <?2>.",
+                "Name": "Một trúng một bay+",
+                "Desc": "Tăng <?1> <b:HIT> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "160",
@@ -2890,8 +2890,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "Crack Shot",
-            "Desc": "A sniper rifle used by Iori to deal with fugitives.\n\nA bare-bones sniper rifle that lacks even a scope because, Iori says, a specialist never blames their tools.",
+            "Name": "Phát bắn danh tiếng",
+            "Desc": "Khẩu súng bắn tỉa được Iori sử dụng để đối phó với những kẻ chạy trốn.\n\nIori nói, một khẩu súng bắn tỉa đơn giản thậm chí không có ống ngắm bởi vì một chuyên gia không bao giờ đổ lỗi cho công cụ của họ.",
             "AdaptationType": "Indoor",
             "AdaptationValue": 1,
             "AttackPower1": 77,
@@ -3069,10 +3069,10 @@
         "PersonalName": "Maki",
         "SchoolYear": "Năm nhất",
         "CharacterAge": "15 tuổi",
-        "Birthday": "August 1st",
-        "CharacterSSRNew": "Art comes from the soul!",
-        "ProfileIntroduction": "A member of Veritas, a hacker group at the Millennium Science School.\n\nA mischievous student who enjoys drawing graffiti and designed Veritas&#x27; emblem. She has a flighty personality and doesn&#x27;t take anything seriously, which often sparks conflict with other clubs.",
-        "Hobby": "Drawing, playing video games",
+        "Birthday": "Ngày 1 tháng 8",
+        "CharacterSSRNew": "Nghệ thuật đến từ tâm hồn!",
+        "ProfileIntroduction": "Một thành viên của Veritas, một nhóm hacker tại Trường Khoa học Millennium.\n\nMột học sinh tinh nghịch thích vẽ graffiti và thiết kế biểu tượng của Veritas. Em ấy có một tính cách bay bổng và không coi trọng bất cứ điều gì, điều này thường gây ra xung đột với các câu lạc bộ khác.",
+        "Hobby": "Vẽ, chơi game",
         "CharacterVoice": "Shiori Mikami",
         "BirthDay": "8/1",
         "ArtistName": "9ml",
@@ -3105,8 +3105,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "World Beautification!",
-                "Desc": "Deals <?1> damage to one enemy and increases <b:ATK> by <?2> for 30s.",
+                "Name": "Làm đẹp thế giới!",
+                "Desc": "Gây <?1> sát thương cho một kẻ địch và tăng <?2> <b:ATK> trong 30 giây.",
                 "Parameters": [
                     [
                         "676%",
@@ -3180,8 +3180,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Paintball Lob!",
-                "Desc": "Every 25s, marks one enemy and decreases their <d:DEF> by <?1> for 15s.",
+                "Name": "Bắn súng sơn!",
+                "Desc": "Cứ sau 25 giây, đánh dấu một kẻ địch và giảm <d:DEF> của chúng xuống <?1> trong 15 giây.",
                 "Parameters": [
                     [
                         "18.3%",
@@ -3203,8 +3203,8 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Dazzling Display",
-                "Desc": "Increases <b:AttackSpeed> by <?1>.",
+                "Name": "Góc nhìn rực rỡ",
+                "Desc": "Increases <?1> <b:AttackSpeed>.",
                 "Parameters": [
                     [
                         "14%",
@@ -3226,8 +3226,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Suffering for Art",
-                "Desc": "Deals <?1> damage as an additional hit to enemies marked by Maki.",
+                "Name": "Đau khổ vì nghệ thuật",
+                "Desc": "Gây <?1> sát thương dưới dạng một đòn đánh bổ sung lên kẻ địch bị Maki đánh dấu.",
                 "Parameters": [
                     [
                         "14.9%",
@@ -3246,8 +3246,8 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Dazzling Display+",
-                "Desc": "Increases <b:AttackSpeed> by <?1> plus a further <?2>.",
+                "Name": "Góc nhìn rực rỡ+",
+                "Desc": "Tăng <?1> <b:AttackSpeed> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "1400",
@@ -3333,8 +3333,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "Auto Lacquer",
-            "Desc": "Maki's multipurpose machine gun often used when drawing graffiti.\n\nModified using Millennium's technology, it can load and fire paintballs along with live ammunition.",
+            "Name": "Sơn mài tự động",
+            "Desc": "Khẩu súng máy đa năng Maki thường dùng khi vẽ graffiti.\n\nĐược sửa đổi bằng công nghệ của Millennium, nó có thể nạp và bắn đạn sơn cùng với đạn thật.",
             "AdaptationType": "Outdoor",
             "AdaptationValue": 1,
             "AttackPower1": 100,
@@ -3512,10 +3512,10 @@
         "PersonalName": "Neru",
         "SchoolYear": "Năm 3",
         "CharacterAge": "17 tuổi",
-        "Birthday": "August 17th",
-        "CharacterSSRNew": "Shout! Give it everything you&#x27;ve got!",
-        "ProfileIntroduction": "President of C&amp;C, a secret organization of the Millennium School.\n\nAt first glance, Neru looks like nothing but a young delinquent with a flashy bomber jacket draped over her maid outfit, but in reality she&#x27;s Millennium&#x27;s most formidable agent. Within Millennium, her call sign, Double O, is seen as a sign of certain victory.",
-        "Hobby": "Winning",
+        "Birthday": "Ngày 17 tháng 8",
+        "CharacterSSRNew": "Tsk! Cho em xem những gì thầy có đi",
+        "ProfileIntroduction": "Chủ tịch của C&C, một tổ chức bí mật của trường Millennium.\n\nNhìn thoáng qua thì Neru trông chẳng khác gì một tên du côn trẻ tuổi với chiếc áo khoác bomber hào nhoáng bên ngoài bộ trang phục hầu gái, nhưng trên thực tế, em ấy là đặc vụ đáng gờm nhất của Millennium. Trong Millennium, dấu hiệu cuộc gọi của em ấy, Double O, được coi là dấu hiệu của chiến thắng nhất định.\n\n\"Are Ya Winning, Neru?\"",
+        "Hobby": "Dành chiến thắng",
         "CharacterVoice": "Ami Koshimizu",
         "BirthDay": "8/17",
         "ArtistName": "Mx2j",
@@ -3549,8 +3549,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "You Got a Death Wish or Somethin'?",
-                "Desc": "Deals <?1> damage to one enemy. Damage increases by <?2> times if Neru is <s:Fury>.",
+                "Name": "Mày muốn chết à thằng khốn?",
+                "Desc": "Gây <?1> sát thương cho một kẻ địch. Sát thương tăng <?2> lần nếu Neru đang <s:Fury>.",
                 "Parameters": [
                     [
                         "476%",
@@ -3650,8 +3650,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Cruisin' for a Bruisin'!",
-                "Desc": "Every 30s, Neru becomes <s:Fury> and her <b:Dodge> increases by <?1> for 20s.",
+                "Name": "Chuyên gia né tránh",
+                "Desc": "Cứ sau 30 giây, Neru sẽ trở nên <s:Fury> và <b:Dodge> của Neru tăng thêm <?1> trong 20 giây.",
                 "Parameters": [
                     [
                         "17.8%",
@@ -3694,8 +3694,8 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Codename Double O",
-                "Desc": "Increases <b:CriticalDamage> by <?1>.",
+                "Name": "Tên mã: Double O",
+                "Desc": "Tăng <?1> <b:CriticalDamage>.",
                 "Parameters": [
                     [
                         "14%",
@@ -3717,8 +3717,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Enhanced Rage",
-                "Desc": "Whenever Neru becomes <s:Fury>, increases <b:ATK> by <?1> for 30s.",
+                "Name": "Cơn thịnh nộ tăng cường",
+                "Desc": "Bất cứ khi nào Neru trở nên <s:Fury>, tăng <?1> <b:ATK> trong 30 giây.",
                 "Parameters": [
                     [
                         "16.8%",
@@ -3760,7 +3760,7 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Codename Double O+",
+                "Name": "Tên mã: Double O+",
                 "Desc": "Tăng thêm <?1> <b:CriticalDamage> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
@@ -3852,8 +3852,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "Twin Dragons",
-            "Desc": "A pair of SMGs used by Neru.\n\nBoth are lavishly engraved with a golden dragon pattern.",
+            "Name": "Cặp rồng song sinh",
+            "Desc": "Một khẩu tiểu liên được Neru sử dụng.\n\nCả hai đều được chạm khắc hoa văn rồng vàng lộng lẫy.",
             "AdaptationType": "Outdoor",
             "AdaptationValue": 1,
             "AttackPower1": 91,
@@ -4031,10 +4031,10 @@
         "PersonalName": "Izumi",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "May 11th",
-        "CharacterSSRNew": "The world is full of delicious food!",
-        "ProfileIntroduction": "A member of the Gehenna Gourmet Research Society with a voracious appetite.\n\nShe loves food so much that she even gobbles up dishes that others would dislike with gusto.",
-        "Hobby": "Cooking and eating bizarre dishes",
+        "Birthday": "Ngày 11 tháng 5",
+        "CharacterSSRNew": "Thế giới đầy những món ăn ngon!",
+        "ProfileIntroduction": "Một thành viên của Hiệp hội nghiên cứu người sành ăn Gehenna với sự thèm ăn hơn bất kì ai.\n\nEm ấy yêu thích đồ ăn đến mức thậm chí còn ngấu nghiến những món ăn mà người khác không thích một cách thích thú.",
+        "Hobby": "Nấu và ăn những món ăn kỳ lạ",
         "CharacterVoice": "Yurika Kubo",
         "BirthDay": "5/11",
         "ArtistName": "Mx2j",
@@ -4065,8 +4065,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Cheese 'n' Chocolate Hamburger!",
-                "Desc": "Restores own HP by <?1> of Healing<?2>.",
+                "Name": "Hamburger phô mai và sô cô la!",
+                "Desc": "Phục hồi HP của bản thân bằng <?1> khả năng hồi máu<?2>.",
                 "Parameters": [
                     [
                         "145%",
@@ -4083,14 +4083,14 @@
                     [
                         "",
                         "",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s",
-                        " and increases <b:AttackSpeed> by 38.4% for 21s"
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây.",
+                        " và tăng 38.4% <b:AttackSpeed> trong 21 giây."
                     ]
                 ],
                 "Cost": [
@@ -4128,8 +4128,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Ready, Set, Boom!",
-                "Desc": "Whenever Izumi uses normal attacks, she has a 20% chance to deal <?1> damage to one enemy. 10s cooldown between activations.",
+                "Name": "Sẵn sàng, Thiết lập, Bùng nổ!",
+                "Desc": "Bất cứ khi nào Izumi sử dụng các đòn tấn công thông thường, em ấy có 20% cơ hội gây sát thương <?1> cho một kẻ địch. Thời gian hồi chiêu 10 giây giữa các lần kích hoạt.",
                 "Parameters": [
                     [
                         "275%",
@@ -4164,7 +4164,7 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "What to Eat Next?",
+                "Name": "Tiếp theo ăn gì đây?",
                 "Desc": "Tăng <?1> <b:HealEffectiveness>.",
                 "Parameters": [
                     [
@@ -4187,8 +4187,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Savor the Flavor!",
-                "Desc": "Deals between <?1> ~ <?2> damage as an additional hit to enemies based on Izumi's current HP.",
+                "Name": "Thưởng thức hương vị!",
+                "Desc": "Gây sát thương từ <?1> ~ <?2> dưới dạng đòn đánh bổ sung cho kẻ địch dựa trên HP hiện tại của Izumi.",
                 "Parameters": [
                     [
                         "0.4%",
@@ -4219,8 +4219,8 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "What to Eat Next?+",
-                "Desc": "Increases <b:HealEffectiveness> by <?1> plus a further <?2>.",
+                "Name": "Tiếp theo ăn gì đây?+",
+                "Desc": "Tăng <?1> <b:HealEffectiveness> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "1000",
@@ -4308,8 +4308,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "Daily Cutlery",
-            "Desc": "A heavy machine gun used by Izumi.\n\nThe more troublemakers the gun defeats, the more delicious her food becomes.",
+            "Name": "Cây dao kéo",
+            "Desc": "Một khẩu súng máy hạng nặng được sử dụng bởi Izumi.\n\nKhẩu súng càng tiêu diệt được nhiều kẻ gây rối, món ăn của em ấy càng trở nên ngon hơn.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 124,
@@ -4487,10 +4487,10 @@
         "PersonalName": "Shiroko",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "May 16th",
-        "CharacterSSRNew": "Do you need my help?",
-        "ProfileIntroduction": "The sporty field captain of the Abydos Foreclosure Task Force.\n\nA girl of few words and almost no facial expression, Shiroko gives the impression of being frigid and emotionless. In truth, she is more devoted to the Abydos Academy than anything else. If it&#x27;s for the sake of revitalizing the academy, she&#x27;ll do whatever it takes and sometimes propose some outlandish ideas herself.",
-        "Hobby": "Jogging, cycling",
+        "Birthday": "Ngày 16 tháng 5",
+        "CharacterSSRNew": "Thầy cần em giúp gì không?",
+        "ProfileIntroduction": "Đội trưởng lĩnh vực thể thao của Lực lượng đặc nhiệm tịch thu tài sản ở Abydos.\n\nMột cô gái ít nói và hầu như không có biểu cảm trên khuôn mặt, Shiroko gây ấn tượng là lạnh lùng và vô cảm. Trên thực tế, em ấy cống hiến cho Học viện Abydos hơn bất cứ điều gì khác. Nếu vì mục đích hồi sinh học viện, em ấy sẽ làm bất cứ điều gì cần thiết và đôi khi tự mình đề xuất một số ý tưởng kỳ quặc.\n\n\"Rob da bank goes brrr\"",
+        "Hobby": "Chạy bộ, đạp xe",
         "CharacterVoice": "Yui Ogura",
         "BirthDay": "5/16",
         "ArtistName": "Hwansang",
@@ -4521,8 +4521,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Drone Support",
-                "Desc": "Deals <?1> damage to one enemy.",
+                "Name": "Sự hỗ trợ của máy bay không người lái",
+                "Desc": "Gây <?1> sát thương lên một kẻ địch.",
                 "Parameters": [
                     [
                         "400%",
@@ -4560,8 +4560,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Grenade Lob",
-                "Desc": "Every 25s, deals <?1> damage to enemies in a circular area.",
+                "Name": "Lựu đạn",
+                "Desc": "Cứ sau 25 giây, Shiroko sẽ ném một quả lựu đạn gây <?1> sát thương cho kẻ địch trong khu vực hình tròn.",
                 "Parameters": [
                     [
                         "193%",
@@ -4583,8 +4583,8 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Target Weaknesses",
-                "Desc": "Increases <b:CriticalChance> by <?1>.",
+                "Name": "Điểm yếu mục tiêu",
+                "Desc": "Tăng <?1> <b:CriticalChance>.",
                 "Parameters": [
                     [
                         "14%",
@@ -4606,8 +4606,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Very Rapid Fire",
-                "Desc": "Normal attacks have a 20% chance to increase <b:AttackSpeed> by <?1> for 30s. 25s cooldown between activations.",
+                "Name": "Tỉa liên tục",
+                "Desc": "Các đòn tấn công thông thường có 20% tỉ lệ tăng <?1> <b:AttackSpeed> trong 30 giây. Thời gian hồi chiêu 25 giây giữa các lần kích hoạt.",
                 "Parameters": [
                     [
                         "30.2%",
@@ -4649,8 +4649,8 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Target Weaknesses+",
-                "Desc": "Increases <b:CriticalChance> by <?1> plus a further <?2>.",
+                "Name": "Điểm yếu mục tiêu+",
+                "Desc": "Tăng <?1> <b:CriticalChance> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "100",
@@ -4737,8 +4737,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "White Fang 465",
-            "Desc": "Shiroko's favorite assault rifle.\n\nAlways ready to be used in any situation due to diligent maintenance.",
+            "Name": "Nanh Trắng 465",
+            "Desc": "Súng trường tấn công yêu thích của Shiroko.\n\nLuôn sẵn sàng sử dụng trong mọi tình huống do được bảo trì cẩn thận.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 123,
@@ -4915,11 +4915,11 @@
         "FamilyNameRuby": "",
         "PersonalName": "Shun",
         "SchoolYear": "Năm 3",
-        "CharacterAge": "Top Secret",
-        "Birthday": "February 5th",
-        "CharacterSSRNew": "Have you been waiting patiently for me? My, you&#x27;re such a good kid.",
-        "ProfileIntroduction": "Instructor of Shanhaijing&#x27;s Disciplinary Support Department, Plum Blossom Garden.\n\nAn instructor to young students at the Plum Blossom Garden. The little students hold her and Shanhaijing in high regard. She is seldom angered by the mischievous antics of her young students due to her extensive experience. However, asking her age is off limits.",
-        "Hobby": "Caring for children",
+        "CharacterAge": "Bí mật",
+        "Birthday": "Ngày 5 tháng 2",
+        "CharacterSSRNew": "Thầy đã kiên nhẫn đợi em à? Ái chà, thầy đúng là đứa trẻ ngoan. 🐧",
+        "ProfileIntroduction": "Người hướng dẫn của Bộ phận Hỗ trợ Kỷ luật của Shanhaijing, Vườn hoa mận.\n\nMột người hướng dẫn cho các học sinh nhỏ tuổi tại Vườn hoa mận. Các học sinh nhỏ rất coi trọng em ấy và Shanhaijing. Em ấy hiếm khi tức giận vì những trò nghịch ngợm của học sinh nhỏ tuổi do kinh nghiệm dày dặn của mình. Tuy nhiên, hỏi tuổi của em ấy là vượt quá giới hạn.\n\nSpoiler Fact: <span class=\"spoiler\">Shun là học sinh duy nhất có voiceline hát chúc mừng sinh nhật sensei dựa vào ngày sinh được set trong profile.</span>",
+        "Hobby": "Chăm sóc trẻ em",
         "CharacterVoice": "Shizuka Itou",
         "BirthDay": "2/5",
         "ArtistName": "9ml",
@@ -4948,8 +4948,8 @@
         "Skills": [
             {
                 "SkillType": "ex",
-                "Name": "Where Did You Go, You Rascals?",
-                "Desc": "Augments <s:FormChange> to deal 153% damage and prioritise the enemy with the highest ATK, increases <b:Range> by 24.2% and <b:CriticalChance> by <?1>, but decreases <d:AttackSpeed> by 18.8% for 30s.",
+                "Name": "Nhóc tinh ranh này đi đâu rồi?",
+                "Desc": "Tăng cường <s:FormChange> để gây 153% sát thương và ưu tiên kẻ địch có ATK cao nhất, tăng 24,2% <b:Range> và <?1> <b:CriticalChance>, nhưng giảm 18,8% <d:AttackSpeed> trong 30 giây.",
                 "Parameters": [
                     [
                         "26.3%",
@@ -5035,8 +5035,8 @@
             },
             {
                 "SkillType": "normal",
-                "Name": "Pay Attention, Everyone!",
-                "Desc": "Generates <?1> units of skill cost once at the start of battle.",
+                "Name": "Các con chú ý nhé!",
+                "Desc": "Tạo <?1> đơn vị tiêu tốn kỹ năng một lần khi bắt đầu trận chiến.",
                 "Parameters": [
                     [
                         "2",
@@ -5056,8 +5056,8 @@
             },
             {
                 "SkillType": "passive",
-                "Name": "Instructor's Poise",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Name": "Sự đĩnh đạc của người hướng dẫn",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -5079,8 +5079,8 @@
             },
             {
                 "SkillType": "sub",
-                "Name": "Plum Blossom Training",
-                "Desc": "Deals <?1> damage as an additional hit to <b>medium</b> sized enemies.",
+                "Name": "Buổi tập huấn của Vườn hoa mận",
+                "Desc": "Gây <?1> sát thương dưới dạng một đòn đánh bổ sung cho kẻ địch có kích thước <b>trung bình</b>.",
                 "Parameters": [
                     [
                         "50.7%",
@@ -5099,8 +5099,8 @@
             },
             {
                 "SkillType": "weaponpassive",
-                "Name": "Instructor's Poise+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Name": "Sự đĩnh đạc của người hướng dẫn+",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "387",
@@ -5188,8 +5188,8 @@
         ],
         "IsLimited": 0,
         "Weapon": {
-            "Name": "Halcon de Amor",
-            "Desc": "A sniper rifle inlaid with Shun's favorite pattern.\n\nAny naughty child becomes obedient in front of Shun's Tough Love.",
+            "Name": "Chim ưng tình yêu",
+            "Desc": "Một khẩu súng bắn tỉa khảm hoa văn yêu thích của Shun.\n\nBất kỳ đứa trẻ nghịch ngợm nào cũng trở nên ngoan ngoãn trước tình yêu mạnh mẽ của Shun.",
             "AdaptationType": "Street",
             "AdaptationValue": 1,
             "AttackPower1": 78,
@@ -6832,7 +6832,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Put Your Back Into It!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -6875,7 +6875,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Put Your Back Into It!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "267",
@@ -8940,7 +8940,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Let's Have Some Fun!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -9006,7 +9006,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Let's Have Some Fun!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "228",
@@ -9805,7 +9805,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Part-Time Worker's Spirit",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -9871,7 +9871,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Part-Time Worker's Spirit+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "339",
@@ -13810,7 +13810,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Weapon Upgrade",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -13876,7 +13876,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Weapon Upgrade+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "332",
@@ -14233,7 +14233,7 @@
             {
                 "SkillType": "passive",
                 "Name": "I Am the Greatest!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -14299,7 +14299,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "I Am the Greatest!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "233",
@@ -14661,7 +14661,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Dessert Power",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -14727,7 +14727,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Dessert Power+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "201",
@@ -16452,7 +16452,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Tech Revolution",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -16518,7 +16518,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Tech Revolution+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "279",
@@ -18229,7 +18229,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Extreme Zeal!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -18295,7 +18295,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Extreme Zeal!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "204",
@@ -21292,7 +21292,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Enhanced Magic!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -21382,7 +21382,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Enhanced Magic!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "506",
@@ -22646,7 +22646,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Mustache Power!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -22760,7 +22760,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Mustache Power!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "207",
@@ -24789,7 +24789,7 @@
             {
                 "SkillType": "passive",
                 "Name": "I'm Trying!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -24855,7 +24855,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "I'm Trying!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "250",
@@ -25230,7 +25230,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Cold Water",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -25273,7 +25273,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Cold Water+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "254",
@@ -25655,7 +25655,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Gaze of Justice",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -25721,7 +25721,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Gaze of Justice+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "382",
@@ -26524,7 +26524,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Collector's Drive",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -26590,7 +26590,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Collector's Drive+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "332",
@@ -27315,7 +27315,7 @@
         "PersonalName": "Iori",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "November 8th",
+        "Birthday": "Ngày 8 tháng 11",
         "CharacterSSRNew": "There had better not be any fools caught up in breaking the rules.",
         "ProfileIntroduction": "A cold-blooded specialist of Gehenna&#x27;s Prefect Team participating in summer boot camp.\n\nClosely monitored Gehenna&#x27;s troublemakers from getting out of line at the beach alongside other Prefect Team members. She&#x27;s deeply disappointed that summer camp was ruined by the constant appearance of those fools, even if she tries to hide it.",
         "Hobby": "Going on patrol, castigating others",
@@ -27410,7 +27410,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Sharp Shooting",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -27453,7 +27453,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Sharp Shooting+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "422",
@@ -27722,7 +27722,7 @@
         "PersonalName": "Izumi",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "May 11th",
+        "Birthday": "Ngày 11 tháng 5",
         "CharacterSSRNew": "",
         "ProfileIntroduction": "A Gehenna Gourmet Research Society member with a gluttonous appetite even during the summer.\n\nShe visits the beach with a watermelon in one hand and an ice cooler in the other in search of renown summer delicacies: Chocolate-flavored grilled unagi, spicy shaved ice, watermelon sprinkled with mint chocolate, and more. Her pursuit of various delicacies in Kivotos are second to none as her peculiar excursions continue even on the hot summer beach.",
         "Hobby": "Cooking and eating bizarre dishes",
@@ -28147,7 +28147,7 @@
         "PersonalName": "Shiroko",
         "SchoolYear": "Năm 2",
         "CharacterAge": "16 tuổi",
-        "Birthday": "May 16th",
+        "Birthday": "Ngày 16 tháng 5",
         "CharacterSSRNew": "Then, I&#x27;ll talk to you later, Sensei.",
         "ProfileIntroduction": "The Foreclosure Task Force captain is earnestly training for summer.\n\nShe changed into her cycling jersey for some summer training, and is as usual, serious about completing her near-impossible trek across Kivotos.",
         "Hobby": "Jogging, cycling",
@@ -28554,8 +28554,8 @@
         "FamilyNameRuby": "",
         "PersonalName": "Shun",
         "SchoolYear": "Năm 3",
-        "CharacterAge": "Top Secret",
-        "Birthday": "February 5th",
+        "CharacterAge": "Bí mật",
+        "Birthday": "Ngày 5 tháng 2",
         "CharacterSSRNew": "It&#x27;s really convenient being this small again!",
         "ProfileIntroduction": "An instructor of the Plum Blossom Garden who drank Saya&#x27;s elixir and transformed into her smaller self.\n\nEven though her body is young, her mind is the same, so she tries to speak with maturity, but she sometimes gives in to her childlike instincts.",
         "Hobby": "Eating sweets",
@@ -29879,7 +29879,7 @@
         "PersonalName": "Neru",
         "SchoolYear": "Năm 3",
         "CharacterAge": "17 tuổi",
-        "Birthday": "August 17th",
+        "Birthday": "Ngày 17 tháng 8",
         "CharacterSSRNew": "Seriously, this is not my cup of tea.",
         "ProfileIntroduction": "The president of C&amp;C who changed into a bunny girl outfit for a special mission. \n\nIt&#x27;s not the kind of outfit Neru would normally wear, but she doesn&#x27;t hesitate to wear it for a mission.\nShe is laying low and dialing down her usual temperament for the mission&#x27;s sake, but she still won&#x27;t give up her flashy bomber jacket.",
         "Hobby": "Winning",
@@ -30449,7 +30449,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Enhanced Firepower",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -30515,7 +30515,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Enhanced Firepower+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "413",
@@ -33218,7 +33218,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Mustache Rage!",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -33284,7 +33284,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Mustache Rage!+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "239",
@@ -34213,7 +34213,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Smooth Sailing",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -34256,7 +34256,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Smooth Sailing+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "312",
@@ -35526,7 +35526,7 @@
             {
                 "SkillType": "passive",
                 "Name": "How to Have More Fun",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -35982,7 +35982,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Full-Time Stubbornness",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -36048,7 +36048,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Full-Time Stubbornness+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "248",
@@ -36411,7 +36411,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Bloom of Destruction",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -36454,7 +36454,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Bloom of Destruction+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "436",
@@ -40409,7 +40409,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Meticulous Maintenance",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -40475,7 +40475,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Meticulous Maintenance+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "346",
@@ -41696,7 +41696,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Do I Have a Choice?",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -41762,7 +41762,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Do I Have a Choice?+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "330",
@@ -43156,7 +43156,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Casual Technique",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -43247,7 +43247,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Casual Technique+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "659",
@@ -44596,7 +44596,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Uncontrollable Love",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -44639,7 +44639,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Uncontrollable Love+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "442",
@@ -47390,7 +47390,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Ready To Go",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -47433,7 +47433,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Ready To Go+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "272",
@@ -48299,7 +48299,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Destructive Pleasure",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -48365,7 +48365,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Destructive Pleasure+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "239",
@@ -48754,7 +48754,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Sugar High",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -48840,7 +48840,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Sugar High+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "290",
@@ -49610,7 +49610,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Cheerleader's Enthusiasm",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -50854,7 +50854,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Accurate Capture",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
@@ -50927,7 +50927,7 @@
             {
                 "SkillType": "weaponpassive",
                 "Name": "Accurate Capture+",
-                "Desc": "Increases <b:ATK> by <?1> plus a further <?2>.",
+                "Desc": "Tăng <?1> <b:ATK> và cộng thêm <?2> vào.",
                 "Parameters": [
                     [
                         "347",
@@ -52592,7 +52592,7 @@
             {
                 "SkillType": "passive",
                 "Name": "Neat Flower",
-                "Desc": "Increases <b:ATK> by <?1>.",
+                "Desc": "Tăng <?1> <b:ATK>.",
                 "Parameters": [
                     [
                         "14%",
