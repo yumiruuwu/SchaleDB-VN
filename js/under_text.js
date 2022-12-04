@@ -72,7 +72,8 @@ class TextScramble {
   const phrases = [
     'Miyakami VN Mirror',
     'Vietnamese Version',
-    'Hifumi Daisuki!!'
+    'Hifumi Daisuki!!',
+    'Man, I love Hoshino'
   ];
 
   const el = document.querySelector('.under_text');
