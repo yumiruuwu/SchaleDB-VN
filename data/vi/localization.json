@@ -112,6 +112,7 @@
         "CriticalChanceResistPoint": "Kháng tỉ lệ chí mạng",
         "CriticalDamageResistRate": "Kháng sát thương chí mạng",
         "StabilityPoint": "Kiên cố",
+        "StabilityRate": "Tỉ lệ kiên cố",
         "Range": "Khoảng cách",
         "AmmoCount": "Số lượng băng đạn",
         "MoveSpeed": "Tốc độ di chuyển",
@@ -213,7 +214,8 @@
         "815": "Chuyến công tác! Kế hoạch nhượng quyền của ngôi nhà bãi biển Momoyodou",
         "816": "Câu chuyện về CLB Đồ ngọt sau giờ học: Bí mật ngọt ngào và cuộc đấu súng",
         "817": "Chuẩn bị nào, Millennium!!!",
-        "818": "Chuẩn bị, Chạy!: Đại hội Thể thao Kivotos"
+        "818": "Chuẩn bị, Chạy!: Đại hội Thể thao Kivotos",
+        "819": "Mừng ngày Giáng sinh trong nhà nhờ"
     },
     "StageType": {
         "Campaign": "Nhiệm vụ",
@@ -266,6 +268,14 @@
         "1": "Giao điểm 1",
         "2": "Giao điểm 2",
         "3": "Giao điểm 3"
+    },
+    "RaidDifficulty": {
+        "0": "Thường",
+        "1": "Khó",
+        "2": "Rất khó",
+        "3": "Siêu khó",
+        "4": "Vô cực",
+        "5": "Cuồng loạn"
     },
     "WeaponPartExpBonus": {
         "WeaponExpGrowthA": "Cung cấp 1,5 lần EXP khi được sử dụng để cường hóa vũ khí loại SMG, SG và HG.",
@@ -363,7 +373,8 @@
         "Special_CostRegenBan": "Dừng phục hồi",
         "Special_ImmuneCC": "Khắc áp đảo",
         "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
-        "Special_Stamp": "Dấu hoa"
+        "Special_Stamp": "Dấu hoa",
+        "Special_Holiday": "Lời Chúc Đêm Thánh"
     },
     "BuffNameLong": {
         "Buff_AmmoCount": "Tăng lượng băng đạn",
@@ -449,7 +460,8 @@
         "Special_CostRegenBan": "Ngưng phục hồi chi phí",
         "Special_ImmuneCC": "Khắc áp đảo",
         "Special_SuddenDeath": "Vết đánh dấu của Wakamo",
-        "Special_Stamp": "Dấu hoa"
+        "Special_Stamp": "Dấu hoa",
+        "Special_Holiday": "Lời Chúc Đêm Thánh"
     },
     "BuffTooltip": {
         "Buff_AmmoCount": "Tăng lượng đạn tối đa của vũ khí được sử dụng bởi các đòn đánh thường.",
@@ -535,7 +547,8 @@
         "Special_CostRegenBan": "Phục hồi chi phí giảm xuống 0.",
         "Special_ImmuneCC": "Miễn nhiễm với tất cả các hiệu ứng kiểm soát đám đông.",
         "Special_SuddenDeath": "Một cộng dồn 5 lần sẽ gây sát thương chết người cho nhân vật.",
-        "Special_Stamp": "Dấu hoa"
+        "Special_Stamp": "Dấu hoa",
+        "Special_Holiday": "Tăng tác dụng của một số kỹ năng EX nhất định đối với nhân vật này."
     },
     "ServerName": {
         "0": "Japan",
@@ -613,14 +626,20 @@
         "buff_transferable_search": "Tìm kiếm Học sinh hoặc Tên kỹ năng",
         "buff_transferable_conflict": "Một số hiệu ứng của buff đã chọn xung đột với nhau. Chỉ có hiệu ứng buff đầu tiên sẽ được áp dụng.",
         "buff_transferable_incompatible": "Một số buff đã chọn không thể áp dụng cho nhân vật hiện tại.",
+        "enemy_debuffs": "Debuff của kẻ địch",
+        "enemy_select": "Chọn kẻ địch",
         "buff_custom": "Tuỳ chỉnh buff",
+        "buff_custom_enemy": "Tuỷ chỉnh buff kẻ địch",
         "buff_custom_base": "Thêm vào dưới dạng con số",
         "buff_custom_coefficient": "Thêm vào dưới dạng phần trăm",
-        "supportstats_search": "Tìm kiếm học sinh đặc biệt",
+        "buff_custom_name_placeholder": "Tên (Không bắt buộc)",
+        "buff_custom_value_placeholder": "Giá trị",
+        "supportstats_search": "Tìm kiếm học sinh đặc biệt",     
         "student_skill_normal": "Kỹ năng cơ bản",
         "student_skill_gearnormal": "Kỹ năng cơ bản+",
         "student_skill_passive": "Kỹ năng nâng cao",
         "student_skill_sub": "Kỹ năng phụ",
+        "student_skills_upgrades": "Nâng cấp",
         "student_skills_materials": "Tài nguyên",
         "student_skills_materials_none": "Không yêu cầu tài nguyên.",
         "student_weapon_rank_2star_desc": "Vũ khí độc quyền cấp tối đa Lv.30 → <b>Lv.40</b> / Nâng cấp kỹ năng nâng cao",
@@ -667,8 +686,9 @@
         "memory_lobby_unlock": "Mở khóa sau khi đạt đến xếp hạng mối quan hệ {0} với {1}",
         "terrain_adaption": "Sức mạnh chiến đấu của địa hình {0}",
         "terrain_adaption_details": "Gây <b>{0}x</b> sát thương ở địa hình <b>{1}</b>.\nTỉ lệ chặn khi ẩn nấp <b>+{2}%</b>.\nTỉ lệ bỏ qua vật cản ẩn nấp khi tấn công <b>+{2}%</b>.",
-        "statpreview_title": "Tùy chọn hiển thị thống kê",
+        "statpreview_title": "Chi tiết thống kê / Kỹ năng",
         "buffs": "Buff",
+        "enemy_target": "Mục tiêu",
         "summon": "Triệu hồi",
         "summon_inheritance": "Kế thừa {0} của {1} từ {2}",
         "stability_mindamage": "Sát thương tối thiểu: {0}",
@@ -694,6 +714,7 @@
         "furniture_set": "Bộ sưu tập",
         "others": "Khác",
         "options": "Tuỳ chọn",
+        "details": "Chi tiết",
         "options_short": "Tuỳ chọn",
         "raid_rules": "Luật",
         "ta_phase": "Đợt ",
@@ -781,6 +802,37 @@
         "home_translations_help": "Schale DB hiện đã có sẵn 6 ngôn ngữ + 1 ngôn ngữ đang phát triển (tiếng Việt). Muốn góp phần cho bản dịch này? Vui lòng liên hệ qua Discord: Miyakami.#9666.",
         "home_features_list": "<li>Thông tin đầy đủ về tất cả học sinh (chưa dịch hết) và kỹ năng, bao gồm cả triệu hồi hoặc phương tiện.</li><li>Tính toán số liệu thống kê toàn diện có thể hiển thị số liệu thống kê của học sinh theo bất kỳ cấu hình sao, cấp độ, trang bị và hỗ trợ bất kỳ từ các kỹ năng.</li><li>Cơ sở dữ liệu về Vật phẩm, Thiết bị và Nội thất đầy đủ (không hẳn).</li><li>Phần thưởng, bản đồ và thông tin chi tiết về kẻ địch cho tất cả các giai đoạn Chiến dịch, Nhiệm vụ sự kiện, Thử thách và Hàng ngày.</li><li>Thông tin chỉ số và kỹ năng của trùm cuối trong các sự kiện Tổng tấn công và các sự kiện Diễn tập bắn chung.</li><li>Xem tỷ lệ nhận được các vật phẩm có thể có từ các nodes.</li>",
         "home_footer_text": "Schale DB được phát triển và duy trì bởi lonqie, với công việc dịch thuật bổ sung của Blue-Roar & TKRotund. Phiên bản tiếng Việt do Mykm và các thành viên thuộc tổ chức yumiruuwu cung cấp.\nSchale DB không liên kết với Nexon, Nexon Games hoặc Yostar. Tất cả tác phẩm nghệ thuật, thông tin và nội dung trò chơi được sử dụng trong cơ sở dữ liệu này là tài sản và bản quyền của các tác giả tương ứng.",
-        "changelog": "Nội dung thay đổi"
+        "changelog": "Nội dung thay đổi",
+        "skillinfo_empty": "Nhân vật được chọn không có kỹ năng gây sát thương hoặc hồi máu để hiển thị.",
+        "skill_normalattack": "Tấn công thường",
+        "skill_normalattack_target": "Gây <?1> sát thương lên một kẻ địch.",
+        "skill_normalattack_circle": "Gây <?1> sát thương kẻ địch trong khu vực hình tròn.",
+        "skill_normalattack_line": "Gây <?1> sát thương cho kẻ địch trên một đường thẳng.",
+        "type_effectiveness": "Loại hiệu quả",
+        "level_difference": "Chênh lệch cấp độ",
+        "hit_chance": "Tỉ lệ trúng",
+        "crit_chance": "Tỉ lệ bạo kích",
+        "stab_variance": "Phương sai ổn định",
+        "dmginfo_hit_count": "Số lần trúng",
+        "dmginfo_heal_count": "Số lần hồi HP",
+        "dmginfo_ignore_def": "Bỏ qua DEF",
+        "dmginfo_hit_avg": "Số lần trúng sát thương trung bình",
+        "dmginfo_crit": " (Bạo kích)",
+        "dmginfo_total_avg": "Tổng sát thương trung bình",
+        "dmginfo_dmg": "DMG",
+        "dmginfo_dmg_avg": "DMG trung bình",
+        "dmginfo_rate_of_fire": "Tốc độ bắn",
+        "time_seconds": "{0} giây",
+        "time_seconds_frames": "{0} giây ({1} khung hình)",
+        "normalattack_burst": "cuồng nhiệt",
+        "dmginfo_rate_of_fire_tooltip": "Khoảng thời gian tấn công: {0}\nĐộ trễ TG tấn công: {1}",
+        "dmginfo_reload_time": "Thời gian nạp đạn",
+        "dmginfo_reload_time_tooltip": "Khoảng thời gian nạp đạn: {0}\nĐộ trễ bắt đầu nạp: {1}\nĐộ trễ kết thúc nạp: {2}",
+        "dmginfo_avg_dps": "DPS trung bình",
+        "dmginfo_heal_amount": "Lượng HP đã hồi",
+        "dmginfo_shield_amount": "HP lá chắn",
+        "dmginfo_cc_effect_chance": "{0} Tỉ lệ",
+        "dmginfo_cc_effect_duration": "{0} Khoảng thời gian (Hod Insane)",
+        "dmginfo_accumulation_limit": "{0} Giới hạn DMG"
     }
 }
