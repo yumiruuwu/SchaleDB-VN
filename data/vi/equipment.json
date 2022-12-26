@@ -762,7 +762,7 @@
         "Desc": "Một chiếc mũ xô lớn che đi phần trên của khuôn mặt. Khi kết hợp với khẩu trang, nó sẽ giảm thiểu sự tiếp xúc của khuôn mặt và cung cấp khả năng chống tia cực tím tuyệt vời.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Coefficient",
@@ -1018,7 +1018,7 @@
         "Desc": "Bao tay dành cho học sinh muốn tìm kiếm khả năng chống tia cực tím và thời trang. Được đề xuất cho những lúc thay đổi mùa.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Coefficient",
@@ -1274,7 +1274,7 @@
         "Desc": "Giày thể thao gọn gàng. Được các sinh viên năng động ưa thích nhờ trọng lượng nhẹ.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Coefficient",
@@ -1525,7 +1525,7 @@
         "Desc": "Một chiếc túi đường phố thiết thực với một cái nhìn giản dị. Nhờ không gian mẫu của nó, nhiều học sinh yêu thích chiếc túi này.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "MaxHP_Base",
@@ -1786,7 +1786,7 @@
         "Desc": "Một huy hiệu được phát hành bởi thương hiệu thời trang đường phố Triple Step. Logo của công ty được in chữ lớn để thể hiện thương hiệu.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "MaxHP_Base",
@@ -2047,7 +2047,7 @@
         "Desc": "Một chiếc kẹp tóc làm bằng chữ cái. Mặc dù bản thân nó không có nghĩa gì, nhưng nó thu hút sự chú ý của những người có gu thời trang.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "MaxHP_Base",
@@ -3018,7 +3018,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3156,7 +3156,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3294,7 +3294,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3432,7 +3432,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3570,7 +3570,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"
@@ -3708,7 +3708,7 @@
         "Desc": "Bản thiết kế dùng để tạo ra trang bị.",
         "IsReleased": [
             true,
-            false
+            true
         ],
         "StatType": [
             "AttackPower_Base"

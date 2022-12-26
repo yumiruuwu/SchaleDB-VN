@@ -127,7 +127,7 @@
         "Desc": "Một tủ gỗ chắc chắn với khả năng chứa đựng rộng. Bạn có thể để những thứ bạn muốn khoe trên kệ và ẩn những thứ bạn muốn giữ cho riêng mình trong ngăn kéo.",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -587,7 +587,7 @@
         "Desc": "Cửa sổ hoàn toàn bằng kính tạo không gian thoáng đãng. Hoàn hảo để thưởng thức quang cảnh phía trước quán cà phê trong khi uống cà phê!",
         "Interaction": [
             true,
-            false
+            true
         ]
     },
     {
@@ -7693,7 +7693,7 @@
         "Id": 203301,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Event06_Turntable",
@@ -7792,7 +7792,7 @@
         "Id": 205301,
         "IsReleased": [
             true,
-            false
+            true
         ],
         "Rarity": "SSR",
         "Icon": "My_Event08_Atsukochair",

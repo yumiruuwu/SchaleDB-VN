@@ -132,6 +132,7 @@
         "EXHits": "Số lần hit kỹ năng EX"
     },
     "IsLimited": {
+        "0": "Vĩnh viễn",
         "1": "Độc nhất",
         "2": "Sự kiện"
     },
@@ -674,6 +675,7 @@
         "type": "Loại",
         "role": "Vai trò",
         "rarity": "Độ hiếm",
+        "rarity_availability": "Độ hiếm / Số lần Rerun",
         "attacktype": "Loại tấn công",
         "defensetype": "Loại phòng thủ",
         "school": "Học viện",
@@ -820,6 +822,7 @@
         "dmginfo_crit": " (Bạo kích)",
         "dmginfo_total_avg": "Tổng sát thương trung bình",
         "dmginfo_dmg": "DMG",
+        "dmginfo_heal": "Hồi HP",
         "dmginfo_dmg_avg": "DMG trung bình",
         "dmginfo_rate_of_fire": "Tốc độ bắn",
         "time_seconds": "{0} giây",
@@ -830,7 +833,7 @@
         "dmginfo_reload_time_tooltip": "Khoảng thời gian nạp đạn: {0}\nĐộ trễ bắt đầu nạp: {1}\nĐộ trễ kết thúc nạp: {2}",
         "dmginfo_avg_dps": "DPS trung bình",
         "dmginfo_heal_amount": "Lượng HP đã hồi",
-        "dmginfo_shield_amount": "HP lá chắn",
+        "dmginfo_shield_amount": "{0} HP",
         "dmginfo_cc_effect_chance": "{0} Tỉ lệ",
         "dmginfo_cc_effect_duration": "{0} Khoảng thời gian (Hod Insane)",
         "dmginfo_accumulation_limit": "{0} Giới hạn DMG"
