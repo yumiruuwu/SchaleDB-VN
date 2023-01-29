@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Schale DB</title>
+    <meta http-equiv="refresh" content="10; URL=https://schale.gg/"/>
     <meta charset="utf-8">
     <meta name="author" content="yumiruuwu">
     <meta name="description" content="Schale DB is a database for the mobile game Blue Archive containing detailed information on students, items, stages and more. Available in multiple languages. (Vietnamese included)">
@@ -22,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Sans+Thai:wght@400;500;700&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400;1,700&family=Oswald&display=swap" rel="stylesheet"> 
     <link rel="icon" type="image/png" href="favicon.png">
     <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
-    <link href="css/main.css?v=76" rel="stylesheet">
+    <link href="css/main.css?v=79" rel="stylesheet">
     <link href="css/additional.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/shuffle-text@0.3.5/build/shuffle-text.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
@@ -44,10 +45,10 @@
             </div>
         </div>
         <div id="loading-skipmsg" class="d-flex justify-content-center mt-2 text-center text-light" style="display:none!important;">
-            <p>Stuck loading? Click <a href="javascript:$('#loading-cover').fadeOut();" class="text-emphasis">here</a> to try and continue anyway.<br>If there is an error in your browser console (Press F12), please report it to lonqie#2708 on Discord.</p>
+            <p>Vietnamese translation has been merged with the original website created by lonqie. Please navigate to the original website or wait 10 seconds to auto-navigate.<br>Click <a href="https://schale.gg/" class="text-emphasis">here</a> if you don't want to wait.</p>
         </div>
     </div>
-    <div id="ba-background" style="position: fixed;">
+    <!-- <div id="ba-background" style="position: fixed;">
     </div>
     <div id="ba-content" class="container-fluid p-0">
         <div id="ba-navbar-placeholder">
@@ -191,7 +192,7 @@
             </nav>
         </div>
         <div id="loaded-module">
-        </div>
+        </div> -->
         <!-- <div class="modal fade" id="mirror-info-modal" tabindex="-1" style="display: none;" aria-hidden="true">
             <div class="modal-dialog modal-lg modal-fullscreen-sm-down">
                 <div class="modal-content" style="height:auto;">
@@ -218,7 +219,7 @@
                 </div>
             </div>
         </div> -->
-        <div class="modal fade" id="collection-data-modal" tabindex="-1">
+        <!-- <div class="modal fade" id="collection-data-modal" tabindex="-1">
             <div class="modal-dialog modal-xl modal-fullscreen-lg-down" style="transition: transform .15s ease-out;">
                 <div class="modal-content">
                     <div class="modal-header" style="border-bottom: none;">
@@ -262,13 +263,13 @@
             <div id="toast-message" class="ba-panel p-2">
             </div>
         </div>
-    </div>
+    </div> -->
 </body>
 <script>
-    const cache_ver = 76
+    const cache_ver = 79
     document.getElementById('loading-spinner').style.display = null;
-    window.setTimeout(x => {document.getElementById('loading-skipmsg').style.display = null;}, 10000);
+    window.setTimeout(x => {document.getElementById('loading-skipmsg').style.display = null;}, 1);
 </script>
-<script src="js/common.js?v=76"></script>
-<script src="js/under_text.js"></script>
+<script src="js/common.js?v=79"></script>
+<!-- <script src="js/under_text.js"></script> -->
 </html>
