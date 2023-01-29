@@ -9,12 +9,12 @@
 </div>
 
 <br>
-<div align="center" style="font-size: 50px">
-    This repo has been merged with lonqie's repo.
-</div>
+
 <div align="center">
     Schale DB is an unofficial database for the mobile game Blue Archive developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.
 </div>
+
+## This repo has been merged with lonqie's repo.
 
 ### What's this?
 This repo was created for the purpose of adding the Vietnamese language, which is not in the game and probably never will be.
